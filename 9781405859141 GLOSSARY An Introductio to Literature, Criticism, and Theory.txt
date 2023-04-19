@@ -596,3 +596,146 @@
 - Surrealism
 	- Surrealism is a literary and artistic movement that emerged in the 1920s, characterized by a focus on the irrational and the unconscious. Surrealist writers often used techniques such as automatic writing, free association, and disjunctive imagery to create dreamlike or absurd narratives that challenged traditional literary conventions.
 	- Surrealism was influenced by the ideas of Freudian psychoanalysis and the cultural and social upheaval of the early 20th century.
+	
+1.6.3.1.1
+
+- Origins of literary texts
+	- The origins of literary texts refer to the historical, social, and cultural contexts in which a particular work of literature was produced.
+	- Understanding the origins of a literary text can be important to interpreting and analyzing its meaning.
+- Imagined meaning
+	- Imagined meaning refers to the subjective interpretation of a literary text by a reader.
+	- Readers often bring their own experiences, beliefs, and biases to their interpretation of a work, and the imagined meaning of a text can vary widely among different readers.
+- Reader's mind
+	- The reader's mind refers to the mental processes and responses of the reader when engaging with a literary text.
+	- This includes both conscious and unconscious responses to the text, as well as the reader's understanding and interpretation of the work.
+- Intentional fallacy
+	- The intentional fallacy refers to the assumption that the author's intention is the primary determinant of a literary work's meaning.
+	- This fallacy is based on the belief that the author's intention is always clear and that the meaning of a work can be derived solely from the author's intention.
+- Author's intended meaning
+	- The author's intended meaning refers to the meaning that the author intended to convey through their work.
+	- This can include themes, motifs, symbols, and other literary elements that the author consciously incorporated into their writing.
+	- However, the intended meaning of a work is not always clear or easily discernible, and can be subject to interpretation and reinterpretation over time.
+- Literary criticism
+	- Literary criticism refers to the analysis, interpretation, and evaluation of literary works.
+	- It involves examining the literary techniques, themes, and meanings of a work, as well as its historical and cultural context.
+	- Literary criticism can take many forms, including academic scholarship, book reviews, and online discussions.
+- Critical thinking
+	- Critical thinking refers to the process of analyzing and evaluating information in order to form a judgment or make a decision.
+	- In the context of literature, critical thinking involves examining the text, considering its themes and meanings, and questioning assumptions or biases that may affect the reader's interpretation of the work.
+- Rereading
+	- Rereading refers to the act of reading a literary work more than once.
+	- Rereading can be important for gaining a deeper understanding of a work, identifying new themes or meanings, and refining one's interpretation of the text.
+- Meaning
+	- Meaning refers to the significance or purpose of a literary work.
+	- This can include themes, motifs, symbols, and other literary elements that contribute to the overall message or impact of the work.
+	- The meaning of a work can be subject to interpretation and can vary among different readers.
+- Role of the reader
+	- The role of the reader refers to the importance of the reader in shaping the meaning and interpretation of a literary work.
+	- Readers bring their own experiences, beliefs, and biases to their engagement with a text, and these factors can influence their understanding and interpretation of the work.
+	- The reader's role is thus crucial to the creation of meaning in literature.
+- Traditional notions of literary interpretation
+	- Traditional notions of literary interpretation refer to the approach of analyzing and interpreting a literary work based on its author's intentions and the objective meaning of the text.
+	- This approach emphasizes the authority of the author in determining the meaning of the work and assumes that the meaning is fixed and objectively identifiable.
+- Meaning is created through the interplay of various elements
+	- The meaning of a literary work is not solely determined by the author's intentions, but rather is created through the interplay of various elements within the text, including themes, motifs, symbols, and language.
+	- The meaning can also be influenced by the historical and cultural context in which the work was produced.
+- The role of the reader in the creation of meaning
+	- The role of the reader in the creation of meaning is central to contemporary literary theory. Readers are seen as active participants in the interpretation of a text, bringing their own experiences, perspectives, and cultural contexts to their engagement with the work.
+	- The meaning of a text is thus not fixed, but is shaped by the reader's interpretation.
+- Meaning of a text is not fixed
+	- The meaning of a literary text is not fixed, but rather is subject to interpretation and reinterpretation over time.
+	- The meaning can change depending on the reader's perspective, the historical and cultural context in which the work is read, and the evolving interpretations of literary critics and scholars.
+	- The meaning of a text is thus always open to multiple readings and interpretations.
+	
+1.7.2.1.1
+
+- Geoffrey Chaucer
+	- Geoffrey Chaucer was a medieval English poet and author who is known for his significant contributions to English literature.
+	- He is best known for his collection of stories called "The Canterbury Tales," which provide a glimpse into the social, cultural, and religious life of medieval England.
+- First reading
+	- A first reading refers to the initial encounter with a literary work, where the reader is focused on understanding the basic plot, characters, and setting.
+	- The first reading often involves a surface-level understanding of the work and may miss more nuanced themes and meanings.
+- Phenomenal reading
+	- A phenomenal reading refers to a deeper, more interpretive engagement with a literary work.
+	- This type of reading involves examining the language, symbols, themes, and other literary elements of the text to gain a deeper understanding of its meaning.
+- Programmed response
+	- A programmed response refers to a predetermined or automatic reaction to a literary work.
+	- This type of response may be based on preconceived notions or biases, and may prevent the reader from engaging fully with the text and discovering its deeper meanings.
+- Questions of origins
+	- Questions of origins refer to the historical, social, and cultural context in which a literary work was produced.
+	- Understanding the origins of a work can be important to interpreting its meaning and understanding the themes and motifs that the author is exploring.
+	- Questions of origins can include the historical period, cultural context, and the author's personal experiences and background.
+	
+1.8.3.1.2
+
+- Critical analysis
+	- Critical analysis refers to the examination and evaluation of a literary work, including its themes, motifs, symbols, and language.
+	- Critical analysis often involves close reading of the text and consideration of its historical and cultural context.
+- Author's intentions
+	- The author's intentions refer to what the author intended to convey through their work, including themes, motifs, symbols, and other literary elements.
+	- However, the author's intentions are not always clear or easily discernible, and can be subject to interpretation and reinterpretation over time.
+- Reader's expectations
+	- Reader's expectations refer to the assumptions, biases, and preconceived notions that a reader brings to a literary work.
+	- These expectations can be influenced by the reader's personal experiences, cultural background, and previous exposure to literature.
+- Beginnings shape our understanding of texts and the world around us
+	- Beginnings of literary works, including opening lines and initial scenes, can have a profound impact on our understanding of the text and the world around us.
+	- The way a work begins can set the tone for the rest of the work and shape our expectations for what is to come.
+- Critical approach to beginnings
+	- A critical approach to beginnings involves analyzing and interpreting the opening lines and initial scenes of a literary work.
+	- This approach involves considering the ways in which the beginning shapes our understanding of the text, as well as examining the themes, motifs, and symbols that may be introduced in the beginning.
+	- A critical approach to beginnings can offer valuable insights into the meaning and interpretation of a literary work.
+- Power dynamics
+	- Power dynamics refer to the ways in which power is distributed and exercised within a literary work.
+	- This can include power relations between characters, social hierarchies, and power imbalances that reflect broader social and political issues.
+- Multiple interpretations
+	- Multiple interpretations refer to the idea that a literary work can have multiple meanings and can be interpreted in different ways by different readers.
+	- This is due to the complexity and richness of literary works, as well as the reader's own experiences, biases, and cultural background.
+- Emotional connection
+	- Emotional connection refers to the reader's emotional response to a literary work.
+	- This can include feelings of empathy, sympathy, and identification with the characters or the themes of the work.
+- Microcosms
+	- Microcosms refer to a small world or universe that reflects the larger world outside.
+	- In literature, microcosms can be used to represent broader social, cultural, or political issues.
+- Intertextual relationship between literary texts and their cultural contexts
+	- The intertextual relationship between literary texts and their cultural contexts refers to the ways in which literary works are shaped by and respond to the cultural, social, and historical context in which they are produced.
+	- This includes the influence of other literary works, as well as broader cultural and political issues.
+	- Understanding the intertextual relationship between literary texts and their cultural contexts can be important for interpreting and analyzing the meaning of a literary work.
+- Evolution of intertextuality
+	- The evolution of intertextuality refers to the development of the concept of intertextuality over time.
+	- Intertextuality refers to the ways in which literary works are shaped by and respond to other texts, including those from the same genre or tradition, as well as broader cultural and historical texts.
+	- The concept of intertextuality has evolved in literary theory, and has become an important critical concept in contemporary literary studies.
+- Critical concept
+	- A critical concept refers to a term or idea that is central to literary theory and criticism.
+	- Critical concepts can shape the way literary works are analyzed and interpreted, and can offer insights into the meaning and significance of literary works.
+- Mikhail Bakhtin
+	- Mikhail Bakhtin was a Russian literary critic and philosopher who is known for his contributions to literary theory, particularly the concept of dialogism and the role of language in shaping identity and culture.
+	- Bakhtin's work has had a significant influence on contemporary literary studies.
+- Contemporary literary studies
+	- Contemporary literary studies refer to the academic study of literature in the present day.
+	- This includes the examination and analysis of literary works, as well as the development of new critical concepts and approaches to literary analysis.
+- Parody
+	- Parody refers to a type of literary work that imitates and satirizes another work or genre. Parody can be used to comment on and critique the original work, as well as to create new meanings and interpretations.
+	- Parody often involves humor and irony, and can be a powerful tool for social and political critique.
+- Critical tool
+	- A critical tool refers to a theoretical or methodological approach used by literary scholars to analyze and interpret literary works.
+	- Critical tools can include specific critical concepts or frameworks, as well as specific methods of analysis.
+- The cultural and historical context
+	- The cultural and historical context refers to the social, political, and cultural environment in which a literary work was produced.
+	- Understanding the cultural and historical context of a work can be important for interpreting its meaning, as well as understanding the broader social and political issues that it may be addressing.
+- Intertextual elements
+	- Intertextual elements refer to the ways in which a literary work is shaped by and responds to other texts, including those from the same genre or tradition, as well as broader cultural and historical texts.
+	- Intertextual elements can include references, allusions, and other literary techniques that connect a work to other texts.
+- Meaning-making process
+	- The meaning-making process refers to the way in which readers engage with and interpret literary works.
+	- This process can involve a variety of factors, including the reader's own experiences, cultural background, and previous exposure to literature.
+- Dominant cultural narratives
+	- Dominant cultural narratives refer to the prevailing cultural stories and beliefs that shape the way people think about and understand the world.
+	- These narratives can include assumptions and biases that influence the interpretation of literary works.
+	- Understanding dominant cultural narratives can be important for interpreting the meaning of literary works and examining the ways in which they may challenge or reinforce these narratives.
+- Intertextual reading
+	- Intertextual reading refers to the interpretation of a literary work through its intertextual relationships with other texts.
+	- This type of reading involves examining the ways in which a literary work is influenced by and responds to other texts, including those from the same genre or tradition, as well as broader cultural and historical texts.
+- Network of cultural and literary references
+	- The network of cultural and literary references refers to the web of intertextual relationships that connect literary works to other texts, including those from different cultural and historical contexts.
+	- This network can include references, allusions, and other literary techniques that connect a work to other texts, as well as broader cultural and historical contexts.
+	- Understanding the network of cultural and literary references can be important for interpreting the meaning of a literary work and placing it in its broader cultural and historical context.
