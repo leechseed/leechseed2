@@ -7,14 +7,13 @@ F1::
 {
     ; Right click
     Send {RButton}
-    Sleep, 10  ; Wait for 1 second
+    Sleep, 100  ; 
 
     ; The 'v' key typically corresponds to the 'Save Image As' option in the right click context menu
     Send v
-    Sleep, 1000  ; Wait for 1 second
-
+    Sleep, 1000  ; 
     ; Save (usually Enter in the 'Save Image As' dialog box)
     Send {Enter}
-    Sleep, 10  ; Wait for 1 second
+    Sleep, 10  ; 
 }
 return

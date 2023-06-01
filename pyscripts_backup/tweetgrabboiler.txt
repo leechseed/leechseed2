@@ -1,0 +1,46 @@
+import os
+import tweepy
+import requests
+from datetime import datetime, timedelta
+
+# Twitter API credentials
+consumer_key = 'YOUR_CONSUMER_KEY'
+consumer_secret = 'YOUR_CONSUMER_SECRET'
+access_token = 'YOUR_ACCESS_TOKEN'
+access_token_secret = 'YOUR_ACCESS_TOKEN_SECRET'
+
+def download_liked_images(output_dir):
+    # Authenticate with the Twitter API
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+    api = tweepy.API(auth)
+
+    # Calculate the date range
+    end_date = datetime.now()
+    start_date = end_date - timedelta(days=60)
+
+    # Get the liked tweets
+    liked_tweets = api.favorites(count=200)
+
+    # Create the output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Download the images from the liked tweets
+    for tweet in liked_tweets:
+        if start_date <= tweet.created_at <= end_date:
+            media_entities = tweet.entities.get('media', [])
+            for media_entity in media_entities:
+                media_url = media_entity['media_url']
+                filename = os.path.basename(media_url)
+                image_path = os.path.join(output_dir, filename)
+                response = requests.get(media_url, stream=True)
+                if response.status_code == 200:
+                    with open(image_path, 'wb') as f:
+                        for chunk in response.iter_content(1024):
+                            f.write(chunk)
+                    print(f"Downloaded: {image_path}")
+
+    print("Download completed!")
+
+# Replace 'YOUR_OUTPUT_DIRECTORY' with the desired directory path where you want to save the downloaded pictures
+download_liked_images('YOUR_OUTPUT_DIRECTORY')

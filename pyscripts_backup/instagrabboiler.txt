@@ -1,0 +1,29 @@
+import os
+import urllib
+
+from instagrapi import Client
+
+def download_saved_pictures(username, password, output_dir):
+    # Create an instance of the Instagram client
+    client = Client()
+
+    # Login to your Instagram account
+    client.login(username, password)
+
+    # Get the list of saved posts
+    saved_posts = client.saved_posts()
+
+    # Create the output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Download the saved pictures
+    for post in saved_posts:
+        media_url = post.media_url
+        filename = os.path.join(output_dir, f'{post.id}.jpg')
+        urllib.request.urlretrieve(media_url, filename)
+        print(f"Downloaded: {filename}")
+
+    print("Download completed!")
+
+# Replace 'YOUR_USERNAME', 'YOUR_PASSWORD', and 'OUTPUT_DIRECTORY' with your actual credentials and desired output directory path
+download_saved_pictures('YOUR_USERNAME', 'YOUR_PASSWORD', 'OUTPUT_DIRECTORY')
