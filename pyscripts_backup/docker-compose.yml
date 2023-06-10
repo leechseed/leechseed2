@@ -1,0 +1,32 @@
+version: '3.5'
+
+services:
+  jellyfin:
+    image: jellyfin/jellyfin
+    container_name: jellyfin
+    user: jellyfin
+    network_mode: 'host'
+    volumes:
+      - type: bind
+        source: C:\Users\U01_LEECHSEED\Desktop\LEECHSEED_GIT\leechseed2\leechseed2\pyscripts_backup\jellyfin docker\config
+        target: /config
+      - type: bind
+        source: C:\Users\U01_LEECHSEED\Desktop\LEECHSEED_GIT\leechseed2\leechseed2\pyscripts_backup\jellyfin docker\cache
+        target: /cache
+      - type: bind
+        source: H:\VLADMATIK\Bang_intertext_research\Style_Aesthetic
+        target: /media
+      - type: bind
+        source: E:\p2
+        target: /media2
+        read_only: true
+      - type: bind
+        source: D:\
+        target: /media3
+    restart: unless-stopped
+    # Optional - alternative address used for autodiscovery
+    environment:
+      - JELLYFIN_PublishedServerUrl=http://example.com
+    # Optional - may be necessary for docker healthcheck to pass if running in host network mode
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
