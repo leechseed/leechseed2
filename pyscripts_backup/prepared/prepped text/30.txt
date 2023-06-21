@@ -1,0 +1,308 @@
+30. Secrets
+Why do we read works of literature? What do we hope to get out of
+reading a novel, for example? In an essay entitled ‘Secrets and
+Narrative Sequence’, Frank Kermode writes: ‘To read a novel expecting the
+satisfactions of closure and the receipt of a message is what most people find
+enough to do; they are easier with this method because it resembles the one
+that works for ordinary acts of communication’ (Kermode 1983, 138). Most
+people, according to Kermode, read novels in the hope of reading something
+that adds up to a complete whole – a story with a clear structure and ‘message’.
+They are looking for a good storyline – something to get their teeth into on
+a long train journey, for example, something which has a strong sense of
+what Kermode calls ‘narrative sequence’. This is what is implied by the term
+‘consumer-fiction’: to read a novel is to consume it. If a good novel is like
+a good meal, some novels are no doubt easier to chew and swallow than
+others. Stephen King’s The Shiningwould be fast food in comparison with
+the feast of Henry James’s The Golden Bowl. Kermode is working with a very
+basic model: novels can be compared with ‘ordinary acts of communication’
+(by which he presumably means things like successfully negotiating your
+order with the person behind the service counter at Burger King) and most
+novel-reading is as simple and as sequential as abc. There are, however, things
+which get in the way of narrative sequence, and these are what Kermode
+calls secrets: ‘secrets’, he argues, ‘are at odds with sequence’ (138). What he is
+referring to here is the idea of textual details, specific aspects of the language
+of a text, particular patterns of images or rhetorical figures that a reader
+may not even notice on a ‘consumerist’ reading, but that are nevertheless
+present and which can provoke a sense of mystery. Thus Kermode focusesSecrets 271
+on the enigmatic, repeated but apparently superfluous references to black and
+white in Joseph Conrad’s Under Western Eyes(1911).
+It may be that what draws many people towards the study of literature
+(the desire not only to consume the novels of, say, James, Conrad or Stephen
+King, but also to reflect on their cultural, historical and ideological context, on
+how these novels work and what effects they produce) is a fascination with the
+possibilities of secrets. As we shall try to show in this chapter, the relationship
+between literature, secrecy and secrets is fundamental. Indeed, we would
+like to suggest that in many respects the question, ‘What is literature?’ can be
+considered as synonymous with the question, ‘What is a secret?’
+A secret is what is concealed, deliberately or inadvertently hidden, kept
+separate and apart. (The word ‘secret’ comes from the Latin secernere, where
+se-signifies ‘apart’ and cernere is ‘to separate’.) Even the most rapidly con-
+sumed of novels involve secrets, if only because narratives are linear and the
+contents of a work cannot be presented all at once. Every narrative can be
+defined as a process of unfolding and revelation. It is precisely because there
+are things that remain hidden from us, and because we want to know what
+these things are, that we continue to read. This is the general context in
+which Roland Barthes elaborates his notion of the ‘hermeneutic code’. The
+hermeneutic code concerns everything in a text that has to do with the creation
+of an enigma and its possible clarification and explanation. In this respect it is
+perhaps helpful to recall that etymologically the word ‘enigma’ is linked to
+fable and storytelling. It derives from the Greek verb ainissesthai, ‘to speak
+allusively or obscurely’, from ainos, ‘a fable’. The most obvious example of
+enigma in the context of literary narratives is the whodunnit detective story:
+the question ‘whodunnit?’ forms the central enigma of the text and the
+hermeneutic code involves ‘the various (formal) terms by which an enigma
+can be distinguished, suggested, formulated, held in suspense, and finally
+disclosed’ (Barthes 1990b, 19). Why is this character doing this, for instance
+phoning the police or watching a letter burn on the fire? What is the sig-
+nificance of such and such an object, for instance the concrete-mixer in the
+cellar? How does this moment in the narrative throw light on the enigma of
+the crime? What is about to be revealed? All these questions are hermeneutic
+– they have to do with a work of interpretation and the hope or expectation or
+desire that the text will provide the answers. The mystery story or whodunnit
+is a particularly striking example, since (as its name indicates) it is explicitly
+concerned with drawing the reader into a mystery, and with manipulating her
+or him into asking questions, becoming watchful for ‘clues’ and looking for an
+explanation. In this sense, the pleasure of detective stories involves reading
+as itself a form of detecting.272 An introduction to literature, criticism and theory
+But the mystery story or whodunnit is only one example of something that
+is much more general about the relationship between narratives and secrets.
+For, in an important sense, Chandler’s The Little Sister (1949) or William
+McIlvanney’s Laidlaw (1977) are no different from, say, D.H. Lawrence’s
+The Virgin and the Gipsy(1930) or Toni Morrison’s The Bluest Eye(1970).
+All of these novels involve various forms of mystery and concealment: they
+inevitably hold back a full revelation of what happens, releasing this informa-
+tion only gradually. More importantly perhaps, they generate a sense of
+mystery and secrecy through the very institution of the so-called omniscient
+narrator. The idea of such a narrator is basically magical or occult (the word
+‘occult’, it may be noted, literally means ‘hidden’, ‘secret’): such narratives are
+structured by powers of foresight. For it is invariably part of what is called
+omniscient narration (including what is known as ‘realist fiction’) that the
+narrator ‘knows’ the future and that this power of foresight is implicitly or
+explicitly articulated at numerous moments in a given narrative.
+The Virgin and the Gipsy, for example, opens as follows:
+When the vicar’s wife went off with a young and penniless man the scandal
+knew no bounds. Her two little girls were only seven and nine years old
+respectively. And the vicar was such a good husband. True, his hair was
+grey. But his moustache was dark, he was handsome, and still full of furtive
+passion for his unrestrained and beautiful wife.
+Why did she go? Why did she burst away with such an éclatof revulsion,
+like a touch of madness?
+Nobody gave any answer. Only the pious said she was a bad woman.
+While some of the good women kept silent. They knew.
+The two little girls never knew. (167)
+This passage not only plays on the idea of secrecy as something related to a
+particular character (the vicar’s ‘furtive passion’) but, through its apparent
+omniscient narration, sets up various kinds of secret knowledge. The ‘good
+women kept silent’ because they ‘knew’: ‘knew what?’ we ask ourselves. ‘The
+two little girls never knew’: this, too, the narrator knows though does not, at
+least for the moment, reveal to us. What is it that the narrator knows? What is
+it that the two little girls ‘never knew’? The ‘never’, in particular, is a subtle and
+eerie word, suggesting that the perspective from which the narrator speaks is
+in fact posthumous as regards the girls themselves. On rereading – that is to
+say, with the benefits of readerly hindsight – we may find this word ‘never’ even
+more peculiar, since the two girls who ‘never knew’ do not die, in fact, in the
+course of the narrative. In this context one might want to ask: What planet, or
+fictional world, does this narrator come from?Secrets 273
+Of course, narrators are just linguistic fabrications, textual creatures.
+Nevertheless, we are drawn into their worlds and a crucial part of the magic,
+sorcery or ‘occultism’ of literary narratives has to do with the mysterious but
+seductive ‘reality’ of the narrator. An omniscient narrator is a strange figure,
+by its very nature. The strangeness consists not only in the basic idea of
+omniscience itself, but also in what is concealed or glossed over within that
+omniscience. Omniscience is itself a fiction, a strange invention of literary crit-
+ics drawing on the obviously problematic identification between an author or
+narrator and the Christian God. (As the OEDmakes clear, the word ‘omni-
+scient’ originally referred specifically to ‘the omniscient Being, the Deity’.)
+Omniscient narrators may appear to be all-knowing, or at least to know a lot;
+but they are certainly not all-telling. A narrator is always secretive, in other
+words, and this secretiveness concerns both the notion of storytelling-as-
+gradual-revelation and the question of what we do not and perhaps can never
+know about this narrator. Thus one of the most secretive or enigmatic aspects
+of a literary narrative may very well concern the character of its narrator (so-
+called omniscient or not): what, for example, are we to make of the narrator
+of Henry James’s Washington Square, or Joseph Conrad’s Heart of Darkness,
+or Virginia Woolf’s Mrs Dalloway?
+Toni Morrison’s The Bluest Eye, on the other hand, involves the final revela-
+tion that the two primary narrators (a so-called omniscient narrator and one
+of the characters, Claudia) are apparently the same: such a revelation does not
+serve to clarify or rationalize the nature of the storytelling but, on the contrary,
+exacerbates the reader’s sense of the narrator-as-enigma. The Bluest Eyeindeed
+begins with mystery – with the enigmatic presentation (and equally enigmatic
+repetition or re-presentation) of the text of what appears to be a US school
+primer: ‘Here is the house. It is green and white. It has a red door. It is very
+pretty. Here is the family’ (7). In a forcefully disjunctive way this opening switches,
+without any explanation, to a passage of italicized text which starts: ‘Quiet as
+it’s kept, there were no marigolds in the fall of 1941. We thought, at the time,
+that it was because Pecola was having her father’s baby that the marigolds did
+not grow’ (9). There is a sense here of a narrator speaking knowledgeably from
+a position of hindsight (‘We thought, at the time’), of someone who knows
+things which may or may not be revealed as the narrative unfolds. More
+provocatively, however, we are left with the mysteriousness of the first four
+words, ‘Quiet as it’s kept’. What is ‘it’, Who or what is keeping quiet? Why are
+we being alerted to what appears to be secret and why should it be kept quiet?
+Is the narrator imparting information to the reader or keeping quiet about it?
+If a logic of secrecy, concealment and revelation is crucial to the workings
+of any novel, it is also evident in less obviously narrative texts such as lyric274 An introduction to literature, criticism and theory
+poetry. Consider the following poem (No. 180), written around 1859, by
+Emily Dickinson:
+Our lives are Swiss—
+So still—so Cool—
+Till some odd afternoon
+The Alps neglect their Curtains
+And we look farther on!
+Italystands the other side!
+While like a guard between—
+The solemn Alps—
+The siren Alps—
+Forever intervene!
+This poem is about what is concealed or hidden from us: it gestures towards
+something secret. It suggests that there are moments of revelation or epiphany
+(‘some odd afternoon’) when we are able to ‘look farther on’ – beyond the
+Alps. These moments, or this moment (since technically only one ‘odd after-
+noon’ is mentioned), might be compared to what Wordsworth calls ‘spots of
+time’ or Hardy ‘moments of vision’. Dickinson’s poem appears, at least on one
+level, to describe or relate such a moment and to attribute great significance to
+it. But if there is a revelation, if the secret and perhaps the meaning of our lives
+is being referred to here, what is it? The poem says only that ‘we look farther
+on’ and that ‘Italystands the other side’: it remains unclear what it is that is
+being revealed at this moment when ‘The Alps neglect their Curtains’. Is it
+‘Italy’ simply? But what does ‘Italy’ mean? The word ‘Forever’ in the final line
+of the poem underlines the strangeness of what is going on here and the con-
+tinuing or unresolved enigmaof what the poem has to tell us. The definiteness
+and absoluteness of ‘forever’ confirms, in effect, the sense that this poem at
+once reveals and can never reveal its secret.
+Dickinson’s poem could in fact be described as exemplary of literary texts
+in general. In particular, it dramatizes the fact that the notion of a secret is
+paradoxical. Jacques Derrida has formulated the paradox as follows: ‘There
+is something secret. But it does not conceal itself’ (Derrida 1992b, 21). In an
+essay called ‘Derrida’s Topographies’, J. Hillis Miller offers a helpful account
+of this paradox. On the one hand, Miller points out, ‘We normally think of a
+secret as in principle discoverable’ (Miller 1994, 16): Kermode’s ‘satisfactions
+of closure’ and ‘the receipt of a message’ and Barthes’s ‘hermeneutic code’
+make sense only if we accept this principle. There is closure and there is aSecrets 275
+message to the extent that ‘All is revealed’. There is a valid hermeneutic effort
+or labour of interpretation because there is something to be interpreted,
+seized, comprehended. On the other hand, however, there is the question of
+what Miller calls a ‘true secret’. He notes: ‘a true secret, if there is such a thing,
+cannot ever, by any means, be revealed’ (17). And Miller then elaborates on
+the Derridean paradox: ‘A true secret...is not hidden somewhere...A
+true secret is all on the surface. This superficiality cannot by any hermeneutic
+procedures, material or linguistic, be gone behind. A literary text (and any text
+may be taken as literary) says what it says’ (17). Thus, in Dickinson’s poem,
+there would be the enigmatic, perhaps ultimately cryptic status of ‘Italy’:
+there is nothing ‘within’ or ‘behind’ this appositely italicized ‘Italy’. The text
+says (only) what it says: ‘Italy stands the other side!’ It does not say that
+‘Italy’ symbolizes ‘romance’ or that it represents ‘revolution’ or even that it can
+be taken as a synonym for ‘the secret’. However superficial or profound or
+elliptical, it simply says what it says. In these terms, then, it is not only a ques-
+tion of literature as involving secrets that are concealed and that are gradually
+or finally brought to light. It is also – and perhaps more enigmatically – a
+matter of a secrecy that does not involve any kind of concealment at all.
+A literary text ‘says what it says’: it says, for example, that ‘we look farther
+on!’ Or it says, at the very outset, what its title is. Perhaps the secrecy of literary
+works begins with titles themselves. Perhaps what makes a work ‘literary’ is
+in part that its title remains enigmatic. A literary text says that it is called
+‘The Virgin and the Gipsy’ or ‘The Bluest Eye’ or, say, ‘The Shining’. What
+do these titles refer to? Does Lawrence’s text, for example, finally and clearly
+establish what is to be understood by ‘the dark, tremulous potent secret of...
+virginity’ (207), or what is meant by the idea of a gipsy, of a figure that is appar-
+ently outside ‘the vast and gruesome clutch of our law’ (236)? And what is the
+status and significance of the conjunctive (‘and’) in the title of this Lawrence
+text? What does ‘and’ mean? Conversely, what is signified by ‘the bluest eye’
+and in the eyes of which reader or beholder? Or again, what do those two
+words, ‘the shining’, have to tell us? Each of these examples, in fact, resists
+what Kermode refers to as ‘the satisfactions of closure’ and ‘the receipt of a
+message’. It is their readability andtheir resistance to being read that makes
+them ‘literary’, in Hillis Miller’s terms. This is in part at least why the question
+‘What is literature?’ is inseparable from the question ‘What is a secret?’
+It has been traditional to think of meaning as something behind or within
+the words of a text. Reading has conventionally been thought of on the basis of
+a surface-depth model, with the words of the text as the surface and the mean-
+ing lurking somewhere inside or underneath. The text has secrets and often
+explicitly conveys and exploits the idea that it has the power to disclose or276 An introduction to literature, criticism and theory
+preserve these secrets. With poststructuralist accounts of literature, how-
+ever, there has been an important shift away from this surface-depth model.
+This is not to say that the surface-depth model is no longer relevant. Indeed,
+it is very difficult to think about meaning or about reading without relying to a
+considerable extent on the values and assumptions of this model. Moreover,
+as we have been trying to suggest, virtually every literary text can be seen to
+work with this model. This is, in short, the theory and practice of secrets as (in
+principle) discoverable. Poststructuralism, however, is generally suspicious
+about any reading of a literary text that would equate a secret with the ‘com-
+plete’ or ‘ultimate’ meaning. Poststructuralism pays particular attention to the
+paradoxical nature of secrets – to the fact that secrets can be undiscoverable
+and yet at the same time unconcealed. In this sense the secrets of a literary text
+may be right in front of our eyes and yet they remain secret, like ‘the purloined
+letter’ on the mantelpiece in Edgar Allan Poe’s story of that title, or like the
+solemn, siren Alps, some odd afternoon.
+To conclude, we could briefly consider secrets in two further ways. At the
+beginning of this chapter we put forward the hypothesis that what attracts
+many people to the study of literature is a fascination with the idea of secrets.
+We have sought to elaborate on this by considering some of the many respects
+in which literary texts are bound up with the enigmatic, mysterious, secret
+and (in a double sense) occult. And we have attempted to emphasize the im-
+portant paradox whereby secrets can be discoverable but that a ‘true secret’,
+if there is such a thing, can never be discovered. Our focus has been on texts
+and on how they compel, manipulate and fascinate their readers. But there
+is also another perspective from which to think about literature and secrets.
+This would be from that of the reader rather than the text, and in particular
+as regards the notion of a reader who is interested not so much in the idea
+of secrets in the text(whodunnit? what is going to happen next? and so on)
+but rather in the possibilities of secrets within herself or within himself,
+secrets that may have to do with dreams, memories, fantasies, speculations,
+apprehensions and desires set off by the text, thoughts and feelings that may
+never have been experienced before – that is to say, in a surprising way, secret
+thoughts and feelings. It is in this context that literary texts can be acknow-
+ledged as having uncanny powers, including an ability to alter people’s very
+sense of themselves, of their identity and ‘place’.
+Secondly, we might try to think about the possibility of a ‘true secret’ within
+ourselves, about the paradox of what a ‘true secret’ might be. This touches on
+what we refer to in the following chapter as ‘the unpresentable’. The name
+which is sometimes given to this notion of a true secret is ‘death’. The Ghost
+of Hamlet’s father comes to Hamlet and says:Secrets 277
+But that I am forbid
+To tell the secrets of my prison-house,
+I could a tale unfold whose lightest word
+Would harrow up thy soul, freeze thy young blood,
+Make thy two eyes like stars start from their spheres,
+Thy knotted and combined locks to part,
+And each particular hair to stand an end
+Like quills upon the fretful porpentine.
+But this eternal blazon must not be
+To ears of flesh and blood. (I, v, 14–21)
+The Ghost at once tells and does not tell. The Ghost keeps the secrets
+of its prison-house even as it evokes the effects of their disclosure. This is
+another way of talking about the enigma of literature: whether in the form of
+Shakespearean tragedy or a contemporary whodunnit, literature is about
+what cannot be told, and in particular about that impossible package holiday
+which Hamlet refers to as that ‘undiscover’d country, from whose bourn / No
+traveller returns’ (III, i, 78–9). This undiscovered country is neither inside us
+nor outside us. It is a secret that does not conceal itself: the fact that we are
+going to die but that, as Freud puts it, ‘It is indeed impossible to imagine our
+own death; and whenever we attempt to do so we can perceive that we are in
+fact still present as spectators’ (Freud 1985a, 77).
+Further reading
+Besides the readable and stimulating essay on ‘Secrets and Narrative
+Sequence’ (1983), Frank Kermode has written an important study entitled
+The Genesis of Secrecy(1979) which deals with various questions about, for
+example, ‘why narratives are obscure’, why we prefer an enigma to ‘a muddle’,
+and so on. Barthes’s S/Z (1990b) contains brilliant insights into senses of
+secrecy and enigma in reading. Especially in its focus on silence and the
+unspoken, Pierre Macherey’s A Theory of Literary Production (1978) is a
+powerful account of literary secrets in relation to politics and ideology. On
+literary fiction and the omniscient narrator, see Royle’s ‘The “Telepathy
+Effect”: Notes toward a Reconsideration of Narrative Fiction’ (in Royle 2003)
+and Jonathan Culler, ‘Omniscience’ in The Literary in Theory(2007). From
+a quite different, intensively psychoanalytic perspective, Esther Rashkin’s
+Family Secrets(1992) is a thought-provoking study of secrets and crypts in
+mainly nineteenth-century literary works. Jacques Derrida has written numer-
+ous essays about secrets: see, in particular, the fascinating but difficult
+‘Fors’ (Derrida 1986b) and ‘Passions’ (Derrida 1992b), as well as the highly278 An introduction to literature, criticism and theory
+illuminating discussions in A Taste for the Secret(Derrida and Ferraris, 2001).
+In his essay on ‘Derrida’s Topographies’ (1994), on the other hand, J. Hillis
+Miller provides an excellent account of Derrida’s work on secrets (especially
+‘Fors’) and more generally a rich and accessible introduction to ‘Derrida and
+literature’. For a more difficult but also valuable study, Esther Rashkin’s
+Unspeakable Secrets and the Psychoanalysis of Culture (2008) looks at ex-
+amples of film and literature in relation to Abraham and Torok’s notions
+of cryptonymy.

@@ -1,0 +1,322 @@
+18. Ghosts
+What has literature to do with ghosts? The word ‘ghost’ is related to
+and originates in the German Geist, a word that Chambers Dictionary
+defines as ‘spirit, any inspiring or dominating principle’. The OEDgives, as
+its first and fourth definitions of ‘ghost’, the ‘soul or spirit, as the principle of
+life’ and ‘A person’. In these respects, the ghost is fundamental to our thinking
+about the human: to be human is to have a spirit, a soul, a Geist or ghost.
+But the more common modern sense of ‘ghost’ (albeit only listed seventh in
+the OED) involves the idea of a spectre, an apparition of the dead, a revenant,
+the dead returned to a kind of spectral existence – an entity not alive but also
+not quite, not finally, dead. Ghosts disturb our sense of the separation of the
+living from the dead – which is why they can be so frightening, so uncanny.
+These conflicting senses of the word ‘ghost’ suggest that ghosts are both
+exterior and central to our sense of the human. Ghosts are paradoxical since
+they are both fundamental to the human, fundamentally human, and a denial
+or disturbance of the human, the very being of the inhuman. We propose to
+devote this chapter, to dedicate it, to the living-dead, to the ghost(s) of litera-
+ture. And we propose that this scandal of the ghost, its paradoxy, is embedded
+in the very thing that we call literature, inscribed in multiple and haunting
+ways, in novels, poems and plays.
+Ghosts have a history. They are not what they used to be. Ghosts, in a
+sense, arehistory. They do not, after all, come from nowhere, even if they may
+appear to do just that. They are always inscribed in a context: they at once
+belong to and haunt the idea of a place (hence ‘spirit of place’ or genius loci),
+and belong to and haunt the idea of a time (what we could call a ‘spirit of time’
+or rather differently what is called the ‘spirit of the age’ or Zeitgeist). In other
+words, it is possible to trace a history of ghosts, as well as to think about historyGhosts 161
+itself as ghostly, as what can in some form or other always come back. We
+might, for example, pursue a history of ghosts in terms of what J. Hillis Miller
+calls ‘the disappearance of God’ (Miller 1963) in the nineteenth century. If
+the Christian God is, as Karl Marx claimed, ‘Spectre No. 1’ (Marx 1976, 157),
+it is fair to suppose that this ‘disappearance’ has altered the conception of
+ghosts, holy or otherwise. Correspondingly, we might pursue a history of
+ghosts in terms of the nineteenth-century emergence of psychology and, in
+particular, psychoanalysis. Ghosts, that is to say, move into one’s head. In
+the course of the nineteenth century the ghost is internalized: it becomes a
+psychological symptom, and no longer an entity issuing commandments
+on a mountain-top or a thing that goes bump in the night.
+In particular, psychoanalytic accounts of ghosts have revolutionized liter-
+ary studies. We might illustrate this in terms of what is arguably the greatest
+‘ghost work’ in English literature, Shakespeare’s Hamlet (1600–01). The
+play itself is cryptic and elusive about the apparition and truthfulness of the
+figure of the ghost of Hamlet’s father: why is it, for instance, that when
+the ghost appears in Act III, scene iv, it is only seen by Hamlet and not by his
+mother? But it is also clear that the play’s representation of the ghost is
+grounded in the Christian mythology of Shakespeare’s time – hence Hamlet’s
+fear that ‘The spirit that I have seen / May be a devil’ who ‘Abuses me to damn
+me’ (II, ii, 598–9, 603). In twentieth-century psychoanalytic readings such as
+those advanced by Jacques Lacan or Nicolas Abraham, however, the ghost has
+become something very different. Lacan develops the ghostly or phantasmatic
+dimensions of the basic Freudian reading of the play as Oedipal drama:
+Hamlet cannot take revenge on his murderous uncle Claudius because he is
+haunted by the sense that what Claudius has done is what he would have
+wanted to do – kill his father and go to bed with his mother. In Lacan’s scan-
+dalous and brilliant development of this reading of Hamlet(in a seminar in
+1959), the ghost has to do with the phallus. As ‘an imaginary object which the
+child comes to accept as being in the father’s possession’ (Wright 1992, 318),
+the phallus is in a sense the very symbol of paternity. For Lacan, the reason for
+Hamlet’s inability to kill Claudius (until, at least, the moment of ‘complete
+sacrifice’, i.e. of his own death) is that ‘one cannot strike the phallus, because
+the phallus, even the real phallus, is a ghost’ (Lacan 1977b, 50–1). In this way,
+Lacan makes Hamlet an allegory of phallocentric culture: phallocentrism
+(everything in a culture that serves to equate the symbolic power of the father,
+the phallus, with authority, the proper, presence, truth itself) becomes a sort
+of farcical but terrible ghost story. In Lacan’s reading, Hamlet’s being haunted
+by his father is an allegory of the nature of the ego. In an appalling pun, he
+calls Hamlet an ‘hommelette’, a little man, a son, who is both dependent on162 An introduction to literature, criticism and theory
+his namesake King Hamlet and has his ‘ego’ scrambled – like an egg – by
+this haunting. As Maud Ellmann neatly summarizes it: ‘the ego is a ghost’
+(Ellmann 1994, 17). There are problems with what Lacan does with a literary
+work like Hamlet, in particular in seeming to appropriate it simply as an alle-
+gorical means of presenting the ‘truth’ of psychoanalysis. But his thinking has
+proved extremely productive and stimulating for critics and theorists con-
+cerned to analyse the ghostliness of identity in literary texts and to question
+the nature and terms of the phallocentric ghost story in which we continue to
+have our being.
+In the work of Nicolas Abraham, on the other hand, Hamletis a central
+text for his theory that ghosts have to do with unspeakable secrets. The only
+reason why people think they see ghosts is because the dead take secrets with
+them when they die. In his essay ‘Notes on the Phantom: A Complement to
+Freud’s Metapsychology’ (1975), Abraham observes that ‘the theme of the
+dead – who, having suffered repression by their family or society, cannot enjoy,
+even in death, a state of authenticity – appears to be omnipresent (whether
+overtly expressed or disguised) on the fringes of religions and, failing that, in
+rational systems’ (Abraham 1994, 171). Ghosts are everywhere, a painful fact
+of life. Abraham contends that ‘the “phantom” [or “ghost”], whatever its
+form, is nothing but an invention of the living’. People see ghosts because
+‘the dead were shamed during their lifetime or...took unspeakable secrets
+to the grave’. These secrets remain, like a crypt, a gap, in the unconscious
+of the living. The ghost or phantom thus embodies ‘the gap produced in us
+by the concealment of some part of a loved object’s life...what haunts are
+not the dead, but the gaps left within us by the secrets of others’ (171).
+Abraham’s account is helpful in illuminating the strangeness of
+Shakespeare’s Hamlet, its obscure but persisting sense of secrets taken to
+the grave, of what the ghost calls the untellable ‘secrets of my prison-house’
+(I, v, 14). But his ‘Notes on the Phantom’ also opens up new ways of thinking
+about ghosts in literature more generally: in effect, it inaugurates a theory
+of literature as a theory of ghosts. We can think of this ghostliness, first, in the
+relatively straightforward sense described by a character called Stella Rodney
+in Elizabeth Bowen’s The Heat of the Day (1948): ‘“What’s unfinished
+haunts one; what’s unhealed haunts one”’ (322). From the great fourteenth-
+century Middle English dream-elegy Pearl to Don DeLillo’s very different
+dream-elegy The Body Artist(2001), literature is a place of ghosts, of what’s
+unfinished, unhealed and even untellable. But more precisely, and perhaps
+more eerily, Abraham’s work alerts us to a ghostliness about which characters,
+and even authors themselves, are unaware. Here we encounter the strangeness
+of the ghostly secret as, in Esther Rashkin’s words, ‘a situation or drama thatGhosts 163
+is transmitted without being stated and without the sender’s or receiver’s
+awareness of its transmission’ (Rashkin 1992, 4).
+If psychoanalysis has been important in providing new ways of thinking
+about ghosts, however, this has not happened in a vacuum. As we suggested
+earlier, it is in fact part of a more general shift in how ghosts have been figured,
+theorized and experienced since the end of the nineteenth century. The
+emergence of psychology and psychoanalysis has its ghostly counterpart
+in literature, especially in the emergence of psychological realism and the
+psychological novel. Nowhere is this clearer than in the fiction of Henry
+James (1843–1916). In an essay on his ghost stories, published in 1921,
+Virginia Woolf writes:
+Henry James’s ghosts have nothing in common with the violent old
+ghosts – the blood-stained sea captains, the white horses, the headless
+ladies of dark lanes and windy commons. They have their origin within
+us. They are present whenever the significant overflows our powers of
+expressing it; whenever the ordinary appears ringed by the strange. (Woolf
+1988, 324)
+Stories such as The Turn of the Screw(1898), ‘The Beast in the Jungle’ (1903)
+and ‘The Jolly Corner’ (1908) conjure and explore the ghostliness of experi-
+ence in profoundly unsettling ways. All of these stories bear witness to the
+ungovernable, overflowing strangeness which Woolf evokes. More particu-
+larly, they also illustrate the sense of ghostly secrets, of what Abraham called
+the ‘gaps left within us by the secrets of others’, together with a sense of the
+ghostliness of the ego (or ‘I’) itself.
+The last of these stories, ‘The Jolly Corner’, is especially forceful in its evo-
+cation of the idea of the ‘I’ as ghost. As in a number of other ghost stories – for
+example, Emily Brontë’s Wuthering Heights(1848), Nathaniel Hawthorne’s
+The House of the Seven Gables(1851) and George Douglas Brown’s The House
+with the Green Shutters(1901) – ‘The Jolly Corner’ is both the name of a house
+and the name of the text itself. The literary work is a haunted house. ‘The Jolly
+Corner’ recounts how a 56-year-old, wealthy New Yorker called Spencer
+Brydon, long settled in Europe, makes a ‘strangely belated return to America’
+(190), having been absent for 33 years. He goes back to his childhood home,
+‘his house on the jolly corner, as he usually, and quite fondly, described
+it’ (191). Rented out and a source of income for decades, the house is now,
+ostensibly, empty. Brydon becomes obsessed with the place, with visiting
+and wandering around it, increasingly caught up by the sense that it contains
+some ghostly secret of the past. Following a dense but queerly captivating164 An introduction to literature, criticism and theory
+third-person so-called omniscient narration, we are drawn into a hunt, in
+which the protagonist turns out to be both hunter and hunted, haunter and
+haunted. As the narrator asks, with the bizarre tone of detachment charac-
+teristic of the text as a whole: ‘People enough, first and last, had been in terror
+of apparitions, but who had ever before become himself, in the apparitional
+world, an incalculable terror?’ (202). Of course – and this is where fiction
+is itself most manifestly a haunt – this ‘apparitional world’ to which James
+refers only appears through writing. The very strangeness of fiction may
+be said to consist in this idea of a ‘medium’, a text, in which the apparitional
+and non-apparitional are made of the same stuff, indistinguishable. As E.M.
+Forster put it, in Aspects of the Novel(1927): ‘Once in the realm of the fictitious,
+what difference is there between an apparition and a mortgage?’ (Forster
+1976, 103).
+Despite appearances, then, we don’t want to limit our talk about ghost
+stories just to ghost stories. Indeed, we would like to suggest that the greater
+the literary work, the more ghostly it is. This might be one way of understand-
+ing what Derrida is getting at when he proclaims, in his book Spectres of Marx,
+that ‘A masterpiece always moves, by definition, in the manner of a ghost’
+(Derrida 1994, 18). Playing on the earlier Latin sense of ‘genius’ as ‘spirit’, he
+says that a masterpiece is ‘a work of genius, a thingof the spiritwhich precisely
+seems to engineer itself[s’ingénier]’ (18). Masterpieces, such as Beowulfor
+Hamlet (which is the example Derrida is discussing) or James’s ‘The Jolly
+Corner’ or Beckett’s Molloy, are worksthat give a sense of having been spirited
+up, of working by themselves. Great works call to be read and reread while
+never ceasing to be strange, to resist reading, interpretation and translation.
+This is one basis for thinking about canonicity in Harold Bloom’s terms:
+the canon is always a spectral affair. As he declares, in The Western Canon:
+‘One ancient test for the canonical remains fiercely valid: unless it demands
+rereading, the work does not qualify’ (Bloom 1994, 30). A great work will
+always seem uncanny, at once strange and familiar; a surprising, unique addi-
+tion to the canon and yet somehow foreseen, programmed by the canon; at
+once readable and defiant, elusive, baffling. For Bloom, writing itself is essen-
+tially about a relationship (always one of anxiety, according to him) with the
+dead, with earlier great writers. The point is most succinctly made by Bloom’s
+precursor, T.S. Eliot, when he says in his essay ‘Tradition and the Individual
+Talent’ (1919) that the ‘best’, ‘most individual’ parts of a literary work are
+‘those in which the dead poets...assert their immortality most vigorously’
+(Eliot 1975b, 38). It is a relationship eerily evoked in Eliot’s ‘Little Gidding’
+(1943), where the speaker describes an encounter in which he ‘caught the
+sudden look of some dead master /...The eyes of a familiar compound ghostGhosts 165
+/ Both intimate and unidentifiable’ (Eliot 1975a, 193). For Bloom, as for Eliot,
+poetry is also a ghostly discourse in a more general sense. This is hauntingly
+exemplified by Wallace Stevens’s ‘Large Red Man Reading’ (1948), in which
+the subject of the poem, the reader himself, evokes ghosts: ‘There were ghosts
+that returned to earth to hear his phrases, / As he sat there reading, aloud, the
+great blue tabulae. / They were those from the wilderness of stars that had
+expected more’ (423). We are all haunted: experience itself is never enough;
+and it is the ghostly discourse of literature which most sharply testifies to this.
+One problem with talking about the canon in the way Bloom does is that it
+appears to be ahistorical: in other words, literature seems to belong to a time-
+less realm, the canon seems to be impervious to the material effects of social,
+political, economic and cultural history. Our argument in the present chapter,
+however, is that while literature is indeed ‘ghost work’, its haunt is historical.
+The ghosts of the twentieth century are not the same as those of the nine-
+teenth, and so on. We might, for example, reflect on the links between ghosts
+and technology. In the context of Western culture in the third millennium, and
+from the point of view of so-called common sense, we may like to believe that
+we do not believe in ghosts any more; but in important respects the world has
+become and is continuing to become increasingly ghostly. As Jacques Derrida
+has observed:
+Contrary to what we might believe, the experience of ghosts is not tied to
+a bygone historical period, like the landscape of Scottish manors, etc.,
+but...is accentuated, accelerated by modern technologies like film, tele-
+vision, the telephone. These technologies inhabit, as it were, a phantom
+structure...When the very first perception of an image is linked to a
+structure of reproduction, then we are dealing with the realm of phantoms.
+(Derrida 1989, 61)
+This recalls, or calls up, the image of Derrida in Ken McMullen’s film Ghost
+Dance(1989) being asked if he believes in ghosts and replying: ‘That’s a hard
+question because, you see, I am a ghost.’ In a film, everyone is a ghost. If the
+ghost is the revenant, that which uncannily returns without ever being prop-
+erly present in the first place, it becomes clear that, more than ever, we live in
+the midst of ghosts: the voice on the telephone is only ever the reproduction of
+a voice, the image on television or movie-screen only ever a reproduction.
+Freud conveys his amazement at the surreal nature of telephones when he
+remarks in Civilization and Its Discontents(1930) that ‘With the help of the
+telephone [one] can hear at distances which would be [regarded] as unattain-
+able even in a fairytale’ (1985e, 279). But since Freud’s day, we have witnessed
+the new ghostly arrivals of the space age, the answer phone, video recorder,166 An introduction to literature, criticism and theory
+camcorder, personal computer, email, the Internet and World Wide Web,
+virtual reality, genetic engineering, nanotechnology, the mobile or cell phone
+and so forth.
+Whether in literature, psychoanalysis or philosophy, contemporary thought
+is irrevocably hooked up to developments in technology and telecommunica-
+tions. Contemporary literature faces new kinds of challenge in terms of how
+to represent, assimilate or think the increasing ghostliness of culture. The
+question of literature today is inseparable from an increasingly prevalent,
+indeed unavoidable encounter with a technics of the ghost. DeLillo’s The
+Body Artist, for example, with its haunting evocations of ghost-voices and
+ghost-images in telephones, answering machines, voice-recorders, webcams
+and video projections, suggests that calling up ghosts in the twenty-first
+century is inseparable from such new technologies.
+We would like to conclude by trying to explore some of these ideas in rela-
+tion to Toni Morrison’s novel Beloved. This novel, first published in 1987, is
+set in America, in the years leading up to and following the abolition of slavery.
+It is about the unspeakable reality of slavery, about ghosts and the way in which
+US culture continues to be haunted by the atrocities of its past. The narrative
+of the novel rests on the dynamic of ghostly secrets and the untellable.
+‘Beloved’ is a baby murdered by her mother, Sethe, because the mother sees
+death for her daughter as preferable to slavery; ‘Beloved’ is also a beautiful
+‘shining’ ghost of a woman who, years later, haunts the lives of Sethe and her
+other daughter, Denver, and Sethe’s drifting partner Paul D. The novel, in its
+very title, is a ghost, or gathering of ghosts. Belovedis about
+what it took to drag the teeth of that saw under the little chin; to feel the baby
+blood pump like oil in [Sethe’s] hands; to hold her face so her head would
+stay on; to squeeze her so she could absorb, still, the death spasms that shot
+through that adored body, plump and sweet with life. (251)
+This, 250 pages into the text, is the most ‘graphic’ description we are given of
+what nevertheless haunts the book from the title onwards. The haunting is
+inscribed in the passage just quoted, for example, in the eerie double sense
+of ‘still’ (as adverb ‘yet’ and verb ‘stop’): this gross moment is a still, stilled
+moment, caught in time, which still haunts, is still to be absorbed. On the final
+page of the novel we encounter the statement that ‘This is not a story to pass
+on’ (275). This statement suggests that the story should not or cannot be told,
+but also that it is not one we can pass by. The history of the United States is an
+untellable ghost story that must not, however, be forgotten. Every house in the
+USA is a haunted house. As Baby Suggs says in grimly comic response to herGhosts 167
+daughter-in-law Sethe’s suggestion that they vacate the baby-haunted house
+known only by its number (124): ‘“Not a house in the country ain’t packed
+to its rafters with some dead Negro’s grief. We lucky this ghost is a baby. My
+husband’s spirit was to come back in here? or yours? Don’t talk to me”’ (5).
+Belovedis set in the nineteenth century and is faithful to the modes of ghost-
+liness, spirits, tele-culture and telecommunications available at that time: the
+text opens with an attempted exorcism and an instance of apparent telekinesis
+(‘The sideboard took a step forward but nothing else did’: 4); there are allu-
+sions to telegraphy and the recently invented Morse code (110), to ‘long-
+distance love’ (95) and even to photography (275). But in other ways Beloved
+is a profoundly contemporary novel, a work of the late twentieth century not
+only in style and form but also in terms of its conception and implacable
+analysis of ghosts. In particular, it is written out of or through a psycho-
+analytically inflected understanding of deferred meaning, a sense of trauma as
+ghostly, as that which comes back again and again, which continues, haunt-
+ingly. Morrison’s novel is about the unspeakable not only now but in the
+future, slavery as a legacy still, not as something belonging to what we call
+the history books.
+Marx in 1848 saw communism as ‘a spectre...haunting Europe’ (the
+famous opening words of The Communist Manifesto). One hundred and fifty
+years later, Derrida too sees communism as spectral. Hence its rapport with
+deconstruction. Deconstruction, as Derrida describes it, is concerned to
+think about the sense that ‘everyone reads, acts, writes with his or herghosts’
+(Derrida 1994, 139), to think about presence (and absence) as necessarily
+haunted, about meaning as spectralized. In these respects, deconstruction
+offers perhaps the most important contemporary theory of ghosts. Commun-
+ism is like democracy itself: ‘it has always been and will remain spectral: it is
+always still to come’ (Derrida 1994, 99).
+Further reading
+For two helpful and wide-ranging accounts of the ghostly in literature from a
+‘gothic’ perspective, see David Punter, The Literature of Terror, 2ndedition
+(1996), and Fred Botting, Gothic (1997). Terry Castle (1995) has a good
+chapter on eighteenth- and nineteenth-century conceptions of ghosts, entitled
+‘Spectral Politics: Apparition Belief and the Romantic Imagination’. For a
+lucid and helpful exposition of Lacan’s notoriously difficult essay on Hamlet,
+see Bruce Fink (1996). More generally, for some very good, clear and access-
+ible readings of literature-with-Lacan, see Linda Ruth Williams (1995). More
+complex Lacanian accounts of the literary may be found in the brilliant work168 An introduction to literature, criticism and theory
+of Shoshana Felman (1987) and Jacqueline Rose (1996). Nicolas Abraham’s
+‘Notes on the Phantom: A Complement to Freud’s Metapsychology’ and ‘The
+Phantom of Hamlet or The Sixth Act, preceded by The Intermission of
+“Truth”’ are collected in The Shell and the Kernel(1994). For a difficult but
+thought-provoking elaboration of Abraham’s work on ghosts, see Esther
+Rashkin, Family Secrets and the Psychoanalysis of Narrative(1992). For a very
+rich, demanding but now classic account of spectrality and politics, focusing
+on Hamlet and the writings of Karl Marx, see Jacques Derrida, Spectres of
+Marx(1994). For the links between psychoanalysis, technology and telecom-
+munications, see Derrida’s challenging but fascinating Archive Fever(1995a);
+for an account of the cultural and philosophical importance of the telephone,
+see Avital Ronell’s The Telephone Book(1989). Peter Nicholls’s essay, ‘The
+Belated Postmodern: History, Phantoms and Toni Morrison’ (1996), offers
+a subtle and stimulating reading of Belovedby way of many of the notions of
+the ghostly discussed in this chapter. For more on American ghosts (from
+the Salem witchcraft trials to contemporary film and politics), see Spectral
+America: Phantoms and the National Imagination, ed. Weinstock (2004); for
+ghosts and Victorian literature, see Julian Wolfreys’s Victorian Hauntings
+(2002); for ghosts and modernism, see Jean-Michel Rabaté’s The Ghosts
+of Modernity (1996) and Helen Sword’s Ghostwriting Modernism (2002);
+and for a good collection of essays on ghosts in relation to deconstruction,
+psychoanalysis and history, see Buse and Stott (1999).

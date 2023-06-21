@@ -1,0 +1,6 @@
+readme
+
+this is a python script broken up into several manual steps
+
+1 - pybuk.py takes a pdf file and creates a plaintext file
+2 - manually separate each chapter in a txt file?? this step can probably be more efficient

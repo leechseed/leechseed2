@@ -1,0 +1,297 @@
+25. Suspense
+In a moment, we shall say something that may be rather shocking. In the
+meantime, we propose to describe two kinds of suspense, resolved and
+unresolved. ‘Resolved’ suspense is usually associated with thrillers, detective
+stories, Gothic novels, tales of mystery and the supernatural, and romances.
+The Italian novelist and literary theorist Umberto Eco uses the term ‘closed
+texts’ for such narratives, as contrasted with ‘open texts’ which leave the
+reader in doubt or uncertainty (Eco 1979). In closed texts, the murderer is
+found, the mystery resolved, the ghost exposed as a mechanical illusion, or the
+lovers are able to consummate their love. In these cases, suspense relies for its
+resolution on the revelation of a secret or secrets. Resolved suspense can also
+be created by delaying an event that we know will happen. This is especially
+clear in examples from cinema. We feel certain that the woman behind the
+shower curtain cannot escape the raised dagger of the psycho-killer, but for a
+few seemingly endless moments the fulfilment of this expectation is delayed.
+Similarly, in Fatal Attraction (1987) the pet rabbit is never going to avoid
+the boiling pot, and in Silence of the Lambs(1991) it is only a matter of time
+before Hannibal the cannibal lives up to his name and gets his unjust dessert.
+Here suspense is not so much created by a hermeneutic gap, by the reader’s
+ignorance, as by our expectation of an event which is delayed: we are pretty
+sure whatis going to happen, we just don’t know when.These are kinds of
+narrative suspense, then, that can be defined in terms of expectation, delay
+and resolution.
+One of the most notorious instances of literary suspense is Henry James’s
+novella The Turn of the Screw(1898).In this story, the reader’s expectation
+of an ending is screwed to an excruciating pitch of tension (the story is about
+suspense itself, as its title might indicate). The suspense of this haunting storySuspense 227
+rests largely on whether it is about actual ghosts and real evil, or is simply
+a psychological case-study of a disturbed mind. Critics have tended to argue
+for one reading or the other. Recently, however, critics have recognized that
+the choice of interpretation – the choice, finally, of which story we think we
+are reading – is irresolvable. As Roslyn Jolly comments, ‘critics have become
+increasingly aware that the irresolvability of the tale’s ambiguity puts on trial
+their own readerly skills and assumptions about meaning in narrative’ (Jolly
+1993, 102). Indeed, critics have realized that this uncanny and unsettling
+suspense of interpretation is itself part of what makes the story so terrifying:
+The Turn of the Screwis suspendedbetween two mutually exclusive readings.
+While the tale builds up to an extraordinary pitch of narrative suspense, our
+sense of what happens at the end of the story may never finally be resolved.
+James manages to exploit a fundamentally ambivalent narrative structure (the
+story is told by the governess herself, so there is no one to tell us whether or
+not she is mad), and to ‘end’ his story in a kind of opensuspense, a suspense
+without end. In particular, James continually provides us with pointers or
+markers to a final resolution, with suggestions of ghosts, telepathy and evil on
+the one hand, and of madness on the other, making us wait for a final resolu-
+tion of ambiguities which never arrives. In Chapter 9, for example, the gov-
+erness says of the two children, Miles and Flora, that ‘There were moments
+when, by an irresistible impulse, I found myself catching them up and press-
+ing them to my heart’ (131). The sentence foreshadows in a suspenseful and
+undecidable way the extraordinary ending of the story, where the governess
+does, literally, ‘catch’ Miles: ‘I caught him, yes, I held him – it may be imagined
+with what a passion’ (198). In both cases, however, the forceof this catching –
+how forceful it is, and how conscious or rational, what its intention is – is
+suspended. Is the governess protecting Miles or smothering him? We are left,
+then, in a state of hermeneutic suspense, of interpretative uncertainty – unable
+to know, finally, how to read James’s story. Suspense, in this case, is open.
+Critics use various terms to describe suspenseful effects in reading: ambiguity,
+ambivalence, equivocality, indeterminacy, undecidability, uncertainty, aporia,
+gap, hiatus. All of these words may be applied to the effects of suspense
+achieved by James’s story.
+In addition to such narrative suspense, effects of suspense can be produced
+on a more local and less melodramatic scale by aspects of syntax and versi-
+fication, by the very language of the text. James, in fact, is famous for a
+peculiarly suspenseful sentence structure which complements the intensity of
+narrative suspense in stories such as The Turn of the Screw.The story opens in
+the form of a ‘frame narrative’: a group of people get together to tell stories, one
+of which is that of the governess. Here is the opening sentence of the story:228 An introduction to literature, criticism and theory
+The story had held us, round the fire, sufficiently breathless, but except the
+obvious remark that it was gruesome, as, on Christmas eve in an old house,
+a strange tale should essentially be, I remember no comment uttered till
+somebody happened to say that it was the only case he had met in which
+such a visitation had fallen on a child. (81)
+Not only is this sentence about suspense – the suspense of being ‘held’ by
+a story, the holding of breath and the withholding of comments – but it is also
+syntactically structured by suspense. The final word, ‘child’, is the kernel of
+the sentence, its centre, but the word is withheld until the end. Before that, the
+sentence develops through multiple subclauses and syntactical digressions.
+Henry James’s prose, then, the syntax of his sentences, is highly suspenseful.
+The Turn of the Screwturns on suspense – indeed turns, self-reflexively,
+on the very idea of ‘turns’. Chapter 9, again, is exemplary. The governess is
+reading Henry Fielding’s Ameliaalone at night: ‘I found myself, at the turn of
+a page and with his spell all scattered, looking straight up...’ (133). She
+leaves her room and walks into the hall, where at ‘the great turn of the staircase’
+(134) she sees, for the third time, the ghost of Peter Quint. The chapter ends
+with a description of this ghost disappearing into ‘the silence itself’: ‘I
+definitely saw it turn, as I might have seen the low wretch to which it had once
+belonged turn on receipt of an order’ as it disappears ‘into the darkness in
+which the next bend was lost’ (135). The ‘next bend’ may be in the darkness
+of the staircase, but it is also the next chapter of the story, the dark bend or turn
+of narrative. It is not only the governess, then, who sees or hallucinates a
+ghostly presence in the turns: our own reading is suspended on the turns of
+the narrative.
+Verse also relies on turns. The fact that the word ‘verse’ comes from the
+Latin vertere, ‘to turn’, might alert us to the way in which verse is wedded to
+the turns of line endings, suspenseful places of ghostly pausation. In addition
+to the suspense as we turn from one line to the next, verse produces its own
+forms of suspense through the exploitation of the possibilities of rhythm.
+Comparatively rudimentary verse-forms, such as those of nursery rhymes and
+ballads, for example, are notable for the way in which they generate suspense
+through rhythmical repetition, by building into the poetry the expectation of
+a repetition. The opening to the traditional Scottish ballad ‘Sir Patrick Spens’
+is one such example:
+The King sits in Dumferling toune,
+Drinking the blude-reid wine:
+O whar will I get a guid sailor,
+To sail this schip of mine?Suspense 229
+Much of the force of this powerfully haunting poem (one that, in many
+ways, anticipates such pseudo-medieval ballads as Coleridge’s ‘The Ancient
+Mariner’ and Keats’s ‘La Belle Dame sans Merci’) is achieved through the
+regularity of its metrical arrangement (the regular four-beat first line and
+three-beat second line, which continues throughout the poem). Together with
+the regular rhyming of lines two and four of each stanza, the prosody of the
+poem adds up – in the expectation and fulfilment of rhythmical suspense – to
+one of the most compelling of its pleasures.
+Effects of rhythmical suspense are also explored in more intricate ways by
+poets such as Thomas Hardy. Hardy’s poetry is notable not least for the wide
+range of its verse-forms. ‘Neutral Tones’ (written in 1867, first published in
+1898) enacts various effects of suspense through rhythm:
+We stood by a pond that winter day,
+And the sun was white, as though chidden of God,
+And a few leaves lay on the starving sod;
+—They had fallen from an ash, and were gray.
+5 Your eyes on me were as eyes that rove
+Over tedious riddles of years ago;
+And some words played between us to and fro
+On which lost the more by our love.
+The smile on your mouth was the deadest thing
+10 Alive enough to have strength to die;
+And a grin of bitterness swept thereby
+Like an ominous bird a-wing...
+Since then, keen lessons that love deceives,
+And wrings with wrong, have shaped to me
+15 Your face, and the God-curst sun, and a tree,
+And a pond edged with grayish leaves.
+While not strictly regular, the rhythm of the first three lines of each stanza is
+more or less regular, consisting of four sets of one or two weak (or ‘short’) [.]
+stresses followed by one strong (or long) one [—]: fe stgd | bbaphd | that
+wqn | tcr dry. The final line of each stanza, however, lacks one ‘foot’, having
+only three combinations of weak and strong stress: Thtey had fallpe| frotm an
+ash, | and wcre gruay. The regularity of the first three lines of each stanza is dis-
+appointed. This gives an effect of blankness, of something missing, of incom-
+plete suspense. This effect is related to the theme of the poem, its sense of
+blank hopelessness: the poem is concerned with something missing, a lack, a
+loss, which is inexpressible. This, then, is just one example of the many ways230 An introduction to literature, criticism and theory
+in which poetry is able to create effects of suspense in rhythm such that the
+formof the poem is inseparable from its content.
+As we have already suggested, poetry can also exploit line endings for
+effects of suspense. The neoclassical poetry of Alexander Pope, for example,
+plays on the suspenseful formalities of rhyming couplets. The following lines
+from Pope’s poem ‘An Essay on Criticism’ (1711) generate suspense through
+rhyme, rhythm and antithesis:
+True witis Natureto Advantage drest,
+What oft was Thought, but ne’er so well Exprest...
+(lines 297–8)
+The fact that the whole of Pope’s long poem is in the form of rhyming couplets
+means that the first line creates the expectation of a second line which will
+end in the rhyme ‘est’. And we are not disappointed. The second line both
+develops and explains the first, creating an analogy between thought and
+nature on the one hand, and clothing and expression on the other, to define
+‘true wit’. Owing to the regularity of the verse-form, the first line creates an
+expectation of such an answering line and, although the lines are end-stopped
+(they do not continue syntactically from one line to the next), they produce the
+expectation of such an answer: the sense of the first line is suspended until its
+completion in the next.
+Writing almost a century later, William Wordsworth also exploits the
+suspenseful effects of verse, in particular of line endings, but does so very
+differently. Consider, for example, ‘A Slumber did my Spirit Seal’ (1800):
+A slumber did my spirit seal;
+I had no human fears:
+She seemed a thing that could not feel
+The touch of earthly years.
+5 No motion has she now, no force;
+She neither hears nor sees,
+Rolled round in earth’s diurnal course
+With rocks and stones and trees.
+This poem is usually understood to be about a young girl who has died, and
+critics usually relate it to other poems which were written by Wordsworth at
+about the same time and which concern a girl named Lucy. The speaker
+appears to be lamenting not only the girl’s death, but also his own ignorance,
+the fact that he remained unaware that she might die when she was alive.
+Unlike Pope’s poem in almost every other respect, Wordsworth’s is similar inSuspense 231
+that most of its lines are end-stopped. Crucially, however, line three is run on
+or enjambed: there is no punctuation after the word ‘feel’, and the next line is
+required for syntactical completion. In fact, the end of this line exploits not
+only syntactical but also hermeneutic suspense. After all, it would be possible
+to read line three as syntactically complete: ‘She seemed a thing that could
+not feel’. But this produces a very different meaning from what we find if we
+continue to the next line – ‘She seemed a thing that could not feel / The touch
+of earthly years.’ There is a significant difference between not being able to
+feel, and not being able to feel ‘the touch of earthly years’. The first possibility
+gives us the sense that she – like, apparently, the speaker, in line one – is anaes-
+thetized, closed off, to all sensation and all emotion. The second possibility
+gives us the sense that this was a young girl who seemed as if she would never
+grow old or die. What the poem achieves with this line-break, this turn, is to
+generate and hold both meanings in suspense. While the latter is no doubt
+the ‘correct’ reading – we cannot simply ignore line four, once we have read
+it – the apparent completion offered by line three in isolation remains to
+haunt this latter sense.
+As with our discussion of Henry James, we find that examples of resolved
+or closed suspense can in fact be read as open – as examples of the unresolved.
+Wordsworth’s poem prompts a number of suspenseful questions. In the very
+opening line of the poem, for example, it is not clear whether ‘my spirit’ sealed
+a slumber or a slumber sealed ‘my spirit’: in any case it is very difficult to know
+what the three words (‘slumber’, ‘spirit’, ‘seal’), either separately or together,
+are referring to. Likewise, while we have assumed that the referent of ‘she’ in
+line three is a girl, Lucy, the word can also be understood to refer back to ‘my
+spirit’ in line one. There is, in fact, no final way of determining which reading
+is ‘correct’. While we may want to choose one reading over the other, we have
+no way to justify such a choice: the point is undecidable or equivocal. And the
+difference has significant implications for any reading of the poem. In the first
+place, while the poem appears to be about the relationship between the
+speaker and a girl, the equivocal reference of ‘she’ means that we can no
+longer be sure that the object of the speaker’s interest is a person outside of
+himself, rather than his own ‘spirit’. As Paul de Man comments in his reading
+of this poem in his essay ‘The Rhetoric of Temporality’, ‘Wordsworth is one of
+the few poets who can write proleptically about their own death and speak, as
+it were, from beyond their own graves. The “she” in the poem is in fact large
+enough to encompass Wordsworth as well’ (de Man 1983, 225). Rather differ-
+ently, it may be that this equivocal reference suggests something very import-
+ant about mourning itself – that in mourning, the object of our grief is neither
+simply inside nor simply outside the one who mourns. The suspense of232 An introduction to literature, criticism and theory
+reference in this context might be connected to another of the themes of the
+poem – closure. The speaker talks of his spirit being ‘sealed’, of ‘she’ being
+untouchable in the first stanza, and in the second of ‘she’ being without
+motion, force or sensory perception, ‘rolled round’ with the earth as if sealed
+in a grave. This sense of closure may even be reinforced by the end-stopped
+rhymes of each stanza. In all of these ways, the poem is ‘about’ a sense of
+closure – being sealed, enclosed, finished, dead. And yet the closure that
+the poem so intensively suggests is in dynamic tension with the undecidable
+suspense of reference – with, indeed, the poem’s meaning. Far from being
+closed, in fact, the poem is undecidably suspended. Once we recognize the
+central importance of the tension between what we have called closed and
+open suspense in the poem, it becomes available as a means with which to map
+many of the poem’s features. In particular, we might recognize that the poem
+is suspended by the uncanny gap of time between stanza one and stanza
+two, that moment outside the poem when ‘she’ dies, the unspoken, perhaps
+unspeakable event of a death which at once haunts and generates the poem.
+Wordsworth’s poem thus enacts a drama of suspense, an allegory of closure
+andundecidability.
+Ambiguity and undecidability have been central to Anglo-American liter-
+ary criticism and theory in the twentieth century. One of the most influential
+works has been William Empson’s Seven Types of Ambiguity(1930; 3rdedn
+1953). In the middle decades of the century, partly as a response to Empson’s
+book, the so-called new critics focused on ambiguity as a major concern of
+literary texts. More recently, poststructuralist critics have emphasized the
+notion of undecidability. The difference between new critical ambiguity
+and poststructuralist undecidability, though apparently minimal, is perhaps
+fundamental. For the new critics, ambiguity produces a complex but organic
+whole, a unity wherein ambiguity brings together disparate elements. For
+poststructuralist critics, by contrast, undecidability opens up a gap, a rift
+in the text which can never be fully sealed. Undecidability opens the text to
+multiple readings, it destabilizes the reader’s sense of the certainty of any
+particular reading, and ultimately threatens to undermine the very stability of
+any reading position, the very identity of any reader (as Søren Kierkegaard
+remarks, ‘the moment of decision is madness’). Suspensions of meaning
+bypass the reductive and constricting determination of what is now recog-
+nized to be the illusion of a single, final, determined ‘meaning’. To think in
+terms of undecidability, however, is not to advocate the equal legitimacy of any
+and every interpretation: to acknowledge and explore aporias or suspensions
+of meaning involves the responsibilities of the most thoughtful and scrupulous
+kinds of reading.Suspense 233
+Readers tend to want to resolve suspense: like foreplay, suspense carried on
+beyond a certain point seems to be undesirable, indeed intolerable. We want
+answers, and we want them soon. And there are all sorts of ways of terminating
+suspense, of closing it or resolving it. We can appeal to the notion of authorial
+intention and try to argue that Wordsworth ‘meant’ this or that, or we can
+appeal to ‘historical evidence’ and try to establish whether Lucy ‘really is’ the
+referent of this poem, or in line with the dentistry school of literary criticism
+to which we referred in Chapter 2, we can simply argue for a single extractable
+molar of meaning for the text. Rather than immediately attempting to resolve
+suspense, though, we might think about literary texts as themselves sites of
+suspense, places where suspense can occur without being closed off, without
+being finished (in this context we might appeal to Jacques Derrida’s idea that
+‘There is no literature without a suspendedrelation to meaning and reference’
+(Derrida 1992a, 48). We might consider that it is the function of literary texts
+to go beyond the trite, the comforting, the easy resolution of suspense, to take
+us to imagined places where suspense cannot be resolved, where questions are
+more complex and more challenging than can be reduced to a single deter-
+mined meaning. In this respect, there are reasons to welcome undecidability,
+this challenge to our desire to master the text.
+Further reading
+For a brilliant exploration of Wordsworth’s line endings, see Christopher
+Ricks’s ‘William Wordsworth 1’ (1984). For two fine introductory works on
+rhythm and metre, see Derek Attridge’s Poetic Rhythm(1992) and Thomas
+Carper and Derek Attridge’s Meter and Meaning (2003). An excellent and
+imaginative exploration of prosody in terms of the sounds of English poetry is
+John Hollander’s Vision and Resonance(1985). On suspense in the sense of
+ambiguity or undecidability, there is, perhaps, no better place to start than
+William Empson’s classic Seven Types of Ambiguity (1953), first published
+in 1930. On the idea of literature as suspended in relation to meaning and
+reference, see the interview with Jacques Derrida in his Acts of Literature
+(1992a). A classic argument concerning the ‘undecidability’ of contending
+meanings in literary texts is J. Hillis Miller’s ‘The Figure in the Carpet’ (1980).
+For a rather different approach, see D.A. Miller, ‘ “Cage aux folles”: Sensation
+and Gender in Wilkie Collins’s The Woman inWhite’ (1989), which offers a
+fascinating consideration of the physiological effects of suspense fiction on
+readers.
