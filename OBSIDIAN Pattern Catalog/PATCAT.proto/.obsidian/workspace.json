@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a75cc9de37b5527c",
+        "id": "bb51bad713dc660d",
         "type": "tabs",
         "children": [
           {
-            "id": "5cef2e844d57bd4e",
+            "id": "00c538b7af6c3bd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "050175c30bf8b5d9",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,13 +143,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f51b5b289c2d3191",
+  "active": "00c538b7af6c3bd1",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2023-06-22.md",
-    "Hello World.md"
+    "Untitled.md",
+    "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
+    "TEMPLATES/Inputs/Metadata/Zotero Metadata Template.md",
+    "TEMPLATES/Inputs/Metadata/Video Game Metadata Template.md",
+    "TEMPLATES/Inputs/Metadata/Tabletop Roleplaying Game Metadata Template.md",
+    "TEMPLATES/Inputs/Metadata/Film Metadata Template.md",
+    "TEMPLATES/Inputs/Metadata/Cartoon Metadata Template.md",
+    "TEMPLATES/Inputs/Metadata/Anime Metadata Template.md",
+    "ASSETS",
+    "TEMPLATES/Inputs/Metadata/UID template.md",
+    "time",
+    "TEMPLATES/Inputs/title template",
+    "TEMPLATES/Inputs/Pattern Body",
+    "TEMPLATES/Inputs/Metadata",
+    "df.md",
+    "TEMPLATES/Inputs",
+    "PATTERNS",
+    "hernandezDatabaseDesignMere2020.md",
+    "INBOX/2023-06-22.md",
+    "INBOX/Hello World.md",
+    "INBOX/Untitled.canvas",
+    "INBOX/pdfs",
+    "TEMPLATES/Inputs",
+    "TEMPLATES"
   ]
 }

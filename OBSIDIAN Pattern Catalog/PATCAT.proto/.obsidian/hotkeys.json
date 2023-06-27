@@ -1,1 +1,20 @@
-{}
+{
+  "obsidian-zotero-desktop-connector:zdc-Cite": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Import #1": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}
