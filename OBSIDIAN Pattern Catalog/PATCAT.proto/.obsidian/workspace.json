@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0208dbadee19d7c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INBOX/INSIGHTS to DOCUMENT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
+                "file": "INBOX/INSIGHTS to DOCUMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
+                "file": "INBOX/INSIGHTS to DOCUMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/Inputs/Pattern Body/Pattern Template.md"
+                "file": "INBOX/INSIGHTS to DOCUMENT.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00c538b7af6c3bd1",
+  "active": "0208dbadee19d7c7",
   "lastOpenFiles": [
-    "Untitled.md",
     "TEMPLATES/Inputs/Pattern Body/Pattern Template.md",
+    "INBOX/INSIGHTS to DOCUMENT.md",
+    "Untitled",
     "TEMPLATES/Inputs/Metadata/Zotero Metadata Template.md",
     "TEMPLATES/Inputs/Metadata/Video Game Metadata Template.md",
     "TEMPLATES/Inputs/Metadata/Tabletop Roleplaying Game Metadata Template.md",
@@ -171,7 +185,6 @@
     "INBOX/Hello World.md",
     "INBOX/Untitled.canvas",
     "INBOX/pdfs",
-    "TEMPLATES/Inputs",
-    "TEMPLATES"
+    "TEMPLATES/Inputs"
   ]
 }
