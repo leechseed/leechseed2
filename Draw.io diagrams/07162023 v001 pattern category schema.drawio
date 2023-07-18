@@ -1,0 +1,151 @@
+<mxfile host="Electron" modified="2023-07-16T15:13:36.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="OG5K3YfFYxEF7oj38Xbl" version="21.6.1" type="device">
+  <diagram name="Page-1" id="LI2Qo-FuR8_srrw1js5p">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-1" value="07162023 v001 Pattern Category Schema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="10" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-2" value="Pattern Category" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="780" y="40" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-2" vertex="1">
+          <mxGeometry y="30" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-15" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-3" vertex="1">
+          <mxGeometry width="30" height="40" as="geometry">
+            <mxRectangle width="30" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-4" value="PATCAT_ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-3" vertex="1">
+          <mxGeometry x="30" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-5" value="Unique ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-3" vertex="1">
+          <mxGeometry x="160" width="110" height="40" as="geometry">
+            <mxRectangle width="110" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-2" vertex="1">
+          <mxGeometry y="70" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-6" vertex="1">
+          <mxGeometry width="30" height="40" as="geometry">
+            <mxRectangle width="30" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-7" value="PATCAT_DESIGNER" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-6" vertex="1">
+          <mxGeometry x="30" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-8" value="Designer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-6" vertex="1">
+          <mxGeometry x="160" width="110" height="40" as="geometry">
+            <mxRectangle width="110" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-2" vertex="1">
+          <mxGeometry y="110" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-9" vertex="1">
+          <mxGeometry width="30" height="40" as="geometry">
+            <mxRectangle width="30" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-10" value="PATCAT_MEMETIC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-9" vertex="1">
+          <mxGeometry x="30" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-11" value="Memetic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-9" vertex="1">
+          <mxGeometry x="160" width="110" height="40" as="geometry">
+            <mxRectangle width="110" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-2" vertex="1">
+          <mxGeometry y="150" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-12" vertex="1">
+          <mxGeometry width="30" height="40" as="geometry">
+            <mxRectangle width="30" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-13" value="PATCAT_PR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-12" vertex="1">
+          <mxGeometry x="30" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-14" value="PeerReviewed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-12" vertex="1">
+          <mxGeometry x="160" width="110" height="40" as="geometry">
+            <mxRectangle width="110" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-19" value="Pattern TItle" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="610" y="40" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-19" vertex="1">
+          <mxGeometry y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-21" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-20" vertex="1">
+          <mxGeometry width="20" height="40" as="geometry">
+            <mxRectangle width="20" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-22" value="PT_ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-20" vertex="1">
+          <mxGeometry x="20" width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-19" vertex="1">
+          <mxGeometry y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-24" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-23" vertex="1">
+          <mxGeometry width="20" height="40" as="geometry">
+            <mxRectangle width="20" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-25" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-23" vertex="1">
+          <mxGeometry x="20" width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XcL7ezQmDqolDHtK6qlq-19" vertex="1">
+          <mxGeometry y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-27" value="FK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-26" vertex="1">
+          <mxGeometry width="20" height="40" as="geometry">
+            <mxRectangle width="20" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-28" value="PATCAT_ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XcL7ezQmDqolDHtK6qlq-26" vertex="1">
+          <mxGeometry x="20" width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-29" value="schema pattern" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XcL7ezQmDqolDHtK6qlq-26" target="XcL7ezQmDqolDHtK6qlq-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-32" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Patterns&lt;/b&gt; (otherwise known as Design Patterns) are recurring forms or arrangements that offer guidelines to artists for creating balanced and engaging work. These patterns serve as fundamental structures to enhance aesthetics and functionality in artworks.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-33" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Designer Patterns&lt;/b&gt; refer to unique patterns or styles that a designer develops based on their intuition, intention, and personality. These patterns aren&#39;t universal templates but rather are individual aesthetic or strategic preferences that the designer uses consistently across their work. Over time, these personal design patterns may become distinctive characteristics that identify and differentiate the designer&#39;s work from others, reflecting their unique creative vision and approach.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="40" y="190" width="450" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-34" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li&gt;&lt;b&gt;Memetic Patterns&lt;/b&gt; refer to design elements identified in various media, gathered based on personal sentiment or adherence to established design language. These patterns are not necessarily created, but rather are found and appreciated, often resonating on an emotional level or reflecting conventional design principles. They can serve as inspiration or reference in creative processes, influencing the formation of new designs or aesthetic approaches.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="40" y="340" width="450" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-35" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li&gt;&lt;b&gt;Peer-reviewed (PeerReviewed) patterns&lt;/b&gt; often referred to as referential sources, establish and recognize patterns that shape a specific design language and the commonly accepted practices within a certain subject matter. These patterns, having undergone scrutiny by other experts in the field, offer a reliable foundation for developing design approaches and serve as authoritative guidelines within the industry or discipline.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="40" y="490" width="450" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XcL7ezQmDqolDHtK6qlq-37" value="&lt;h1&gt;Purpose&lt;/h1&gt;&lt;p&gt;The objective of a pattern category schema is to generate precise, robust data for creative patterns that are unique to specific media types, while concurrently establishing universal metadata that is clearly defined. This approach fosters the creation of distinct, high-quality, and proven design patterns, which can subsequently be leveraged to construct a larger architecture of intellectual property and creative products. The schema&#39;s purpose is not only to organize and classify patterns, but also to serve as a catalyst for innovation and quality in the creation of new designs and creative outputs.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="400" width="300" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

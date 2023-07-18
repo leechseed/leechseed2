@@ -6,8 +6,10 @@ def convert_epubs_to_pdfs(directory):
         if filename.endswith('.epub'):
             epub_path = os.path.join(directory, filename)
             pdf_path = os.path.splitext(epub_path)[0] + ".pdf"
-            cmd = ['ebook-convert', epub_path, pdf_path]
-            
+            cmd = [r'C:\Program Files\Calibre2\ebook-convert.exe', epub_path, pdf_path]
+
+            print(f"Running command: {' '.join(cmd)}")
+
             try:
                 subprocess.run(cmd, check=True)
                 print(f"Converted {epub_path} to {pdf_path}")
