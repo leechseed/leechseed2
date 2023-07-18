@@ -1,9 +1,42 @@
-<mxfile host="Electron" modified="2023-07-17T19:33:00.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="-hkjMrF3TGN1uXI5H0hS" version="21.6.1" type="device">
+<mxfile host="Electron" modified="2023-07-18T23:01:29.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="zdMR8qBt5u7AhXcwggZU" version="21.6.1" type="device">
   <diagram name="Page-1" id="4fRquo2Pq8VCBOu2Equz">
-    <mxGraphModel dx="1658" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-1" value="07172023 v001 narrative writing program workflow prototype" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-q92BEzZUDzs7Epes-Cp-2" target="-q92BEzZUDzs7Epes-Cp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-2" value="ghostwriter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-q92BEzZUDzs7Epes-Cp-3" target="-q92BEzZUDzs7Epes-Cp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-3" value="logseq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-5" value="obsidian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-q92BEzZUDzs7Epes-Cp-7" target="-q92BEzZUDzs7Epes-Cp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-7" value="data creation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-q92BEzZUDzs7Epes-Cp-8" target="-q92BEzZUDzs7Epes-Cp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-8" value="data cleanup/backup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-q92BEzZUDzs7Epes-Cp-10" value="storage/filing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
