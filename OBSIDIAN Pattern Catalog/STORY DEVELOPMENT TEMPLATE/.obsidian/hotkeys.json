@@ -1,0 +1,20 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}

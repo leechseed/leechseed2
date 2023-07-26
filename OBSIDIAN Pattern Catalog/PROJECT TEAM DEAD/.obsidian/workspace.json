@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "1fc589f8cc434c5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e20cd4745705aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd62b8674f60f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 (EQE) EQUIPOISE/05 EQUIPOISE - FRONTPAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9accc27a519ab7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 (ICOM) INTRABOUND COMMUNICATIONS/07 INTRABOUND COMMUNICATIONS - FRONTPAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "94a0f17e20433bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0c840da9eb9785af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 MGMT/09 MGMT - FRONTPAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e46ec9fb21f3e304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46e5601d90032a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a60728f6e9117b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9da341cd483939",
+        "type": "tabs",
+        "dimension": 50.125,
+        "children": [
+          {
+            "id": "74e31dbb2edf7a53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ff5f00677a9706a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b20130ad232c273",
+        "type": "tabs",
+        "dimension": 49.875,
+        "children": [
+          {
+            "id": "561bdc8ed7a411be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "84c1c287f83a3953",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "823c7afc3fbc515f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54db3538c862a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5042de746d9632",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09 MGMT/09 MGMT - FRONTPAGE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "0c840da9eb9785af",
+  "lastOpenFiles": [
+    "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
+    "09 MGMT/09 MGMT - FRONTPAGE.md",
+    "07 (ICOM) INTRABOUND COMMUNICATIONS/07 INTRABOUND COMMUNICATIONS - FRONTPAGE.md",
+    "06 (OTL) OUTBOUND LINGUISTICS/06 OUTBOUND LINGUISTICS - FRONTPAGE.md",
+    "00 TAG SHEET.md",
+    "05 (EQE) EQUIPOISE/05 EQUIPOISE - FRONTPAGE.md",
+    "03 CHARACTER/03 CHARACTER - FRONTPAGE.md",
+    "02 PLOT/02 PLOT - FRONTPAGE.md",
+    "01 THEME/01 THEME - FRONTPAGE.md",
+    "04 SETTING/04 SETTING - FRONTPAGE.md",
+    "09 MGMT/09 TEMPLATES/FRONTPAGE TEMPLATE.md",
+    "09 MGMT/09 TEMPLATES",
+    "09 MGMT",
+    "INBOX_NOTES.md",
+    "NOTES",
+    "08 FUZZY CLASSIFIER",
+    "07 (ICOM) INTRABOUND COMMUNICATIONS",
+    "06 (OTL) OUTBOUND LINGUISTICS",
+    "05 (EQE) EQUIPOISE",
+    "04 SETTING",
+    "Untitled.canvas",
+    "02 PLOT",
+    "sf",
+    "2023-07-25.md"
+  ]
+}
