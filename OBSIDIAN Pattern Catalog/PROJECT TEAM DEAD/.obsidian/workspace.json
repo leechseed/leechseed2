@@ -8,72 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cd62b8674f60f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 (EQE) EQUIPOISE/05 EQUIPOISE - FRONTPAGE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9accc27a519ab7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 (ICOM) INTRABOUND COMMUNICATIONS/07 INTRABOUND COMMUNICATIONS - FRONTPAGE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "94a0f17e20433bc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0c840da9eb9785af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 MGMT/09 MGMT - FRONTPAGE.md",
+                "file": "04 SETTING/04 SETTING - FRONTPAGE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "e46ec9fb21f3e304",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e46e5601d90032a5",
+            "id": "651d480c11a4cc13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
-                "mode": "preview",
+                "file": "10 MEDIA FOLDER/Plot Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a43a9581f697ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 CHARACTER/03 CHARACTER - FRONTPAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7bd6aa85a5a80db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 MEDIA FOLDER/Plot Notes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -148,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 200
   },
   "right": {
     "id": "823c7afc3fbc515f",
@@ -164,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 MGMT/09 MGMT - FRONTPAGE.md"
+                "file": "04 SETTING/04 SETTING - FRONTPAGE.md"
               }
             }
           }
@@ -189,19 +169,27 @@
   "active": "0c840da9eb9785af",
   "lastOpenFiles": [
     "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
+    "04 SETTING/04 SETTING - FRONTPAGE.md",
+    "02 PLOT/02 PLOT - FRONTPAGE.md",
+    "01 THEME/01 THEME - FRONTPAGE.md",
+    "05 (EQE) EQUIPOISE/05 EQUIPOISE - FRONTPAGE.md",
+    "10 MEDIA FOLDER/Pasted image 20230805204820.png",
+    "10 MEDIA FOLDER",
+    "03 CHARACTER/03 CHARACTER - FRONTPAGE.md",
+    "03 CHARACTER/1OF - TALIA.md",
+    "10 MEDIA FOLDER/Plot Notes.md",
+    "00 TAG SHEET.md",
+    "03 CHARACTER/1HF - MARIA.md",
+    "10 MEDIA FOLDER/Pasted image 20230805205439.png",
+    "03 CHARACTER/03 CHARACTER - RESEARCH.md",
+    "10 MEDIA FOLDER/Pasted image 20230805204823.png",
+    "INBOX_NOTES.md",
     "09 MGMT/09 MGMT - FRONTPAGE.md",
     "07 (ICOM) INTRABOUND COMMUNICATIONS/07 INTRABOUND COMMUNICATIONS - FRONTPAGE.md",
     "06 (OTL) OUTBOUND LINGUISTICS/06 OUTBOUND LINGUISTICS - FRONTPAGE.md",
-    "00 TAG SHEET.md",
-    "05 (EQE) EQUIPOISE/05 EQUIPOISE - FRONTPAGE.md",
-    "03 CHARACTER/03 CHARACTER - FRONTPAGE.md",
-    "02 PLOT/02 PLOT - FRONTPAGE.md",
-    "01 THEME/01 THEME - FRONTPAGE.md",
-    "04 SETTING/04 SETTING - FRONTPAGE.md",
     "09 MGMT/09 TEMPLATES/FRONTPAGE TEMPLATE.md",
     "09 MGMT/09 TEMPLATES",
     "09 MGMT",
-    "INBOX_NOTES.md",
     "NOTES",
     "08 FUZZY CLASSIFIER",
     "07 (ICOM) INTRABOUND COMMUNICATIONS",
@@ -210,7 +198,6 @@
     "04 SETTING",
     "Untitled.canvas",
     "02 PLOT",
-    "sf",
     "2023-07-25.md"
   ]
 }

@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4689d163d4132ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a54965e32893c69",
+            "id": "4e8005716a97d1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_CHARACTER/C2R.md",
+                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -40,6 +31,7 @@
       {
         "id": "63f57af9659c9c57",
         "type": "tabs",
+        "dimension": 29.603960396039607,
         "children": [
           {
             "id": "f4dc6e04bc4e0ce5",
@@ -58,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#06_OTL,",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,11 +67,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8520f1e5031b3a15",
         "type": "tabs",
+        "dimension": 70.3960396039604,
         "children": [
           {
             "id": "bb2c0ef29d16cf36",
@@ -87,7 +81,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           }
@@ -111,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_CHARACTER/C2R.md",
+                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_CHARACTER/C2R.md",
+                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_CHARACTER/C2R.md"
+                "file": "02_PLOT/FRONTPAGE 02_PLOT.md"
               }
             }
           }
@@ -149,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,36 +158,40 @@
   },
   "active": "bb2c0ef29d16cf36",
   "lastOpenFiles": [
-    "03_CHARACTER/C2E3.md",
-    "03_CHARACTER/C2E2.md",
-    "03_CHARACTER/C2E1.md",
-    "03_CHARACTER/C1R.md",
-    "03_CHARACTER/C1E10.md",
-    "03_CHARACTER/C1E9.md",
-    "03_CHARACTER/C1E8.md",
-    "03_CHARACTER/C1E7.md",
-    "03_CHARACTER/C1E6.md",
-    "03_CHARACTER/C1E5.md",
-    "03_CHARACTER/C1E4.md",
-    "03_CHARACTER/C1E3.md",
-    "03_CHARACTER/C1E2.md",
-    "03_CHARACTER/C1E1.md",
+    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+    "03_CHARACTER/03_MCKEE",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
     "00 TAG SHEET.md",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "01_THEME/FRONTPAGE 03_THEME.md",
+    "03_CHARACTER/03_ALESSANDRA/03_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E1.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2E3.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2E2.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2E1.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1R.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E10.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E9.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E8.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E7.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E6.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E5.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E4.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E3.md",
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E2.md",
+    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT",
+    "03_CHARACTER/03_The Psychology Workbook for Writers/PSWR - Tell me about your mother",
+    "03_CHARACTER/03_SMITH D",
+    "03_CHARACTER/03_ALESSANDRA",
     "09_MGMT",
     "08_FUZZ",
     "07_ICOM",
     "06_OTL",
-    "05_EQE",
-    "04_SETTING",
-    "03_CHARACTER",
-    "02_PLOT",
-    "01_THEME",
-    "templates/template for steps.md",
-    "03_CHARACTER/C2R.md",
-    "C1E9 1.md",
-    "C1E5 1.md",
-    "C1E6 1.md",
-    "().md",
-    "templates"
+    "templates/template for steps.md"
   ]
 }
