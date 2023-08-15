@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
+                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
+                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
+                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_PLOT/FRONTPAGE 02_PLOT.md"
+                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md"
               }
             }
           }
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "4e8005716a97d1b0",
   "lastOpenFiles": [
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
     "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
     "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
     "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
@@ -165,7 +166,6 @@
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
     "00 TAG SHEET.md",
     "04_SETTING/FRONTPAGE 04_SETTING.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
     "01_THEME/FRONTPAGE 03_THEME.md",
     "03_CHARACTER/03_ALESSANDRA/03_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E1.md",
