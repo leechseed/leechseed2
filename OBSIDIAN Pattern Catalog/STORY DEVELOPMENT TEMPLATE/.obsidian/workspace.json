@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e8005716a97d1b0",
+            "id": "a2d7411c3f442c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8da54d89faa6d62d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,39 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "277f23d82041c3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e8005716a97d1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ed748524e8bbc7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +75,7 @@
       {
         "id": "63f57af9659c9c57",
         "type": "tabs",
-        "dimension": 29.603960396039607,
+        "dimension": 29.6039603960396,
         "children": [
           {
             "id": "f4dc6e04bc4e0ce5",
@@ -156,13 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e8005716a97d1b0",
+  "active": "8da54d89faa6d62d",
   "lastOpenFiles": [
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
     "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
     "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
     "03_CHARACTER/03_MCKEE",
+    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_DAVIS",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
     "00 TAG SHEET.md",
     "04_SETTING/FRONTPAGE 04_SETTING.md",
@@ -183,7 +230,6 @@
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E4.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E3.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E2.md",
-    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
     "03_CHARACTER/03_CORBETT",
     "03_CHARACTER/03_The Psychology Workbook for Writers/PSWR - Tell me about your mother",
     "03_CHARACTER/03_SMITH D",
@@ -191,7 +237,6 @@
     "09_MGMT",
     "08_FUZZ",
     "07_ICOM",
-    "06_OTL",
     "templates/template for steps.md"
   ]
 }
