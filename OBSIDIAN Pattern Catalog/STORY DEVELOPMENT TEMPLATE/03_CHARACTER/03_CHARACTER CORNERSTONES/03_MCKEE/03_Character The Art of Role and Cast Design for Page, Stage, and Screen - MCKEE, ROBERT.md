@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-Character’s primary purpose is to enrich your insights into the nature of the fictional character and sharpen your creative techniques as you invent a complex, never-seen before cast of personalities, starting with your protagonist, then moving outward through your first, second, and third circles of supporting roles, ending with the nameless passing at the far edges of episodes.
+**Character’s primary purpose is to enrich your insights into the nature of the fictional character** and sharpen your creative techniques as you invent a complex, never-seen before cast of personalities, starting with your protagonist, then moving outward through your first, second, and third circles of supporting roles, ending with the nameless passing at the far edges of episodes.
 
 In the chapters that follow, the principle of contradiction underpins virtually every lesson in character design. I play opposites against each other: characters versus human beings, institutions versus individuals, traits versus truths, the outer life versus the inner life, and so on. You and I know, of course, that along any spectrum strung between polar extremes, shades of possibility blur into overlaps and admixtures. But for clear, facile perception of character complexity, a writer needs a sensitivity to contrast and paradox, an eye for contradiction that unearths the full range of creative possibility. This book teaches that skill.
 

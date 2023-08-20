@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba9f16685a1fb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1501507e9b210c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bed1245a00d26bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "277f23d82041c3cc",
@@ -44,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_CHARACTER/FRONTPAGE 03_CHARACTER.md"
+                "file": "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md"
               }
             }
           }
@@ -200,16 +236,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8da54d89faa6d62d",
+  "active": "7bed1245a00d26bc",
   "lastOpenFiles": [
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
-    "03_CHARACTER/03_MCKEE",
-    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
+    "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_CORBETT/03_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+    "03_CHARACTER/03_LAUTHER",
     "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_DAVIS",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_WRITERS DIGEST",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_MCKEE",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_DAVIS",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
     "00 TAG SHEET.md",
     "04_SETTING/FRONTPAGE 04_SETTING.md",
@@ -227,16 +269,9 @@
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E7.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E6.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E5.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E4.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E3.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E2.md",
-    "03_CHARACTER/03_CORBETT",
+    "03_CHARACTER/03_CHARACTER CORNERSTONES/03_CORBETT",
     "03_CHARACTER/03_The Psychology Workbook for Writers/PSWR - Tell me about your mother",
     "03_CHARACTER/03_SMITH D",
-    "03_CHARACTER/03_ALESSANDRA",
-    "09_MGMT",
-    "08_FUZZ",
-    "07_ICOM",
-    "templates/template for steps.md"
+    "03_CHARACTER/03_ALESSANDRA"
   ]
 }

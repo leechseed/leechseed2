@@ -6,14 +6,18 @@
 
 # Character - Body of Knowledge
 
-## Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT
+## Character_Cornerstones
+The authors found in this category represent the cornerstones of my personal theory of composition. 5? Masters of the craft each which represent their own robust theory on creating character. 
+Each can be used independently or in cooperation with each other. The idea for now is to limit myself to these 5 authors when crafting my own personal character theory. 
+
+### Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT
 McKee's entire methodology and theory when it comes to intertextual storytelling is based on the concept of duality. The idea of polar opposites are what govern drama, dilemma, and tragedy. The impossible decisions, contradictions, perceptions that we embody as consciousnesses against the immovable reality of the world in which we are forced adapt and change with. 
 *The genius of McKee is in the simplicity of his design theory. Duality and the infinite spectrum between provides constraints to the infinity that is relentless creativity. At any point of the creative writing process, McKee is the tool to always reach for first. Salt to culinary.*
-## Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB
+### Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB
 Davis explicitly states that his writings are not of a prescriptive nature. EG: Steps to character. Rather, Davis theorizes on the nature of character and characterization. He believes that character is an organism of evolving relationships that can adapt according to the needs of the author. What has worked, why, and why it might not again. He places the onus of decision making on the author. Concisely, Davis' approach to character is that of a craft. A pursuit of aesthetics guided by principles and refinement. 
 *Davis is the wind in the sails and the stars in the sky. When all else fails, his pontifications can be used as a troubleshooting guide or a reminder that as the author, I decide write and wrong.*
 [Rib](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_MCKEE%2F03_Character%20The%20Art%20of%20Role%20and%20Cast%20Design%20for%20Page%2C%20Stage%2C%20and%20Screen%20-%20MCKEE%2C%20ROBERT)
-## The Art of Character - CORBETT, DAVID
+### The Art of Character - CORBETT, DAVID
 Corbett focuses on a wholistic approach of characterization that prioritizes the use of memory thru scenes. He breaks up the development of character into three steps: 
 	- 1 conception
 	- 2 development
