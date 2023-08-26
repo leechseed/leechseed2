@@ -1,6 +1,6 @@
 ---
 tags:
-- 00_INBOX
+- 00_GENERAL
 - 01_THEME
 - 02_PLOT
 - 03_CHARACTER , 03_CHARACTER/ALESSANDRA
@@ -12,3 +12,8 @@ tags:
 - 09_MGMT 09_MGMT/TEMPLATES
 ---
 #09_MGMT 
+*log*
+	- 8212023 
+		- added 00_GENERAL 
+		- assets folder
+

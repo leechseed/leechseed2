@@ -1,0 +1,2 @@
+> **00 - GENERAL** - Introduces a myriad of theories, models, and philosophies surrounding narrative and story. Using these tenets of story, the goal is to distill and craft my own theory of composition.
+> 
