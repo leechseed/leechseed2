@@ -1,13 +1,19 @@
 #03_CHARACTER 
 
 # INTRODUCTION
-**The first requirement of a script is that it must hold the attention of the audience through to the end.** An audience that switches off or walks out is not a satisfied audience, and neither writers nor anyone else connected to a production (including funders, of course!) want a dissatisfied audience. So why does an audience stay? The principal, most basic reason is, to find out what happens next. If the audience doesn’t care what happens next, then that is a crucial failing. **So what makes an audience care what happens next? The answer is, above all: caring about the characters.** Caring about what happens next is about caring what happens next to the characters. To have the audience care about the characters is, then, absolutely vital; it is central to the success of a script, whether that script is intended for television, film, stage or radio.
+**Summary and Clarification:**
 
-This book deals with character in all the script media. These media obviously differ from each other in a variety of respects, yet they have a great deal in common. Radio drama, for example, as it clearly cannot call upon visual effects (other than in the listener’s mind), seems a very long way from film, yet in its capacity to move apparently effortlessly from location to location it closely resembles film, while television writing sometimes seems closer to theatre than to film. The relationships between these media, then, are not always obvious, and in the coming chapters there will be many points where distinctions will be drawn between the handling of certain techniques in the various media. They do, however, have a number of major elements in common, including the need for effective dialogue, a strong plot and successful characterization.
+1. **Holding Audience Attention:** The primary goal of any script is to maintain the audience's interest until the end. If they lose interest and disengage, it indicates the script's failure. 
 
-**In general, I have a strong dislike of books about writing that are prescriptive, that tell you what to do and what not to do**. And there are plenty of such books around. The problem is that very often the writers of these books have in mind a certain type of film (maybe the traditional Hollywood blockbuster) or a certain type of play (maybe in the naturalistic tradition), and all comments are made in the light of this. Thus one well-known book on screenwriting can blithely state that the goal of the main plot will tend to be action-based while the goal of the sub-plot will tend to be relationship-based. Well, who says? Even restricting ourselves to films, how does this apply to, say, Citizen Kane, or Bonnie and Clyde, or Pulp Fiction or The Big Lebowski? I am not entirely unsympathetic to the point: it is true that in many scripts the plot is action-based while the sub-plot is relationship-based, but despite the use of the words ‘tend to’ the analysis is too bald, the division too sharp, and the analysis fails sufficiently to take into account the multitude of different genres and styles in which scripts can be written. The writers of such books generally love rules (they often show some affection for diagrams, too). I don’t. So **what I am offering is a little advice, that is all.** There are a million ways to go about writing a script or a play, and creating the characters within it. So if ever my advice slips into being prescriptive, I apologize in advance. But then, writers don’t take orders anyway.
+2. **Character Importance:** The main reason an audience remains engaged is due to their curiosity about "what happens next." This curiosity is intrinsically tied to the characters in the story. If the audience cares about the characters, they'll want to know their fate. Hence, character development and relatability are crucial for a successful script, regardless of the medium (TV, film, stage, or radio).
 
-# Part 1 Character in the Real World 
+3. **Script Media:** While there are different mediums for scripts, they have many similarities. For instance, radio drama, which lacks visual effects, can be compared to film in its storytelling dynamics. Despite the differences between film, TV, theater, and radio, essential elements like engaging dialogue, compelling plot, and strong characterization remain consistent.
+
+4. **Against Prescriptive Writing Guides:** The author disapproves of writing guides that strictly dictate what should or shouldn't be done. Many of these guides are narrowly focused on specific film types or styles, which doesn't cater to the vast range of genres and storytelling methods available. For example, a book might claim that main plots should be action-focused and sub-plots relationship-focused, but this doesn't apply universally to every movie or script.
+
+5. **Offered Perspective:** Instead of prescribing rules, the author simply provides advice based on their perspective. They recognize that there are countless ways to approach scriptwriting and character creation. If their advice seems too directive, they preemptively apologize, highlighting that writers are independent thinkers who don't strictly adhere to rules.
+
+# PART ONE Character in the Real World 
 ## Chapter 1 Roots of a Character 
 **Character Creation in Scriptwriting:**
 
@@ -350,7 +356,7 @@ Psychologists widely recognize five core dimensions of personality:
 
 # PART TWO Character Within Script
 
-## 5 Character motivation and the plot
+## Chapter 5 Character motivation and the plot
 
 ### Threaten it
 **Summary and Clarification:**
@@ -643,5 +649,119 @@ In "Crash", multiple storylines interweave around the theme of racial and ethnic
 
 The emotional journey is vital in character development, and in multi-linear scripts, it's the intertwining of these journeys that create a compelling narrative.
 ### Who he is and who he wants to be
-.109
+**Summary:**
+
+The text discusses the significance of the emotional journey a character undergoes in a story, emphasizing that it shouldn't be a straightforward progression. This journey is separate from the plot, but it's influenced by it. The emotional journey often involves the character's doubts about their transformation and choices, making it more compelling and engaging for the audience. A character's transformation isn't always positive; sometimes it's regressive, as seen in "Breaking Bad". The main point is that an obvious and direct transformation might not captivate the audience.
+
+Using the film "Crash" as an example, the narrative explains how intertwined storylines, representing various characters' perspectives, make the story dynamic. In the movie, characters from different backgrounds interact in various situations, leading to misunderstandings primarily rooted in racial and ethnic differences. The story showcases how these misunderstandings and their inherent biases impact their emotional journeys and personal growth. Anthony, one character, begins as a bitter young man who justifies his criminal actions based on perceived racial discrimination. However, by the film's end, encounters with other characters make him reflect on his choices, leading him towards a more positive path.
+
+Another character, Jean, lives a life of luxury but is constantly angry and isolated. After a series of events, she realizes her maid, Maria, is her best friend, indicating her loneliness. Jean's journey is about understanding her feelings and trying to move past them.
+
+In essence, the text underscores the importance of emotional depth and transformation in character development, making a story more engaging for viewers.
 ## Chapter 9 Description and self-description 
+**Summary:**
+
+The text discusses the challenge of presenting a character to the audience once the writer has a clear understanding of that character and their story. While a writer might have a deep knowledge of their character, it's crucial to convey this to the audience effectively. The primary way to reveal a character's essence is through their actions, particularly their decisions in conflict situations. However, dialogues are also instrumental in character development. Aside from what the protagonist says, what other characters say about the protagonist can be a potent tool in character portrayal. The discussion emphasizes the significance of 'reporting of a character' as an essential technique in storytelling.
+### Telling us what she's like
+**Summary:**
+
+People's perceptions of an individual, such as "Sandra", vary based on personal interactions and contexts. Asking different individuals to describe Sandra will yield varying opinions and descriptions. This phenomenon of differing perceptions is not only due to Sandra showing different sides of her personality in different contexts but also because each person evaluates her based on their own biases and experiences. Essentially, there isn't one 'real' Sandra but a multitude of interpretations of her. For playwrights and storytellers, this complexity in human perception is advantageous. By showcasing diverse opinions about a character, they can provide a more holistic and layered understanding of that character to the audience. Just as a single light can make an actor appear flat, a singular perspective can make a character seem one-dimensional. Multiple perspectives, like multiple lights, give depth and three-dimensionality. Thus, the views of various characters are crucial for representing a comprehensive and well-rounded character in stories.
+### Preparing the ground
+**Summary:**
+
+The text discusses the importance of character establishment in storytelling. It emphasizes that audiences often understand a main character based on how secondary characters describe or relate to them. This indirect method can build anticipation and offers background information without direct exposition.
+
+1. **Setting the Stage**: The storyteller can introduce a protagonist indirectly by having other characters discuss them before their formal introduction. Examples include Shakespeare's "Romeo and Juliet" and "Coriolanus", where the characters are spoken of long before they make their actual appearance. This indirect introduction helps the audience shape a perception based on others' opinions.
+
+2. **Description and Self-Description**: Characters can often be described both by others and by their own actions or lack thereof. For instance, in the radio play "Cigarettes and Chocolate", the protagonist, Gemma, is mainly known through the voices of others, which creates a picture of her character without her direct involvement. In other cases, characters might be shown doing something (e.g., Clint Eastwood's silent character in westerns) or might be misrepresented by others, as in "American Beauty". Sometimes, characters describe others in a way that reflects their own characteristics, like Mercutio does in "Romeo and Juliet".
+
+3. **Showing vs Telling**: The writer has to decide between showing a character's traits through action or telling them via dialogues. Usually, showing is more powerful than telling, as actions can be more memorable and trustworthy than words. However, sometimes misleading the audience by telling can serve a narrative purpose.
+
+4. **Impact of First Impressions**: Just like in real life, first impressions are vital in drama. They set the tone and establish initial perceptions that can evolve or be challenged as the story progresses.
+
+Overall, establishing character is a nuanced task, and a balance of showing, telling, and the perceptions of other characters can create a richer narrative experience for the audience.
+### Self-description 
+**Summary**:
+
+**Self-Description in Characterization**:
+
+Self-description is a method used in various media like film, television, theatre, and radio where characters directly address the audience to reveal information about themselves or express it to another character. This technique can be effective but also comes with pitfalls.
+
+In the mentioned extract from "Spend, Spend, Spend", Vivian's self-description isn't just to provide information but to show her understanding of her life. Self-descriptions, if just factual, risk being boring. They should contribute something additional to the story rather than merely restate known facts.
+
+"American Beauty" is cited as an example where self-description works effectively. The protagonist, Lester Burnham, uses self-description to express his state of mind, intertwined with action. This approach provides context, leaves room for speculation, and conveys the character's state of mind. But self-description can also be misleading, as seen with Angela, who lies about her sexual experiences to appear more mature and worldly than she is.
+
+The main risks with self-description are it becoming a lazy writing tool, being used redundantly, or misleadingly portraying a character.
+
+**Stylistic Consistency**:
+
+Different styles of writing are explored, from naturalism and heightened naturalism to non-naturalism which includes genres like fantasy and science fiction. Whatever style is chosen, maintaining stylistic consistency within a script is crucial. Audiences will accept any established rules if they are consistent.
+
+Using the example from "When Harry Met Sally", the fake orgasm scene in the diner might seem unrealistic, but it is consistent with the heightened naturalism of the film. Characters can behave in slightly exaggerated ways, but as long as the emotional truth remains consistent, the audience is willing to suspend disbelief.
+
+In essence, the article stresses the importance of effective self-description in character development and the significance of maintaining a consistent style in storytelling.
+## Chapter 10 Heroes and villains
+**Summary:**
+The distinction between heroes and villains can be blurred, especially when characters are complex and undergo development. While clear heroes and villains can be found in stories like "Gladiator", with Maximus as the hero and Commodus as the villain, this delineation isn't as straightforward in other narratives. The character of Coriolanus is more ambiguous, and while he possesses heroic traits, he's also deeply flawed. "Game of Thrones" offers an even more intricate portrayal through Jaime Lannister, who transitions between villainous and heroic attributes throughout the series. It may be more accurate to use the terms 'protagonist' and 'antagonist' to describe central characters and their primary opposers, respectively. However, even these terms can be misleading, as seen in "Breaking Bad" where the morally flawed Walter White is the protagonist. It's essential to approach characters with nuance and avoid oversimplification.
+### The strongest Character
+**Summary:**
+Protagonists in stories do not necessarily need to be morally good, but they should be the central characters who captivate the audience's interest. They undergo the most compelling struggles and emotional journeys, and the audience spends the most time with them, leading to an inherent identification with their perspectives. This identification can even occur with characters who have significant flaws, such as Coriolanus or Jonnie Rooster. A good example is the television series "The Bill", which deliberately frames the narrative from the police's point of view, making the audience identify with them. Even when a character has flaws, elements like humor or emotional vulnerability can lead to audience attachment. This concept is further explored through anti-heroes, like Walter White, who have a mix of good and bad qualities. Historically, characters like Ben Jonson's in "The Alchemist" and "Volpone" have charmed audiences despite their rogue behaviors. However, if a protagonist lacks any redeeming qualities, audience engagement can be limited. The key to a successful narrative is audience identification or empathy, as it drives interest and investment in the characters' fates.
+### Antagonists
+**Summary:**
+
+The text discusses the nuances of creating compelling characters, focusing on antagonists and protagonists in storytelling.
+
+1. **Antagonists**:
+   - They don't necessarily need to elicit empathy but should be fascinating. A dull villain loses audience interest.
+   - Their motivations should be clear, and their beliefs might be based on a personal moral code.
+   - Edmund from "King Lear" exemplifies a villain with clear motivations stemming from the resentment of his illegitimate status.
+   - The concept of free will versus environmental influence is essential in character development. A well-drawn character should show these aspects in balance.
+
+2. **Heroes and Villains**:
+   - Not all antagonists are villains. An antagonist simply opposes the protagonist's goals.
+   - Examples like "Speed" show that the hero-villain dynamic isn't always about depth, but the motivations should be clear.
+   - In plays like Sam Shepard’s "True West," both characters can act as protagonists and antagonists.
+
+3. **Variety of Antagonists**:
+   - There isn't always a single clear antagonist in every story.
+   - The protagonist often faces multiple obstacles, sometimes even internal conflicts.
+   - The idea of a central protagonist and antagonist can be too simplistic. Multiple characters might be on their personal journeys, and they could be both protagonists and antagonists to each other, as seen in "American Beauty."
+   - Real scripts are multifaceted, and creating compelling characters involves acknowledging this complexity.
+## Chapter 11 Secondary and minor characters 
+**Summary**: 
+
+Secondary and minor characters are crucial in storytelling. While they might not hold the spotlight like primary characters, they significantly shape the narrative by providing depth, perspective, and context. 
+
+- Secondary characters should be carefully constructed, as they can greatly influence the story's credibility and overall impact.
+- These characters can accentuate the themes of the narrative and offer insights into the main characters.
+- In the film "Secrets and Lies", the secondary character Dionne highlights aspects of Hortense's character and her birth mother Cynthia, showcasing alternative choices Hortense could've made and revealing a more layered dimension of Cynthia.
+- Similarly, in "Pretty Woman", characters like Kit de Luca, Philip Stuckey, and Mr. Thompson offer valuable contrasts and insights into the leads, Vivian and Edward. These secondary characters enhance the main characters' journeys by either showing alternatives, validating their choices, or revealing their evolution.
+- Some characters might not directly impact the primary characters but contribute by painting the world of the story, like in "The Big Lebowski", where secondary characters establish an environment where eccentricity is the norm.
+- Consistency in the portrayal of secondary characters is vital, as they reinforce the narrative's universe.
+- While these characters have their role in the plot, it's essential that they remain distinctive and multidimensional since real individuals are diverse and unique.
+## Chapter 12 The comic character 
+**Summary**:
+
+Comic characters can be both major and minor roles in a story. While adding comedic traits to a character can make them more relatable and appealing, it's essential to understand their placement in the narrative. For instance, if a primary character is inherently comedic, the story will lean towards comedy. However, introducing a comic minor character in a drama can add depth without turning the entire script comedic. It's challenging to mix an essentially comic central character in a serious drama without causing inconsistency in the story's tone.
+### Comedy and naturalism 
+**Summary**:
+
+Comedy often deviates from naturalism, exaggerating reality to highlight underlying absurdity. However, there are exceptions where naturalism itself is comedic due to audience recognition of certain clichéd characters or phrases. While using clichés can elicit a smile, reinventing or playing with them can generate more profound humor, like the cabbie in "Shakespeare in Love." Another source of humor comes from recognizing traits of specific individuals in series, where repeated exposure to a character's quirks makes them funnier. For instance, in the TV series "Frasier," many jokes are based on understanding the characters deeply. Once familiar with the characters, lines or actions reflecting their typical behavior become inherently humorous to the audience.
+### Humor tinged with sadness
+**Summary**:
+
+Many comic characters have an undertone of sadness, which can evoke both laughter and sympathy from the audience. Examples include Harold Steptoe from "Steptoe and Son" and Lady Would-be from Ben Jonson’s "Volpone". Delusions, especially about one's social standing or knowledge, are a frequent comedic tool. Comedy often plays with status relationships, emphasizing master-servant dynamics, as seen in "Fawlty Towers" and "Blackadder". Television sitcom characters generally don't evolve; they revert to their starting points at the end of episodes, with a few exceptions. Sitcoms like "Frasier" and "Detectorists" have shown character development across series. Series like "Green Wing" and "Catastrophe" have a mix of sketch and character-driven humor. A common comedic trope is the slightly dim but endearing character, seen in "Peep Show", "Friends", and "Blackadder". Ultimately, in many great comedies, characters don't intend to be funny; they become humorous due to the situations they are in, making it crucial for writers to craft scenarios that highlight their comedic attributes.
+## Chapter 13 Leaving your characters 
+**Summary:**
+
+**Leaving Your Characters:**
+
+1. **Improving Characters:** After all the work in creating a character, if they still don't feel right, then identify the problem. Common issues can be lack of conflict, unclear motivation, too much telling and not enough showing, or an unconvincing back-story. 
+   
+2. **Being Radical:** If small adjustments aren't working, consider significant changes. Change the character's gender, age, race, or background. This might help reveal the underlying issue or create a more compelling character.
+   
+3. **Reworking the Plot:** Sometimes the problem isn't the character but the plot itself. If the narrative doesn't allow for character growth, the solution might be in revising the story rather than the character.
+   
+4. **Importance of Final Impressions:** How a character is last seen or heard from can have a lasting impact on the audience. This can be done through symbolism, imagery, or a significant event. The ending should be memorable and reflect the essence of the character.
+
+For instance, in "The Third Man", the last we see of Harry Lime are his fingertips trying to escape, symbolizing his ultimate descent and death. This powerful imagery becomes more significant than showing his actual death. The ending scene should encapsulate the essence of the character.

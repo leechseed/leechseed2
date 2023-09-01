@@ -1,0 +1,855 @@
+# Part One - Developing a Technique 
+## 1 The Logic of Longing 
+### Summary: Character Exploration Exercises for Writers
+
+**Purpose:** The exercise aims to help writers delve deeper into their characters' psyches, specifically focusing on elements like Lack, Yearning, Resistance, and Desire.
+
+**Instructions:**
+
+1. **Character Selection:**
+   - Select two main characters from your ongoing project.
+   - The protagonist is mandatory. If unsure about your protagonist, choose the character most driven to act or the one evoking the most empathy.
+   - For the second character:
+     - If there's an opponent in your story, select them.
+     - For love stories, choose the character being loved.
+     - If neither applies, select another pivotal character, such as an ally, mentor, or parent.
+
+2. **Character Analysis:**
+   For each of the two characters:
+
+   - **Lack:** Identify what is missing in the character’s life.
+   - **Yearning:** Determine the character's life aspirations, including the person they want to become and the life they wish to lead. Understand how this desired transformation or achievement would address their Lack.
+   - **Resistance:** Analyze the internal and external obstacles preventing the character from fulfilling their Yearning. This includes:
+     - **Weaknesses:** Personal shortcomings.
+     - **Wounds:** Past traumas or hurts.
+     - **Limitations:** Inherent restrictions or barriers.
+     - **Opposition:** External challenges or antagonists.
+     - **Obligation:** Duties or responsibilities diverting their focus.
+     - **Flaws:** Moral or ethical deficiencies.
+   Understand how these factors make the character more inclined to avoid pain rather than seek fulfillment.
+   - **Desire:** Pinpoint the main objective or goal the character pursues in the story and how its achievement would satisfy their Yearning.
+
+**Outcome:** By answering these questions, writers can develop a profound understanding of their characters, making them more three-dimensional and relatable to readers. This foundational knowledge is crucial for creating a compelling narrative, with the following chapters delving deeper into these aspects.
+
+## 2 The Hole at the Heart of the Matter--Lack 
+
+### I. THE ECHO IN THE EMPTY ROOM
+
+#### Summary: Reflecting on Characters' Lack and Yearning
+
+**Main Idea:** The exercise prompts writers to delve deeper into the character development of their Work-In-Progress (WIP) by exploring the notions of "Lack" and "Yearning." By drawing insights from philosophical and religious interpretations, writers are encouraged to shape their characters' motivations, desires, and struggles in a more nuanced way.
+
+**Key Reflection Points:**
+
+1. **Revisiting the Characters' Lack:** 
+   - Assess any changes or refinements in the understanding of what's missing in the characters' lives after reading the previous discussion.
+   - Gauge how cognizant the characters are about their sense of Lack.
+
+2. **Personal Alignment with Philosophical Interpretations:** 
+   - Determine which philosophical or religious perspective on Lack and Yearning aligns most closely with the writer's own beliefs.
+   - Reflect on how this understanding manifests in the characters' lives and their internal or external struggles.
+   - Consider whether the characters' perspectives on Lack might differ from the writer's or from each other's.
+
+3. **Yearning Leading to Lack (First Character):** 
+   - Visualize the character's unfulfilled desires or aspirations and understand how these contribute to their sense of something missing in life.
+   - Ponder over the clarity with which the character perceives their Yearning. Are they acutely aware, or is it a vague, underlying feeling?
+   - Contemplate how the character might eventually uncover their true desires and aspirations.
+
+4. **Lack Without Clear Yearning (Second Character):** 
+   - Unlike the first character, this character doesn't have a defined Yearning but feels a general sense of incompleteness or inadequacy.
+   - Envision the immediate actions the character might take to alleviate their feelings of deprivation or escape their current circumstances.
+   - Reflect on whether these immediate steps towards a better life are portrayed in the WIP. If they aren't, the writer should introspect about the reasons for this omission.
+
+**Conclusion:** By introspecting on these reflection points, writers can develop multi-dimensional characters that resonate with readers. These characters, driven by their intrinsic desires and struggles, make for compelling narratives that are rooted in human experiences and emotions.
+
+
+
+### II. PROJECTION AND CONTENTMENT—HOW LACK REVEALS ITSELF IN SIMPLE CHARACTERS
+
+#### ### Summary: Exploratory Exercises for Writers on Character Archetypes
+
+**Main Idea:** The text provides a set of exercises for writers to explore specific character archetypes within their Work-In-Progress (WIP), focusing on the "Traveling Angel," the "Contented Character," and the "Sadder-but-Wiser Character" and their respective roles and development within the story.
+
+**1. The Traveling Angel Exploration:**
+   - **Question:** Does your WIP have a "Traveling Angel" character who moves around to address injustices, mend relationships, or provide aid?
+   - **Purpose:** To understand how the external events in the story resonate with this character's intrinsic sense of justice or compassion.
+
+**2. The Contented Character Exploration:**
+   - **Question:** Is there a character in your WIP who begins the story content and satisfied with her life?
+   - **Purpose:** To identify what external changes disrupt her world. It also helps to evaluate her transformation due to the challenges and conflicts she faces throughout the narrative.
+
+**3. The Sadder-but-Wiser Character Exploration:**
+   - **Question:** Does your story contain a character who has achieved peace after facing numerous challenges and setbacks?
+   - **Purpose:** Determine if this character plays a primary (protagonist) or secondary role in the story.
+      - If a protagonist: Explore how the story's events challenge their psychological balance.
+      - If a secondary character: Examine how their acquired wisdom and acceptance benefit the main characters.
+
+**Conclusion:** These exercises are designed to help writers delve deeper into their characters' roles, motivations, and developments within their stories, ensuring that the characters are well-rounded and drive the narrative effectively.
+
+### III. URGENCY, ANXIETY, AND DENIAL—HOW LACK REVEALS ITSELF IN MORE COMPLEX CHARACTERS
+
+#### Summary: Exercise on "Lack" in Characters
+
+**Objective:** This exercise aims to explore the concept of "Lack" or yearning in characters, specifically in those who are either unaware of their yearning or in denial of it. It provides guidance on how to reveal the inner emptiness of these characters through their daily attitudes and actions.
+
+**Steps:**
+
+1. **Selection of Characters:**
+   - Choose two characters from previous exercises.
+
+2. **Character Unaware of Yearning:**
+   - How does her sense of Lack or what's missing from her life manifest?
+   - Examples:
+     - A day-to-day funk, feeling of emptiness.
+     - Lack of motivation or direction.
+     - Living life passively, without any active pursuits or passions.
+   
+3. **Character in Denial of Yearning:**
+   - How does his inner emptiness show itself, even if he's trying to hide or ignore it?
+   - Examples:
+     - Psychic numbness, which might be intensified through the use of alcohol or drugs.
+     - A facade of optimism or forced cheerfulness.
+     - Rigidly adhering to a belief system to avoid confronting the void.
+     - Always seeking distractions to keep the mind occupied and away from the nagging feeling of incompleteness.
+
+4. **Self-reflection:**
+   - If trying to implement these suggestions feels unnatural or forced, think about why.
+   - Consider other ways in which the character might subtly or indirectly display their inner Lack.
+
+**Conclusion:** The exercise serves as a practical tool for writers to delve deeper into their characters, allowing them to depict a more authentic and relatable portrayal of inner voids, longings, and the ways people cope or fail to cope with them.
+
+### IV. THE SPECIAL CASE OF LACK INDUCED BY TRAUMA OR TRAGIC LOSS
+#### Summary: Exercises on Trauma and Its Impact on Characters
+
+**Main Objective:** Explore the influence of trauma on a character in a Work In Progress (WIP), understanding how it shapes their void or "Lack" and dictates their behavior and attitude.
+
+**Key Exercises:**
+
+1. **Identifying Trauma:** 
+   - Recognize if there’s a character in your current writing project who has experienced any form of trauma mentioned in the previous section or anything similarly devastating.
+
+2. **Describing the Lack:** 
+   - Articulate their emotional and psychological emptiness. How profound is this void? How does it manifest?
+
+3. **Behavior and Attitude:** 
+   - Understand how this trauma has molded their daily behavior. 
+   - How do they interact with others? 
+   - What's their general attitude toward life? Are they fearful, aggressive, withdrawn, or do they show other behaviors?
+
+4. **Envisioning Through Scenes:** 
+   - Imagine or draft a scene that best showcases this state of Lack and the subsequent behavior.
+   - This exercise helps in visually and emotionally connecting with the character's trauma-induced mindset.
+
+5. **Day-to-Day Aspirations:** 
+   - Given their trauma, what's the best they hope for daily?
+   - Is it a day without flashbacks, a simple interaction without anxiety, or something else?
+
+6. **Evolution Over The Story:** 
+   - Contemplate how this state of Lack might change as the story progresses.
+   - Will there be a healing process? Or will the trauma intensify? 
+
+7. **Catalysts for Change:** 
+   - Determine the factors or events in your story that could trigger a change in their state.
+   - Is it a person, another event, or a self-realization moment?
+
+**Conclusion:** These exercises are designed to provide depth to a character by understanding the profound effects of trauma on them. By exploring and portraying this "Lack," writers can create characters that resonate more deeply with readers, offering a nuanced narrative of coping, healing, and transformation.
+
+### V. WHEN THE CHARACTER’S OBLIVION TO HIS LACK IS ABSOLUTE
+#### Summary: Exercises on a Character's Oblivion to their Lack
+
+**Main Task:** Examine characters in your Work-In-Progress (WIP) to determine if any of them seem oblivious to their inherent "Lack" or void. 
+
+**Steps and Questions to Consider:**
+
+1. **Identification:** 
+   - Identify if there's a character in your WIP who appears to be unaware of their Lack.
+
+2. **Reasoning for Oblivion:** 
+   - How do you explain their lack of awareness?
+     - Is it due to **vehement denial**, where they're in strong refusal to acknowledge their void?
+     - Might it be a result of a **personality disorder** that prevents them from recognizing their Lack?
+     - Do they **project** their Lack onto external situations or other characters, thereby deflecting from their own internal issues?
+     - Are they in a state of **impervious self-satisfaction**, being too content or self-assured to see any void?
+     - Or is it **utter oblivion**, where they're just completely unaware without any clear reason?
+
+3. **Role Analysis:** 
+   - What role does this character serve in your story? 
+     - Are they a protagonist, antagonist, secondary character, or another role entirely?
+
+4. **Correlation with Story Role:** 
+   - How does the reason for their oblivion (from step 2) align with the role they have in the narrative? 
+     - For instance, if they're a protagonist in vehement denial, does the story revolve around them confronting this denial? 
+     - Or if they're a secondary character with utter oblivion, do they act as a foil or contrast to another character?
+
+**Objective:** By addressing these questions, you can better understand the depth and purpose of your character's obliviousness to their Lack. This will also help to ensure that their behavior and role in the story aligns coherently with their internal motivations and challenges.
+### VI. SYMBOLIC REPRESENTATION OF THE CHARACTER’S LACK
+
+#### Summary: Symbolic Representation Exercise
+
+**Objective:** The goal is to develop symbolic or habitual representations for characters' internal voids or "Lacks" in your story.
+
+**Steps:**
+
+1. **Choose Two Characters:** Reflect on two characters from your previous exercises.
+  
+2. **Symbolic Rendering:**
+   * Identify a symbol that encapsulates each character's internal Lack.
+   * Predict if and how the character's perception of that symbol might evolve as the story progresses. Will they understand the symbol differently by the story’s conclusion? How might their interactions with or reactions to this symbol change?
+
+3. **Alternative Habitual Behavior:**
+   * If not using a symbolic object, pinpoint a unique habitual behavior that demonstrates how the character copes with their internal void.
+   * Forecast if this behavior will change by the story's conclusion. If so, how? If not, why?
+
+**Purpose:** Through these exercises, writers can better illustrate characters' internal struggles and evolutions by externalizing them through symbols or habits. This adds depth to the character and provides readers with visual or behavioral cues to understand the character’s internal journey.
+
+## 3 The Heart of the Matter Itself--Yearning 
+
+### I. THE PULSE OF STORY, THE SOURCE OF WILLFULNESS
+#### Chapter Summary:
+
+**Exercises: Introduction**
+
+- In this introductory section focused on Yearning, no specific exercises are provided.
+- Instead, readers are encouraged to move forward, as there will be more targeted exercises related to Yearning in the subsequent parts of the chapter. 
+
+This section serves as a preamble, preparing readers for a deeper exploration and practical application of the concept of Yearning in the later sections of the chapter.
+### II. LACK AND YEARNING—CAUSE VS. EFFECT
+### Chapter Summary:
+
+**Exercise on Yearning in Characters**:
+
+1. **Identify Yearning**: For two main characters from your current WIP, identify their Yearning. This refers to their deep-seated desire for a particular way of life or the type of person they aim to become.
+2. **Yearning's Origin**:
+    - **Character One**: For one character, their Yearning should be based on an innate sense of destiny or identity. This character feels an intrinsic pull towards a particular path or purpose.
+    - **Character Two**: For the second character, their Yearning arises from personal feelings of inadequacy, confusion, and dependence. Their motivation comes from a desire to escape these negative feelings and find a better state of existence.
+3. **Reflect on Inner Strength**:
+    - Evaluate the inner strength, determination, purpose, and willpower of each character.
+    - If one character's Yearning appears weaker or less defined than the other's, delve into the reasons. Consider how you could enhance the intensity of each character's longing.
+4. **Potential Redirections**: Reflect on events or misfortunes that could alter or intensify a character's Yearning. Think about what life events might force them to reshape their dreams or aspirations.
+
+This exercise is designed to help writers understand the underpinnings of their characters' motivations, allowing for a more profound exploration of their drives and reactions to plot events.
+### III. YEARNING AS A CALLING, SELF, SOUL, OR DESTINY
+#### Summary:
+
+**Exercises for Evaluating Character's Sense of Calling**:
+
+1. **Establish the Foundation**: Examine two main characters from your Work In Progress (WIP).
+
+2. **Sense of Calling**:
+    - Determine if either character feels a sense of calling or destiny.
+    - If not, question why that is and explore what instead drives them.
+
+3. **Origins of the Calling**:
+    - Pinpoint when this sense of calling arose. If it’s yet to appear in your story, predict what might bring it to the forefront.
+
+4. **Nature of the Calling**:
+    - Examine the form the calling takes. It could manifest as:
+        - Childhood experiences that shape their purpose.
+        - A vocational drive like joining the clergy or a social movement.
+        - Pursuit of excellence in a profession.
+        - A "calling to character," a strong sense of personal identity, integrity, or ethical clarity.
+
+5. **Purpose & Aspiration**:
+    - Understand how the calling defines the character's aspirations and the life they desire.
+
+6. **Genre-Specific Premises**:
+    - Examine how the character’s calling aligns with the specific nuances of the genre you're writing in. For instance, in a mystery, a detective might be driven by a powerful sense of justice.
+
+7. **Avoiding Oversimplification**:
+    - Strategize on how you will prevent the potential pitfall of making the character's sense of calling seem too simplistic or contrived. 
+    - Consider focusing on:
+        - The intricate symbolism behind the moment or image that invoked the calling.
+        - The profound impact and consequences this calling might have on the character's life.
+        - The challenges and responsibilities the calling imposes on the character.
+
+This exercise aims to delve deeper into the characters' motivations and aspirations, grounding their Yearning in an authentic and complex narrative rather than a one-dimensional plot device.
+
+
+### IV. YEARNING AS A NATURAL OUTGROWTH OF LACK
+
+**Summary and Clarification:**
+
+**Character Analysis Exercises for Writers:**
+
+For writers working on a story (referred to as "WIP" or Work In Progress), this exercise is a method to delve deeper into the motivations, desires, and pasts of their main characters. Specifically, writers should choose two main characters and examine the following:
+
+1. **Roots of Yearning**: Does the character desire something (Yearning) because of past vulnerabilities, dependencies, or deprivations? If so, what specific events led to these feelings?
+
+2. **Yearning as Purpose**: Given the character's past hardships, how does their Yearning (or deep desire) offer them a sense of direction? Essentially, how does their Yearning help them envision who they want to become or how they want to live, especially in the context of past difficulties?
+
+3. **Influence of Relationships**: How do the character's connections with others, especially those they love or admire, influence their aspirations or desires? These relationships can profoundly impact a character's goals and dreams.
+
+4. **Emergence of Yearning**: When in the story does the character's Yearning become most evident? Is it at the start, towards the end, or somewhere in the middle? Moreover, is this realization sudden, due to a particular event or revelation, or does it develop slowly over time?
+
+5. **Yearning and Willfulness**: How does the character's Yearning drive their determination or willfulness? More specifically, how does their deep-seated desire motivate them to not just avoid life's hardships but to aim for a grander vision of themselves? Additionally, does this Yearning inspire any acts of selfless bravery or sacrifice for others?
+
+In summary, these exercises are designed to help writers better understand and develop their characters by exploring their inner desires, past traumas, and the influence of relationships on their life goals. By delving into these aspects, writers can create more depth, motivation, and realism in their characters.
+
+### V. WEIGHING AND BALANCING THE TWO APPROACHES
+
+**Summary and Clarification**:
+
+This passage provides an exercise for writers to deeply analyze and understand the concept of **Yearning** in their characters, especially in relation to the characters' past experiences and interactions.
+
+**Main Points**:
+
+1. **Identifying Yearning in Characters**: 
+   - Writers should look at their Work-in-Progress (WIP) and select two main characters.
+   
+2. **Roots of Yearning**:
+   - Determine if the character's Yearning is tied to a past vulnerability, dependence, or deprivation.
+   - Identify the specific events that caused these feelings.
+
+3. **Yearning Providing Purpose**: 
+   - Analyze how Yearning helps the character define their identity and desired way of life, especially when considering their past misfortunes.
+
+4. **Influence of Relationships**: 
+   - Examine how the character's relationships with loved ones shape their aspirations and dreams regarding who they want to be and the life they aim to lead.
+
+5. **Timing and Evolution of Yearning**: 
+   - Determine when in the story the character's Yearning becomes most evident.
+   - Assess if this realization is abrupt during a pivotal moment or unfolds gradually.
+
+6. **Yearning Leading to Willfulness**:
+   - Analyze how Yearning fuels the character’s determination. This includes inspiring them to transcend beyond just avoiding life's pains and instead aiming for a higher perception of themselves or showcasing selfless bravery for others.
+
+In essence, this exercise pushes writers to delve deep into their characters’ Yearning, understanding its origins, manifestations, and implications. By doing so, writers can craft more layered and compelling characters who drive the narrative with their profound desires and motivations.
+
+### VI. HOW YEARNING DEFINES THE STAKES
+
+**Summary and Clarification**:
+
+This exercise focuses on understanding and refining the characters in a writer's work in progress (WIP). It delves into the intersection between external struggles in a story and the internal needs or Yearnings of the characters. 
+
+**Main Points**:
+
+1. **External Struggle and the Prospect of Failure**: 
+    - The first part of the exercise aims to discern how a character's external challenges force them to consider the possibility of failure. This is critical as the gravity of these external conflicts is what often drives the story's tension.
+
+2. **Deep Needs Awakened by Struggle**: 
+    - As characters navigate their external challenges, underlying needs and desires can become more apparent. These needs often are what compels characters to act in certain ways or make particular choices, offering depth and layers to their personas.
+
+3. **Understanding the Specific Needs**: 
+    - The exercise prompts the writer to examine the origins of these deep-seated needs or Yearnings. Specifically:
+        - Why does the character harbor these needs?
+        - How do these needs mold the character's identity and aspirations?
+        - In what ways do these needs give significance to their existence?
+
+4. **Consequences of Failure and Identity Crisis**: 
+    - The implications of not meeting these Yearnings are substantial. Failure could lead to a profound identity crisis, making characters question their purpose and worth. 
+
+5. **The Weight of Shame**: 
+    - Beyond the immediate disappointment of not achieving a goal, the true depth of failure for a character lies in the immense shame they'd feel for not living up to their life's paramount challenge. This could potentially alter their trajectory in the story and impact their interactions with other characters.
+
+In essence, this exercise encourages writers to delve deep into their characters, uncovering the intrinsic motivations and fears that drive them. By understanding how external conflicts stir profound internal Yearnings, writers can craft multifaceted characters that resonate with readers, making the story more engaging and relatable.
+
+
+### VII. YEARNING’S INEFFABLE NATURE
+
+**Summary and Clarification**:
+
+This exercise is about deepening your understanding of a character's Yearning (their profound inner desire or longing) by representing it symbolically. The suggestion is to visualize this Yearning through symbols, artworks, or pieces of music. The goal is to connect more profoundly with what drives your character from an internal, emotional standpoint.
+
+**Steps**:
+
+1. **Select Your Characters**: Choose two characters for whom you've already explored their Yearning in previous exercises.
+
+2. **Symbolic Representation**: For each character, think of a symbol, artwork, or piece of music that encapsulates their deepest desires or longings. This isn't about their overt goals but rather the internal emotions and desires driving them.
+
+3. **Reflection**: After determining a symbolic representation for their Yearning, reflect upon it. 
+   - Ask yourself if this symbol/artwork/music evokes a deeper understanding or connection to what your character truly yearns for. 
+   - If it doesn’t resonate, ponder why that might be the case.
+
+4. **Evaluate Generic Concepts**: Reflect on whether generalized concepts like "Home," "Freedom," "True Love," or "Honor" are adequate to represent your character's Yearning. Remember, while these concepts can be powerful, they may also be too broad or clichéd for some characters, and thus might not capture the unique essence of their desires.
+
+In essence, this exercise encourages you to delve deeper into your character's psyche, moving beyond just their actions or overt goals, and tap into the profound desires that truly drive them. By symbolizing these desires, you might gain a more nuanced understanding of your character, making them more three-dimensional and relatable in your narrative.
+
+### VIII. BRINGING YEARNING DOWN TO STORY SIZE
+
+**Summary and Clarification**:
+
+The exercise prompts you to delve deeper into the "Yearning" concept for two main characters you've been working with. It asks you to identify their "Yearning Horizon" within the story—a moment or event where they come closer to their deep-seated desires or ambitions.
+
+**Key Points**:
+
+1. **Yearning Refresher**: The Yearning is a deep, ongoing desire in a character, rooted in their incomplete nature and unfulfilled dreams.
+
+2. **Yearning Horizon**: Within a narrative, there are specific ambitions, goals, or moments that offer the character a glimpse or short-term gratification of this Yearning. This interim fulfillment is called the "Yearning Horizon."
+
+3. **Character Development**: Using the events and experiences of the story, you need to determine:
+   - How these events help your character inch closer to their Yearning or move further away from it.
+   - Whether, by the end, the character is closer to becoming the person they aspire to be and living the life they desire, or if they've failed in that journey.
+
+In essence, this exercise asks you to pinpoint the events in your story that act as milestones for your characters' deeper desires and to reflect on the development or regression of their Yearning throughout the narrative.
+
+### IX. NO MAN IS AN ISLAND: THE ROLE OF OTHERS IN THE CHARACTER'S YEARNING
+
+**Summary and Clarification**:
+
+This exercise is designed to deepen the understanding of a character's Yearning by examining their relationships and connections with others. By reflecting on these points, you can better identify and develop the nuances of your character's personal journey and their broader place within society. Here are the steps you should consider:
+
+1. **Identify Important Relationships**: For two characters from your Work-In-Progress (WIP), identify who among their friends, family, comrades, and lovers are essential for fulfilling their Yearning.
+
+2. **Address Uncertainty**: If the characters in your WIP yearn for connections with individuals they haven't met yet (like an unknown lover or a potential friend), explore why this uncertainty exists. Is it due to past trauma, fear of commitment, or some other reason?
+
+3. **Worthiness and Capability**: Reflect on how each character envisions themselves as being worthy of love, trust, and companionship. What traits or actions make them deserving? Conversely, consider any internal or external obstacles that might make them feel unworthy.
+
+4. **Enrichment Through Relationships**: Analyze how the character's desired lifestyle is enhanced by their relationships. How do these connections add depth, joy, or meaning to their lives?
+
+5. **Sense of Obligation**: Consider if your characters feel a responsibility or calling towards a broader community, be it their local community, their city, nation, or even humanity as a whole. This can be a significant factor in determining their actions, motivations, and challenges.
+
+6. **Loners, Drifters, and Outcasts**: If one of your characters is isolated from society, delve into the reasons behind their isolation. Was it self-imposed? Was it due to external factors or personal traumas? Understanding this background can provide insight into their personal challenges and growth.
+
+7. **Reintegration into Society**: Reflect on what might draw an isolated character back to society or relationships. It could be an external event, an internal realization, or the actions of another character.
+
+In essence, this exercise aims to help writers understand the depth and complexity of their characters' relationships and social desires. By examining their Yearnings in the context of these connections, you can craft richer, more believable, and emotionally resonant characters and narratives.
+
+## 4 Why the Character's Yearning Remains Unfulfilled-Resistance 
+
+### I. WEAKNESSES
+
+**Summary and Clarification**:
+
+**EXERCISES ON CHARACTER WEAKNESSES**
+
+This section presents exercises that help writers deeply understand the characters in their Work in Progress (WIP) by exploring their Weaknesses and how they influence the character's journey.
+
+**Steps**:
+
+1. **Identify the Weakness**:
+   - Choose two main characters from your WIP.
+   - Determine if they possess any of the Seven Cardinal Sins or other Weaknesses mentioned in the previous chapter.
+
+2. **Origin of Weakness**:
+   - Ascertain whether these Weaknesses are innate or acquired through experiences.
+   - If acquired, identify the specific experiences that led to these Weaknesses.
+
+3. **Weaknesses vs. Virtues**:
+   - Determine which virtues the identified Weaknesses point to.
+   - Understand why your characters might be deficient in these virtues. Did they always lack them or did they lose them over time?
+
+4. **Awareness of the Weakness**:
+   - Identify when the characters became aware of their Weaknesses.
+   - Discover what has prevented them from addressing or overcoming these shortcomings.
+
+5. **Impact on Yearning or Life's Dream**:
+   - Explore how the Weakness affects the character's pursuit of their main ambition or Yearning.
+   - Examine how it diminishes their optimism, confidence, or self-worth.
+
+6. **Confronting Naivete or Idealism**:
+   - If the character’s Weakness is rooted in naivete or idealism, pinpoint the event or realization that challenges their beliefs and "shatters their illusions".
+   - Determine if this confronting event took place in the past or if it unfolds within the story's timeline.
+
+In summary, these exercises aim to guide writers in thoroughly understanding their characters' flaws, their origins, and their impact on the character’s journey. This deep knowledge can enhance character development and make narratives more compelling.
+
+### II. WOUNDS
+
+**Summary and Clarification**:
+
+**EXERCISES ON CHARACTER WOUNDS**
+
+This exercise guides writers in exploring and understanding the impact of past traumatic experiences (Wounds) on the characters of their Work-In-Progress (WIP). By examining these past events and their aftermath, writers can gain deeper insights into their characters' motivations, conflicts, and story arcs.
+
+**Exercise Steps**:
+
+1. **Identify Two Main Characters**: From your ongoing work, choose two primary characters to focus on.
+
+2. **Discover Past Wounds**: For each character, try to determine one or more significant traumatic events they might have experienced, such as:
+   - Death of a beloved person.
+   - A heart-wrenching breakup.
+   - A betrayal that left deep scars.
+   - Missing out on a vital career opportunity.
+   - Any other significant event that dramatically changed their life's course.
+
+3. **Explore the Aftermath**: Dive into how these past traumas affected the characters:
+   - How did these events shape their worldview or beliefs?
+   - How did the Wounds deter them from pursuing their dreams or life goals?
+   - In what ways did these traumatic experiences diminish their self-worth or sense of purpose?
+
+4. **Answer Existential Questions**: Understand how each character grapples with profound questions post their traumatic events:
+   - Why am I here?
+   - What is my purpose?
+   - Does anything I do matter?
+   - What is wrong with me?
+
+5. **Response to External Comfort**: Analyze how each character reacts when people around them offer conventional words of comfort or encouragement. Are they receptive, indifferent, hostile, or do they internalize these words differently?
+
+By undertaking this exercise, writers can deeply embed their characters' past experiences into their current motivations and behaviors, making them more multidimensional and relatable. This can further aid in driving the narrative and making character arcs more engaging and believable.
+### III. LIMITATIONS
+**Clarified and Summarized:**
+
+**Limitations in Characters and Their Impacts:**
+
+*Limitations* are the barriers that prevent a character from achieving their desires or Yearnings. They are not necessarily faults of the character but are obstacles that make their journey more challenging. In crafting a story, writers should consider:
+
+1. **Existing Limitations:** Examine the characters in your work-in-progress (WIP). Do they face any of the described limitations (like youth, advanced age, poor health, physical abnormality, mental illness, unattractiveness, or lack of intelligence)? If so:
+   - Identify how these limitations hold them back from their goals.
+   - Think of a scene that showcases the impact of these limitations on their life's aspirations.
+
+2. **Introducing New Limitations:** If your characters don't have any clear limitations:
+   - Choose two characters, whether main or secondary.
+   - Assign a limitation to them and assess:
+     - The changes in their actions and personality.
+     - The reactions of other characters towards them.
+     - The potential shifts in the story's direction because of these new limitations.
+
+By understanding and incorporating limitations, writers can create more relatable and multi-dimensional characters, enriching the overall narrative.
+### IV. OPPOSITION/OBLIGATION
+**Summary and Clarification:**
+
+In this section labeled "EXERCISES", readers are encouraged to apply the concepts discussed about external forces of Opposition and Obligation to their work-in-progress (WIP). These exercises are designed to make the reader reflect on the characters they've crafted and determine how these forces impact their characters' Yearning (i.e., their primary ambitions or desires).
+
+**Steps**:
+
+1. **Review Characters**: Examine all the characters in your current story draft. Ask if any of them encounter external obstacles like Opposition or Obligations. Opposition refers to external forces (like other characters or societal norms) that work against the character's ambitions, whereas Obligations are duties or responsibilities that might hinder their goals.
+
+2. **Visualize in Scenes**: Think about how these external pressures manifest. For instance, is there a specific scene where a character faces strong opposition from another? Or perhaps there's a moment when a character's obligations force them to make a difficult choice?
+
+3. **Character Selection**: If none of the characters in the current draft face these external pressures, choose two characters (they could be main or secondary). Think about adding an Opposition or Obligation to their story arc. 
+
+4. **Analyze Impacts**: Reflect on how adding these external elements changes the character's journey. Specifically, think about:
+   - **Behavioral Changes**: How does facing external pressures affect the chosen character's actions or decisions?
+   - **Interpersonal Dynamics**: How do these challenges alter the character's interactions with others in the story?
+   - **Story Arc Modifications**: Given these new developments, how might the overall plot or trajectory of the story shift?
+
+Overall, these exercises aim to help writers weave more depth and complexity into their characters by introducing external challenges, thus enriching the story's conflict and emotional stakes.
+### V. FLAWS
+**Summary and Clarification**:
+
+**Exercise Overview**:
+The exercise prompts writers to reflect on their characters' forces of Resistance (like Weaknesses, Wounds, Limitations, and Opposition/Obligations) and understand how these forces might lead a character to act negatively towards others. It also asks writers to delve into the possibility of a character's virtue becoming a flaw when taken to an extreme.
+
+**Steps**:
+
+1. **Analyzing Resistance Forces**:
+   - Recall the previous exercise where you identified forces of Resistance.
+   - Reflect on how these forces might trigger negative emotions like rage, fear, bitterness, resentment, or hopelessness.
+   - Determine if these emotions could lead the character to harm others.
+
+2. **Virtue to Vice**:
+   - Choose a character from your Work in Progress (WIP).
+   - Identify a virtue they possess.
+   - Contemplate how, when taken to an extreme, this virtue might become a flaw that harms others.
+
+3. **Impact on Core Objective**:
+   - Analyze how the flaw might hinder or even help the character in achieving their main goal in the story.
+   - Ponder on whether rectifying this flaw is vital for the character to accomplish their goal.
+
+4. **Reader's Perception**:
+   - Reflect on how readers might react if the character remains morally flawed by the story's end.
+
+In essence, this exercise encourages writers to deepen their understanding of their characters, exploring how different forces and traits influence a character's actions and how these, in turn, shape the story's trajectory and the readers' perceptions.
+### VI. THE INTERPLAY AMONG FACTORSAND THE OVERRIDING ISSUE
+**Summary and Clarification**:
+
+**Exercises for Chapter Review**:
+
+1. **Review and Choose Characters**:
+   - Revisit your answers from the exercises throughout this chapter.
+   - Pick two characters, preferably central to your story, to which you've devoted significant thought.
+
+2. **Itemize Identified Traits**:
+   - List out the specific characteristics and behaviors you've pinpointed for each character in the following categories:
+     - Weaknesses
+     - Wounds
+     - Limitations
+     - Opposition/Obligations
+     - Flaws
+
+3. **Analyze Interconnectedness**:
+   - Examine how the traits and behaviors in the categories might interact or influence one another. For instance, a character's wound might be the reason for a particular weakness, or an obligation might have resulted in a specific flaw.
+
+4. **Behavioral Pattern Recognition**:
+   - Assess the collective traits and behaviors for each character, viewing them as an interconnected web rather than individual attributes.
+   - Recognize these patterns as unique aspects of the character. These patterns offer insight into how the character behaves and responds in various situations.
+
+5. **Introduction to Pathological Maneuvers**:
+   - By understanding this interconnectedness, you'll be laying the groundwork for exploring the concept of "pathological maneuvers" in the upcoming chapter. These maneuvers represent habitual responses or behaviors a character resorts to, often stemming from their past traumas or experiences.
+
+In essence, this exercise encourages a holistic view of character development. By assessing how different attributes interplay and shape a character's overall behavior, writers can craft deeper, more realistic characters. The exercise also sets the stage for understanding the more complex concept of "pathological maneuvers."
+### VII. GIVING THE RESISTANCE ITS OWN DAIMON
+**Summary and Clarification**:
+
+**Exercise on Symbolizing Resistance**:
+
+1. **Choose Two Main Characters**:
+   - From your Work In Progress (WIP), select two primary characters.
+
+2. **Symbolize Resistance**:
+   - Just as you previously identified a symbolic representation for each character’s Yearning, you now need to do the same for the forces of Resistance acting against them.
+   - **Tip**: Consider all the elements that aid the character in guarding themselves from life's pains. Recognize how these elements interplay and bolster each other. Then, attempt to envision a solitary figure, experience, or symbol that embodies most, if not all, of these influences.
+
+3. **Comparison of Yearning and Resistance**:
+   - Revisit the symbolic representations you identified for each character's Yearning.
+   - Compare this with the new symbols you've found for Resistance.
+   - Reflect on their relationship:
+     - Do these symbols mirror or contrast each other in some manner?
+     - If they do, how do they do so?
+     - If not, ponder if you can conceive of a different symbol that allows for a more harmonious or interconnected relationship between the competing symbols of Yearning and Resistance.
+     - Challenge yourself further by considering if a singular symbol could encapsulate both Yearning and Resistance.
+
+In essence, this exercise encourages writers to delve deep into their characters' psyche, symbolically representing the internal tug-of-war between desires and the obstacles preventing them. By comparing and reflecting on these symbols, one can achieve a more profound understanding of the character's internal dynamics and potentially discover more intricate character designs.
+
+## 5 Backstory as Behavior 
+### I. EXPLORING BACKSTORY FOR THE CHARACTER’S KEY SEMINAL MOMENTS
+
+**Summary & Clarification**:
+
+The given text provides a set of exercises aimed at writers who are working on a piece (referred to as WIP or Work In Progress). These exercises aim to help authors delve deeper into their characters' psyches and histories, with the intent of making them more layered and relatable.
+
+**Exercises**:
+
+1. **Character Moments**: For two main characters in your story:
+   - Identify a single, life-changing event for each of the categories listed:
+     - Pain (or Resistance to it)
+     - Promise (or Yearning for something better)
+     - Fear or Cowardice
+     - Courage
+     - Guilt or Sin
+     - Penance or Forgiveness
+     - Shame or Failure
+     - Pride or Success
+     - Betrayal
+     - Trust
+     - Death, Loss, or Sorrow
+     - Love, Connection, or Joy
+
+2. **Linking Past to Present**:
+   - Reflect on the characters' Yearning and Resistance that you've identified in previous chapters.
+   - Determine the most influential moments in their pasts.
+   - Analyze how these moments either:
+     - Shaped their sense of life's potential (Yearning)
+     - Or developed a protective mechanism to avoid life's pains (Resistance).
+   
+3. **Deepening Character Understanding**:
+   - Investigate how understanding your characters' key moments of vulnerability or helplessness:
+     - Enhances comprehension of their motivations.
+     - Illuminates obstacles they face in chasing their life goals.
+
+In simpler terms, these exercises guide writers to craft richer character backstories by identifying key moments in their lives that define their hopes, fears, strengths, and weaknesses. By understanding these pivotal moments, authors can portray more authentic character reactions and growth throughout their stories.
+
+### II. FINDING THE CONNECTIVE TISSUE OR THEME AMONG BACKSTORY MOMENTS
+**Summary & Clarification**:
+
+This exercise prompts writers to review previously imagined scenes of their characters' moments of helplessness and to identify a common theme or motif linking them. 
+
+**Key Points**:
+
+1. **Purpose**: The goal is to discern if there's a thematic connection among the different moments of helplessness that you've visualized for your characters.
+
+2. **Reference Point**: To guide this exploration, writers are encouraged to revisit two key aspects of their character:
+   - **Yearning**: The deep-seated desires, goals, or aspirations of the character.
+   - **Resistance**: The obstacles or forces preventing the character from achieving their yearning.
+
+3. **Inner Conflict**: Imagine the Yearning and Resistance as two opposing forces within the character's soul, each trying to prevail. These conflicts should be manifested in the scenes you've previously worked on.
+
+4. **Avoiding Oversimplification**: The exercise emphasizes the importance of not hastily naming or labeling the thematic thread. Instead, writers are encouraged to consider more nuanced, imagistic, or symbolic representations. These can capture the essence of the theme without reducing it to a potentially cliched or simplistic term.
+
+In essence, the exercise asks writers to delve deeper into their character's moments of vulnerability and recognize if there's a unifying theme that ties these instances together, making the narrative richer and more cohesive.
+### III. MOVING FROM MOMENTS TO HABITUAL BEHAVIOR—PATHOLOGICAL MANEUVERS AND PERSISTENT VIRTUES
+**Summary and Clarification**:
+
+This exercise aims to guide a writer in exploring two significant aspects of their characters' development in their Work-In-Progress (WIP) – Pathological Maneuvers and Persistent Virtues.
+
+**1. Pathological Maneuvers:**
+- **Starting Point:** Revisit a painful moment of helplessness in your character's past.
+- **Impact:** Understand how this moment has negatively affected the character’s self-belief and life aspirations.
+- **Evolution:** Allow the initial traumatic experience to grow into a force that causes internal or external adversities. These can manifest as a deep-seated emotional scar (Wound), amplified character weaknesses (Weakness or Limitation), increased obligations (Obligation), external challenges (Opposition), or harmful behaviors (Flaw).
+- **Behavioral Outcome:** Based on these traumas and the resulting adversities, determine which negative behavioral patterns the character adopts. These might include:
+  * Avoiding problems or denying they exist.
+  * Engaging in risky behaviors or overindulgences, like substance abuse.
+  * Adopting harmful behaviors from others because it seems to bring them success.
+  * Displaying abusive or selfish behaviors towards others.
+
+**2. Persistent Virtues:**
+- **Starting Point:** Reflect on a moment in the character's past where they experienced a powerful positive emotion like courage, forgiveness, pride, trust, love, or joy.
+- **Impact:** Understand how this moment has, even if in a minor way, fortified the character’s self-esteem and affirmed their belief in the beauty and promise of life.
+- **Diminishing Shine:** Consider how life's challenges might have dulled the brightness of that positive memory, but also recognize what remains of the character’s original self-esteem, optimism, interpersonal connections, and overall happiness.
+- **Behavioral Outcome:** Based on these positive experiences and the remaining shine:
+  * Determine how it manifests in their daily behaviors like their general attitude, how they interpret events, handle challenges, and view the world.
+  * Think of concrete actions the character might undertake, such as volunteering or acts of kindness, that have become a part of their routine.
+  * Analyze how past experiences continue to influence their ability to commit to causes or people, persevere through challenges, maintain self-confidence, and trust others.
+
+In essence, this exercise is a tool for writers to delve deep into their characters' past experiences, both negative and positive, and understand how they shape their present behaviors, attitudes, and actions.
+
+## 6 Prime Mover, Desire—Not ConflictDrives Story
+
+### I. DESIRE DRIVES STORY
+**Summary and Clarification**:
+
+**Exercise Objectives**:
+
+1. **Identify the Catalyst**: Determine the specific event or situation that compels your protagonist to take action at the beginning of your story.
+
+2. **Categorize the Catalyst**: Classify this catalyst based on the three provided categories:
+   - The character sees what they want and chooses to chase after it.
+   - The character possesses what they desire, but it is suddenly taken away.
+   - The character is confronted with a situation they fear and must either overcome it or escape from it.
+
+3. **Determine the Desire**: Recognize the protagonist's primary goal or aspiration in the story, especially at its start.
+
+4. **Identify Obstacles**: List down the challenges or opposing forces that hinder the protagonist from achieving their goal.
+
+5. **Intensify Obstacles**: Contemplate on ways to make these challenges more daunting, making the protagonist's goal more challenging to attain.
+
+6. **Determine Motivation**: Given the heightened challenges, ascertain what continues to drive the protagonist towards their goal despite the odds.
+
+7. **Repeat for another character**: Go through the above steps for another significant character, ideally the protagonist's adversary, if one exists in your story.
+
+**Summary**:
+
+This exercise is designed to help writers dissect the motivations, desires, and challenges faced by their story's characters. By identifying the pivotal event that spurs the protagonist into action and understanding the overarching goal they seek, writers can create a compelling narrative framework. Recognizing and amplifying the challenges faced adds tension and depth to the story. Furthermore, understanding the motivations of other key characters, especially the protagonist's opponent, can lead to a more rounded and dynamic narrative.
+
+### II. DESIRE AND CHANGE
+**SUMMARY AND CLARIFICATION:**
+
+---
+
+**Exercise Guidelines for Main Characters:**
+
+1. **Learning Curve**: Identify two primary characters from your Work-In-Progress (WIP). Determine the lessons they grasp from the conflicts they encounter.
+   
+2. **Self-awareness Impact**: Analyze how their learnings influence their self-perception, worldview, and relations with other central figures.
+
+3. **Character Development**:
+   * If the learning doesn't notably shift their behavior or life perspective, explain the reasons.
+   * Delve into whether their newfound comprehension arrives too late, leading to tragic outcomes.
+
+4. **Steadfast Character**:
+   * Examine if any of the chosen main characters can be termed a 'Steadfast Character'—someone whose journey revolves around their resistance to change. This could be due to their staunch belief in an ideal/goal or because they employ certain "pathological maneuvers" to shield themselves from life's adversities.
+   * Investigate if there's an evolution in the steadfast character's emotions, insights, or life perspective. If yes, in what manner? If no, why?
+
+5. **Missed Opportunities for Change**: Recognize if any of your protagonists remain unchanged due to their decision against seizing a chance to evolve. Unpack how this opportunity was presented and the reasons for its rejection.
+
+6. **Character's Challenges**:
+   * Determine the failures your main characters encounter in the story.
+   * Examine their internal struggles by addressing questions like: "Why continue? Why not surrender or compromise? What's wrong with me? What needs to change within me to rectify this?"
+
+7. **Love Story Dimension**: If you're penning a romance, discern what keeps the lovers separated. If a character's personality is the barrier, probe into what alterations she feels are required in herself or her life to gain the desired affirmative response from the other.
+
+8. **Opponent's Evolution**: If an antagonist exists in your story, ascertain whether they undergo a transformation. Understand the triggers for this change—could it be their failures or is it the clash with the protagonist that compels self-reflection?
+
+---
+
+**Exercise Guidelines for Secondary Characters:**
+
+1. **Transformational Catalyst**: Choose two secondary characters from your WIP. Determine how the story's events nudge them to modify their actions, self-awareness, or world outlook.
+
+2. **Role Significance**: Analyze how their evolution impacts their role in the narrative, be it as a mentor, ally, loved one, or betrayer. 
+
+---
+
+In essence, these exercises are designed to deepen your understanding of your characters' growth trajectories and the subsequent implications on the overall narrative. They push you to consider not only how characters transform but also how these changes—or lack thereof—affect the larger story dynamics.
+
+### III. LINKING DESIRE TO YEARNING
+**SUMMARY AND CLARIFICATION**:
+
+This exercise focuses on understanding the characters' Yearnings, or their deep-seated desires, in a story and how these yearnings interact with their core goals, opportunities, and challenges they face. Here's a breakdown:
+
+1. **Core Goals & Yearning**:
+   - Identify each character's main goal in the story.
+   - Understand how this goal reflects their Yearning.
+   - Consider how success or failure highlights or defines that Yearning.
+
+2. **Depth of Goals**:
+   - Identify why each character wants their core goal.
+   - Determine how desperately they want it.
+   - Understand what they're willing to risk for it and what will be lost if they fail.
+   - Analyze who else is affected by their success or failure.
+
+3. **Yearning & Life’s Dream**:
+   - For each character, discern how their goals and Yearnings help clarify their "dream of life" or their vision of the life they hope to live.
+
+4. **Disequilibrium**:
+   - Assess how characters are forced to adjust when their balance of Yearning and Resistance is disturbed.
+   - Consider how previous coping mechanisms (Pathological Maneuvers and Persistent Virtues) fail in the face of new challenges.
+
+5. **Initial Apprehension of Yearning**:
+   - Determine where each character falls on a spectrum of understanding their Yearning at the story's outset:
+     - Fully understanding and embracing.
+     - Understanding but uncertain or shunning.
+     - Vaguely understanding and seeking clarity (with varying degrees of effort).
+     - Misunderstanding or being unaware of their Yearning.
+
+6. **Disillusionment**:
+   - Explore if any character, after achieving success, feels disillusioned.
+   - Investigate what motivates the character to keep pushing forward despite this disillusionment.
+
+7. **Opportunities & Misunderstandings**:
+   - If a character is motivated by an opportunity, understand how it connects to their existing dream of life.
+   - Determine if this opportunity addresses a misunderstood desire. How and what happens next?
+
+8. **Misfortune & Resistance**:
+   - If a character acts due to a misfortune, analyze how this action is a response to their Resistance.
+   - Understand how this misfortune adds to the character's existing pain and challenges their established coping methods.
+
+9. **Impact of Major Misfortunes**:
+   - If a massive tragedy pushes a character into action, discern whether this results in a new Yearning or dream of life.
+   - Understand how the new Yearning contrasts or aligns with their previous one.
+   - Explore whether the character maintains their initial dream of life amidst immense challenges, and the reasons for it.
+
+This exercise, in essence, aims to dive deep into the motivations, desires, and reactions of characters in a story, understanding their deeper Yearnings, and how they evolve or remain constant through trials.
+
+### IV. MOTIVATING THE CHARACTER WHO IS RELUCTANT TO ACT
+
+**SUMMARY AND CLARIFICATION**:
+
+This exercise focuses on motivating a character who is reluctant to act, diving deep into understanding the root causes of that reluctance, and finding ways to move the character from inaction to action.
+
+1. **Character Reluctance**:
+   - At the onset of a story, the primary concern is pushing a character into action, but sometimes they resist.
+   - This resistance can stem from their internal Yearning, which represents their deep desires or dreams of life.
+   - It's not always straightforward for characters to tap into their Yearning, especially when faced with challenges or self-doubt.
+
+2. **Roots of Reluctance**:
+   - Resistance and Pathological Maneuvers (discussed in previous chapters) can cause characters to become stuck.
+   - These characters might have a history of avoidance, denial, and other forms of resistance, which makes them reluctant to act.
+   - As a writer, it's essential to differentiate if it's the character or the author themselves who is reluctant.
+
+3. **Forcing Action**:
+   - Understand why the character has reasons not to act, considering their past behaviors and life experiences.
+   - Push the character into action either by presenting them with a significant reward (a "bag of money") or a severe consequence (a "gun to their head").
+   - Make the stakes so clear that not acting isn't an option; the potential loss or gain should deeply affect the character.
+
+4. **Overcoming Reluctance**:
+   - If a character remains inactive, bring the risks or rewards closer to them.
+   - Highlight the importance of their action regarding their identity or loved ones.
+   - Activate their Persistent Virtues (positive attributes) to counterbalance their Pathological Maneuvers.
+
+5. **Answering the Call vs. Rising to the Occasion**:
+   - Some characters have a clear sense of identity or purpose. Their reluctance to act might be tied to doubts about their identity. This scenario is described as "answering the call."
+   - Other characters may react based on external events or circumstances rather than deep internal conflict. Their action, in this case, is more about "rising to the occasion."
+   - The key difference between the two is the source of motivation. "Answering the call" is driven by internal conflicts, while "rising to the occasion" is driven by external pressures.
+
+In essence, the exercise delves into the psychology of character motivation, exploring how writers can effectively compel their characters into action, especially when they are naturally hesitant or resistant.
+
+## 7 Weaving a Life
+
+### I. STORY’S THREE-TIER STRUCTURE
+### Summary:
+
+In this exercise, the reader is directed to refer to their work in progress (WIP) from previous chapters. They need to analyze the challenges faced by at least two main characters on the following three levels:
+
+1. **External Struggle:**
+   - Identify the character’s external objective or goal.
+   - Determine what pursuing this goal reveals about the character’s capabilities and determination.
+
+2. **Internal Struggle:**
+   - Assess how the external objective relates to deeper internal issues like self-worth, identity, or purpose.
+   - This connection is framed as how the character’s Desire (external goal) relates to their Yearning (internal needs).
+
+3. **Interpersonal Struggle:**
+   - Identify relationships that impact the character's external and internal struggles.
+   - Examine how these relationships influence or are influenced by the other two types of challenges.
+
+Finally, the reader should reflect on how the internal and interpersonal struggles work together to generate empathy for the main characters.
+
+### II. STORIES THAT CONTAIN ONLY ONE OR TWO STRUGGLE LEVELS
+
+
+
+### III. INTERWEAVING STRUGGLE LEVELS
+
+### IV. USING INTRINSIC LONGINGS TO INTERWEAVE STRUGGLE LEVELS
+
+### V. INTERWEAVING STRUGGLELEVELSTWO EXAMPLES

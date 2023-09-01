@@ -4,35 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "d5176e6d4e6f5b84",
+        "id": "b27ba8b8332196fa",
         "type": "tabs",
         "children": [
           {
-            "id": "fb09aaff5784a649",
+            "id": "a1c06d04e01b876f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3624d663d849c073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+                "file": "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "6414b224840c4506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e035edd51e59bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+                "file": "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+                "file": "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md"
+                "file": "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md"
               }
             }
           }
@@ -169,23 +174,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3624d663d849c073",
+  "active": "a1c06d04e01b876f",
   "lastOpenFiles": [
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_The Art of Character - CORBETT, DAVID.md",
     "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
     "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_wk The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
     "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
-    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_wk The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID",
+    "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
+    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character",
+    "03_CHARACTER/03_DAVIS/03_wk_03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB",
     "01_THEME/FRONTPAGE 03_THEME.md",
     "00_GENERAL/FRONTPAGE 00_GENERAL.md",
     "03_CHARACTER/03_ALESSANDRA/03_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
     "00_TAG SHEET.md",
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
     "assets/Character by Mckee  Robert (z-lib.org).pdf",
     "assets",
     "assets/Pasted image 20230820222230.png",
@@ -204,18 +215,12 @@
     "03_CHARACTER/03_CHARACTER CORNERSTONES",
     "03_CHARACTER/03_MCKEE",
     "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "03_CHARACTER/03_DAVIS",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E1.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2E3.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2E2.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C2E1.md",
     "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1R.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E10.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E9.md",
-    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E8.md",
-    "03_CHARACTER/03_CORBETT"
+    "03_CHARACTER/03_ALESSANDRA/03_ALESSANDRA EXERCISE TEMPLATES/C1E10.md"
   ]
 }

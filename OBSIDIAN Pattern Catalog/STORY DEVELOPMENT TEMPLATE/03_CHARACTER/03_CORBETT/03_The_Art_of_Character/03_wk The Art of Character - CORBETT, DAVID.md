@@ -1,4 +1,4 @@
-## INTRODUCTION
+s## INTRODUCTION
 This book is the result of my own **approach to characterization** as developed through the writing of numerous stories and several novels, an approach that has evolved to embrace the insight embodied in the quote from Stendhal that began this Introduction: **Character is not created in isolation or repose; it’s forged through *interaction with others and the world.*** Even in solitary struggles of endurance, such as arduous physical ordeals or battles with illness, there is a contest at the heart of the matter, between the part of us that would surrender and the part that continues on. 
 
 The other main distinctive or innovative approaches addressed in this book include: 
