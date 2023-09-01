@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
+                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3f187a0725bafb7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6996a072e94fc9b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
+                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
+                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md"
+                "file": "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md"
               }
             }
           }
@@ -189,16 +171,16 @@
   },
   "active": "3624d663d849c073",
   "lastOpenFiles": [
+    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
     "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
     "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
-    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
     "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
-    "03_CHARACTER/03_CORBETT/03_wk The Art of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
     "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_wk The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
+    "03_CHARACTER/03_CORBETT/03_The Art of Character - CORBETT, DAVID.md",
     "01_THEME/FRONTPAGE 03_THEME.md",
     "00_GENERAL/FRONTPAGE 00_GENERAL.md",
     "03_CHARACTER/03_ALESSANDRA/03_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
