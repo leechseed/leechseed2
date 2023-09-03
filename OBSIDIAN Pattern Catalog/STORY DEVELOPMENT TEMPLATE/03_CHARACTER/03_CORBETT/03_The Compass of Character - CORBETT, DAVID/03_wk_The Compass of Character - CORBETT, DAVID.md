@@ -1,207 +1,249 @@
+#03_CHARACTER 
+
+> DESIGN A STEP-BY-STEP WORKSHEET BASED ON THE FOLLOWING  EXERCISE TO ASSIST FICTION AUTHORS IN CRAFTING A COMPELLING STORY. Structure questions to elicit responses in the form of bulleted nested lists requires clarity, precision, and sometimes explicit instruction.
+
+> CHAPTERS 1, 2 - DONE. Continue with 3 using the original exercise + prompt above 09032023
 # Part One - Developing a Technique 
 ## 1 The Logic of Longing 
-### Summary: Character Exploration Exercises for Writers
+### **Worksheet for "The Logic of Longing" - Character Exploration**
 
-**Purpose:** The exercise aims to help writers delve deeper into their characters' psyches, specifically focusing on elements like Lack, Yearning, Resistance, and Desire.
+---
 
-**Instructions:**
+**Introduction:** Use this worksheet to deeply explore and understand the motivations, obstacles, and desires of your characters to craft a compelling narrative.
 
-1. **Character Selection:**
-   - Select two main characters from your ongoing project.
-   - The protagonist is mandatory. If unsure about your protagonist, choose the character most driven to act or the one evoking the most empathy.
-   - For the second character:
-     - If there's an opponent in your story, select them.
-     - For love stories, choose the character being loved.
-     - If neither applies, select another pivotal character, such as an ally, mentor, or parent.
+---
 
-2. **Character Analysis:**
-   For each of the two characters:
+**1. Character Selection:**
 
-   - **Lack:** Identify what is missing in the character’s life.
-   - **Yearning:** Determine the character's life aspirations, including the person they want to become and the life they wish to lead. Understand how this desired transformation or achievement would address their Lack.
-   - **Resistance:** Analyze the internal and external obstacles preventing the character from fulfilling their Yearning. This includes:
-     - **Weaknesses:** Personal shortcomings.
-     - **Wounds:** Past traumas or hurts.
-     - **Limitations:** Inherent restrictions or barriers.
-     - **Opposition:** External challenges or antagonists.
-     - **Obligation:** Duties or responsibilities diverting their focus.
-     - **Flaws:** Moral or ethical deficiencies.
-   Understand how these factors make the character more inclined to avoid pain rather than seek fulfillment.
-   - **Desire:** Pinpoint the main objective or goal the character pursues in the story and how its achievement would satisfy their Yearning.
+**Task 1:** Identify the two main characters you'll be analyzing.
 
-**Outcome:** By answering these questions, writers can develop a profound understanding of their characters, making them more three-dimensional and relatable to readers. This foundational knowledge is crucial for creating a compelling narrative, with the following chapters delving deeper into these aspects.
+- **Protagonist:** 
+  - Name:
+  - Brief Description:
+
+- **Second Character:**
+  - Name:
+  - Brief Description:
+  - Role in the Story (e.g., opponent, love interest, ally, mentor, parent):
+
+---
+
+**2. Character Analysis:**
+
+Dive deep into the psyche of each character by answering the following.
+
+---
+
+**For the Protagonist:**
+
+**Task 2.1 - Lack:**
+- What is fundamentally missing from this character’s life?
+
+**Task 2.2 - Yearning:**
+- Aspirations:
+  - Who does the character want to become?
+  - What life does the character wish to lead?
+- How would achieving these aspirations address their Lack?
+
+**Task 2.3 - Resistance:**
+- **Weaknesses:** Personal shortcomings of the character.
+- **Wounds:** 
+  - Past traumas or hurts the character has faced.
+  - How do these wounds impact their current actions?
+- **Limitations:** Inherent restrictions or barriers faced by the character.
+- **Opposition:** 
+  - Who or what are the external challenges or antagonists?
+  - How do they impede the character's journey?
+- **Obligation:** 
+  - What duties or responsibilities divert the character's focus?
+  - How do these obligations conflict with their yearnings?
+- **Flaws:** 
+  - Moral or ethical deficiencies of the character.
+  - How might these flaws influence their choices?
+
+**Task 2.4 - Desire:**
+- What is the primary goal or objective this character pursues in the story?
+- How would achieving this goal satisfy their Yearning?
+
+---
+
+**For the Second Character:**
+
+**Task 3.1 - Lack:**
+- What is fundamentally missing from this character’s life?
+
+**Task 3.2 - Yearning:**
+- Aspirations:
+  - Who does the character want to become?
+  - What life does the character wish to lead?
+- How would achieving these aspirations address their Lack?
+
+**Task 3.3 - Resistance:**
+- **Weaknesses:** Personal shortcomings of the character.
+- **Wounds:** 
+  - Past traumas or hurts the character has faced.
+  - How do these wounds impact their current actions?
+- **Limitations:** Inherent restrictions or barriers faced by the character.
+- **Opposition:** 
+  - Who or what are the external challenges or antagonists?
+  - How do they impede the character's journey?
+- **Obligation:** 
+  - What duties or responsibilities divert the character's focus?
+  - How do these obligations conflict with their yearnings?
+- **Flaws:** 
+  - Moral or ethical deficiencies of the character.
+  - How might these flaws influence their choices?
+
+**Task 3.4 - Desire:**
+- What is the primary goal or objective this character pursues in the story?
+- How would achieving this goal satisfy their Yearning?
+
+---
+
+**Conclusion:** Review your responses and reflect on how deeply you understand each character. Use this foundational knowledge to infuse depth, motivation, and conflict into your narrative. As you proceed in your writing journey, keep this understanding at the forefront, ensuring each character's actions and decisions align with their established psyches.
 
 ## 2 The Hole at the Heart of the Matter--Lack 
+### FICTION WRITER'S WORKSHEET
+
+---
 
 ### I. THE ECHO IN THE EMPTY ROOM
 
-#### Summary: Reflecting on Characters' Lack and Yearning
+**1. Revisiting the Characters' Lack:**
+   - **A.** List any changes in your understanding of what's missing in your characters' lives after reflecting on your previous discussions.
+     - Character 1:
+     - Character 2:
+   - **B.** On a scale of 1-10 (with 1 being completely oblivious and 10 being fully aware), rate how aware each character is of their Lack:
+     - Character 1:
+     - Character 2:
 
-**Main Idea:** The exercise prompts writers to delve deeper into the character development of their Work-In-Progress (WIP) by exploring the notions of "Lack" and "Yearning." By drawing insights from philosophical and religious interpretations, writers are encouraged to shape their characters' motivations, desires, and struggles in a more nuanced way.
+**2. Personal Alignment with Philosophical Interpretations:**
+   - **A.** Which philosophical or religious perspective on Lack and Yearning aligns most closely with your beliefs?
+     - Perspective:
+   - **B.** List ways this perspective appears in your characters' struggles:
+     - Character 1:
+     - Character 2:
+   - **C.** Do any of your characters have perspectives on Lack that differ from yours? If so, explain:
+     - Character:
 
-**Key Reflection Points:**
+**3. Yearning Leading to Lack (Character 1):**
+   - **A.** Describe the unfulfilled desires or aspirations of this character.
+   - **B.** Rate the clarity of their perceived Yearning (1 = vague, 10 = crystal clear):
+   - **C.** Predict the journey or process through which the character might uncover their true desires.
 
-1. **Revisiting the Characters' Lack:** 
-   - Assess any changes or refinements in the understanding of what's missing in the characters' lives after reading the previous discussion.
-   - Gauge how cognizant the characters are about their sense of Lack.
+**4. Lack Without Clear Yearning (Character 2):**
+   - **A.** Describe the actions this character might take to alleviate their feelings.
+   - **B.** Are these actions currently portrayed in your WIP? If not, list reasons why they're omitted.
 
-2. **Personal Alignment with Philosophical Interpretations:** 
-   - Determine which philosophical or religious perspective on Lack and Yearning aligns most closely with the writer's own beliefs.
-   - Reflect on how this understanding manifests in the characters' lives and their internal or external struggles.
-   - Consider whether the characters' perspectives on Lack might differ from the writer's or from each other's.
-
-3. **Yearning Leading to Lack (First Character):** 
-   - Visualize the character's unfulfilled desires or aspirations and understand how these contribute to their sense of something missing in life.
-   - Ponder over the clarity with which the character perceives their Yearning. Are they acutely aware, or is it a vague, underlying feeling?
-   - Contemplate how the character might eventually uncover their true desires and aspirations.
-
-4. **Lack Without Clear Yearning (Second Character):** 
-   - Unlike the first character, this character doesn't have a defined Yearning but feels a general sense of incompleteness or inadequacy.
-   - Envision the immediate actions the character might take to alleviate their feelings of deprivation or escape their current circumstances.
-   - Reflect on whether these immediate steps towards a better life are portrayed in the WIP. If they aren't, the writer should introspect about the reasons for this omission.
-
-**Conclusion:** By introspecting on these reflection points, writers can develop multi-dimensional characters that resonate with readers. These characters, driven by their intrinsic desires and struggles, make for compelling narratives that are rooted in human experiences and emotions.
-
-
+---
 
 ### II. PROJECTION AND CONTENTMENT—HOW LACK REVEALS ITSELF IN SIMPLE CHARACTERS
 
-#### ### Summary: Exploratory Exercises for Writers on Character Archetypes
-
-**Main Idea:** The text provides a set of exercises for writers to explore specific character archetypes within their Work-In-Progress (WIP), focusing on the "Traveling Angel," the "Contented Character," and the "Sadder-but-Wiser Character" and their respective roles and development within the story.
-
 **1. The Traveling Angel Exploration:**
-   - **Question:** Does your WIP have a "Traveling Angel" character who moves around to address injustices, mend relationships, or provide aid?
-   - **Purpose:** To understand how the external events in the story resonate with this character's intrinsic sense of justice or compassion.
+   - **A.** Do you have a "Traveling Angel" character in your WIP? If so, who?
+   - **B.** How do external events resonate with this character's sense of justice or compassion?
 
 **2. The Contented Character Exploration:**
-   - **Question:** Is there a character in your WIP who begins the story content and satisfied with her life?
-   - **Purpose:** To identify what external changes disrupt her world. It also helps to evaluate her transformation due to the challenges and conflicts she faces throughout the narrative.
+   - **A.** Identify any contented character(s) in your WIP.
+   - **B.** Describe what changes disrupt their world and their subsequent transformation.
 
 **3. The Sadder-but-Wiser Character Exploration:**
-   - **Question:** Does your story contain a character who has achieved peace after facing numerous challenges and setbacks?
-   - **Purpose:** Determine if this character plays a primary (protagonist) or secondary role in the story.
-      - If a protagonist: Explore how the story's events challenge their psychological balance.
-      - If a secondary character: Examine how their acquired wisdom and acceptance benefit the main characters.
+   - **A.** Do you have a sadder-but-wiser character in your story? If so, who?
+   - **B.** Define their role (primary or secondary) and describe how their wisdom benefits or challenges the main characters.
 
-**Conclusion:** These exercises are designed to help writers delve deeper into their characters' roles, motivations, and developments within their stories, ensuring that the characters are well-rounded and drive the narrative effectively.
+---
 
 ### III. URGENCY, ANXIETY, AND DENIAL—HOW LACK REVEALS ITSELF IN MORE COMPLEX CHARACTERS
 
-#### Summary: Exercise on "Lack" in Characters
+**1. Selection of Characters:**
+   - Character 1:
+   - Character 2:
 
-**Objective:** This exercise aims to explore the concept of "Lack" or yearning in characters, specifically in those who are either unaware of their yearning or in denial of it. It provides guidance on how to reveal the inner emptiness of these characters through their daily attitudes and actions.
+**2. Character Unaware of Yearning (Character 1):**
+   - **A.** Describe how their Lack manifests in their daily life.
+   - **B.** Offer examples of how this Lack influences their behavior or mindset.
 
-**Steps:**
+**3. Character in Denial of Yearning (Character 2):**
+   - **A.** Describe signs of their hidden inner emptiness.
+   - **B.** Provide examples, including habits or behaviors, that signal their denial.
 
-1. **Selection of Characters:**
-   - Choose two characters from previous exercises.
+**4. Self-Reflection:**
+   - **A.** Do any of the above suggestions feel forced for your characters? If so, which ones?
+   - **B.** Suggest alternative ways your character might subtly showcase their inner Lack.
 
-2. **Character Unaware of Yearning:**
-   - How does her sense of Lack or what's missing from her life manifest?
-   - Examples:
-     - A day-to-day funk, feeling of emptiness.
-     - Lack of motivation or direction.
-     - Living life passively, without any active pursuits or passions.
-   
-3. **Character in Denial of Yearning:**
-   - How does his inner emptiness show itself, even if he's trying to hide or ignore it?
-   - Examples:
-     - Psychic numbness, which might be intensified through the use of alcohol or drugs.
-     - A facade of optimism or forced cheerfulness.
-     - Rigidly adhering to a belief system to avoid confronting the void.
-     - Always seeking distractions to keep the mind occupied and away from the nagging feeling of incompleteness.
-
-4. **Self-reflection:**
-   - If trying to implement these suggestions feels unnatural or forced, think about why.
-   - Consider other ways in which the character might subtly or indirectly display their inner Lack.
-
-**Conclusion:** The exercise serves as a practical tool for writers to delve deeper into their characters, allowing them to depict a more authentic and relatable portrayal of inner voids, longings, and the ways people cope or fail to cope with them.
+---
 
 ### IV. THE SPECIAL CASE OF LACK INDUCED BY TRAUMA OR TRAGIC LOSS
-#### Summary: Exercises on Trauma and Its Impact on Characters
 
-**Main Objective:** Explore the influence of trauma on a character in a Work In Progress (WIP), understanding how it shapes their void or "Lack" and dictates their behavior and attitude.
+**1. Identifying Trauma:**
+   - **A.** Name any character(s) in your WIP who've experienced trauma.
 
-**Key Exercises:**
+**2. Describing the Lack:**
+   - **A.** Describe their emotional emptiness and its manifestations.
+   - **B.** How does this trauma shape their behavior and attitude?
 
-1. **Identifying Trauma:** 
-   - Recognize if there’s a character in your current writing project who has experienced any form of trauma mentioned in the previous section or anything similarly devastating.
+**3. Envisioning Through Scenes:**
+   - **A.** Draft or describe a scene that illustrates their trauma-induced mindset.
 
-2. **Describing the Lack:** 
-   - Articulate their emotional and psychological emptiness. How profound is this void? How does it manifest?
+**4. Day-to-Day Aspirations:**
+   - **A.** What small daily hopes or aspirations might they hold onto?
 
-3. **Behavior and Attitude:** 
-   - Understand how this trauma has molded their daily behavior. 
-   - How do they interact with others? 
-   - What's their general attitude toward life? Are they fearful, aggressive, withdrawn, or do they show other behaviors?
+**5. Evolution Over The Story:**
+   - **A.** Predict how this Lack will evolve as your story unfolds.
+   - **B.** What factors or events might trigger changes in their state?
 
-4. **Envisioning Through Scenes:** 
-   - Imagine or draft a scene that best showcases this state of Lack and the subsequent behavior.
-   - This exercise helps in visually and emotionally connecting with the character's trauma-induced mindset.
-
-5. **Day-to-Day Aspirations:** 
-   - Given their trauma, what's the best they hope for daily?
-   - Is it a day without flashbacks, a simple interaction without anxiety, or something else?
-
-6. **Evolution Over The Story:** 
-   - Contemplate how this state of Lack might change as the story progresses.
-   - Will there be a healing process? Or will the trauma intensify? 
-
-7. **Catalysts for Change:** 
-   - Determine the factors or events in your story that could trigger a change in their state.
-   - Is it a person, another event, or a self-realization moment?
-
-**Conclusion:** These exercises are designed to provide depth to a character by understanding the profound effects of trauma on them. By exploring and portraying this "Lack," writers can create characters that resonate more deeply with readers, offering a nuanced narrative of coping, healing, and transformation.
+---
 
 ### V. WHEN THE CHARACTER’S OBLIVION TO HIS LACK IS ABSOLUTE
-#### Summary: Exercises on a Character's Oblivion to their Lack
 
-**Main Task:** Examine characters in your Work-In-Progress (WIP) to determine if any of them seem oblivious to their inherent "Lack" or void. 
+**1. Identification:**
+   - **A.** Identify any character(s) in your WIP oblivious to their Lack.
 
-**Steps and Questions to Consider:**
+**2. Reasoning for Oblivion:**
+   - **A.** What reasons can explain their lack of awareness? List possible factors:
 
-1. **Identification:** 
-   - Identify if there's a character in your WIP who appears to be unaware of their Lack.
+**3. Role Analysis:**
+   - **A.** Define their role within the story (e.g., protagonist, antagonist).
+   - **B.** How does their obliviousness relate to this role?
 
-2. **Reasoning for Oblivion:** 
-   - How do you explain their lack of awareness?
-     - Is it due to **vehement denial**, where they're in strong refusal to acknowledge their void?
-     - Might it be a result of a **personality disorder** that prevents them from recognizing their Lack?
-     - Do they **project** their Lack onto external situations or other characters, thereby deflecting from their own internal issues?
-     - Are they in a state of **impervious self-satisfaction**, being too content or self-assured to see any void?
-     - Or is it **utter oblivion**, where they're just completely unaware without any clear reason?
+---
 
-3. **Role Analysis:** 
-   - What role does this character serve in your story? 
-     - Are they a protagonist, antagonist, secondary character, or another role entirely?
-
-4. **Correlation with Story Role:** 
-   - How does the reason for their oblivion (from step 2) align with the role they have in the narrative? 
-     - For instance, if they're a protagonist in vehement denial, does the story revolve around them confronting this denial? 
-     - Or if they're a secondary character with utter oblivion, do they act as a foil or contrast to another character?
-
-**Objective:** By addressing these questions, you can better understand the depth and purpose of your character's obliviousness to their Lack. This will also help to ensure that their behavior and role in the story aligns coherently with their internal motivations and challenges.
 ### VI. SYMBOLIC REPRESENTATION OF THE CHARACTER’S LACK
 
-#### Summary: Symbolic Representation Exercise
+**1. Choose Two Characters:**
+   - Character 1:
+   - Character 2:
 
-**Objective:** The goal is to develop symbolic or habitual representations for characters' internal voids or "Lacks" in your story.
+**2. Symbolic Rendering:**
+   - **A.** For each character, identify a symbol representing their Lack.
+   - **B.** Predict changes in their interaction with or understanding of this symbol over
 
-**Steps:**
+ the story.
 
-1. **Choose Two Characters:** Reflect on two characters from your previous exercises.
-  
-2. **Symbolic Rendering:**
-   * Identify a symbol that encapsulates each character's internal Lack.
-   * Predict if and how the character's perception of that symbol might evolve as the story progresses. Will they understand the symbol differently by the story’s conclusion? How might their interactions with or reactions to this symbol change?
+**3. External Symbolism:**
+   - **A.** Identify external elements in your WIP that symbolize the Lack of the character(s).
 
-3. **Alternative Habitual Behavior:**
-   * If not using a symbolic object, pinpoint a unique habitual behavior that demonstrates how the character copes with their internal void.
-   * Forecast if this behavior will change by the story's conclusion. If so, how? If not, why?
+**4. Theme Analysis:**
+   - **A.** How does the symbolism relate to the overarching theme of your work?
 
-**Purpose:** Through these exercises, writers can better illustrate characters' internal struggles and evolutions by externalizing them through symbols or habits. This adds depth to the character and provides readers with visual or behavioral cues to understand the character’s internal journey.
+---
 
+### VII. FINAL THOUGHTS & NEXT STEPS
+
+**1. Reflection:**
+   - **A.** What insights have you gained about your characters after filling out this worksheet?
+   - **B.** How might these insights influence future drafts or revisions of your work?
+
+**2. Revision Planning:**
+   - **A.** Based on your findings, list specific scenes or character arcs that may need revision.
+   - **B.** Prioritize these changes based on impact on your story.
+
+**3. Moving Forward:**
+   - **A.** Set a timeline or specific goals for implementing these changes.
+
+---
+
+### INSTRUCTIONS: Fill out the sections that resonate most with your story. It's okay to leave some sections blank if they're not applicable. Use this worksheet as a flexible tool, revisiting and revising as your understanding of your characters and their Lacks deepens.
 ## 3 The Heart of the Matter Itself--Yearning 
 
 ### I. THE PULSE OF STORY, THE SOURCE OF WILLFULNESS
@@ -672,7 +714,7 @@ This exercise aims to guide a writer in exploring two significant aspects of the
 
 In essence, this exercise is a tool for writers to delve deep into their characters' past experiences, both negative and positive, and understand how they shape their present behaviors, attitudes, and actions.
 
-## 6 Prime Mover, Desire—Not ConflictDrives Story
+## 6 Prime Mover, Desire—Not Conflict Drives Story
 
 ### I. DESIRE DRIVES STORY
 **Summary and Clarification**:

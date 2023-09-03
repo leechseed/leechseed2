@@ -1,7 +1,10 @@
-' Format for a worksheet handout '
-# Blame the Parents
+#03_CHARACTER 
 
----
+> reDESIGN A STEP-BY-STEP WORKSHEET BASED ON THE FOLLOWING chapter  summary & EXERCISE TO ASSIST FICTION AUTHORS IN CRAFTING A COMPELLING STORY. Structure questions to elicit responses in the form of bulleted nested lists requires clarity, precision, and sometimes explicit instruction.
+
+> CHAPTERS Blame the Parents, Flip the Script - DONE. Continue with Pieces of Me using the summary + former exercise + prompt above 09032023
+# Blame the Parents
+**REDESIGNED CHARACTER AND STORY DEVELOPMENT WORKSHEET**
 
 ## **BUILD THE CHARACTER**
 
@@ -9,93 +12,56 @@
 
 **Understanding Childhood Messages**
 
-To help you understand your character better, consider the messages they received during their childhood. These messages play a critical role in shaping their behavior, beliefs, and internal conflicts.
+To craft a well-rounded character, consider the early messages they received. These shape their behaviors, beliefs, and create potential for conflict. 
 
 ---
 
-**1. What messages did your character receive as a child?**
-
-Check or circle any that apply:
-
-- [ ] You come first.
-- [ ] I won't pay attention to you no matter what you do.
-- [ ] Your needs aren’t important.
-- [ ] You need help.
-- [ ] If you beg and whine, you can get your way.
-- [ ] I'm afraid of your anger.
-- [ ] You're clever.
-- [ ] You're so slow.
-- [ ] Make me look good.
-- [ ] Be happy.
-- [ ] Keep trying.
-- [ ] You can never pay me back for all I've done.
-- [ ] I don't have time for you.
-- [ ] It's okay to explore.
-- [ ] Mind your own business.
-- [ ] You're in charge.
-- [ ] Parents never make mistakes.
-- [ ] Don't leave me.
-- [ ] You have a big mouth.
-- [ ] Drop dead.
-- [ ] Don't you ever learn?
-- [ ] It's always your fault.
-- [ ] I love you.
-- [ ] You're a problem child.
-- [ ] Work before play.
+**1. Childhood Messages:**
+   
+*List the messages your character received as a child:* 
+   - Message 1: _________ 
+     - Is this a Driver or an Injunction? _________
+     - Event or scenario where they received this message: _________
+     - Resulting belief or behavior: _________
+   - Message 2: _________
+     - Is this a Driver or an Injunction? _________
+     - Event or scenario where they received this message: _________
+     - Resulting belief or behavior: _________
+   - (Continue as needed.)
 
 ---
 
 **2. Custom Messages:**
 
-Are there any specific messages you believe your character received that aren't listed above? 
-
-*Write them down:* ____________________________
-
----
-
-**3. Relate to Drivers/Injunctions:**
-
-Which of the drivers or injunctions do these messages relate to?
-
-____________________________
+*If there are unique messages your character received not covered above, list and describe them here:* 
+   - Custom Message 1: _________
+     - Related memory or delivery method: _________
+   - Custom Message 2: _________
+     - Related memory or delivery method: _________
 
 ---
 
-**4. Delivery & Memories:**
+**3. Reaction to Challenge:**
 
-How were these childhood messages delivered? Were there specific events or memories your character recalls related to these messages?
-
-____________________________
-
----
-
-**5. Current Beliefs & Behaviors:**
-
-What beliefs does your character hold now due to these messages? How do they behave as a result?
-
-____________________________
+*When these messages are confronted or disputed, how does your character respond?*
+   - For Message 1: 
+     - Likely reaction: _________
+     - Potential source of challenge: _________
+   - For Message 2:
+     - Likely reaction: _________
+     - Potential source of challenge: _________
 
 ---
 
-**6. Adaptation & Challenge:**
+**4. Internal Conflicts:**
 
-How does your character react or adapt when these deep-seated beliefs or messages are challenged?
-
-____________________________
-
----
-
-**7. Internal Conflict:**
-
-Given these messages, what internal conflicts might be set up within your character? How do these messages contradict each other?
-
-____________________________
-
----
-
-Remember, the journey of understanding a character deeply can add layers of depth to your story. Use this worksheet as a guide to delve into the nuances of your character's psyche.
-
-**Worksheet Handout**
+*Considering these messages, outline the internal struggles of your character.*
+   - Conflict 1:
+     - Originating messages: _________
+     - Manifestation in story: _________
+   - Conflict 2:
+     - Originating messages: _________
+     - Manifestation in story: _________
 
 ---
 
@@ -105,141 +71,172 @@ Remember, the journey of understanding a character deeply can add layers of dept
 
 **Incorporating Childhood Messages into Your Plot**
 
-To create a multi-layered plot and add depth to your story, consider how childhood messages and beliefs can be integrated and challenged. Use this worksheet to brainstorm and ensure that these elements elevate the conflict and dynamics between characters.
+---
+
+**1. Storyline & Messages:**
+
+*Detail how the childhood messages influence the story's events.*
+   - Event 1:
+     - Linked message: _________
+     - Impact on storyline: _________
+   - Event 2:
+     - Linked message: _________
+     - Impact on storyline: _________
 
 ---
 
-**1. Events & Messages:**
+**2. Challenges & Growth:**
 
-How can the events that delivered the childhood messages be woven into or impact the current story?
-
-*Describe:* ____________________________
-
----
-
-**2. Challenges to the Messages:**
-
-What events in the story confront or challenge the childhood messages and the beliefs that arose from them?
-
-*Detail them:* ____________________________
+*Which story events challenge or shift your character's beliefs?*
+   - Event or Challenge 1:
+     - Challenged belief: _________
+     - Outcome or evolution: _________
+   - Event or Challenge 2:
+     - Challenged belief: _________
+     - Outcome or evolution: _________
 
 ---
 
-**3. Characters & Belief Challenges:**
+**3. Interpersonal Dynamics:**
 
-Identify other characters in the story who challenge the protagonist's messages or beliefs. How do they do so?
-
-*Character:* ___________ *How:* _________________________
-
----
-
-**4. Relationship Conflicts:**
-
-Consider the messages or beliefs of each character. How do these differing or conflicting messages/beliefs result in interpersonal tensions or conflicts?
-
-*Character:* ___________ *Conflict:* _________________________
+*Identify characters who might challenge or reinforce your protagonist's beliefs.*
+   - Character 1: 
+     - Their message/belief: _________
+     - How they challenge or support the protagonist: _________
+   - Character 2:
+     - Their message/belief: _________
+     - How they challenge or support the protagonist: _________
 
 ---
 
-**5. Evolution & Change:**
+**4. Catalysts in Character Development:**
 
-What shifts need to occur within your main character for their beliefs, rooted in their childhood messages, to change or evolve?
-
-*Describe the changes:* ____________________________
-
----
-
-**6. Precipitating Events:**
-
-What events or turning points in your story could act as catalysts for these shifts in your character's beliefs or behavior?
-
-*List the events:* ____________________________
+*Which story moments act as turning points for your character's growth?*
+   - Turning Point 1:
+     - Before mindset: _________
+     - After mindset: _________
+   - Turning Point 2:
+     - Before mindset: _________
+     - After mindset: _________
 
 ---
 
-Remember, understanding and incorporating the influence of childhood messages on your characters can lead to richer dynamics and more compelling conflicts in your story. Use this worksheet as a tool to guide the development of your plot and the relationships within it.
+**Note:** Dive deep into your character's psyche to weave intricate dynamics and conflicts in your story, enhancing reader engagement.
 
 # Flip the Script
-**WORKSHEET – Build the Character**
+**WORKSHEET – Flip The Script: Crafting Your Character's Inner Beliefs**
 
-*Utilize the insights from this section's theory to develop a nuanced understanding of your character. Take your time to answer the questions thoroughly.*
-
----
-
-**1. Character's Scripts:**
-- What scripts or internal beliefs does the character hold about themselves or the world?
-  
-  *Example: "I am not good enough," "People always leave," etc.*
+*The "Flip The Script" theory offers a pivotal understanding of how characters perceive and respond to events in the narrative. Let's delve deep into your character's psyche by examining their internal scripts.*
 
 ---
 
-**2. Behavioral Manifestations:**
-- How does the character behave in response to these scripts? 
-- What actions or decisions are influenced by these internal beliefs?
+**1. Identify Your Character’s Scripts:**
+   - **Script Type** (Until, After, Never, Always, Almost, Open-ended):
+      - Description:
+      - Origin (how/when it was developed):
+
+   *(Example: Script Type: Always; Description: "I always end up alone"; Origin: Abandonment by a parent during childhood.)*
 
 ---
 
-**3. Evolution of Behavior:**
-- As your story progresses, which behaviors of the character will evolve or change?
-- How will this demonstrate a shift or challenge in their internal scripts?
+**2. Behavioral Impacts of Scripts:**
+   - **Behavior 1**:
+      - Trigger (what event or thought prompts this behavior):
+      - Frequency (how often does this behavior occur):
+
+   *(Example: Behavior 1: Pushing people away; Trigger: Someone gets too close emotionally; Frequency: Often.)*
 
 ---
 
-**4. Internal Monologues:**
-- Which internal stories or narratives are the most dominant or recurrent for this character?
-  
-  *Example: Replaying past failures, imagining confrontations, etc.*
+**3. Evolving Behaviors & Scripts:**
+   - **Evolved Behavior 1**:
+      - Associated Script:
+      - Catalyst for Evolution (what event or realization prompted this change):
+
+   *(Example: Evolved Behavior: Accepting help; Associated Script: "I am not good enough"; Catalyst: A close friend's unwavering support during a crisis.)*
 
 ---
 
-**5. Challenging the Script:**
-- Will the character confront their scripts at any point in the story?
-- If so, how will they challenge or question these internal beliefs?
+**4. Dive Into Internal Narratives:**
+   - **Dominant Internal Story 1**:
+      - Frequency (how often does this narrative play in their mind):
+      - Impact on Perception & Reaction to Events:
+
+   *(Example: Dominant Internal Story: Past rejections; Frequency: Every time they meet someone new; Impact: Hesitation in forming new relationships.)*
 
 ---
 
-**6. Character Growth:**
-- How does the character evolve, grow, or transform as a result of confronting or understanding their scripts?
+**5. Confronting The Script:**
+   - **Script-Challenging Event 1**:
+      - Resultant Internal Conflict:
+      - External Response:
+
+   *(Example: Script-Challenging Event: A person they expected to leave, stays; Resultant Internal Conflict: Questioning the belief "People always leave"; External Response: Emotional outburst followed by introspection.)*
 
 ---
 
-*Note: This worksheet aims to help you delve deeper into your character's psyche, understanding the foundational beliefs that drive their actions. By identifying and challenging these scripts, you can craft a dynamic and evolving character arc.*
+**6. Journey of Growth:**
+   - **Character Transformation Point 1**:
+      - Script Being Addressed:
+      - Catalyst for Change:
+      - New Script (if any):
 
-**WORKSHEET – Build the Story**
-
-*Harness the insights from this section's theory to craft a captivating plot with inherent conflict. Delve into each question, contemplating how the internal scripts and beliefs of characters shape and challenge the story's trajectory.*
-
----
-
-**1. Story's Adherence to Scripts:**
-- How do the events of the story align with or challenge the character's script or internal beliefs?
-
-  *Example: If a character believes "Love always hurts," do events prove or dispute this notion?*
+   *(Example: Transformation Point: Trusting a friend; Script: "People always leave"; Catalyst: Friend's consistent support; New Script: "Some people stay".)*
 
 ---
 
-**2. Opposing Scripts Within Characters:**
-- Identify a character who holds an opposing or contrasting script to the protagonist.
-- Describe this character's internal belief or script.
+*Reminder: Character evolution offers readers a relatable journey. The more we understand the scripts driving their actions, the deeper our narrative can be.*
 
 ---
 
-**3. Interactions Driven by Opposing Scripts:**
-- How do characters with opposing scripts interact throughout the story?
-- What conflicts arise due to their contrasting beliefs?
-- Are there moments of understanding or common ground? If so, describe.
+**WORKSHEET – Flip The Script: Weaving Scripts into Your Story**
+
+*Character scripts form the backbone of their perceptions, reactions, and growth. Dive into the following questions to entwine these scripts with your plot.*
 
 ---
 
-**4. Plot Events and Internal Monologues:**
-- What key events in the plot directly challenge the dominant internal stories or narratives of characters?
-- How do these events promote or strengthen alternative internal narratives?
+**1. Script Alignment & Story Events:**
+   - **Event 1**:
+      - Characters Involved:
+      - Scripts Challenged or Reinforced:
+      - Character Responses:
 
-  *Example: If a character often replays memories of betrayal, what events highlight moments of trust or loyalty?*
+   *(Example: Event: Surprise birthday party; Characters: Protagonist, friends; Scripts: "I am forgettable", "Love always hurts"; Responses: Overwhelm, joy, suspicion.)*
 
 ---
 
-*Note: This worksheet is designed to help you interweave character beliefs with plot events, creating a rich tapestry of conflict and growth. By understanding and playing with these scripts, your story can achieve deeper layers of tension and resolution.*
+**2. Juxtapose Scripts for Depth:**
+   - **Character 1**:
+      - Script:
+   - **Character 2**:
+      - Opposing/Contrasting Script:
+
+   *(Example: Character 1: Protagonist, Script: "I am unlovable"; Character 2: Love interest, Script: "Everyone is deserving of love".)*
+
+---
+
+**3. Script-Driven Interactions:**
+   - **Interaction 1**:
+      - Characters Involved:
+      - Dominant Scripts:
+      - Conflicts Arising:
+      - Moments of Connection:
+
+   *(Example: Interaction: Heated argument; Characters: Protagonist, sibling; Scripts: "I am always overshadowed", "I need to protect"; Conflicts: Accusations, misunderstandings; Connection: Mutual concern for a parent.)*
+
+---
+
+**4. Narrative-Changing Plot Events:**
+   - **Event 1**:
+      - Dominant Character Scripts:
+      - Resulting Shifts in Internal Narratives:
+      - External Outcomes:
+
+   *(Example: Event: Rescuing a friend; Scripts: "I'm not a hero", "I can't make a difference"; Shifts: Recognizing courage, valuing self-worth; Outcomes: Enhanced self-belief, strengthened friendships.)*
+
+---
+
+*Note: By understanding and intertwining character scripts with plot, we craft stories that resonate. These in-depth conflicts and growth arcs can greatly enrich our narrative, drawing readers into our created world.*
 
 # Pieces of Me
 **WORKSHEET – Build the Character**

@@ -559,7 +559,7 @@ In essence, while understanding general motivations is essential, it's equally c
 5. **Conclusion:**
    - The author prefers to see character arcs as revealing hidden aspects rather than evolving new ones. Though the term "character development" is widely accepted, it's essential to understand that most "development" actually pertains to "revelation"—uncovering parts of one's identity previously obscured to both the individual and the audience.
 
-## 6 Past and present
+## Chapter 6 Past and present
 **Summary:**
 
 The text discusses the importance and significance of "back-story" in narratives, highlighting how it is used to reveal the character and the plot. A back-story refers to the series of events that occurred prior to the main storyline. The text uses two film examples, "Citizen Kane" and "The Imitation Game", and a television play, "Spend, Spend, Spend", to illustrate how back-stories can be employed effectively. 

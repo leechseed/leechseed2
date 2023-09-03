@@ -1,357 +1,568 @@
-# 1 CHARACTER VERSUS PEOPLE
-*Human beings and characters are distinct in their nature and existence. While humans are constantly evolving and changing, characters are stable and fixed in their narratives. Here's a breakdown of their differences:*
+#03_CHARACTER 
 
-**Character vs. Human Application Worksheet for Authors**
+> DESIGN A STEP-BY-STEP WORKSHEET BASED ON THE FOLLOWING  SUMMARY TO ASSIST FICTION AUTHORS IN CRAFTING A COMPELLING STORY. Structure questions to elicit responses in the form of bulleted nested lists requires clarity, precision, and sometimes explicit instruction.
 
-*Objective:* To assist authors in understanding and applying the distinctions between human beings and characters in their writing.
+> CHAPTERS 1, 2 - DONE. Continue with 3 using the summary + prompt above 09032023
 
----
 
-**PART A: CHARACTER CREATION**
+**OPEN WORKSHEET**
+# PART ONE: IN PRAISE OF CHARACTERS
 
-1. **Character's Name:** ________
+## 1 CHARACTER VERSUS PEOPLE
+### **I. CHARACTER AND INSIGHT**
+Think about your story's characters and their depth of understanding.
 
-2. **Character Profile**: 
-    - Age: 
-    - Occupation:
-    - Physical attributes:
-    - Personality traits:
+1. **Insight into Characters**
+   - List the primary actions, words, and intentions of your main characters.
+     - Character 1:
+       - Action:
+       - Words:
+       - Intentions:
+     - Character 2:
+       - ...
+   - How do these aspects allow readers to delve deep into each character's hidden thoughts and desires?
 
-3. Define this character's primary traits that remain *consistent and fixed* throughout the narrative. What are the traits, values, or beliefs that remain unchanged from the beginning to the end of the story?
+2. **Self Reflection**
+   - How do you want readers to introspect after engaging with your characters?
+   - List ways in which your characters challenge readers' understanding of themselves:
+     - ...
 
-4. How does this character symbolize a broader human experience or emotion? 
-
----
-
-**PART B: CHARACTER EVOLUTION**
-
-1. List down three pivotal moments in your story that will challenge or emphasize the *consistent and fixed* nature of your character:
-
-    a. 
+3. **Character Analysis as Therapy**
+   - List characters that provide therapeutic insights for readers through their behaviors and motivations.
+     - ...
    
-    b. 
-    
-    c. 
-
-2. Explain how the character remains consistent or how their unchanging nature is highlighted during these moments.
-
----
-
-**PART C: CHARACTER'S INTERNAL WORLD**
-
-Given that characters often display every emotion, experience, and thought, making them layered:
-
-1. Create a brief internal monologue for your character. This should shed light on their deepest fears, desires, and dreams.
-
-2. Craft a situation where the character's internal world clashes with the external reality they face in the story. How does this amplify the character's fixed nature vs. the changing and unpredictable nature of real-life scenarios?
-
-3. List three symbols or motifs within your narrative that reflect or tie back to your character's internal world:
-
-    a.
-
-    b.
-
-    c.
+4. **Depth of Understanding**
+   - Describe the broader world your characters inhabit.
+   - For each main character, list the inner workings that provide insights into their nature:
+     - Character 1:
+       - ...
 
 ---
 
-**PART D: DEEPENING THE CHARACTER'S LAYER**
+### **II. CHARACTER LIMITS**
+Examine how your characters confront or avoid their inner contradictions.
 
-1. Choose an emotion (e.g., anger, happiness, sadness). Design a scene that vividly portrays this emotion in your character. Ensure this portrayal resonates deeply with audiences.
+1. **Human Dualities**
+   - List the opposing traits within each main character:
+     - Character 1:
+       - Trait A vs. Trait B:
+     - Character 2:
+       - ...
 
-2. Since characters often display their emotions and thoughts more openly than real humans, list down three internal thoughts your character might have during this scene:
+2. **Literary Exploration**
+   - Which of your characters embody extreme exploration of inner paradoxes?
+     - ...
 
-    a. 
-
-    b. 
-
-    c. 
-
----
-
-**PART E: REFLECTING ON PERMANENCE**
-
-1. How would you introduce this character in another narrative, ensuring they maintain their original essence, but also fit into the new story?
-
-2. If an actor were to portray your character, what instructions would you give to ensure they capture the character's essence and not just provide their own interpretation?
-
----
-
-**PART F: PRACTICAL FEEDBACK**
-
-Share a brief scene involving your character with a fellow writer or peer. Ask them these questions:
-
-1. Was the character's essence or *fixed nature* clear?
-2. Did the character resonate deeply, as a character should, according to the principles outlined?
-3. Were there moments where the character felt too "human" or unpredictable?
-
-Document the feedback: 
+3. **Historical and Notable Figures (if applicable)**
+   - If using historical figures, how have you portrayed them to amplify certain traits?
+   - List how these portrayals differ from real-life personalities or actions:
+     - ...
 
 ---
 
-**Reflection:** How has this exercise changed or refined the way you approach character development? What key takeaways will you apply to your future writing?
+### **III. CHARACTER FOCUS**
+Reflect on how your characters' complexities engage readers.
 
-*End of Worksheet*
+1. **Human Interactions**
+   - How do your characters present themselves to others in the story?
+     - Character 1:
+       - Facade:
+     - Character 2:
+       - ...
 
-(Note: This worksheet can be adapted for different genres or writing styles.)
+2. **Crafting Fictional Characters**
+   - For each main character, list aspects that make them intricate and intriguing for readers:
+     - Character 1:
+       - ...
 
-## CHARACTER AND INSIGHT
-**Character Insight & Limits Assignment Worksheet**
-
----
-
-*Objective:* To guide writers in understanding and utilizing the depths of character portrayal and its therapeutic value, as well as recognizing the duality of human nature in their narratives.
-
----
-
-**PART A: CHARACTER DISSECTION**
-
-1. **Character's Name:** ________
-
-2. Write a brief description of your character's major actions in your story. 
-
-3. Dive deeper: List three hidden thoughts or desires that motivate the above actions. 
+3. **Intriguing Characters vs. Simplistic Characters**
+   - Which characters challenge readers to think and analyze?
+   - Which characters might come off as unrealistic or cartoonish? How can you add depth to them?
 
 ---
 
-**PART B: SELF-REFLECTION VS. CHARACTER INSIGHT**
+### **IV. CHARACTER AND TIME**
+Consider the relationship between your characters, their perception of time, and readers' perspectives.
 
-1. Choose a moment from your personal life where you felt conflicted. Briefly describe it. 
+1. **Character's Perception of Time**
+   - How do main characters perceive their past, present, and future?
+     - Character 1:
+       - Past:
+       - Present:
+       - Future:
 
-2. Craft a scene where a character experiences a similar internal conflict. How does their static nature in the narrative amplify the insight into their inner world, compared to your real-life experience?
+2. **Readers/Audience's Perception**
+   - How does the narrative structure allow readers to anticipate or reflect on events?
+   
+3. **Story vs. Character**
+   - Describe how your story and characters represent life and existence.
 
----
+4. **Ephemeral Nature of Ideas**
+   - List ways your story might be timeless or could become outdated over time.
 
-**PART C: CHARACTER DUALITIES**
-
-1. Pick a character from your story who embodies duality (e.g., both love and cruelty).
-
-2. Describe two scenes where these opposing traits are evident. 
-
-    a. 
-
-    b. 
-
-3. Discuss how this character's exploration of their inner paradoxes adds depth to your narrative.
-
----
-
-**PART D: HISTORICAL FIGURE REIMAGINED**
-
-1. Choose a historical or notable figure. 
-
-2. Describe how you'd portray this figure in a story, amplifying certain traits or internal conflicts. 
-
-3. How would this portrayal provide a new or deeper understanding of this figure, compared to their real-world actions or historical records?
+5. **Enduring Characters**
+   - Which characters do you believe will leave a lasting impression on readers? Why?
 
 ---
 
-**PART E: DISCUSSION & FEEDBACK**
+### **V. CHARACTER AND BEAUTY**
+Explore the essence of beauty within your characters.
 
-Engage in a discussion with a fellow writer or peer about how characters in literature can offer clearer insights into human nature than real-life interactions. Share your answers from the previous sections to provide examples.
+1. **Beauty vs. Prettiness**
+   - For each main character, describe their depth and harmony beyond physical appearance:
+     - Character 1:
+       - ...
 
-Document key insights from the discussion: 
+2. **Character and Beauty**
+   - How do their traits come together to exude beauty, even if not traditionally attractive?
 
----
-
-**Reflection:** How will you utilize the concepts of character insight and duality in your future narratives? What have you learned about the power of character portrayal?
-
-*End of Worksheet*
-
-## CHARACTER LIMITS
-**Character Dualities & Focus Assignment Worksheet**
-
----
-
-*Objective:* To delve into the nature of human dualities and the art of crafting complex characters that resonate with readers.
+3. **Response to Beauty**
+   - Which characters do you hope will evoke deep affection from readers? Why?
 
 ---
 
-**PART A: EXPLORING HUMAN DUALITIES**
+### **VI. CHARACTER AND EMPATHY**
+Evaluate how your characters resonate with readers on an emotional level.
 
-1. **Character's Name:** ________
+1. **Empathy and Sensitivity**
+   - How do your characters enrich readers' mental and emotional experiences?
 
-2. Identify two opposing traits your character embodies (e.g., kindness vs. cruelty):
+2. **Characters' Purpose**
+   - What truths or insights into human nature do your characters reveal?
 
-    a. 
+3. **Desired Outcomes**
+   - What new perspectives do you want readers to gain from your story and characters?
 
-    b. 
-
-3. Craft a short scene where this character's duality is evident. Detail their actions and the internal conflicts they experience.
-
----
-
-**PART B: HISTORICAL/NOTABLE FIGURE REINTERPRETATION**
-
-1. Choose a historical or notable figure: ________
-
-2. Describe a situation where you'd emphasize one of their lesser-known or conflicting traits:
-
-3. Craft a brief dialogue or monologue that brings out this trait. Consider how it might contrast with the popular perception of this figure.
+4. **Shared Humanity and Empathy**
+   - How do your characters connect readers to broader human experiences?
 
 ---
 
-**PART C: CHARACTER FACADES & DEPTHS**
+### **VII. CHARACTER AND THE AUTHOR**
+Reflect on your motivations and strengths as an author in character creation.
 
-1. Think of a person you know who often puts up a facade. Without naming them, briefly describe their typical behavior.
+1. **Taste**
+   - Reflect on your strengths and areas of improvement in crafting compelling characters.
 
-2. Using the above description as a base, craft a fictional character who exhibits this facade but has hidden depths.
+2. **Knowledge**
+   - List sources of inspiration or research that informed your characters and setting.
 
-3. Draft a scene where this character's true nature or a hidden aspect of their personality emerges, surprising other characters and the reader.
+3. **Originality**
+   - What unique insights or perspectives do you bring to your story and characters?
 
----
+4. **Showmanship**
+   - How do you maintain a balance between truth and innovation to engage readers?
 
-**PART D: COMPLEXITY VS. SIMPLICITY**
+5. **Mastery of Form**
+   - Reflect on how your understanding of storytelling influenced character development.
 
-1. Create two characters:
+6. **Moral Imagination**
+   - Describe the moral compass or values guiding your characters' portrayals.
 
-    a. **Simple Character's Name:** ________
-    *Description & Traits:* 
-
-    b. **Complex Character's Name:** ________
-    *Description & Traits:* 
-
-2. Describe a scenario where the two characters interact. How does the complex character challenge and overshadow the simpler one in terms of depth and unpredictability?
-
----
-
-**Reflection:** How will understanding human dualities and the need for character depth influence your future writing? Do you feel more equipped to create characters that resonate with readers?
-
-*End of Worksheet*
-
-## CHARACTER AND FOCUS
-**Character and Focus Assignment Worksheet**
+7. **An Ideal Self**
+   - How does your best self influence your writing and character creation?
 
 ---
 
-*Objective:* Deepen your understanding of character facades and the nuances that make fictional characters compelling. 
+This worksheet serves as a roadmap for authors to delve deep into their characters, ensuring they are well-crafted, compelling, and resonate with readers. As you fill out each section, keep revisiting and refining, ensuring your characters remain at the heart of your story.
+
+## 2 THE ARISTOTLE DEBATE - Plot Versus Character
+
+### Introduction:
+The age-old debate over whether a story should be plot-driven or character-driven is rich in history. Understanding their intricate relationship can greatly improve the depth and authenticity of your narrative. This worksheet will guide you through the process of crafting a compelling story by considering both plot and character in tandem.
 
 ---
 
-**PART A: REAL-LIFE FACADES**
+### 1. Understanding Aristotle's Rankings
+Reflect on Aristotle's perception of the elements of drama. 
 
-1. Think of someone you know who often wears a "mask" or displays a particular facade:
+1. **Plot**:
+    - List three examples of stories or films you believe prioritize plot.
+        - ...
+        - ...
+        - ...
+    - How does the sequence of events contribute to the storytelling in these examples?
+        - ...
+        - ...
+        - ...
 
-    **Description of their outward behavior:** 
-
-    **Guess at the motivations or emotions behind this facade:** 
-
----
-
-**PART B: CRAFTING A CHARACTER**
-
-1. **Character's Name:** ________
-
-2. Describe the facade or front they put up in social situations:
-
-3. Dive deeper: What insecurities, past traumas, or desires might be driving this facade?
-
-4. How do other characters in your story perceive this individual based on their facade?
-
----
-
-**PART C: REVEALING DEPTH**
-
-1. Draft a pivotal scene or moment where something forces your character to drop their facade. What circumstances push them? How do they react?
+2. **Character**:
+    - List three examples of stories or films you believe prioritize character.
+        - ...
+        - ...
+        - ...
+    - How do the characters' thoughts and feelings enhance the storytelling in these examples?
+        - ...
+        - ...
+        - ...
 
 ---
 
-**PART D: CONTRASTING CHARACTERS**
+### 2. Understanding Character, Plot, & Event
+Define the following terms in your own words:
 
-1. Create a brief profile for a secondary character who contrasts with your main character:
-
-    **Character's Name:** ________
-
-    **Description & Traits:** 
-
-2. How is this secondary character more simplistic or predictable compared to your main character?
-
-3. Design an interaction between your main character and this secondary character. How does the unpredictability and depth of your main character highlight the simplicity of the secondary character?
+1. **Character**:
+    - ...
+2. **Plot**:
+    - ...
+3. **Event**:
+    - ...
 
 ---
 
-**Reflection:** How has this exercise influenced your perspective on character development? What steps will you take to ensure depth and complexity in your characters, making them more engaging for your readers?
+### 3. The Essence of Events
 
-*End of Worksheet*
-
-## CHARACTER AND TIME
-**Character and Time: Assignment Worksheet**
-
----
-
-**Objective:** To understand and apply the concept of the passage of time in literature and its impact on characters.
+1. Identify a memorable event from a story or film you love.
+    - ...
+2. Describe the values that shifted as a result of this event.
+    - ...
+3. What was the significance of this event in relation to the character(s) involved?
+    - ...
 
 ---
 
-**1. Character Perception vs. Reader Perception:**
-- **a.** Choose a novel or story you are familiar with. Describe a key event in the narrative from the character's point of view.
-- **b.** Now, describe the same event from the reader's perspective. How does the broader knowledge of the story's timeline impact your understanding?
+### 4. Characterization Versus True Character
+
+1. Choose a character from literature or cinema:
+    - Character name: ...
+
+2. **Characterization**:
+    - List five observable traits of this character.
+        - ...
+        - ...
+        - ...
+        - ...
+        - ...
+
+3. **True Character**:
+    - Describe the character’s innermost desires, values, and motivations.
+        - ...
 
 ---
 
-**2. Story vs. Character Evolution:**
-- **a.** List down three major events from a chosen story that signify the character's journey and evolution.
-- **b.** How does the character's understanding and approach differ from the start, middle, and end of the story due to these events?
+### 5. Plot-Driven Versus Character-Driven Stories
+
+1. Choose a story or film.
+    - Title: ...
+
+2. Analyze its primary driving force:
+
+    a. **Causality**:
+        - Does the story rely more on external forces or character decisions? Explain.
+            - ...
+
+    b. **Identity**:
+        - Does the protagonist act based on internal desires or external needs? Elaborate.
+            - ...
+
+    c. **Values**:
+        - Is the protagonist more concerned with personal or societal values? Provide examples.
+            - ...
+
+    d. **Depth**:
+        - Does the story focus more on external settings or characters' psychologies? Provide evidence.
+            - ...
+
+    e. **Curiosity**:
+        - What drives the intrigue: external conflicts or internal character decisions? Explain.
+            - ...
+
+    f. **Freedom vs. Fate**:
+        - Do characters seem to have free will, or are they on a predestined path? Justify your answer.
+            - ...
 
 ---
 
-**3. Time-sensitive Ideas vs. Timeless Characters:**
-- **a.** Name a classic story or novel which, in your opinion, contains ideas that might feel outdated today.
-- **b.** Despite the outdated context, which character from this story/novel do you find timeless? Why?
+### 6. Melding Plot and Character
+
+1. List two of your favorite stories or films that successfully blend plot and character-driven elements.
+    - ...
+    - ...
+2. For each, describe how they strike a balance between external events and character decisions.
+    - ...
+    - ...
 
 ---
 
-**4. Enduring Characters and Their Impact:**
-- **a.** Pick a timeless character from any literary work (e.g., Odysseus, Cleopatra). Describe how this character has been represented or adapted in modern contexts (films, TV shows, books, etc.).
-- **b.** Why do you think this character has endured and remains relevant? What aspects of their personality or journey make them universally appealing?
+### 7. Categorizing Your Story
+
+1. Briefly summarize a story you're working on or conceptualizing.
+    - ...
+
+2. Categorize each scene based on its driving force:
+
+    - Character decision-driven scenes:
+        - Scene 1: ...
+        - Scene 2: ...
+        - (Continue listing...)
+        
+    - External force-driven scenes:
+        - Scene 1: ...
+        - Scene 2: ...
+        - (Continue listing...)
+
+3. Reflect on the balance you've created between character and plot. Does one dominate? Would you like to adjust this balance?
+    - ...
 
 ---
 
-**5. Reflection:**
-Reflect on a character you are developing or wish to develop in your own writing. How can you apply the principles from this breakdown to make your character's relationship with time more complex and intriguing? Provide a short outline or description.
+### Conclusion:
+By understanding the intertwined nature of plot and character, you can craft more nuanced, engaging narratives. Whether leaning more towards one side or harmoniously blending both, the richness of your story lies in its execution and authenticity. Happy writing!
+
+
+## 3 AN AUTHOR PREPARES
+
+### AN AUTHOR'S VISION OF CREATIVITY
+
+### TWO THEORIES OF CHARACTER CREATION
+
+### CREATIVE HUNGER
+
+### THE FOUR RESEARCHES THAT FEED CREATIVITY
+
+### AN AUTHOR'S VISION OF NATURE
+
+### TWO GRAND THEORIES
+
+### THREE KEYS TO AUTHORSHIP
+
+
+# PART TWO: BUILDING A CHARACTER
+
+## 4 CHARACTER INSPIRATION: OUTSIDE IN
+
+### REALITY AS INSPIRATION
+
+### MEDIUM AS INSPIRATION
+
+### GENRE AS INSPIRATION
+
+### EVENTS AS INSPIRATION
+
+### THEME AS INSPIRATION
+
+### THE SELF-STORY AS INSPIRATION
+
+
+## 5 CHARACTER INSPIRATION: INSIDE OUT
+
+### THE OBSERVER AND THE OBSERVED
+
+### FOUR SELVES IN SEARCH OF CHARACTER
+
+### MAD MEN: THE FOUR SELVES IN ACTION
+
+### OUTSIDE IN / INSIDE OUT
+
+
+## 6 ROLES VERSUS CHARACTER
+
+### CAST FORMATION 
+
+#### Protagonist
+
+#### Protagonist Variations
+
+#### First Circle Characters
+
+#### Second Circle Characters
+
+#### Third Circle Characters
+
+#### Narrators
+
+##### Based on Person
+
+##### Medium-Specific Narrators
+
+
+## 7 THE OUTER CHARACTER
+
+### CHARACTERIZATION 
+
+### THE THREE FUNCTIONS OF CHARACTERIZATION
+
+### SETTING: WORLD BUILDING
+
+#### SETTING VERSUS CHARACTERIZATION
+
+### CHARACTERIZATION CHANGE
+
+### EXPLICIT TRAITS
+
+### IMPLICIT TRAITS
+
+#### VARIETIES OF PERSONALITY 
+
+#### VARIETIES OF INTELLIGENCE
+
+#### ATTITUDES, BELIEFS, VALUES
+
+#### EMOTION, MOOD, TEMPERMENT
+
+#### MIRROR, WORLD, AUTHOR
+
+#### EXPRESSING CHARACTERIZATION
+
+#### YES, BUT WHO IS SHE, REALLY?
+
+
+## 8 THE INNER CHARACTER
+
+### INSIDE-OUT MOTIVATIONS
+
+### OUTSIDE-IN MOTIVATIONS
+
+#### THE OBJECT OF DESIRE
+
+#### TRUE CHARACTER THROUGH CHOICES
+
+#### TRUE CHARACTER THROUGH DILEMMA
+
+#### TRUE CHARACTER THROUGH ANTAGONISM
+
+#### TRUE CHARACTER AND EMOTION
+
+#### TRUE CHARACTER AND REACTIONS
+
+#### TRUE CHARACTER AND FREE WILL
+
+
+## 9 THE DIMENSIONAL CHARACTER
+### A UNITY OF OPPOSITES
+
+### CHARACTER DIMENSION
+
+### COMPLEXITY IN SIX DIMENSIONS
+
+### THE DEFINING DIMENSION 
+
+### CASE STUDY: ODYSSEUS
+
+### CASE STUDY: TONY SOPRANO 
+
+
+## 10 THE COMPLEX CHARACTER
+### COMPLEXITY THROUGH ANTAGONISM 
+
+### PHYSICAL CONFLICTS
+
+### SOCIAL CONFLICTS
+
+### PERSONAL CONFLICTS
+
+### INNER DIMENSIONS 
+
+### CONSCIOUS CONFLICTS
+
+### LESS VERSUS MORE
+
+### BELIEF VERSUS SKEPTICISM
+
+### CONSCIOUS VERSUS SUBCONSCIOUS CONFLICT
+
+#### SELF VERSUS OTHER
+
+### ILLUSION VERSUS DELUSION
+
+#### CASE STUDY: ANTONY AND CLEOPATRA
+
+#### CHARACTER CONFLICT IN DEPTH
+
+#### LIFE IN THE SUBTEXT
+
+
+## 11 THE COMPLETED CHARACTER
+
+
+### FOUR MAJOR STEPS OF CHARACTER DESIGN 
+#### 1. Preparation 
+
+#### 2. Revelation
+
+#### 3. Change
+
+#### 4. Completion 
+
+### COMPLETING A CHARACTER
+
+
+## 12 THE SYMBOLIC CHARACTER
+
+### SYMBOLIC CHARACTER SPECTRUM
+
+### REALISTIC VERSUS SYMBOLIC CHARACTERS
+
+### CASE STUDY: GAME OF THRONES
+
+### HOW TO MAKE THE OLD NEW
+
+
+## 13 THE RADICAL CHARACTER
+
+### REALISM: CONVENTIONAL CHARACTERS IN CONVENTIONAL WORLDS
+
+### NONREALISM: CONVENTIONAL CHARACTERS IN UNCONVENTIONAL WORLDS
+
+### RADICALISM: UNCONVENTIONAL CHARACTERS IN UNCONVENTIONAL WORLDS
+
+### CREATING A RADICAL CHARACTER
+
+### THE FUTURE: UNCONVENTIONAL CHARACTERS IN CONVENTIONAL WORLDS
+
+# PART THREE: THE CHARACTER UNIVERSE
+
+## 14 CHARACTER IN GENRE
+
+### THE ORIGIN OF PRIMARY GENRES
+
+### THE SIXTEEN PRIMARY GENRES
+
+#### The Ten Plots of Fortune
+
+#### The Six Plots of Character 
+
+### THE TEN PRESENTATIONAL GENRES
+
+### GENRE COMBINATIONS
+
+
+## 15 CHARACTER IN ACTION
+
+### POLITICAL THEMES
+
+### OBJECT THEMES
+
+### SCENE CREATION: CHARACTER IN ACTION
+
+
+## 16 CHARACTER IN PERFORMACE
+
+### SEVEN FUNCTIONS OF CHARACTER IN PERFORMANCE
+
+### THE READER/AUDIENCE/CHARACTER CONNECTION 
+
+
+
+# PART FOUR: CHARACTER RELATIONSHIPS
+
+## 17 CAST DESIGN
+
+### CASE STUDY: PRIDE AND PREJUDICE
+
+### CASE STUDY: A FISH CALLED WANDA
+
+### CASE STUDY: SLAVE PLAY
+
+### CASE STUDY: 'BLOODCHILD'
+
+### CASE STUDY: BREAKING BAD
+
+### Cast Design
 
 ---
+> DESIGN A STEP-BY-STEP WORKSHEET BASED ON THE FOLLOWING  SUMMARY TO ASSIST FICTION AUTHORS IN CRAFTING A COMPELLING STORY. Structure questions to elicit responses in the form of bulleted nested lists requires clarity, precision, and sometimes explicit instruction.
 
-Once you've completed this worksheet, review your answers. Think about how the perception of time in a story can serve as a powerful tool in character development and narrative structure.
 
-##  A LAST NOTE
-**Understanding Characters: Assignment Worksheet**
+**DIRECT WORKSHEET**
 
----
-
-**Objective:** To grasp and apply the intricate relationship between characters in stories and our understanding of human nature.
-
----
-
-**1. Character Reflections:**
-- **a.** List down three characters you've encountered in literature: one you felt was poorly written, one you thought was clichéd, and one that felt unique to you. Briefly describe why you categorized them as such.
-- **b.** Think of a character (from any medium) that you deeply empathize with. Describe a particular scene or event that made you feel this way.
-
----
-
-**2. Emotions Through Storytelling:**
-- **a.** Choose a story where you felt a strong emotion (like anger, revenge, sorrow) through a character's experience. Describe the scenario and why it evoked such a reaction in you.
-- **b.** Reflect on a time when you faced a similar emotion in real life. How did the fictional representation compare to your actual experience?
-
----
-
-**3. Depth in Fiction vs. Reality:**
-- **a.** Name a character you feel you understand more deeply than someone you know in real life. What aspects of this character's portrayal contributed to this understanding?
-- **b.** Why do you think it's easier to connect with or understand fictional characters more deeply than real-life individuals?
-
----
-
-**4. Personal Reflection on Storytelling:**
-- **a.** Reflect on your engagement with stories. Do you feel that fictional narratives provide more depth than real-life experiences? Why or why not?
-- **b.** If you had to choose a fictional character that mirrors your inner self, who would it be and why?
-
----
-
-**5. Application in Your Writing:**
-Think of a story you want to write or are currently writing. How can you incorporate the insights from this chapter to develop characters that resonate deeply with readers? Sketch a brief outline or character profile based on these learnings.
-
----
-
-After completing this worksheet, revisit your answers. Reflect on the profound impact of storytelling and its potential to offer insights into human nature, often more deeply than real-life experiences. Consider how these learnings can shape your writing and your engagement with stories in the future.
-
-# 2 THE ARISTOTLE DEBATE - Plot Versus Character

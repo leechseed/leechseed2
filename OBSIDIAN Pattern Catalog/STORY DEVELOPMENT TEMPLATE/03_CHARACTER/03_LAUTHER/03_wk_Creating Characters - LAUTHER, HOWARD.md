@@ -1,101 +1,198 @@
+#03_CHARACTER 
+
+> DESIGN A STEP-BY-STEP WORKSHEET BASED ON THE FOLLOWING  SUMMARY TO ASSIST FICTION AUTHORS IN CRAFTING A COMPELLING STORY. Structure questions to elicit responses in the form of bulleted nested lists requires clarity, precision, and sometimes explicit instruction.
+
+> CHAPTERS 1, 2 - DONE. Continue with 3 using the summary + prompt above 09032023
 ## 1. What are a Character's Internal Traits?
-**Assignment Worksheet: Applying Character Contradictions for Enhanced Storytelling**
+### WORKSHEET: Deep Dive into Character's Internal Traits
 
-*Objective*: To help writers create layered, believable characters by integrating and expressing contradictions in their traits and actions.
+---
 
-**1. Character Profile Creation**
-* Name your character:
-* Age:
-* Occupation:
-* Primary goal in the story:
+### **Introduction**
+This worksheet aims to guide you through the meticulous process of character creation, highlighting the importance of internal traits. These are qualities that make your characters tick, motivate their actions, and influence their reactions.
 
-**2. Identifying Contradictions in Physical Appearance**
-* Describe your character's physical appearance:
-* Choose one physical attribute and create a contradiction based on ironic juxtaposition (e.g., a strong-looking character named "Tiny").
+**Directions:** For each trait, reflect on the description provided. Tick the traits that resonate most with your character and expand on them using the bulleted lists.
 
-**3. Multi-Faceted Social Roles**
-* List three social roles your character plays in their life (e.g., parent, employee, friend):
-  1.
-  2.
-  3.
-* Choose one of these roles and describe a situation where the character might act out of character or contradictory to their usual behavior in that role.
+---
 
-**4. Exploring Moral Dilemmas**
-* List a strong moral or ethical belief of your character:
-* Now, describe a situation where your character might act in contradiction to this belief:
+### **Section 1: The Nature of Internal Traits**
 
-**5. Secrets and Deceit**
-* Describe a secret your character is hiding:
-* How might this secret cause them to act in ways that are contradictory to their public persona?
+1. **Inborn Traits** (traits your character is born with):
+    - Trait 1:
+    - Trait 2:
+    - Reason for their intensity or variation:
 
-**6. Conscious vs. Unconscious Traits**
-* List one positive trait your character is consciously aware of:
-* List one negative trait your character suppresses or is unconscious of:
-* Describe a scene where the suppressed trait slips out, catching someone off guard.
+2. **Acquired Traits** (traits your character has developed over time):
+    - Trait 1:
+    - Trait 2:
+    - Root cause or experience that led to this trait:
 
-**7. Crafting Dispositional Contradictions**
-* From the earlier list of your character's internal traits, choose one:
-* Now, create a contradiction to that trait. This could be an opposing behavior, a paradoxical belief, or an unusual habit that doesn't align with the primary trait.
+---
 
-**8. Reflection and Analysis**
-* How do these contradictions make your character more interesting or relatable?
-* What challenges might you face in weaving these contradictions into your story seamlessly?
-* How might these contradictions drive your story's plot or conflict?
+### **Section 2: Delving into Specific Traits**
 
-*Note*: Remember that while contradictions can add depth and complexity, they should still be believable. Always consider the backstory or underlying reasons that might cause your character to possess these contradictory traits or make contradictory decisions.
+**INTELLIGENT**:
+- Does your character fall under this category?
+    - [ ] Yes
+    - [ ] No
+- If yes, specify the related traits that best describe them:
+    - Trait 1:
+    - Trait 2:
+    - Character possibilities or implications:
 
-*End of Worksheet*.
+**UNINTELLIGENT**:
+- (Follow the same structure as above.)
 
+**CERTAIN**:
+- (Follow the same structure.)
+
+... [Continue in the same format for each trait pair.]
+
+---
+
+### **Section 3: Deeper Exploration**
+
+For each trait you've ticked in the previous section:
+
+1. **How does this trait influence your character's decisions or actions in your story?**
+    - Influence 1:
+    - Influence 2:
+
+2. **How do other characters in the story perceive this trait?**
+    - Perception 1:
+    - Perception 2:
+
+3. **Is there a pivotal event in your story where this trait becomes particularly evident or is tested?**
+    - Event description:
+    - Character's reaction:
+
+---
+
+### **Section 4: Reflection and Integration**
+
+1. **How do these traits play into the larger themes or messages of your story?**
+    - Theme 1:
+    - Trait correlation:
+
+2. **Which of these traits might evolve or change throughout the story?**
+    - Trait 1:
+    - Expected evolution:
+
+3. **How can you organically weave these traits into your character's dialogues, actions, or relationships?**
+    - Strategy 1:
+    - Strategy 2:
+
+---
+
+**Closing Note:** Your character is a blend of many traits, some obvious and others subtle. These internal traits give depth, making them relatable and authentic. Revisit this worksheet as your story progresses and allow the character's experiences to influence their traits organically. Remember, a character's evolution can be just as captivating as the story itself.
 ## 2. What are the Character's External Traits?
-**Assignment Worksheet: Analyzing and Applying Character's External Traits**
 
-*Objective*: To assist writers in understanding and effectively integrating a character's external traits, ensuring that their behaviors are observed, interpreted, or misinterpreted by other characters in the narrative.
+### WORKSHEET: Analyzing Character's External Traits
 
-**1. Character Profile Creation**
-* Name your character:
-* Age:
-* Occupation:
-* Primary goal in the story:
+---
 
-**2. Defining Observable External Traits**
-* List three external traits that your character prominently displays:
-  1.
-  2.
-  3.
+### **Introduction**
+This worksheet focuses on the external traits of your character, which are behaviors and actions that are perceivable by other characters within your story. These external traits play a vital role in shaping the perceptions and interactions between characters. 
 
-**3. Perception and Misconception**
-* Choose one of the external traits listed above:
-* Describe a scene where another character observes this trait:
-* Now, explain how this observing character might misconstrue or inaccurately interpret the trait:
+**Directions:** Reflect on your character's behaviors and actions, using the prompts below to guide your thinking. Flesh out these traits using the bulleted lists for deeper analysis.
 
-**4. Intentional Projections vs. Unintended Behavior**
-* Choose another external trait from your list:
-* Is this trait something your character intentionally projects? Why or why not?
-* Describe a scene where this trait is on display and note whether other characters believe it's genuine or just a façade:
+---
 
-**5. External Reflections of Internal Traits**
-* Recall an internal trait from the previous worksheet:
-* How does this internal trait manifest as an external behavior?
-* Describe a scenario where this behavior catches another character off guard:
+### **Section 1: Defining External Traits**
 
-**6. Contextual Behavior**
-* Take the last external trait from your list:
-* Describe two different contexts (e.g., a party vs. a funeral) and how your character might display this trait differently in each setting:
+1. **List of your character's predominant external traits:**
+    - Trait 1:
+        - Which characters in the story observe this trait?
+        - Is this trait consistent in all contexts or only specific ones?
+    - Trait 2:
+        - Which characters in the story observe this trait?
+        - Is this trait consistent in all contexts or only specific ones?
+    - (Continue as needed.)
 
-**7. External Contradictions**
-* Choose an external trait that seemingly contradicts one of the character's internal traits:
-* Explain why you've chosen this contradiction:
-* Create a scene where another character notices this contradiction and reacts to it:
+---
 
-**8. Reflection and Analysis**
-* How do these external traits, and their perceptions by other characters, drive the interactions and dynamics in your story?
-* Are there any challenges you anticipate in making these traits believable or consistent?
-* How do the external traits push the narrative forward or create conflict?
+### **Section 2: Perception and Interpretation**
 
-*Note*: Strive for balance. While it's crucial to introduce dynamic external traits and their interpretations, ensure that they don't overshadow the core essence of your character.
+1. **Accuracy of Perception**:
+    - For each of the external traits listed above, ask:
+        - How accurate is the perception of this trait by other characters?
+        - Are there any misconceptions or biases that might be influencing this perception?
 
-*End of Worksheet*.
+2. **Intention vs. Misinterpretation**:
+    - For each of the external traits listed above, ask:
+        - Is the character intentionally projecting this trait?
+        - If yes, what might be their motive behind this projection?
+        - Are there scenarios where this trait is misinterpreted by other characters? Describe.
+
+---
+
+### **Section 3: The Relationship Between Internal and External Traits**
+
+1. **Correlation Analysis**:
+    - For each external trait:
+        - Corresponding internal trait:
+        - How does the internal trait influence or differ from the external trait?
+    - (Repeat for other traits.)
+
+2. **Misalignment and Conflict**:
+    - Are there any external traits that directly conflict with the character's internal traits?
+        - Detail the external trait:
+        - Corresponding conflicting internal trait:
+        - Potential reasons or events leading to this misalignment:
+
+---
+
+### **Section 4: Scenario Analysis**
+
+1. **Craft scenarios or contexts where specific external traits are most pronounced**:
+    - Scenario 1:
+        - External trait highlighted:
+        - Characters present:
+        - Outcome or consequence:
+
+2. **Craft scenarios where external traits might be misunderstood or lead to misconceptions**:
+    - Scenario 1:
+        - External trait in question:
+        - Characters present:
+        - Resulting misinterpretation or conflict:
+
+---
+
+### **Section 5: Reflection and Integration**
+
+1. **How do these external traits shape your character's relationships and interactions with others?**
+    - Interaction 1:
+        - External trait influencing the interaction:
+        - Outcome:
+
+2. **How can these external traits drive or complicate your story's plot?**
+    - Plot point 1:
+        - External trait causing or influencing the plot point:
+        - Potential resolution or complication:
+
+---
+
+**Closing Note:** A character's external traits are the windows through which other characters (and often the readers) perceive them. These traits can lead to alliances, misunderstandings, conflicts, or growth. As you progress in your story, ensure that these traits evolve in response to events, or remain steadfast, depending on your narrative's needs. Revisit and refine this worksheet as your plot develops, ensuring your character's actions remain consistent and believable.
 ## 3. What Does the Character Want, Not Want, or Need?
 
 
 ## 4. What Does the Character Like or Dislike?
+## 5. What Does the Character Fear?
+
+## 6. What Does the Character Believe?
+
+## 7. What are the Character's Strengths, Weaknesses, and Habits?
+
+## 8. What is the Character's Background?
+
+## 9. What Is the Character's Self-Assessment?
+
+## 10. What is the Character's 'Type'?
+
+## 11. Does the Character Have a Nickname?
+
+## 12. What is the Character's Job?
+
+## 13. Will the Character Face a Nonhuman Adversary?
+
+## 14. What Plot Drivers Will Affect the Character?

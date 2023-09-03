@@ -18,9 +18,9 @@ All told, I will parse the universe of character into its galaxies, galaxies int
 
 
 **PART ONE: IN PRAISE OF CHARACTERS**
-# **PART ONE: IN PRAISE OF CHARACTERS**
+# PART ONE: IN PRAISE OF CHARACTERS
 *Characters from stories and literature significantly influence our lives, sometimes even more than real-life individuals. They serve as guides and provide insights into understanding ourselves and others. The upcoming chapters will explore human nature and the principles of storytelling. The first chapter specifically focuses on the distinctions between fictional characters and real people.*
-# 1 CHARACTER VERSUS PEOPLE
+## 1 CHARACTER VERSUS PEOPLE
 
 Human beings and characters are distinct in their nature and existence. While humans are constantly evolving and changing, characters are stable and fixed in their narratives. Here's a breakdown of their differences:
 
@@ -55,7 +55,7 @@ Human beings and characters are distinct in their nature and existence. While hu
 
 In essence, while humans and characters might share certain emotional and psychological attributes, their existence, impact, and representation are fundamentally different. Characters provide a focused lens into the human experience, making them more accessible and resonant than the often complex and guarded lives of real people.
 
-## CHARACTER AND INSIGHT
+### CHARACTER AND INSIGHT
 **Summary and Clarification**:
 Characters in literature and media provide readers and viewers with a unique opportunity to analyze and understand them deeply. Here's a breakdown:
 
@@ -77,7 +77,7 @@ Characters in literature and media provide readers and viewers with a unique opp
 
 In essence, the fixed and detailed portrayal of characters in stories allows for a profound analysis, giving us insights that are often clearer than our understanding of ourselves or the real world around us.
 
-## CHARACTER LIMITS
+### CHARACTER LIMITS
 Human nature is rife with opposing traits and behaviors. However, most people do not confront or deeply explore these inner contradictions in their daily lives. Here's a breakdown:
 
 - **Human Dualities**:
@@ -93,7 +93,7 @@ Human nature is rife with opposing traits and behaviors. However, most people do
 
 In essence, while humans inherently possess various conflicting traits, it's through literature and media that these contradictions are deeply explored, often creating more vivid, lasting impressions of characters or historical figures than their real-world counterparts.
 
-## CHARACTER FOCUS
+### CHARACTER FOCUS
 While people often present themselves with a facade or "mask", fictional characters are crafted to spark curiosity and engage the audience. Here's a breakdown:
 
 - **Human Interactions**:
@@ -111,7 +111,7 @@ While people often present themselves with a facade or "mask", fictional charact
 
 In essence, while people may hide behind facades, well-crafted fictional characters engage readers with their complexity. This depth and unpredictability often make them feel more authentic and relatable, even though they are products of an author's imagination.
 
-## CHARACTER AND TIME
+### CHARACTER AND TIME
 Stories and characters provide different perspectives on the passage of time and the nature of existence. Here's a breakdown:
 
 - **Character's Perception of Time**:
@@ -132,7 +132,7 @@ Stories and characters provide different perspectives on the passage of time and
 
 In essence, while stories can become outdated due to changing societal norms and perspectives, the characters within them, especially those deeply developed and iconic, tend to have a timeless quality, ensuring their lasting impact on readers and audiences.
 
-## CHARACTER AND BEAUTY 
+### CHARACTER AND BEAUTY 
 True beauty in a character arises from the harmonious alignment of their traits and depths, irrespective of their physical appearance. Here's a breakdown:
 
 - **Beauty vs. Prettiness**:
@@ -153,7 +153,7 @@ True beauty in a character arises from the harmonious alignment of their traits 
 
 In essence, a beautifully crafted character resonates deeply with audiences, generating feelings of love and appreciation, regardless of their outer appearance or moral standing.
 
-## CHARACTER AND EMPAHTY
+### CHARACTER AND EMPAHTY
 Empathy for characters in fiction requires a heightened level of sensitivity and allows us to explore our inner thoughts and emotions. By identifying vicariously with characters, we can better understand our own complex nature and connect with our shared humanity. Characters are created to be more interesting and insightful than real people and, with the help of prose, actors, and our own imaginations, they become more vivid in our minds.
 
 Here's a breakdown:
@@ -173,7 +173,7 @@ Here's a breakdown:
 
 In essence, well-written characters evoke empathy, enrich our emotional experiences, and offer insights into the human condition by symbolizing the human spirit. They compete with reality by providing us with more complex, revealing, and magnetic portrayals of humanity than we typically encounter in real life.
 
-## CHARACTER AND THE AUTHOR
+### CHARACTER AND THE AUTHOR
 Characters in stories, while appearing lifelike, are crafted and choreographed entities serving the author’s purpose. Authors create these characters to add depth and meaning to narratives, as reality often lacks the structured beginnings, middles, or ends that stories provide. Characters offer a direct, unmasked insight into emotions and the human psyche, unlike real people who often hide behind societal masks.
 
 So, why do writers dedicate their lives to character creation? Here are ten key reasons:
@@ -201,15 +201,15 @@ So, why do writers dedicate their lives to character creation? Here are ten key 
 
 In essence, the act of creating characters allows writers to explore, reflect upon, and communicate profound insights about human nature.
 
-## A LAST NOTE
+### A LAST NOTE
 
 Characters in stories offer different reflections of humanity. While poorly written characters give inaccurate depictions of people, clichéd characters show popular stereotypes or common perceptions. Unique characters reflect individual preferences, but it's the empathetic characters that truly mirror our inner selves. This is because stories allow us to experience emotions and situations, such as revenge, that we can't or don't wish to in real life. Through stories, characters enable us to explore various worlds and situations fueled by our capacity for empathy. Even though we might meet countless people in our lives, characters in stories can often provide deeper insights into human nature than real-life interactions. This is because we never truly know people, even those we're close to, as deeply as we understand a well-written character. Thus, many might find themselves connecting more with fictional characters than real individuals. If one doesn't believe that fictional narratives can have more depth than real-life experiences, they might need to rethink their engagement with storytelling as a profession or hobby.
 
 
-# 2 THE ARISTOTLE DEBATE - Plot Versus Character
+## 2 THE ARISTOTLE DEBATE - Plot Versus Character
 The distinctions of "plot-driven" and "character-driven" originated from mid-20th-century film critics differentiating between the entertainment-focused Hollywood movies and the more artistically sophisticated European cinema. Later, similar distinctions appeared in literary critiques, contrasting literary novels with best sellers. The theatre scene also mirrored this trend. Initially, Off-Broadway was a precursor for Broadway, but by the 1960s, a clear divide arose between art-focused and commercially-driven productions, especially along New York's Forty-Second Street. A similar separation occurred in the UK between traditional theaters in London's West End and the more experimental Fringe theaters. Fast forward, this dichotomy appeared in U.S. television, where subscription-based platforms emphasized character-driven narratives targeting mature audiences, contrasting with advertisement-funded networks that produced plot-centric shows for broader family audiences.
 
-## ARISTOTLE'S RANKINGS
+### ARISTOTLE'S RANKINGS
 The debate between plot-driven and character-driven storytelling has a long history, starting with Aristotle's ranking of the elements of drama in his work "Poetics". Aristotle listed Plot as the most important and difficult component of dramatic art, followed by Character. This ranking held influence for two millennia until the novel became the dominant storytelling medium. By the end of the 19th century, writers and theorists began to argue that memorable characters are what readers truly want, relegating plot to a mere backdrop for character development.
 
 This perspective conceives plot as actions and reactions on the physical and social planes, while character is limited to thoughts and feelings in the conscious and subconscious spheres. However, the relationship between plot and character is more intricate. Characters internalize external events as they perceive them, and their decisions lead to actions that become external events. The flow of events between the internal and external is continuous, and restricting plot to external actions misses the majority of a human being's experiences.
@@ -218,7 +218,7 @@ The argument of whether plot or character is more important or challenging is a 
 
 In essence, the debate over the significance of plot versus character is a specious one, as both are inextricably linked in storytelling, and understanding this distinction requires a deeper examination of their definitions.
 
-## CHARACTER, PLOT, EVENT
+### CHARACTER, PLOT, EVENT
 The term "Character" refers to a fictional being who influences or reacts to events, whereas "Plot" describes the structure or sequence of events in a story. Essentially, every story must have a plot, meaning there's always a sequence of events. While stories can be told in various ways (flashbacks, shifting perspectives, etc.), it is the characters that anchor readers and viewers to the narrative.
 
 Central to both character and plot is the concept of an "event." But in storytelling, not every happening is significant. For an event in a story to matter, it needs to bring about change in value. Values are essential aspects of human experience, existing in binaries like Life/Death, Love/Hate, or Poverty/Wealth. When something occurs that shifts these values from positive to negative or vice versa, it becomes a meaningful event in the story.
@@ -227,7 +227,7 @@ For instance, an event causing a character's feelings to shift from love to hate
 
 In conclusion, a "storied event" is a pivotal moment in a character's life marked by a significant change in value. This change can either result from a character's actions or their reactions to external events. The essence of storytelling is the portrayal of these value-charged events and how they impact the characters involved.
 
-## TWO SIDES / SAME COIN
+### TWO SIDES / SAME COIN
 
 The relationship between characters and events in a story is deeply intertwined. An event's significance often lies in how it reveals a character's true nature or decision-making process. For example, in the movie "Chinatown", a revelation involving a character, Evelyn Mulwray, unveils a twist in the plot, exposing her father as the true villain. Additionally, the protagonist, J. J. Gittes, makes a pivotal decision, which both impacts the narrative and showcases his character flaw - his stubborn pride.
 
@@ -237,7 +237,7 @@ When issues arise in storytelling, particularly if a climax feels unsatisfying, 
 
 Aristotle, in his analysis of dramatic art, may have placed more emphasis on events due to the profound impact of plays like "Oedipus Rex", where fate-driven events are pivotal. Additionally, Athenian plays often lacked subtext and characters were straightforward, leading Aristotle to prioritize events over character depth. In modern storytelling, however, with a deeper understanding of psychology, there's an emphasis on the interplay between character and plot, making them equally vital.
 
-## CHARACTERIZATION VERSUS TRUE CHARACTER
+### CHARACTERIZATION VERSUS TRUE CHARACTER
 In storytelling, there are two primary facets to characters:
 
 1. **Characterization:** The external, observable traits of a character. This includes things like age, appearance, speech patterns, job, and attitudes. It's essentially the mask or persona that a character presents to the world. While these aspects give readers an initial understanding of who the character is, they don't always reveal the deeper truth about the character's nature.
@@ -287,15 +287,15 @@ The six key differences between plot-driven and character-driven stories are:
 
 In essence, plot-driven stories are majorly influenced by external events and clearly defined roles, while character-driven stories revolve around intricate personal motivations and unpredictable choices.
 
-## MELDING PLOT AND CHARACTER
+### MELDING PLOT AND CHARACTER
 The extremes of plot-driven and character-driven stories differ in how they approach fate and freedom. While plot-driven narratives lean more towards predetermined outcomes and character-driven stories emphasize free will and choices, real life is a mix of both these elements. Talented storytellers often blend both types of causality, rather than relying solely on one.
 
-## A LAST NOTE
+### A LAST NOTE
 To determine whether your story is more plot-driven, character-driven, or a combination of both, categorize each scene based on whether its pivotal moments are a result of character decisions or external forces. Regardless of the outcome, neither causality type is inherently better. Ultimately, the balance of these elements will naturally emerge as you further develop your narrative.
-# 3 AN AUTHOR PREPARES
+## 3 AN AUTHOR PREPARES
 Before diving into the process of crafting characters, it's crucial to understand the core beliefs that guide a writer's creative endeavors. Consider your perspectives on fundamental topics such as human nature, cultural impact, and the duties of a writer.
 
-## AN AUTHOR'S VISION OF CREATIVITY
+### AN AUTHOR'S VISION OF CREATIVITY
 The author presents three visions of creativity:
 
 1. **Creativity as Madness:** Historically, creativity was often depicted as a state bordering on insanity. This view is reinforced in modern comedies that portray artists as neurotic individuals torn between indulging their fantasies and dealing with their repercussions.
@@ -307,7 +307,7 @@ The author presents three visions of creativity:
 
 In essence, creativity is a dynamic interplay between the logical and imaginative parts of our brain, continuously oscillating between the real and the abstract to create meaningful and memorable content.
 
-## TWO THEORIES OF CHARACTER CREATION
+### TWO THEORIES OF CHARACTER CREATION
 The debate centers on whether writers invent their characters or if these characters are born from the writer's subconscious.
 
 1. **Invention:** Some authors consciously craft their characters. They might be inspired by real-life observations or events and then deliberately create characters that fit their story idea. For instance, **Suzanne Collins** was inspired by juxtaposing reality shows with war footage, leading to the conception of "The Hunger Games." Similarly, **Patrick McGrath** might take inspiration from a peculiar behavior or a unique accessory and wonder about the kind of person exhibiting such traits. This deliberate creation from observed or imagined cues is seen as the author inventing their characters.
@@ -319,7 +319,7 @@ Most writers likely employ a mix of both methods – consciously inventing some 
 
 In conclusion, characters are products of an author's mind, a blend of conscious invention and subconscious revelations. However, they remain firmly under the control of the writer, even if the process of creation can occasionally be surprising.
 
-## CREATIVE HUNGER
+### CREATIVE HUNGER
 An artist's creations come from a collection of knowledge and experiences stored in the subconscious mind. The right brain, adept at drawing connections, merges separate bits of information into unified ideas, then hands them to the left brain for execution. However, the limitation of every artist is that they can only draw from what's stored in their subconscious. This means that the depth of one's experiences and knowledge directly impacts the originality of their work. While an uninformed yet talented writer might occasionally produce beautiful snippets, composing intricate, full-length pieces requires extensive knowledge.
 
 The real challenge for artists arises when their inspiration brings forth unfamiliar characters or scenarios. At this point, they recognize their knowledge is insufficient. Hence, a writer shouldn't merely masquerade as knowledgeable but should be genuinely well-informed, grounding their imaginative prowess with solid research.
@@ -328,7 +328,7 @@ For instance, if one dreams of a mysterious family in lab coats surrounded by te
 
 To combat this, artists should maintain files, cataloging everything they understand about their characters and the universe they inhabit. The act of writing solidifies knowledge, making it tangible and real. If they can't capture their understanding on paper, it's an indicator that they need to expand their knowledge base.
 
-## THE FOUR RESEARCHES THAT FEED CREATIVITY
+### THE FOUR RESEARCHES THAT FEED CREATIVITY
 Artists leverage four primary types of research when developing their work:
 
 1. **Personal Research**: This refers to drawing from one's memories and life experiences. Both real and fictional experiences are stored in our memory in a similar way. Thus, when crafting characters or scenes, an artist can delve into their past emotions, reactions, and experiences to create authentic moments. For example, by recalling personal instances of rebellion or pain, a writer can infuse realism into a fictional confrontation between family members.
@@ -342,7 +342,7 @@ Artists leverage four primary types of research when developing their work:
 
 In essence, to craft authentic and compelling narratives, writers should merge their personal experiences with their imaginative capabilities, complement this with book-bound research, and validate their fictional scenarios with real-world observations.
 
-## AN AUTHOR'S VISION OF NATURE
+### AN AUTHOR'S VISION OF NATURE
 Original characters are birthed from a unique understanding and perspective of human nature. Each writer, in their distinct way, forms a personal theory about why people act and think the way they do. This individual theory is not based on a fixed recipe; instead, it evolves organically as artists, despite often being unstructured, piece together their observations and beliefs about humanity. This theory subsequently shapes their characters, guiding their motivations, decisions, and worldviews.
 
 Central to this discussion is the age-old debate of nature versus nurture. The crux of this debate is determining what influences human behavior more:
@@ -352,7 +352,7 @@ Central to this discussion is the age-old debate of nature versus nurture. The c
 
 In essence, writers need to decide how they view humanity: whether there's a universal human nature shared by all, or if humans are moldable, shaped by various external forces. These views impact how they depict characters, their stories, and their motivations. The ultimate question being, are our successes and failures a product of our inborn nature, or are they a result of our upbringing and environment?
 
-## TWO GRAND THEORIES
+### TWO GRAND THEORIES
 Throughout history, humankind has sought to understand human behavior by developing philosophical and theoretical beliefs. These beliefs primarily bifurcate into two categories: the inside-out, intrinsic view focusing on individual nature (referred to as "Nature") and the outside-in, extrinsic perspective focusing on societal influences (referred to as "Nurture").
 
 - **India:**
@@ -382,7 +382,7 @@ Throughout history, humankind has sought to understand human behavior by develop
 
 Despite these dichotomies, the author underscores an often-overlooked factor: randomness or coincidence. Using the example of identical twins, who despite sharing genetics and sometimes environments, still develop distinctive personalities, the author suggests that neither nature nor nurture alone can explain human behavior entirely. The unpredictable events and chance occurrences play a significant role in shaping human lives. After chance events, only then do nature and nurture have their say in a person's reactions. In essence, human behavior is a complex interplay of inherent nature, societal influence, and the unpredictability of life.
 
-## THREE KEYS TO AUTHORSHIP
+### THREE KEYS TO AUTHORSHIP
 To deepen your understanding of humanity beyond ordinary experiences and standard education, focus on three main faculties: Moral Imagination, Logical Implication, and Self-Knowledge. Cultivating these areas will allow you to comprehend and depict why characters act as they do.
 
 1. **Moral Imagination**:
@@ -403,10 +403,10 @@ In essence, by nurturing these faculties, writers can produce characters that re
 
 
 
-# **PART TWO: BUILDING A CHARACTER**
+# PART TWO: BUILDING A CHARACTER
 *Characters in literature are often a mix of various influences, reflecting different aspects of civilization, literature, and personal experiences. When creating characters, writers face the dilemma of whether to start from the external environment and then develop the characters or vice versa. Additionally, there's the question of whether to begin character development from external traits and move inwards or to start with their core essence and work outwards. The following discussions will delve into these contrasting methods of character creation.*
 
-# 4 CHARACTER INSPIRATION: OUTSIDE IN
+## 4 CHARACTER INSPIRATION: OUTSIDE IN
 Inspiration for a story typically begins as a small spark or fragment that an artist senses. This tiny seed often leads to a series of ideas, though many might be clichéd or fruitless. Eventually, with persistence, the writer may find a path to a successful narrative. To understand where inspiration might stem from, imagine an author's world as five nested spheres, each representing a realm of inspiration:
 
 1. **Actuality Sphere**:
@@ -432,7 +432,7 @@ Inspiration for a story typically begins as a small spark or fragment that an ar
 
 In essence, an author's inspiration is influenced by a multitude of layers, ranging from the tangible world around them to their personal introspections. It's a journey from the vast expanse of reality to the intimate core of the writer's being.
 
-## REALITY AS INSPIRATION
+### REALITY AS INSPIRATION
 Character creation for a writer often arises from the intense interaction between real-world stimuli and an expansive imagination. Almost any sensory input can set off a stream of creative ideas that can evolve into a detailed character. The most significant source of inspiration for authors is observing other people, much like how musicians are inspired by sounds.
 
 When an author crafts a character, they're using the many facets of human nature as building blocks, piecing them together to portray a range of behaviors. The distinction between real people and fictional characters is stark: while real people are multifaceted and still-evolving, characters are complete expressions of the inspiration that birthed them. Paradoxically, while real people are tangible, characters often feel more vibrant and "real" in a reader's mind. Characters don't interact with us; we become engrossed in their world and actions.
@@ -443,23 +443,23 @@ When basing a character on a real person, especially in memoirs, there's a risk 
 
 In essence, if writers merely rely on surface-level knowledge, their characters may come off as generic and less compelling. However, those who draw upon a comprehensive understanding of the world around them can craft unique, immersive characters that resonate with readers.
 
-## MEDIUM AS INSPIRATION
+### MEDIUM AS INSPIRATION
 The medium an author chooses to tell their story has a significant influence on the traits and behaviors of the characters they create. For instance, characters in films often communicate more visually, with facial expressions and body language, since the camera captures these nuances well. In contrast, stage characters rely more on verbal communication, as playwrights craft expressive dialogue to engage theater audiences. Stage and screen characters usually act in the present tense, focusing on their future goals, while prose characters often recount events in the past tense, providing retrospective interpretation. First-person narrators in prose typically have sharp memory, keen observational skills, and a strong sense of subtext.
 
 The choice of medium also affects a writer's self-perception. Writers often identify as playwrights, showrunners, screenwriters, or novelists, each with its own rich tradition. However, confining oneself to a single medium can limit creative potential. Writers are encouraged to explore various formats and adapt their works accordingly. For instance, a rejected screenplay can be transformed into a stage play or a novel. Putting characters out for public consumption helps writers learn from audience reactions and refine their skills. The key is to embrace an all-media identity and simply call oneself a "writer."
 
 Moreover, writers should reflect on their motivations. Are they passionate about the art within themselves, or are they enamored with the idea of living an artist's life? Some beginners may romanticize the notion of becoming a successful Hollywood or Broadway writer, or even living in writer communities in places like Connecticut. However, they often become discouraged after facing a few rejections and give up. Therefore, it's essential that the medium chosen resonates with a genuine love for storytelling rather than just a desirable lifestyle.
 
-## GENRE AS INSPIRATION
+### GENRE AS INSPIRATION
 Many writers might believe they draw inspiration primarily from real-life experiences, but in reality, they often find inspiration in other works of fiction more than they realize. The initial spark for a story might not necessarily come from a real-life event or observation but from an impactful line in a novel, dialogue in a film, or a captivating scene in a play or series, especially within their favorite genre. Different media platforms offer a range of genres, each with its subgenres. These genres can be blended to create unique story frameworks. Thus, when looking for fresh and innovative topics, writers should reflect on their own media consumption habits. By identifying the shows they binge-watch, the books they read, and the films or plays they're drawn to, writers can discover the genres they are truly passionate about. This self-awareness can serve as a starting point for character and story inspiration.
 
-## EVENTS AS INSPIRATION
+### EVENTS AS INSPIRATION
 Konstantin Stanislavsky, a renowned Russian stage director, introduced the "Magic If" technique for actors. This approach involves posing hypothetical situations to stimulate the imagination and generate authentic reactions. By asking "What would happen if XXX occurred?", actors are prompted to imagine and act out genuine responses to the situation. Similarly, writers utilize this technique to shape their narratives. By contemplating hypothetical events or circumstances, they can devise a story's initiating event and then explore the characters' reactions. This starting point can dictate whether the story is led by its plot or by its characters. Stephen King, a celebrated novelist, uses this method by initiating his stories with plot-driven scenarios but aims for the characters to evolve and make unexpected decisions, making the narrative eventually feel character-driven.
 
-## THEME AS INSPIRATION
+### THEME AS INSPIRATION
 Writing is an unpredictable journey where authors venture into uncharted territories, discovering the true essence of their stories as they progress. The most compelling stories arise not when writers impose a preconceived meaning but when they allow the story's events and characters to reveal it organically. The essence of powerful stories revolves around the transformation of core values, like shifting from hate to love or freedom to confinement. These narratives delve deep into societal issues or a character's inner psyche, unveiling truths through spontaneous improvisation. Conversely, when writers prioritize their personal beliefs over genuine exploration, their work often becomes rigid and didactic. Such writers can end up merely illustrating their convictions, turning characters into mere spokespeople for their ideas. This approach, reminiscent of ancient morality plays, is evident in contemporary "Social Drama" genre where themes are pulled directly from societal issues. When an author starts with a fixed theme and crafts the story backward to fit that belief, the narrative often becomes contrived and less effective. For instance, a story built around the theme "Love cures addiction" may end up simplifying complex issues and characters. Stories are most impactful when their meaning is discovered through the authentic exploration of character and plot, rather than predetermined beliefs shaping the narrative.
 
-## THE SELF-STORY AS INSPIRATION
+### THE SELF-STORY AS INSPIRATION
 To better understand a character, imagine sitting them down and conversing with them, delving into their self-stories. These self-stories, which individuals construct about themselves, shed light on their perception of their life and the world around them. As a writer, you must discern whether what the character says about themselves is true, false, or somewhere in between. Every personal statement a character makes serves a purpose beyond its literal meaning and may contain an element of self-deception or exaggeration. For instance, even when a character confesses a fault, they might simultaneously be seeking affirmation for their supposed honesty and self-awareness.
 
 People project a certain persona to navigate daily life smoothly, which is often a mask hiding their true self. To gain insight into a character's genuine self, ask about pivotal moments in their life, the difficult choices they've made, and actions they've taken in high-risk situations. The coherence and consistency in their self-story can indicate a well-structured psychology, while inconsistencies can suggest a more complex, possibly conflicted, inner world.
@@ -468,9 +468,9 @@ Characters, like real people, often grapple with internal contradictions, desiri
 
 Beliefs play a pivotal role in shaping a character's actions and worldview. Understanding what they believe in, be it religious, moral, or personal, can be illuminating. However, beliefs are not always static; they can change, sometimes rapidly. This fluidity of beliefs, especially in staunch believers, shows that sometimes the intensity of belief is more significant than the content of the belief itself. The insights gained from exploring these various facets can help in crafting multidimensional and intricate characters.
 
-# 5 CHARACTER INSPIRATION: INSIDE OUT
+## 5 CHARACTER INSPIRATION: INSIDE OUT
 
-## THE OBSERVER AND THE OBSERVED
+### THE OBSERVER AND THE OBSERVED
 One of the most profound methods of writing is when the author immerses herself deeply into the consciousness of her character, a technique termed as "writing-in-character." Instead of just observing or imagining the character's actions and emotions from a distance, the writer takes on the character's perspective, experiencing the fictional world as if it were happening directly to them. Essentially, the writer acts as the character's first actor.
 
 This approach, inspired by **Konstantin Stanislavsky**'s "Magic If," involves the writer not simply asking, "What would I do in this situation?" or "What would my character do in this situation?" but rather, "If I were this character in this situation, what would I do?" This subtle shift in perspective allows the writer to genuinely feel the character's emotions and respond authentically to the fictional circumstances.
@@ -479,7 +479,7 @@ For this method to be effective, the writer should do more than just consider wh
 
 However, to genuinely tap into the emotions and intricacies of a fictional character, the writer must first have a deep understanding of their own inner life. Self-awareness and introspection are essential, as knowing oneself deeply enables the writer to delve into the depths of their characters. In essence, the writer's authentic understanding of their nature can be reflected in every character they create. Thus, before trying to master the writing-in-character technique, a writer should first explore and understand the multi-layered facets of their own humanity.
 
-## FOUR SELVES IN SEARCH OF CHARACTER
+### FOUR SELVES IN SEARCH OF CHARACTER
 In this passage, the author delves into different aspects of a character's identity and behavior:
 
 **Private Selves: Variations of Identity**
@@ -524,7 +524,7 @@ In this passage, the author delves into different aspects of a character's ident
 
 The passage emphasizes that writers have the creative freedom to incorporate these different levels of identity and behavior in their characters to create depth and complexity.
 
-## MAD MEN: THE FOUR SELVES IN ACTION
+### MAD MEN: THE FOUR SELVES IN ACTION
 The show "Mad Men," created by Matthew Weiner, uses a four-level structure to develop its characters' complexity: Social Self, Personal Self, Core Self, and Hidden Self. Here's a breakdown of how this structure is applied to some of the show's main characters:
 
 **Don Draper (Jon Hamm)**
@@ -578,7 +578,7 @@ The show "Mad Men," created by Matthew Weiner, uses a four-level structure to de
 
 The four-level structure enriches the character development by exploring the different dimensions of their identities and motivations, contributing to the depth and complexity of the show's narrative.
 
-## OUTSIDE IN / INSIDE OUT
+### OUTSIDE IN / INSIDE OUT
 Writing in-character is a technique where writers immerse themselves in their characters' personalities and lives. It creates a deep bond between the writer's creative process and the character's essence. However, not many writers solely rely on this internal perspective. Instead, they often employ a two-fold approach:
 
 1. **External Perspective:** Writers first gather external cues about the character. This could be from their environment, societal norms, age, intelligence level, and genetic predispositions. These aspects provide a contextual understanding of the character's life.
@@ -590,7 +590,7 @@ While in this in-character mode, writers don't stick to just one perspective. Th
 
 E. L. Doctorow, a renowned writer, exemplifies this alternating technique. In his historical fiction works like "Ragtime" and "The Waterworks," Doctorow would extensively research his topics, becoming almost an expert. However, when bringing his characters to life, he blended fiction and reality. His fictional characters feel like they've been plucked from history, while his historically accurate figures seem freshly imagined from his creative mind.
 
-# 6 ROLES VERSUS CHARACTER
+## 6 ROLES VERSUS CHARACTER
 A role in a story is a basic template or position, like "Mother" or "Boss." It's a label that describes a function or position in the story's societal structure. Think of it like a blank template or an empty picture frame, waiting to be filled.
 
 A character, on the other hand, is a distinct, individual personality that fits into one of these roles. It's the unique person who brings a particular role to life by adding their specific traits, quirks, history, and emotions. In the analogy, the character is the painting that fills the empty canvas of the frame.
@@ -599,7 +599,7 @@ So, while a "Mother" role might involve tasks like feeding children, a character
 
 When constructing a story, it's important for writers to ensure that each character within the cast is distinct and doesn't merely replicate the tasks or characteristics of another. Each character should bring their own flavor and dynamic to the overall narrative, ensuring richness and variety in the story.
 
-## CAST FORMATION 
+### CAST FORMATION 
 **Summary and Clarification:**
 
 Characters in a story form a complex web of relationships, akin to a cosmic system. If we visualize this system:
@@ -615,7 +615,7 @@ Characters in a story form a complex web of relationships, akin to a cosmic syst
 
 To effectively build a story's ensemble of characters, start by defining the protagonist and then progressively flesh out the supporting characters, expanding outward from the most crucial to the least significant.
 
-### Protagonist
+#### Protagonist
 **Summary and Clarification:**
 
 A protagonist is the central character in a story, and there are specific attributes and roles associated with this character:
@@ -638,7 +638,7 @@ A protagonist is the central character in a story, and there are specific attrib
 
 In essence, the protagonist is a multi-faceted character, possessing determination, complexity, relatability, and the capacity for deep insight. Their journey is central to the story, and their experiences and transformations play a pivotal role in engaging the reader or audience.
 
-### Protagonist Variations
+#### Protagonist Variations
 **Summary & Clarification of Protagonist Variations:**
 
 1. **Co-protagonists:** Two characters with contrasting qualities share the central role. Examples include characters from Rudyard Kipling’s “The Man Who Would Be King” and movies like “Thelma & Louise.” Some co-protagonists, like in Beckett’s "Waiting for Godot," are used to emphasize similarity rather than complexity.
@@ -657,7 +657,7 @@ In essence, the protagonist is a multi-faceted character, possessing determinati
 
 In essence, while traditionally a story might center on one protagonist, there are diverse and creative ways to present the central character or characters in a narrative. This variety adds richness and depth to storytelling across different mediums.
 
-### First Circle Characters
+#### First Circle Characters
 **Summary & Clarification:**
 
 **Characters in Stories: A Comprehensive Guide**
@@ -705,36 +705,36 @@ In essence, while traditionally a story might center on one protagonist, there a
 In essence, stories use a variety of characters that serve different functions, whether to support, provide depth, contrast, or illuminate the protagonist. Properly balancing these characters is key to effective storytelling.
 
 
-### Second Circle Characters
+#### Second Circle Characters
 - **Definition**: These are characters of lesser depth, limited to a single dimension or trait, and they have limited screen or page time. While they might be simpler, they should still have multiple facets to them to make them feel human.
 - **Support Roles**: These characters influence the story's direction but don’t captivate the audience when they are not part of the main scenes. Examples include Claudius from "Hamlet" and Milo Minderbinder from "Catch-22".
 - **Service Roles**: These characters provide a predictable behavior, grounding the story's setting through archetypal roles, types, or stock characters. Their behavior remains consistent throughout, adding authenticity to the story setting.
 
-### Third Circle Characters
+#### Third Circle Characters
 - **Definition**: These are minor characters who have the least connection to the protagonist. They typically appear once, and their roles are mostly service-oriented.
 - **Characteristics**: Occasionally, they may have a brief moment of significance, but they're usually not fleshed out or given depth. They are often used as props to advance the plot or to provide background and context.
 - **Background Masses**: Representing the broader setting of a story, these characters (like crowds in a stadium) depict the general populace through which the main characters interact.
 
 In essence, while main characters drive the plot and engage the audience with depth and development, second circle characters provide auxiliary support, and third circle characters offer background and setting details to enrich the story's world.
 
-### Narrators
+#### Narrators
 Narrators guide readers and audiences through a story's exposition. They can be classified based on person, medium, and reliability:
 
-#### Based on Person
+##### Based on Person
 - **First-person narrator**: A character narrates their own story. Examples include Tom Wingfield in "The Glass Menagerie" and novels like "The Great Gatsby".
   
 - **Second-person narrator**: The story is told as if the reader/audience is experiencing events firsthand using the pronoun "you". This method turns the reader into a protagonist, like in Jay McInerney’s "Bright Lights, Big City".
   
 - **Third-person narrator**: This is an external voice of knowledge. It doesn't participate in events, offering an omniscient viewpoint. Examples include the Stage Manager in "Our Town" and novels like Jonathan Franzen’s "The Corrections".
 
-#### Medium-Specific Narrators
+##### Medium-Specific Narrators
 - **Onstage**: Narrators can be direct like Tom Wingfield or indirect like the Stage Manager in Thornton Wilder’s "Our Town".
   
 - **On the Page**: Novels often use first-person for empathetic characters, third-person for an omniscient view, and rarely the second-person, like "Bright Lights, Big City".
   
 - **On-screen**: Narrators can vary in reliability, from truthful in "Memento" to deceitful in "The Usual Suspects".
 
-##### Unreliable Narrators
+###### Unreliable Narrators
 Sometimes, narrators can be unreliable, either by deception, faulty memory, or biased viewpoint.
 
 **Reasons for Unreliability**:
@@ -753,7 +753,7 @@ In essence, narrators guide the audience through a story, but their reliability 
 
 
 
-# 7 THE OUTER CHARACTER
+## 7 THE OUTER CHARACTER
 **Summary & Clarification**:
 
 Humans are inherently social and, for evolutionary purposes, have learned to manage the impressions they give off in various situations. This adaptability has led to humans playing different roles in diverse contexts to fulfill fundamental social goals: fitting in, advancing their position, and attracting partners. This natural inclination towards adaptability has rendered humans as innate actors, adjusting their behavior based on their current situation and relationship.
@@ -762,7 +762,7 @@ This doesn't mean humans are disingenuous. Instead, it highlights our capacity t
 
 For storytellers, understanding this complex mosaic of human behaviors is crucial. When developing characters, it's essential to recognize and depict these varying roles and external behaviors, which collectively form a character's "Characterization". This helps in creating authentic, relatable characters that resonate with readers and audiences.
 
-## CHARACTERIZATION 
+### CHARACTERIZATION 
 **Summary & Clarification**:
 
 When crafting characters in your creative work, it's helpful to differentiate between two main components: "characterization" and "true character."
@@ -773,7 +773,7 @@ When crafting characters in your creative work, it's helpful to differentiate be
 
 For a comprehensive understanding of a character, it's a useful exercise to mentally "follow" them around day and night. This immersive method helps in capturing both their overt traits (like their job or home) and the more implicit ones (such as their beliefs or emotions). By doing so, you'll get a holistic view of who they are, both inside and out.
 
-## THE THREE FUNCTIONS OF CHARACTERIZATION
+### THE THREE FUNCTIONS OF CHARACTERIZATION
 **Summary & Clarification**:
 
 Characterization in a story serves three main purposes: to provide credibility, originality, and intrigue.
@@ -786,7 +786,7 @@ Characterization in a story serves three main purposes: to provide credibility, 
 
 In essence, for a story to be successful, characters must feel believable, distinct, and spark the audience's interest, prompting them to delve deeper into the narrative.
 
-## SETTING: WORLD BUILDING
+### SETTING: WORLD BUILDING
 **Summary & Clarification**:
 
 1. **Characterization Influences**: A character's traits, such as gender and hair color, are determined by genetics. However, external factors, including physical and social settings as well as time and space, significantly shape a character's outer persona. This ranges from daily activities to larger life events, and their behaviors often develop from birth.
@@ -803,7 +803,7 @@ In essence, for a story to be successful, characters must feel believable, disti
 
 In essence, while genes play a role in character development, external factors ranging from physical environments to personal relationships have profound influences, offering storytellers numerous layers to explore and enrich their narratives.
 
-### SETTING VERSUS CHARACTERIZATION
+#### SETTING VERSUS CHARACTERIZATION
 **Summary & Clarification**:
 
 Characters' interactions with their environment, including physical, social, and personal aspects, play a crucial role in defining their traits and behaviors. Here's how the setting can influence and shape a character:
@@ -826,7 +826,7 @@ Characters' interactions with their environment, including physical, social, and
 
 In essence, the relationship between characters and their environment is multifaceted, with settings playing various roles - from being a silent backdrop to an active participant in the story's unfolding.
 
-## CHARACTERIZATION CHANGE
+### CHARACTERIZATION CHANGE
 
 Characters evolve when they engage with different physical, social, and personal environments. Their personalities can morph based on various external factors. Here are four common ways through which characters might change:
 
@@ -840,7 +840,7 @@ Characters evolve when they engage with different physical, social, and personal
 
 In essence, characters don't remain static. Their interactions with varied environments can lead to significant shifts in their personalities and identities.
 
-## EXPLICIT TRAITS
+### EXPLICIT TRAITS
 **Summary & Clarification**:
 
 **Characterization through Explicit Traits**:
@@ -877,10 +877,10 @@ In essence, characters don't remain static. Their interactions with varied envir
 
 In essence, creating a character involves a meticulous amalgamation of various traits, both inherent and acquired. The judicious use of these elements can help in creating a well-rounded and believable character.
 
-## IMPLICIT TRAITS
+### IMPLICIT TRAITS
 Characters start off as enigmas. Their observable, outer traits give hints about their deeper, hidden characteristics. As the story progresses, readers or audiences interpret these external traits to understand the character's inner attributes. Thus, it's crucial for storytellers to delve deep into their characters' inherent qualities, such as their inherent nature, intelligence level, mindset, feelings, and other internal factors.
 
-### VARIETIES OF PERSONALITY 
+#### VARIETIES OF PERSONALITY 
 **Summary & Clarification**:
 
 **Personalities**:
@@ -913,7 +913,7 @@ Characters start off as enigmas. Their observable, outer traits give hints about
 
 - Personalities are not static; they vary based on relationships. Depending on whom an individual interacts with (e.g., boss, parent, friend), their mannerisms, expressions, and even temperament can change, oscillating within the limits set by their inherent personality.
 
-### VARIETIES OF INTELLIGENCE
+#### VARIETIES OF INTELLIGENCE
 **Summary & Clarification**:
 
 To craft a believable character, ensure her intellectual and emotional capacities align with her actions and decisions in the story. A character's intelligence isn't just about IQ, or analytical and problem-solving skills. Consider multiple facets of intelligence:
@@ -927,7 +927,7 @@ To craft a believable character, ensure her intellectual and emotional capacitie
 
 Moreover, consider the patterns in your character’s thinking. Each individual has personal strategies or habitual ways of dealing with relationships and challenges. If a particular approach has succeeded before, a person may be resistant to changing it. Therefore, ask: How adaptable is your character's mindset?
 
-### ATTITUDES, BELIEFS, VALUES
+#### ATTITUDES, BELIEFS, VALUES
 **Summary & Clarification**:
 
 To understand a character's core principles, delve into her attitudes, beliefs, and values. Explore her personal preferences, passions, and fears. Determine her outlook on life: is she hopeful or cynical? By questioning your character directly, you can uncover her self-perception. For instance:
@@ -940,7 +940,7 @@ To understand a character's core principles, delve into her attitudes, beliefs, 
 
 By asking these questions, you gain a clearer understanding of the character's core convictions and the motivations that drive her actions.
 
-### EMOTION, MOOD, TEMPERMENT
+#### EMOTION, MOOD, TEMPERMENT
 **Summary & Clarification**:
 
 Emotions arise from shifts in what a character values. When a character's central value shifts from a positive state (like wealth) to a negative one (like poverty), they experience negative emotions. Conversely, moving from a negative state (like pain) to a positive one (like pleasure) results in positive emotions. However, how a character perceives these shifts is influenced by what they personally value. For example, the emotional impact of a romantic breakup depends on how the character perceives love, happiness, and companionship. 
@@ -953,12 +953,12 @@ A character's consistent reactions to various experiences indicate their mood. W
 
 In essence, understanding a character's emotional responses, mood, temperament, and personality helps in creating a comprehensive and authentic portrayal.
 
-### MIRROR, WORLD, AUTHOR
+#### MIRROR, WORLD, AUTHOR
 **Summary & Clarification**:
 
 A character's present self is deeply influenced by her past, but her recollections of events are often subjective and altered interpretations rather than exact recounts. As soon as an event occurs, a character's mind starts to modify it, sometimes even adding fictional elements. This reconstructed memory then informs her understanding of the event and its impact on her identity. Different observers might have varying interpretations of the same event. As a writer, it's essential to consider these multiple perspectives to ensure that every trait, both explicit and implicit, effectively contributes to the character's portrayal.
 
-### EXPRESSING CHARACTERIZATION
+#### EXPRESSING CHARACTERIZATION
 **Summary & Clarification**:
 
 Characterization in writing can be conveyed in three ways: by stating what it is, what it's not, and through comparisons. There are nine specific techniques to flesh out a character:
@@ -975,19 +975,19 @@ Characterization in writing can be conveyed in three ways: by stating what it is
 
 Hemingway's portrayal of Margot Macomber demonstrates these techniques. She's described explicitly as a beautiful woman of privilege, with implicit traits hinting at a life of luxury. The fact she endorsed a product she never used indicates her flexible morals, foreshadowing future events in the story.
 
-### YES, BUT WHO IS SHE, REALLY?
+#### YES, BUT WHO IS SHE, REALLY?
 **Summary & Clarification**:
 
 Character development in storytelling goes beyond the superficial traits. While explicit and implicit characteristics provide a surface-level understanding of a character, there's always a deeper truth hidden beneath. Characterization showcases how a character presents themselves, but not necessarily their genuine essence. When an audience finds a characterization believable, they often wonder about the character's true nature and core values. The following chapter delves into these internal facets of a character's true persona, which are not immediately visible but reside within their psyche.
 
-# 8 THE INNER CHARACTER
+## 8 THE INNER CHARACTER
 **Summary & Clarification**:
 
 A character's outward appearance and behaviors, termed as characterization, only show a fraction of who they truly are. Beneath this facade lies their true character, a combination of their private feelings and concealed motives. When introduced to a character, the audience naturally tries to discern the character's genuine nature, seeking to understand their core values and motives. It's during moments of high stakes and challenges that a character's genuine nature is unveiled. Their actions, especially when faced with adversity, provide a glimpse into their true character: their honesty, kindness, strength, moral compass, and more.
 
 The character themselves might not be fully aware of or might even avoid confronting these deep-seated traits. While they might wonder about others' perceptions or their subconscious motivations, the ultimate understanding of their character lies with the writer. The writer knows both the character's external representation and their innermost desires and fears. By blending the character's conscious thoughts with their subconscious motivations, the writer crafts a holistic and genuine representation of the character. The subsequent section would delve into what motivates such multifaceted characters.
 
-## INSIDE-OUT MOTIVATIONS
+### INSIDE-OUT MOTIVATIONS
 **Summary & Clarification**:
 
 Every individual possesses a range of inner motivations, from primal urges to elevated desires. These internal drives shape behaviors and decisions. Here are the twelve core motivations, ranging from basic to profound:
@@ -1021,14 +1021,14 @@ Every individual possesses a range of inner motivations, from primal urges to el
 
 While society and its tools evolve, the core motivations driving human behavior remain consistent.
 
-## OUTSIDE-IN MOTIVATIONS
+### OUTSIDE-IN MOTIVATIONS
 **Summary & Clarification**:
 
 From an external perspective, a storyteller examines the influence of societal structures like economics, politics, and religion on their characters. While these institutions can shape societal trends (like the impact of social media), attributing a character's motivation solely to these broad forces can be misleading. Conditions like poverty or wealth aren't direct causes of behaviors; they merely provide context. For instance, poverty doesn't directly cause crime. People from different socioeconomic backgrounds can commit crimes. 
 
 For an external influence (like a TV ad) to drive a character's action, it must first engage their senses, resonate with their internal motivations, and then lead them to a decision. Major societal forces do affect characters, but each character processes these influences based on their unique personality, leading to unpredictable outcomes. A character's background doesn't necessarily dictate their behavior or personality; education doesn't always mean sophistication, ignorance doesn't always equate to crudeness, and being in a servant role doesn't mean one is subservient. Different characters can react differently to the same experiences, making their responses distinctive and unforeseeable.
 
-### THE OBJECT OF DESIRE
+#### THE OBJECT OF DESIRE
 **Summary & Clarification**:
 
 In a classically told story, the protagonist starts with a relatively balanced life until an "inciting incident" disrupts this equilibrium. This incident could be positive (like Romeo falling for Juliet) or negative (like Hamlet learning of his father’s murder). This disruption awakens a subconscious desire in the protagonist to restore balance. This desire is termed the "super-objective". To achieve this equilibrium, the protagonist imagines a solution or change, often termed the "object of desire". If he can attain this object, he believes his life will regain balance. His pursuit of this object propels the story towards its climax. 
@@ -1044,7 +1044,7 @@ For instance:
 - In "Vikings", an initial taste of victory drives a young warrior towards a desire for rule, with the throne as his goal.
 - In stories like "A Confederacy of Dunces" or "Perfume", protagonists experience traumas that awaken deeper, often darker motivations, leading them towards unusual or harmful actions in pursuit of their desires.
 
-### TRUE CHARACTER THROUGH CHOICES
+#### TRUE CHARACTER THROUGH CHOICES
 **Summary & Clarification**:
 
 To reveal a character's true nature in storytelling, it's not effective to solely rely on their outward behavior, what others say about them, or what they say about themselves. This is because external behaviors can be deceiving, comments by others might be biased or incorrect, and characters, like real people, can be as self-deceptive as they are self-aware. 
@@ -1057,7 +1057,7 @@ Given this fundamental natural law, if audiences understand a character's viewpo
 
 However, choices that merely contrast clear opposites, like poverty vs. wealth or ignorance vs. wisdom, can be seen as simplistic or predictable in storytelling. Such stark contrasts do not delve deep enough to unveil the complexities of a character's true nature.
 
-### TRUE CHARACTER THROUGH DILEMMA
+#### TRUE CHARACTER THROUGH DILEMMA
 **Summary & Clarification**:
 
 True character is profoundly revealed through dilemmas. Unlike straightforward decisions between clear opposites, dilemmas present a character with two equally compelling options, forcing them into a challenging decision that highlights their core values and motivations.
@@ -1080,7 +1080,7 @@ Illustrations of such dilemmas in literature and film include:
 
 Such decisions under duress not only advance the plot but deeply expose the character's nature.
 
-### TRUE CHARACTER THROUGH ANTAGONISM
+#### TRUE CHARACTER THROUGH ANTAGONISM
 **Summary & Clarification**:
 
 True character is revealed through how one reacts to antagonism and the choices they make under pressure.
@@ -1102,7 +1102,7 @@ True character is revealed through how one reacts to antagonism and the choices 
 
 In essence, the essence of a character isn’t just in their actions but in the choices they make, especially when faced with dilemmas and opposition.
 
-### TRUE CHARACTER AND EMOTION
+#### TRUE CHARACTER AND EMOTION
 **Summary & Clarification**:
 
 **True Character and Emotion**:
@@ -1119,7 +1119,7 @@ In essence, the essence of a character isn’t just in their actions but in the 
 
 In essence, understanding a character’s emotions and feelings, and how they are influenced by changes in their world, is essential for writers. This insight helps give depth to characters, making them more relatable and real to the audience.
 
-### TRUE CHARACTER AND REACTIONS
+#### TRUE CHARACTER AND REACTIONS
 **Summary & Clarification**:
 
 **True Character and Reactions**:
@@ -1134,7 +1134,7 @@ In essence, understanding a character’s emotions and feelings, and how they ar
 
 In essence, for a well-rounded and memorable character, it's crucial to focus not just on the decisions they make but also on their unique reactions to situations, as these reactions give them depth and individuality.
 
-### TRUE CHARACTER AND FREE WILL
+#### TRUE CHARACTER AND FREE WILL
 **Summary & Clarification**:
 
 **True Character and Free Will**:
@@ -1161,8 +1161,8 @@ In essence, for a well-rounded and memorable character, it's crucial to focus no
 
 In essence, the debate on free will versus determinism is complex and multifaceted, influencing how characters are perceived and how stories unfold. While characters may seem to act on their own accord to readers or audiences, they remain bound by the writer's narrative choices.
 
-# 9 THE DIMENSIONAL CHARACTER
-## A UNITY OF OPPOSITES
+## 9 THE DIMENSIONAL CHARACTER
+### A UNITY OF OPPOSITES
 **Summary & Clarification**:
 
 **Central Theme**: The nature of character complexity arises from a unity of opposing traits or characteristics.
@@ -1184,7 +1184,7 @@ In essence, the debate on free will versus determinism is complex and multifacet
 
 In essence, the intricacy of characters comes from a harmony of contradictions within them, and it's this dynamic tension that makes them compelling and lifelike in storytelling.
 
-## CHARACTER DIMENSION
+### CHARACTER DIMENSION
 **Summary & Clarification**:
 
 **Central Theme**: The complexity and richness of a character are built on the inherent contradictions within their nature, giving them multiple dimensions.
@@ -1205,7 +1205,7 @@ In essence, the intricacy of characters comes from a harmony of contradictions w
 
 In essence, characters with built-in contradictions or opposing traits add depth, unpredictability, and intrigue to a story, making them more relatable and engaging for audiences.
 
-## COMPLEXITY IN SIX DIMENSIONS
+### COMPLEXITY IN SIX DIMENSIONS
 **Summary & Clarification**:
 
 **Title**: **Complexity in Character Dimensions**
@@ -1243,7 +1243,7 @@ Characters possess a multitude of dimensions that make them compelling and intri
 
 In essence, the dimensions rooted in contradictions give depth and richness to characters, making them more captivating and relatable.
 
-## THE DEFINING DIMENSION 
+### THE DEFINING DIMENSION 
 **Summary & Clarification**:
 Every character has multiple dimensions, but not all of these dimensions are equally important. While a protagonist might possess several dimensions and supporting roles may have one or two, one specific dimension usually stands out more prominently, shaping the character's core essence. This primary dimension, referred to as the "defining dimension," represents the most significant contradiction within a character's nature, setting them apart from others. 
 
@@ -1251,7 +1251,7 @@ For instance, when considering the many facets of Graham Greene's personality, t
 
 **Key Point**: While characters can have multiple contradictory dimensions, one of them typically dominates, capturing the character's unique identity and defining their essence.
 
-## CASE STUDY: ODYSSEUS
+### CASE STUDY: ODYSSEUS
 Homer’s epics, the _Iliad_ and the _Odyssey_, are pivotal in European culture, with Odysseus as the centerpiece of the narrative, celebrated as history's first multidimensional character. Across both tales, Odysseus faces a myriad of challenges — from battling in the Trojan War to navigating his way home against supernatural odds.
 
 Odysseus's character can be dissected into eight contrasting dimensions:
@@ -1277,7 +1277,7 @@ These dynamic contradictions give Odysseus a depth that sets him apart, making h
 
 ![[Pasted image 20230820144656.png]]
 
-## CASE STUDY: TONY SOPRANO 
+### CASE STUDY: TONY SOPRANO 
 **Summary and Clarification:**
 
 David Chase's character, Tony Soprano, from the TV series "The Sopranos," is explored as an example of a deeply dimensional character. Over the show's eighty-six episodes, Tony displays a myriad of conflicting emotions and actions, making him a highly complex character:
@@ -1312,8 +1312,8 @@ The depth and breadth of Tony's character surpasses even Shakespearean character
 
 
 
-# 10 THE COMPLEX CHARACTER
-## COMPLEXITY THROUGH ANTAGONISM 
+## 10 THE COMPLEX CHARACTER
+### COMPLEXITY THROUGH ANTAGONISM 
 **Summary and Clarification:**
 
 Stoic philosophers, originating around 300 BC, believed in a preordained life, asserting that the gods, or Fate, determined all events of life in advance. This belief persists today when people attribute events, such as tragedies, to "God’s will." On the contrary, Epicurean philosophers emphasized the power of free will. They believed that while unforeseen events could disturb us, our responses, steered by our will, shape our destinies. This aligns with the aphorism from Heraclitus: "Character is destiny." The more contemporary view, influenced by thinkers like Carl Jung, holds that while external forces may seem unpredictable, much of life's trajectory is governed by internal, often subconscious, forces. 
@@ -1329,7 +1329,7 @@ As a person matures, their values are shaped by both external influences and int
 5. **Dimensionality**: It depends on the range of conflicting forces experienced by the individual. 
 
 These forces can be external, such as natural disasters or societal pressures, or internal, like conflicting desires and emotions. The combination of these levels of antagonism can give rise to a deeply multidimensional character.
-## PHYSICAL CONFLICTS
+### PHYSICAL CONFLICTS
 **Summary and Clarification:**
 
 Stories feature multiple levels of conflict, with the outermost level encompassing physical world conflicts:
@@ -1349,7 +1349,7 @@ To add complexity, we can explore the contradictions in his character. For insta
 - His anxiety might only find relief in the freeing moments when he's airborne.
 
 When we consider these opposing traits, the character becomes multifaceted and more suitable as a story's protagonist.
-## SOCIAL CONFLICTS
+### SOCIAL CONFLICTS
 **Summary and Clarification:**
 
 Social structures significantly influence individuals' behaviors and personal struggles. These institutions, with their established hierarchies, determine roles for individuals, often leading to reduced personal responsibility. While the upper echelons may be efficient, they can also be callous. Although these structures offer benefits, such as education and support, they often diminish the individual, leading to a dichotomy where these systems protect but also oppress.
@@ -1361,7 +1361,7 @@ One of the dark sides of institutions is their potential to encourage harmful be
 To survive in such a structured world, individuals often adopt varied social personas, based on the institutions or scenarios they interact with. For instance, a character may behave differently when interacting with a professor, a religious leader, a governmental entity, an online group, or a military officer. Such traits can define a character, but for depth and complexity, there must be contradictions in their behavior.
 
 For example, a character might exhibit humility in front of his professor but might be boastful among peers. Such a duality in traits can give a character depth, making him suitable for a central role in a gripping story.
-## PERSONAL CONFLICTS
+### PERSONAL CONFLICTS
 **Summary and Clarification:**
 
 In the realm of relationships, public and personal ones operate on different criteria. In public relationships, outcomes are paramount, while in personal ones, intentions carry more weight. This means, in a professional setting, results matter most, but in intimate settings, the intent behind actions holds more significance. A failed investment is criticized regardless of good intentions, but a misstep in a romantic relationship might be forgiven if it wasn't intentional.
@@ -1380,7 +1380,7 @@ Every intimate relationship brings out a unique side of an individual. If that r
 
 The presented characters use duality in their traits (generous/selfish, supportive/subversive, guilt/forgiveness) to add depth and complexity. When building characters, contrasting positive and negative attributes can create multifaceted personas. Examples include hard/soft, sweet/sour, and calm/hyper.
 
-## INNER DIMENSIONS 
+### INNER DIMENSIONS 
 **Summary and Clarification:**
 
 Characters with intricate inner dimensions often transform stories to focus on their internal conflicts, sometimes even more than their external challenges. Two notable examples are Raskolnikov from "Crime and Punishment" and Katherine in "Lady Macbeth". 
@@ -1390,7 +1390,7 @@ As a storyteller delves deeper into a character, the pivotal moments that truly 
 The process is iterative: delving into the character's mind can lead to a reimagining of events in the story, and these revised events can then further inform the character's development. Some characters, like Shakespeare's Hamlet or Virginia Woolf's Clarissa Dalloway, exhibit cognitive dissonance — they are trapped in the gap between thought and action. They wrestle with memories, desires, and anxieties, constantly trying to differentiate between reality and illusion, truth and falsehood, until they take decisive action.
 
 Oftentimes, the source of a character's complexity comes from the darker side of human nature, which many might conceal but writers explore. This depth can be traced back to both conscious contradictions in their thought processes and deeper, unspoken conflicts in the subconscious.
-## CONSCIOUS CONFLICTS
+### CONSCIOUS CONFLICTS
 **Summary and Clarification:**
 
 Complex characters possess internal contradictions that they are either aware of or can somewhat sense. These characters recognize their fluctuations between clarity and confusion, kindness and cruelty. They often attempt to reconcile or manage these inner conflicts. Some contradictions are rooted in cognitive abilities, such as being Intelligent yet sometimes Unintelligent, while others are more emotional, like fluctuating between being Impulsive and Reflective.
@@ -1398,11 +1398,11 @@ Complex characters possess internal contradictions that they are either aware of
 Societal institutions have been established to help individuals address some of these internal struggles. For instance, Alcoholics Anonymous supports individuals battling addiction (navigating between craving and rejecting alcohol), and Buddhism helps individuals with a "Monkey Mind", a term used to describe a restless, inconsistent thought process akin to a monkey jumping from one idea to another.
 
 In essence, the private realm of a character is a space where they grapple with their inner contradictions, which can be cognitive or emotional in nature.
-## LESS VERSUS MORE
+### LESS VERSUS MORE
 **Summary and Clarification:**
 
 Consider a character content with simplicity and solitude, devoid of any burning desires typical of a protagonist. However, if an event sparks a newfound desire for recognition and external success, a tension arises within him. This conflict between wanting recognition and maintaining privacy could make him the centerpiece of a story, as seen with the character Arthur Less in Andrew Sean Greer's novel "Less." This dynamic, balancing the desire for less with the lure of more, and the tension between inner and outer experiences, is also seen in Shakespeare's Hamlet. Hamlet is torn by his aversion to both the external corruption of the world and his internal struggles, leading to his indecisiveness and potential descent into madness. He is a mosaic of contradictions: he's introspective yet dramatic, deeply sorrowful but sharply witty, and though highly self-aware, he's oblivious to how he impacts others. This duality renders both his internal and external worlds as seeming void of meaning, edging him closer to insanity.
-## BELIEF VERSUS SKEPTICISM
+### BELIEF VERSUS SKEPTICISM
 **Summary and Clarification:**
 
 Beliefs, even if based on illusions, unify societies. When these illusions are debunked, societal unity shatters, leading to upheavals or revolutions. However, post-revolution, society often latches onto another belief or illusion, rebuilding its institutions. Using this context, novelist Joseph Conrad categorized characters as "Idiots" (those who blindly believe in illusions) and "Convicts" (those who see through the deceptions). Idiots are often the heroes or villains, while Convicts, recognizing the randomness of the universe, tend to be passive, posing challenges for writers since action-driven stories typically need characters with firm beliefs. 
@@ -1410,7 +1410,7 @@ Beliefs, even if based on illusions, unify societies. When these illusions are d
 Consider a skeptic who doubts everything. As a static character, he might be fit for a side role or a short narrative, but not a main story. However, introducing a contradiction in his beliefs can add depth and potential. For instance, having such a skeptic fall in love with someone who's a staunch believer can create a dynamic narrative around his internal conflict. 
 
 Characters can have multiple dimensions. Modern narratives, especially long series, require characters that remain intriguing over extended periods. Hence, drawing from a wide range of contradictory traits - like Independent/Dependent or Neuroticism/Stability - can provide endless possibilities for creating multifaceted characters. The only boundary is a writer's creativity.
-## CONSCIOUS VERSUS SUBCONSCIOUS CONFLICT
+### CONSCIOUS VERSUS SUBCONSCIOUS CONFLICT
 **Summary and Clarification:**
 
 The subconscious mind is a deep, active realm, contrary to the notion of it being inert, as the term "unconscious" might suggest. This subconscious part rises to the surface during dreams, taking form through symbols and irrational narratives. Even in our waking hours, this hidden self heavily influences our desires, often without our conscious awareness. This gives rise to the notion that, while we think we are in control of our actions, there's also a hidden force within us that influences our decisions. As Freud indicated, some behaviors and feelings might seem foreign to our conscious self.
@@ -1418,19 +1418,19 @@ The subconscious mind is a deep, active realm, contrary to the notion of it bein
 The line between the subconscious and conscious is blurred. It's challenging to discern when a behavior or thought transitions from one realm to the other. While this guide separates the two for clarity, creating multifaceted characters requires recognizing and blending these aspects uniquely for each character.
 
 Many complex characters grapple with their subconscious, especially when confronting darker or more violent urges. Recognizing both the virtuous and darker parts of the subconscious is key to self-awareness. While the positive traits are apparent, acknowledging and understanding the dark side demands bravery. When a significant event disrupts a character's life in a story, it typically ignites two desires: a conscious, tangible goal to restore balance, and an underlying, dormant desire from the subconscious that suddenly awakens.
-## SELF VERSUS OTHER
+#### SELF VERSUS OTHER
 **Summary and Clarification:**
 
 The primal part of our brain has two main directives: personal survival and the continuation of our genes. Often, preserving the gene pool takes precedence, which is evident in actions like parents risking their lives for their children, soldiers dying for their country, or believers taking extreme actions for their faith. This constant tension between self-preservation and the welfare of others (or one's offspring) drives many of our subconscious decisions.
 
 An illustrative example can be found in the movie "Kramer vs. Kramer". In the story, Ted Kramer, portrayed by Dustin Hoffman, starts as a self-focused individual, more engrossed in his work than in his family. When his wife unexpectedly leaves him and their son, Ted's life is thrown into chaos. Through this upheaval, a dormant desire emerges in Ted: a deep-seated need to be a caring and devoted person. By the end of the story, his love for his son overpowers his self-centered tendencies, leading him to prioritize his son's needs over his own.
-## ILLUSION VERSUS DELUSION
+### ILLUSION VERSUS DELUSION
 **Summary and Clarification:**
 
 Subconscious conflicts can revolve around how characters interpret reality, specifically the tension between illusion and delusion. While an illusion refers to a mistaken perception or belief, such as seeing a mirage, a delusion is a firm belief in something that is not true and is often linked to mental disorders. 
 
 In Tennessee Williams's "A Streetcar Named Desire", Blanche DuBois is a prime example. In her past, she chased unrealistic romantic ideals, which led to disastrous consequences including a bad marriage, loss of her home, and a stint in prostitution. Still, she clings to her fantasies of a better life. Over time, due to alcohol, trauma, and abuse, her self-deceptions deepen into full-blown delusions, resulting in her confinement to a mental institution. The trajectory of characters struggling with such deep-seated contradictions often culminates in tragic outcomes, like death or madness.
-## CASE STUDY: ANTONY AND CLEOPATRA
+#### CASE STUDY: ANTONY AND CLEOPATRA
 **Summary and Clarification:**
 
 Shakespeare's characters, Antony and Cleopatra, are multifaceted individuals whose internal dimensions span multiple layers, revealing a blend of societal expectations and personal desires. 
@@ -1440,7 +1440,7 @@ Antony experiences a tug-of-war between his political responsibilities and his p
 Cleopatra, on the other hand, is a master of perception. She possesses a range of contrasting traits — from royal decadence to innocent charm. Her emotions, whether they be rage, greed, or desire, are expertly channeled into performances that bewitch those around her. Instead of appearing as flaws, her behaviors are perceived as virtues, thanks to her charisma. Like Antony, Cleopatra grapples with a balance between her strategic ambitions and unbridled passion.
 
 The essence of their tragedy, as suggested, might not just be in the denial of their desires, but in the realization of those desires at a heavy cost.
-## CHARACTER CONFLICT IN DEPTH
+#### CHARACTER CONFLICT IN DEPTH
 **Summary and Clarification:**
 
 Characters are often visualized through spatial descriptors like "deep" or "shallow," but to craft a genuinely complex character, authors delve into the soul's intricacies. The instinctual human ability to judge character depth upon first meeting is labeled as the "First Impression," which evolved primarily as a trust assessment tool. Characters perceived to have deeper dimensions naturally elicit empathy and trust from readers and audiences.
@@ -1468,7 +1468,7 @@ Here are ten traits, often indicating depth in a character:
 10. **A Searcher for Meaning**: Questions life's inherent purpose and seeks deeper meaning. Example: Benna Carpenter from *Anagrams*.
 
 Many of these traits combine to shape the "antihero" archetype — a complex character, both cynical and sensitive, often portrayed by actors like Humphrey Bogart and Denzel Washington.
-## LIFE IN THE SUBTEXT
+#### LIFE IN THE SUBTEXT
 **Summary and Clarification:**
 
 Characters in a story have two aspects: text and subtext. 
@@ -1487,9 +1487,7 @@ Characters also probe into the depths of other characters within the story, tryi
 
 In essence, while the external behaviors (text) of characters are readily apparent, the inner workings (subtext) remain elusive, urging readers and audiences to become 'psychics' and delve deeper into understanding the true nature of these characters.
 
-
-
-# 11 THE COMPLETED CHARACTER
+## 11 THE COMPLETED CHARACTER
 **Summary and Clarification:**
 
 To craft a perfect character:
@@ -1508,8 +1506,8 @@ To craft a perfect character:
 
 In essence, to craft the ultimate character, start them with promise, let them evolve and be challenged, and bring them to a fulfilling completion by the story's end.
 
-## FOUR MAJOR STEPS OF CHARACTER DESIGN 
-### 1. Preparation 
+### FOUR MAJOR STEPS OF CHARACTER DESIGN 
+#### 1. Preparation 
 **Summary and Clarification:**
 
 **FOUR MAJOR STEPS OF CHARACTER DESIGN:**
@@ -1526,7 +1524,7 @@ In essence, to craft the ultimate character, start them with promise, let them e
          4. In the film "Mrs. Soffel" by Ron Nyswaner, Kate Soffel, a warden's wife, decides to save a condemned prisoner.
 
 In essence, the "Preparation" step in character design focuses on setting up a character with potential and unexplored depth. The inciting incident, an event that catalyzes the story, should align with the character's underlying need, pushing them towards experiences that will help them realize their fullest self.
-### 2. Revelation
+#### 2. Revelation
 **Summary and Clarification:**
 
 **2. Revelation Principle:** 
@@ -1543,7 +1541,7 @@ In essence, the "Preparation" step in character design focuses on setting up a c
           3. In "Annie Hall" by Woody Allen, Alvy Singer's life choices slowly expose his deep-rooted neuroses hidden beneath a layer of humor and charisma.
 
 - **In Summary:** A character's external circumstances change over a story, and through their choices, their genuine nature becomes apparent. While the character themselves might remain consistent, the audience's understanding evolves, delving deeper into the character's true essence. To gauge this principle's effectiveness in a narrative, one can ask: How is the character perceived at the beginning vs. the end? This should highlight a shift in audience insight rather than character change.
-### 3. Change
+#### 3. Change
 **Summary and Clarification:**
 
 The text delves into the concept of character development and identity in storytelling by referencing the Ship of Theseus Paradox. The central question posed by this paradox is if an object (or a person, in the case of the metaphor) undergoes numerous changes over time, does it retain its original identity?
@@ -1581,7 +1579,7 @@ The text delves into the concept of character development and identity in storyt
    - The connection between a character's past and present shapes their identity journey. Traumatic pasts can fragment identity, while healthy ones strengthen it.
 
 In essence, understanding character development and change is vital for writers as it drives the narrative and influences readers' connection to the story.
-### 4. Completion 
+#### 4. Completion 
 **Summary & Clarification:**
 
 **Completion Principle:** This principle posits that the finest stories fulfill the protagonist's dual elements of need and desire to the utmost boundaries of human experience.
@@ -1604,7 +1602,7 @@ In essence, understanding character development and change is vital for writers 
    - Nora and Kevin in **"The Leftovers"**: Their love story completes as they come to terms with their love and its role in making sense of the inexplicable.
 
 The Completion Principle emphasizes the duality of desire and need in character development, with profound storytelling pushing characters to the limits of their humanity.
-## COMPLETING A CHARACTER
+### COMPLETING A CHARACTER
 **Summary & Clarification:**
 
 **Character Completion Principle Revisited:** 
@@ -1631,7 +1629,7 @@ Characters in literature are driven by various internal forces, be it a strong d
 
 In essence, a character’s journey toward completion involves both internal introspection and external challenges, with the writer orchestrating this path by understanding and pushing the character’s limits. Once completed, characters often reflect on the experiences and ironies that have defined their journey.
 
-# 12 THE SYMBOLIC CHARACTER
+## 12 THE SYMBOLIC CHARACTER
 **Summary & Clarification:**
 
 All characters, irrespective of their depth or simplicity, represent more than their literal selves in literature. Each one can be viewed as a metaphor representing either a societal role or an internal moral compass, or sometimes both. This dichotomy categorizes narratives into two broad spectrums: **Realism** and **Symbolism**.
@@ -1652,7 +1650,7 @@ All characters, irrespective of their depth or simplicity, represent more than t
    - Just as pistons concentrate heat by reducing volume, symbols derive power by compressing many meanings into one image. For instance, a bearded figure seated on a throne symbolizes the Father, encompassing myriad concepts like wisdom, judgment, authority, fear, gratitude, and reverence.
 
 In conclusion, characters in literature serve dual roles: their literal, personal selves and the broader metaphoric identities they represent. This duality navigates between realism and symbolism, with symbols organically rising from innate human perceptions and associations, often mirrored in our dreams.
-## SYMBOLIC CHARACTER SPECTRUM
+### SYMBOLIC CHARACTER SPECTRUM
 **Summary and Clarification**:
 
 **1. Symbolism in Character Creation:**
@@ -1675,7 +1673,7 @@ In conclusion, characters in literature serve dual roles: their literal, persona
 **Clarification**: 
 
 This text provides an in-depth look at the varying degrees of symbolic representation in character creation, from universal symbols (archetypes) to job-specific ones (stocks). Archetypes like the "Hero" or the "Mentor" are universal and recognized across cultures, while allegorical characters, like those in "Lord of the Flies," represent specific values. On the other hand, types are characterized by specific behaviors or adjectives, and stocks are defined by their professions. For a character to resonate deeply with readers or viewers, it's crucial to subtly weave the symbolic nature into their characterization.
-## REALISTIC VERSUS SYMBOLIC CHARACTERS
+### REALISTIC VERSUS SYMBOLIC CHARACTERS
 **Summary & Clarification:**
 
 **Realism vs. Symbolism in Character Creation**
@@ -1711,7 +1709,7 @@ This text provides an in-depth look at the varying degrees of symbolic represent
   10. **Social Dynamics**: Generally portrays a rigid class system.
 
 In essence, while realism dives deep into the intricate nuances and challenges of life, symbolism operates on a broader scale, portraying characters and events as representations of larger concepts or ideals.
-## CASE STUDY: GAME OF THRONES
+### CASE STUDY: GAME OF THRONES
 **Summary & Clarification:**
 
 David Benioff and D. B. Weiss adapted George R. R. Martin's "A Song of Ice and Fire" into a television series, infusing a high fantasy tale with stark realism. This adaptation stands out because it doesn't just offer a clear-cut symbolic representation of characters but paints them with varying shades of moral ambiguity.
@@ -1728,7 +1726,7 @@ The narrative also introduces various social structures and groups:
 - **Councils**: Represent democratic decision-making processes where members vote.
 
 However, with the emergence of the Night King and his army of White Walkers, the central conflict shifts. Instead of the balance between realism and symbolism or the political intricacies, the story narrows down to the primal fight for survival: life vs. death.
-## HOW TO MAKE THE OLD NEW
+### HOW TO MAKE THE OLD NEW
 **Summary & Clarification:**
 
 To create memorable and unique characters in a literary landscape filled with age-old archetypes and stereotypes, writers should blend familiarity with innovation. Although every character might be rooted in familiar types, making them stand out is essential. Here are four strategies for achieving this:
@@ -1743,7 +1741,7 @@ To create memorable and unique characters in a literary landscape filled with ag
 
 In essence, while you can't escape the influence of traditional character molds, you can infuse them with originality by employing these strategies.
 
-# 13 THE RADICAL CHARACTER
+## 13 THE RADICAL CHARACTER
 **The Realism/Nonrealism/Radicalism Triangle**
 **Summary & Clarification:**
 
@@ -1754,11 +1752,11 @@ In the realm of fiction, there are three primary approaches to character develop
 3. **Radicalism**: Characters exhibit distorted or exaggerated powers, combining elements from both realism and nonrealism.
 
 These approaches can intersect and merge, allowing for a limitless range of character types within this triangular framework.
-## REALISM: CONVENTIONAL CHARACTERS IN CONVENTIONAL WORLDS
+### REALISM: CONVENTIONAL CHARACTERS IN CONVENTIONAL WORLDS
 **Summary & Clarification:**
 
 The Realism literary movement emerged about 200 years ago, opposing the dramatic flair of Romanticism. Despite its attempt to depict authentic life, Realism is still a crafted and stylized representation of reality. Realist authors closely observe real-life behaviors, process them through their creative lens, and then produce characters that mirror our world. These characters possess a coherent identity, moral grounding, realistic understanding of their surroundings, and the ability to interact, make decisions, pursue goals, and evolve. They're set in narratives that audiences recognize as reflecting the common human experience, making them familiar to readers and viewers.
-## NONREALISM: CONVENTIONAL CHARACTERS IN UNCONVENTIONAL WORLDS
+### NONREALISM: CONVENTIONAL CHARACTERS IN UNCONVENTIONAL WORLDS
 **Summary & Clarification:**
 
 Nonrealism is a literary approach that situates conventional characters from Realism within extraordinary or fantastical settings. These settings might involve supernatural elements (like in "Pirates of the Caribbean"), magic (as in "Harry Potter"), dreamscapes ("Alice's Adventures in Wonderland"), or futuristic science ("Do Androids Dream of Electric Sheep?"). Nonrealist stories might also break the fourth wall, allowing characters to communicate directly with audiences, as seen in shows like "Fleabag."
@@ -1768,7 +1766,7 @@ Though these worlds are derived from daydreams or night dreams and act as metaph
 2. Characters within these worlds believe in their reality. Even if they initially question their surroundings, they eventually accept them and act accordingly. An example is Phil Connors in "Groundhog Day."
 
 Both Realism and Nonrealism focus on characters that are multi-dimensional and relatable, with motivations that are credible. Their stories convey clear meanings with emotional resonance, and the dialogues aim for instant clarity. These characters populate popular works across various media. Writers should be aware of their target audience's preference, as they typically lean towards either Realism or Nonrealism, with a general aversion to Radicalism.
-## RADICALISM: UNCONVENTIONAL CHARACTERS IN UNCONVENTIONAL WORLDS
+### RADICALISM: UNCONVENTIONAL CHARACTERS IN UNCONVENTIONAL WORLDS
 **Summary & Clarification:**
 
 Radicalism in literature emerged as a response to increasing doubts about the meaning and purpose of life, especially post the two world wars and numerous genocides. This doubt was intensified by 19th-century philosophers like Nietzsche and Kierkegaard, who flagged the rising sense of meaninglessness, and by psychoanalysts like Freud and Jung, who suggested that truly understanding oneself is nearly impossible.
@@ -1782,7 +1780,7 @@ In response to this existential crisis, Radicalism in literature turned storytel
 Radicalism is a deliberate move away from convention, yet it is paradoxically tied to the very orthodoxy it opposes. In terms of literature, Radicalism can be likened to Cubism in art, where a character (or a portrait) is distorted yet recognizable. The settings in radical works are symbolic but lack consistent rules. For instance, in Jean-Luc Godard’s "Weekend", random events occur without reason, while in Samuel Beckett’s "Waiting for Godot", nothing happens, also without reason.
 
 Characters in radical works often lack connections to external entities like god, society, or family. Their dialogues can seem nonsensical, and their settings are usually symbolic but unpredictable. These characters can be extremely isolated or frenzied and chaotic. In prose, Radicalism is easier to depict, allowing writers to delve deep into a character's fractured psyche, showcasing their fragmented desires and splintered thoughts, as seen in works by Samuel Beckett and Don DeLillo. However, portraying radical characters in plays or films is more challenging due to the concrete presence of an actor, which adds a semblance of solidity. Playwrights and filmmakers must then find creative ways to express fragmentation and distortion, as seen in Beckett’s "Happy Days" or Leo Carax's "Holy Motors".
-## CREATING A RADICAL CHARACTER
+### CREATING A RADICAL CHARACTER
 **Summary & Clarification:**
 
 To create a radical character, one needs to deviate from the conventional traits often seen in literature. Here are the strategies:
@@ -1807,7 +1805,7 @@ To create a radical character, one needs to deviate from the conventional traits
 
 **In Short:** The discussed points explore how characters in modern and postmodern literature have evolved. They often lack traditional elements like identity, purpose, unity, maturity, conscience, and belief. This absence leads them to experience fragmentation, purposelessness, childishness, sadistic evil, and existential despair.
 
-## THE FUTURE: UNCONVENTIONAL CHARACTERS IN CONVENTIONAL WORLDS
+### THE FUTURE: UNCONVENTIONAL CHARACTERS IN CONVENTIONAL WORLDS
 **Summary and Clarification**:
 
 The modern era of storytelling has evolved from its previous postmodern phase, which is now viewed as outdated and overly repeated. The trend now is not to mimic past storytelling styles but to critique and lampoon current societal aspects. This modern storytelling contrasts classical satirical works like Jonathan Swift's "Gulliver's Travels" where rational narrators mocked absurd societies. The contemporary approach, instead, places eccentric characters in traditional settings to evoke empathy from audiences, a shift pioneered by playwrights like Samuel Beckett.
@@ -1816,16 +1814,14 @@ Current novels, films, and TV series feature protagonists with moral ambiguities
 
 In essence, modern writers are testing the boundaries of characterization, urging audiences to understand and even sympathize with increasingly complex and morally gray characters. The boundaries of what's considered too dark or edgy are continually being stretched in today's narrative art.
 
-
-
 **PART 3**
 
 **THE CHARACTER UNIVERSE**
 The next three chapters look at character from three different angles: the casts in various types of stories, the actions characters take within a story, and character from the point of view of readers and audiences.
 
-# **PART THREE: THE CHARACTER UNIVERSE**
+# PART THREE: THE CHARACTER UNIVERSE
 *The next three chapters look at character from three different angles: the casts in various types of stories, the actions characters take within a story, and character from the point of view of readers and audiences.*
-# 14 CHARACTER IN GENRE
+## 14 CHARACTER IN GENRE
 **Summary and Clarification**:
 
 Storytelling in art isn't bound by strict rules but is guided by familiar patterns or conventions known as genres. These genres provide audiences with certain expectations based on the genre's traditional designs. Here's a breakdown of the information provided:
@@ -1844,7 +1840,7 @@ Storytelling in art isn't bound by strict rules but is guided by familiar patter
    - **Presentational Genres**: These focus on how content is conveyed, such as whether a story is comedic or dramatic, realistic or fantastical.
 
 In essence, genres offer a structured blueprint for storytelling, but they're not rigid barriers. They evolve with time and societal changes, with the storyteller navigating and adapting these conventions to best serve their narrative.
-## THE ORIGIN OF PRIMARY GENRES
+### THE ORIGIN OF PRIMARY GENRES
 **Summary and Clarification**:
 
 Storytelling genres evolved based on life's varying conflict levels: Physical, Social, Personal, and Private. Here's a distilled version of the provided information:
@@ -1876,9 +1872,9 @@ Storytelling genres evolved based on life's varying conflict levels: Physical, S
     - To effectively showcase a character's internal journey, writers must understand the depth and breadth of their character's nature. By placing the character under pressure and making them face choices, the character's evolution or regression is revealed.
 
 In essence, storytelling genres arose from different fundamental conflicts that individuals face, from battling nature and societal norms to navigating intimate relationships and grappling with inner struggles.
-## THE SIXTEEN PRIMARY GENRES
+### THE SIXTEEN PRIMARY GENRES
 
-### The Ten Plots of Fortune
+#### The Ten Plots of Fortune
 Primary genres are responsible for vital changes in a character's life, either external or internal. These are divided into two main categories: Plots of Fortune and Plots of Character. All primary genres have four main elements: core value, core event, core emotion, and core cast.
 
 **Plots of Fortune:**
@@ -1936,7 +1932,7 @@ This type of plot brings about external changes in a character’s life. Here ar
 
 Each genre brings forth a different facet of human experience, emphasizing unique core values and events that determine the course of the story.
 
-### The Six Plots of Character 
+#### The Six Plots of Character 
 **Summary and Clarification:**
 
 **Character Change in Plots:**
@@ -1964,7 +1960,7 @@ The plot genres are divided into three main categories based on which aspect of 
    - **Devolution Plot:** The protagonist deteriorates or loses their essence over time. A common theme here is addiction or a series of events leading to the degradation of their humanity.
 
 **In essence**, character change plots dissect the transformation journey of characters across dimensions of morality, mentality, and humanity. Each plot type provides a distinct framework for showcasing either the ascent or descent of a character's internal landscape.
-## THE TEN PRESENTATIONAL GENRES
+### THE TEN PRESENTATIONAL GENRES
 **Summary and Clarification:**
 
 Storytellers have crafted various techniques to bring out the essence and vibrancy of primary genres. These techniques revolve around how the story is presented or the medium in which it's expressed. Consequently, ten presentational genres have emerged:
@@ -1990,7 +1986,7 @@ Storytellers have crafted various techniques to bring out the essence and vibran
 10. **High Art**: This genre is characteristic of experimental forms of storytelling seen in art films, avant-garde theater, and cutting-edge fiction. These stories start with a base genre but then distort it by using fragmented plots, unreliable narrators, and inconsistent timelines. They also tend to incorporate varied mediums, powerful imagery, and iconic symbols.
 
 In essence, these presentational genres highlight that any core story can be conveyed in a multitude of ways, depending on the medium or style chosen by the storyteller.
-## GENRE COMBINATIONS
+### GENRE COMBINATIONS
 **Summary and Clarification:**
 
 Combining central plots and subplots from different genres leads to richer character depth. When mixed, separate storylines from different genres intersect, adding layers of meaning and character depth. David Mitchell's "Cloud Atlas" is an example where six storylines from different genres interlace. These stories, across various timeframes and settings, revolve around reincarnated characters symbolizing the theme of predation in different forms. Mixing genres requires mastering more conventions, and the resulting complex narrative can be challenging to track for readers.
@@ -2003,11 +1999,11 @@ Merging genres intertwines story outcomes and typically streamlines the narrativ
 
 
 
-# 15 CHARACTER IN ACTION
+## 15 CHARACTER IN ACTION
 **Summary**:
 
 Every character has a personal narrative formed by their past, present, and future perspectives. This self-story is a blend of their past experiences, their current state, and their aspirations. The future aspect is crucial because it sets the direction for their actions. Stemming from their upbringing and experiences, this self-story dictates the character's modus operandi (MO) or their unique approach to situations. The MO is more than just personality traits; it's a combination of strategies they use to achieve their desires or escape fears. While some characters might change their MO due to life circumstances, most modify it based on factors like family, career, and love. When a plot point disrupts a character's equilibrium, they respond based on their MO, aiming to restore balance. To truly bring a character to life, one must understand their self-story and see the world through their future aspirations. Characters often have MOs that fall into common themes, with examples from various media that can be further twisted to add depth and drive the narrative.
-## HOLLYWOOD THEMES
+### HOLLYWOOD THEMES
 **Summary**:
 
 People often model their real-life behaviors or modus operandi (MOs) after fictional characters from movies or books. These behaviors then make their way back into literature, creating a loop between reality and fiction. Here are five prevalent MOs:
@@ -2021,7 +2017,7 @@ People often model their real-life behaviors or modus operandi (MOs) after ficti
 4. **The Documentary**: Intellectuals analyze their relationships to the extent they become like scientific observations, reducing romance to an empirical study. *Example*: Alvy Singer in "Annie Hall". *Twist*: Over-analysis makes romance resemble a clinical study, which becomes a unique fetish.
 
 5. **The XXX-Rated Flick**: Some characters indulge in sadomasochistic behaviors for the pleasure derived from cruelty or humiliation. *Example*: Lorne Malvo in "Fargo". *Twist*: The sadist's initial pleasure from degrading others diminishes over time, leading to self-inflicted violence due to an overwhelming fear of death.
-## POLITICAL THEMES
+### POLITICAL THEMES
 **Summary**:
 
 Politics pertains to the distribution of power in any social structure, whether it's in governments, institutions, or personal relationships. There's always an imbalance in power dynamics, leading to various modus operandi (MOs) in characters:
@@ -2039,7 +2035,7 @@ Politics pertains to the distribution of power in any social structure, whether 
    *Twist*: A chaotic individual adopts a rational approach to life, only to find the predictability boring and realizes they prefer the thrill of disorder.
 
 In essence, politics and power dynamics can influence character MOs in various ways, leading to intriguing narratives and unexpected twists in stories.
-## OBJECT THEMES
+### OBJECT THEMES
 **Summary**:
 
 Characters who struggle with forming genuine intimate relationships often treat people as utilities or objects. Here are four typical modus operandi (MOs) for such characters:
@@ -2061,7 +2057,7 @@ Characters who struggle with forming genuine intimate relationships often treat 
    *Twist*: The business crashes and goes insolvent.
 
 In a nutshell, characters who struggle with true intimacy often engage in behaviors where people are commodified or objectified, leading to intriguing plot developments and twists.
-## SCENE CREATION: CHARACTER IN ACTION
+### SCENE CREATION: CHARACTER IN ACTION
 **Summary**:
 
 Characters in stories act based on their desires. Here’s a breakdown of how writers consider a character's action:
@@ -2081,7 +2077,7 @@ Characters in stories act based on their desires. Here’s a breakdown of how wr
 Lastly, the process of drafting scenes can lead writers to revisit and refine their character designs and the overall narrative. The relationship between action and reaction in scenes is pivotal for creating layered characters and compelling stories.
 
 
-# 16 CHARACTER IN PERFORMACE
+## 16 CHARACTER IN PERFORMACE
 **Summary**:
 
 Audiences and readers seek two primary things from a story's characters: discovery and recognition.
@@ -2091,7 +2087,7 @@ Audiences and readers seek two primary things from a story's characters: discove
 2. **Recognition**: Beyond the novelty, readers and audiences yearn to see themselves in the story. They look for characters with whom they can empathize, recognizing some intrinsic aspect of their humanity. Empathy is crucial because it allows readers to connect deeply with a character, making them feel a part of the narrative rather than mere outsiders. This emotional bond permits readers to vicariously experience a vast range of emotions and situations beyond their everyday lives.
 
 To understand how stories achieve this mix of discovery and recognition for readers and audiences, it's essential to explore the different roles characters can play in a narrative.
-## SEVEN FUNCTIONS OF CHARACTER IN PERFORMANCE
+### SEVEN FUNCTIONS OF CHARACTER IN PERFORMANCE
 **Summary**:
 
 Characters in stories serve multiple essential functions to engage readers and audiences:
@@ -2109,7 +2105,7 @@ Characters in stories serve multiple essential functions to engage readers and a
 6. **Illuminate Other Characters**: Characters in a narrative can highlight and deepen the aspects of other characters, adding depth to the ensemble.
 
 7. **Inspire Insight into Human Nature**: Characters, whether grounded in reality or fantasy, prompt readers to introspect and better understand human behavior, including their own and that of those around them.
-## THE READER/AUDIENCE/CHARACTER CONNECTION 
+### THE READER/AUDIENCE/CHARACTER CONNECTION 
 **Summary**:
 
 Humans have evolved a range of emotions like fear, love, and hate to navigate threats, especially from other people. However, it's intriguing how we direct these emotions towards fictional characters, who don't exist in reality. While characters offer educational insights, helping us understand real people better, our deep emotional connection with them is perplexing. We might feel sorrow for real-life tragedies, but it's curious why we're also moved by fictional events and characters, like those in "The Towering Inferno". The question arises: How do fictional entities evoke genuine emotions in us?
@@ -2173,14 +2169,14 @@ Examples include films like "Double Indemnity" and "Sunset Blvd." and novels lik
 **The Power of First Impressions**: The initial introduction of a character, especially the protagonist, is crucial as it sets the tone for the rest of the narrative. A memorable entrance can create intrigue and provide insights into the character's core essence. Examples from film, literature, and TV, such as the entrance of Rick in "Casablanca" or Villanelle's act in "Killing Eve", highlight the significance of impactful character introductions.
 
 
-# **PART 4 CHARACTER RELATIONSHIPS**
+# PART 4 CHARACTER RELATIONSHIPS
 *People often hide parts of themselves from others and sometimes even from themselves, with certain truths only being perceived by external observers. Similarly, in fiction, a character doesn't connect on all levels with another single character. To fully unveil a character's multifaceted nature, they should be surrounded by a diverse cast. Each member of this cast will evoke specific traits and truths from the central character, allowing the reader or audience to understand the character more deeply by the story's climax. The main idea is that every character in a story should help reveal aspects of other characters. The challenge for writers is to design a cast that effectively brings out the depth and complexity of each character.*
-# 17 CAST DESIGN
+## 17 CAST DESIGN
 **Summary:**
 
 A character's journey is never straightforward; it's influenced by a maze of relationships and external factors, not just their core self. Characters in a story impact one another and are defined by their links, contrasts, and oppositions. A well-designed cast highlights the unique traits of each character, especially as they interact and react to one another. These interactions can lead to conflicts and transformations in relationships. When creating a story, a writer must carefully design the cast by comparing and contrasting their characters. Not every imagined character deserves a spot in the story; each one must serve a specific purpose that enhances the narrative. For readers to be deeply engaged, characters shouldn't be simply black or white but should have complex oppositions. The upcoming sections will delve into five examples from major storytelling mediums to illustrate the importance of thoughtful cast design.
 
-## CASE STUDY: PRIDE AND PREJUDICE
+### CASE STUDY: PRIDE AND PREJUDICE
 **Summary and Clarification:**
 
 **Pride and Prejudice: A Study in Character Design**
@@ -2213,7 +2209,7 @@ This approach ensures a well-rounded and dynamic cast that aids in driving the n
 
 ![[Pasted image 20230820220829.png]]
 
-## CASE STUDY: A FISH CALLED WANDA
+### CASE STUDY: A FISH CALLED WANDA
 **Summary and Clarification:**
 
 **A Fish Called Wanda: A Study in Character and Narrative Design**
@@ -2236,7 +2232,7 @@ This approach ensures a well-rounded and dynamic cast that aids in driving the n
 *Conclusion:* "A Fish Called Wanda" is a comedic gem that showcases the intricacies of human obsessions and quirks. It presents a tale where abandoning one's inhibitions can lead to unexpected rewards.
 ![[Pasted image 20230820220933.png]]
 
-## CASE STUDY: SLAVE PLAY
+### CASE STUDY: SLAVE PLAY
 **Case Study Summary: "Slave Play" by Jeremy O. Harris**
 
 **Background:**
@@ -2271,7 +2267,7 @@ The title "Slave Play" underscores its central theme: the inherent sadomasochism
 
 ![[Pasted image 20230820221054.png]]
 
-## CASE STUDY: 'BLOODCHILD'
+### CASE STUDY: 'BLOODCHILD'
 **Case Study Summary**: "Bloodchild" by Octavia E. Butler
 
 **Publication & Recognition**: 
@@ -2302,7 +2298,7 @@ The title "Slave Play" underscores its central theme: the inherent sadomasochism
 - The story is emblematic of the Science Fiction genre, depicting a flipped reality where humans are not the dominant species.
 - It presents a cautionary tale and illustrates the consequences of humanity's actions on their future.
 ![[Pasted image 20230820221239.png]]
-## CASE STUDY: BREAKING BAD
+### CASE STUDY: BREAKING BAD
 **Case Study: Breaking Bad**
 
 **Introduction:**
@@ -2335,7 +2331,7 @@ The title "Slave Play" underscores its central theme: the inherent sadomasochism
 **Takeaway:** 
 The longform series allows for intricate character development and multifaceted plots. Breaking Bad exemplifies this by taking viewers on a journey through Walt's transformation from a mild-mannered teacher to a drug kingpin.
 
-## Cast Design
+### Cast Design
 **Summary and Clarification:**
 **Summary:**
 
@@ -2394,7 +2390,7 @@ In essence, the series "Breaking Bad" builds its narrative strength through comp
 - The central theme of "Breaking Bad" revolves around human evolution and self-fulfillment. Walter White ultimately seeks and achieves personal fulfillment and realizes his true nature.
 
 
-# **CONCLUSION: THE REVOLUTIONARY WRITER**
+# CONCLUSION: THE REVOLUTIONARY WRITER
 
 **The Struggles of Being an Artist:**
 - Pursuing artistry, especially valuing beauty over monetary gains, often leads to societal rejection, poverty, and ridicule.

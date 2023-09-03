@@ -1,3 +1,6 @@
+#03_CHARACTER 
+
+>SUMMARIZE AND CLARIFY
 # Introduction
 ## THE METHODOLOGY OF THIS BOOK--MOTIVATION AS THE COMPAS OF CHARACTER
 ### Chapter Summary: Character Motivation as the Compass

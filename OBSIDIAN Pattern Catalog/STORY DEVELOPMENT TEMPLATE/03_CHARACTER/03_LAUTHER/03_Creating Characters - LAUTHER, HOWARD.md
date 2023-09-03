@@ -1,3 +1,6 @@
+#03_CHARACTER 
+
+>SUMMARIZE AND CLARIFY
 ## Introduction 
 **Summary and Clarification:**
 

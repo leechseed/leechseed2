@@ -22,6 +22,7 @@ Corbett focuses on a wholistic approach of characterization that prioritizes the
 Corbett picks up with where The Art of Character leaves off, focusing wholly on the most important part of his character theory, motivation and desire. 
 *The Art of Character, and The Compass of Character together is a solid theory and methodology of Character. Corbett, in general, should be thought of the most important of all character cornerstones because his theory serves as a bridge  between theory and practice.*
 [03_The Compass of Character - CORBETT, DAVID](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_CORBETT%2F03_The%20Compass%20of%20Character%20-%20CORBETT%2C%20DAVID%2F03_The%20Compass%20of%20Character%20-%20CORBETT%2C%20DAVID)
+
 ### 03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB
 Davis explicitly states that his writings are not of a prescriptive nature. EG: Steps to character. Rather, Davis theorizes on the nature of character and characterization. He believes that character is an organism of evolving relationships that can adapt according to the needs of the author. What has worked, why, and why it might not again. He places the onus of decision making on the author. Concisely, Davis' approach to character is that of a craft. A pursuit of aesthetics guided by principles and refinement. 
 *Davis is the wind in the sails and the stars in the sky. When all else fails, his pontifications can be used as a troubleshooting guide or a reminder that as the author, I decide write and wrong.*
@@ -42,7 +43,16 @@ Smith focuses on an academic psychological approach using applied theories used 
 Since Corbett focuses on scenic depth that is experienced by the reader, perhaps Smith can assist in creating a framework for the author to audit or verify the believability of a character's arch.*
 [03_The Psychology Workbook for Writers - SMITH, DARIAN](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_SMITH%20D%2F03_The%20Psychology%20Workbook%20for%20Writers%20-%20SMITH%2C%20DARIAN)
 
-
 ### 03_Creating Characters - WRITER'S DIGEST
-
+A compilation of insights from fiction authors on character development. This is invaluable for obtaining unique and nuanced perspectives on character, insights that can only be gleaned through years of experience. It's also beneficial as a resource to reinforce certain established, sometimes clichéd, principles—*principles that are meant to be reimagined, critiqued, or presented in opposition.*
 [03_Creating Characters - WRITER'S DIGEST](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_WRITERS%20DIGEST%2F03_Creating%20Characters%20-%20WRITER'S%20DIGEST)
+
+#### Prototype Order of Consumption
+
+1 [03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_MCKEE%2F03_Character%20The%20Art%20of%20Role%20and%20Cast%20Design%20for%20Page%2C%20Stage%2C%20and%20Screen%20-%20MCKEE%2C%20ROBERT)
+2 [03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_MCKEE%2F03_Character%20The%20Art%20of%20Role%20and%20Cast%20Design%20for%20Page%2C%20Stage%2C%20and%20Screen%20-%20MCKEE%2C%20ROBERT)
+3 [03_The Art of Character - CORBETT, DAVID](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_CORBETT%2F03_The%20Art%20of%20Character%20-%20CORBETT%2C%20DAVID)
+4 [03_The Compass of Character - CORBETT, DAVID](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_CORBETT%2F03_The%20Compass%20of%20Character%20-%20CORBETT%2C%20DAVID%2F03_The%20Compass%20of%20Character%20-%20CORBETT%2C%20DAVID)
+5 [03_The Psychology Workbook for Writers - SMITH, DARIAN](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_SMITH%20D%2F03_The%20Psychology%20Workbook%20for%20Writers%20-%20SMITH%2C%20DARIAN)
+6 [03_Creating Characters - WRITER'S DIGEST](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_WRITERS%20DIGEST%2F03_Creating%20Characters%20-%20WRITER'S%20DIGEST)
+7 [03_Creating Characters - LAUTHER, HOWARD](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_LAUTHER%2F03_Creating%20Characters%20-%20LAUTHER%2C%20HOWARD)
