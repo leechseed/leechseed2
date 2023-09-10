@@ -4,3 +4,5 @@
 	Mckee and Bloom are the two foundational authors I reference when creating themes.
 
 #01_THEME 
+
+The Writer's Journey by Vogler

@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "1f4594c7516f4493",
+        "id": "a7546f1741b180c0",
         "type": "tabs",
         "children": [
-          {
-            "id": "85c46b540e59bef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "9109fa6f4b63cfed",
             "type": "leaf",
@@ -30,9 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fbd016c5df7255f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25137a6713ee55df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_SETTING/FRONTPAGE 04_SETTING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123dcc46f15b6e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b84f189aec56a778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_TAG SHEET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4a76a9eae30bfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_TOC/00_Dramataica/00_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "00_TOC/00_Dramataica/00_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "00_TOC/00_Dramataica/00_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md"
+                "file": "00_TOC/00_Dramataica/00_Dramataica - Melanie Anne Phillips & Chris Huntley.md"
               }
             }
           }
@@ -169,53 +217,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9109fa6f4b63cfed",
+  "active": "e4a76a9eae30bfc3",
   "lastOpenFiles": [
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "00_TOC/FRONTPAGE 00_TOC.md",
+    "Pasted image 20230909212430.png",
+    "Pasted image 20230909212420.png",
+    "Pasted image 20230909212209.png",
+    "Pasted image 20230909212201.png",
+    "Pasted image 20230909212144.png",
+    "Pasted image 20230909205402.png",
+    "Pasted image 20230909205255.png",
+    "Pasted image 20230909205235.png",
+    "Pasted image 20230909205104.png",
+    "Pasted image 20230909204155.png",
+    "Pasted image 20230909204141.png",
     "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_wk The Art of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_The Art of Character - CORBETT, DAVID.md",
     "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
     "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
-    "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_SMITH D/03_wk_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
+    "00_TOC/00_Dramataica/00_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
+    "00_TOC/FRONTPAGE 00_TOC.md",
+    "00_TOC/00_ALESSANDRA/00_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_TAG SHEET.md",
+    "00_TOC/00_Dramataica",
     "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
     "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
+    "03_CHARACTER/03_SMITH D/03_wk_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
+    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
+    "FRONTPAGE - 05_EQE (EQUIPOISE).md",
+    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
+    "01_THEME/FRONTPAGE 03_THEME.md",
+    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
+    "templates/template for steps.md",
+    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C1E1.md",
+    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
     "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID",
     "03_CHARACTER/03_CORBETT/03_The_Art_of_Character",
     "03_CHARACTER/03_DAVIS/03_wk_03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB",
-    "01_THEME/FRONTPAGE 03_THEME.md",
-    "00_TAG SHEET.md",
     "assets/Character by Mckee  Robert (z-lib.org).pdf",
     "assets",
-    "assets/Pasted image 20230820222230.png",
     "00_TOC",
-    "assets/Pasted image 20230820222155.png",
-    "assets/Pasted image 20230820222125.png",
-    "assets/Pasted image 20230820222055.png",
-    "assets/Pasted image 20230820221239.png",
-    "assets/Pasted image 20230820221054.png",
-    "assets/Pasted image 20230820220933.png",
-    "assets/Pasted image 20230820220829.png",
-    "assets/Pasted image 20230820220437.png",
-    "assets/Pasted image 20230820144858.png",
     "03_CHARACTER/03_LAUTHER",
     "03_CHARACTER/03_WRITERS DIGEST",
-    "03_CHARACTER/03_CHARACTER CORNERSTONES",
-    "03_CHARACTER/03_MCKEE",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C2R.md",
-    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C1E1.md",
-    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C2E3.md",
-    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C2E2.md",
-    "00_TOC/00_ALESSANDRA/00_ALESSANDRA EXERCISE TEMPLATES/C2E1.md"
+    "03_CHARACTER/03_CHARACTER CORNERSTONES"
   ]
 }
