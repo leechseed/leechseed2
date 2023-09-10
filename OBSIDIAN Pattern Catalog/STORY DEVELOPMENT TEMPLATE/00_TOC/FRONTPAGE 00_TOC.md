@@ -1,9 +1,16 @@
 > **00 - TOC** *(Theory of Composition)* -  Introduces a myriad of theories, models, and philosophies surrounding narrative and story. Using these tenets of story, the goal is to distill and craft my own theory of composition.
 
 
+# Theory of Composition - Body of Knowledge
+
+### 00_Dramataica - PHILLIPS, MELANIE ANNE & HUNTLEY, CHRIS 
+Dramatica is a storytelling model that places a strong emphasis on structure, using it as the foundation around which all other narrative elements, ranging from the overarching themes and universe to the character's actions and decisions, are built.
+*Dramatica is a sophisticated and potent storytelling framework known for its capacity to create grand narratives. This model offers both the freedom of spontaneous writing and the security of structured planning. While it has its limitations, relying solely on the Dramatica structure for a story can be a valuable exercise. Ideally, using the theory's methodology to establish intricate nested structures for each story is a more effective approach. In my opinion, Dramatica serves as a fundamental foundation, potentially the starting point for rigorous story development.*
+
+
 00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA
 
-00_Dramataica - PHILLIPS, MELANIE ANNE & HUNTLEY, CHRIS 
+
 
 Story by McKee
 
