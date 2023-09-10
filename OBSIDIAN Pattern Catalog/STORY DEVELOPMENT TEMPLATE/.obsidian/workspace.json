@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a7546f1741b180c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9109fa6f4b63cfed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
