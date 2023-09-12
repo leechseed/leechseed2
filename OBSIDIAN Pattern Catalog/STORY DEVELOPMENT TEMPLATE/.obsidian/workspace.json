@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "680feeaf0f91ddfc",
+        "id": "b49fe52fbf3108d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e8124da9b6c7bf4e",
+            "id": "0891a2d071d35cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a2cd08a49a312d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_TOC/00_MCKEE/00_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT.md",
+                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TOC/00_MCKEE/00_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT.md",
+                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TOC/00_MCKEE/00_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT.md",
+                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TOC/00_MCKEE/00_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT.md"
+                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md"
+              }
+            }
+          },
+          {
+            "id": "3a2d224201fe8fa0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -169,52 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2cd08a49a312d0",
+  "active": "0891a2d071d35cd6",
   "lastOpenFiles": [
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "00_TOC/00_MCKEE/00_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT.md",
+    "00_TOC/00_MCKEE/00_wk_Story - MCKEE, ROBERT.md",
+    "00_TOC/00_MCKEE/00_Story - MCKEE, ROBERT.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
-    "00_TOC/00_MCKEE",
-    "assets/Pasted image 20230910004623.png",
-    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design for Page, Stage, and Screen - MCKEE, ROBERT.md",
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
-    "00_TOC/00_Dramataica/00_REF_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
-    "assets/Pasted image 20230910010045.png",
-    "assets/Pasted image 20230910010011.png",
-    "assets/Pasted image 20230910005521.png",
-    "00_TOC/00_Dramataica/00_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
-    "assets/Pasted image 20230910004905.png",
-    "assets/Pasted image 20230910004828.png",
-    "assets/Pasted image 20230910004815.png",
-    "assets/Pasted image 20230910000155.png",
-    "00_TOC/00_Dramataica/00_wk_Dramataica - Melanie Anne Phillips & Chris Huntley.md",
-    "assets/Pasted image 20230909235157.png",
-    "assets/Pasted image 20230909233550.png",
-    "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
-    "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
-    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB.md",
-    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_The Art of Character - CORBETT, DAVID.md",
-    "00_TOC/00_ALESSANDRA/00_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
-    "00_TAG SHEET.md",
-    "00_TOC/00_Dramataica",
-    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_wk_The Complete Handbook of Novel Writing.md",
+    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_The Complete Handbook of Novel Writing.md",
+    "00_TOC/00_ DRAMATICA/00_wk_Dramataica - Melanie Anne Phillips.md",
+    "00_TOC/00_ DRAMATICA/00_REF_Dramataica - Melanie Anne Phillips.md",
+    "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md",
+    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
     "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
     "03_CHARACTER/03_SMITH D/03_wk_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
     "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
-    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
-    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
-    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
-    "01_THEME/FRONTPAGE 03_THEME.md",
+    "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters - DAVIS, RIB.md",
+    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters - DAVIS, RIB.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_The Art of Character - CORBETT, DAVID.md",
+    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_wk The Art of Character - CORBETT, DAVID.md",
+    "assets/Pasted image 20230910052149.png",
+    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest",
+    "assets/Pasted image 20230912045401.png",
+    "assets/Pasted image 20230912044617.png",
+    "assets/Pasted image 20230912044559.png",
+    "assets/Pasted image 20230912044503.png",
+    "assets/Pasted image 20230912044457.png",
+    "assets/Pasted image 20230912044448.png",
+    "assets/Pasted image 20230912044438.png",
+    "assets/Pasted image 20230912044432.png",
+    "assets/Pasted image 20230912044426.png",
+    "00_TOC/00_MCKEE",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+    "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_TOC/00_ALESSANDRA/00_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_TAG SHEET.md",
+    "00_TOC/00_ DRAMATICA",
     "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID",
     "03_CHARACTER/03_CORBETT/03_The_Art_of_Character",
     "03_CHARACTER/03_DAVIS/03_wk_03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB",
     "assets/Character by Mckee  Robert (z-lib.org).pdf",
     "assets",
     "00_TOC",
-    "03_CHARACTER/03_LAUTHER",
-    "03_CHARACTER/03_WRITERS DIGEST"
+    "03_CHARACTER/03_LAUTHER"
   ]
 }

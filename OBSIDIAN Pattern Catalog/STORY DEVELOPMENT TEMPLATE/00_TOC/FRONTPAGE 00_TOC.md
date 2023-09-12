@@ -8,11 +8,15 @@ Dramatica is a storytelling model that places a strong emphasis on structure, us
 *Dramatica is a sophisticated and potent storytelling framework known for its capacity to create grand narratives. This model offers both the freedom of spontaneous writing and the security of structured planning. While it has its limitations, relying solely on the Dramatica structure for a story can be a valuable exercise. Ideally, using the theory's methodology to establish intricate nested structures for each story is a more effective approach. In my opinion, Dramatica serves as a fundamental foundation, potentially the starting point for rigorous story development.*
 
 
+### 00_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT
+During my late teenage years, I immersed myself in studying McKee's renowned narrative and storytelling techniques. This educational journey emerged as perhaps the most significant influence from any resources found in my 'Theory of Composition Body of Knowledge' (TOCBOK). McKee's teachings, which prominently feature the concept of dualism, profoundly shaped my understanding of the vital role dualism plays in crafting a captivating story.
+*While McKee's brilliance cannot be denied, it is both his strength and weakness. He passionately shares profound insights, albeit in a manner that can sometimes lack a structured and practical approach essential for actual writing. Nevertheless, his brilliant ideas serve as invaluable references, complementing more structured and methodical storytelling theories and frameworks.*
+
+
+The Complete Handbook of Novel Writing by the Editors of Reader's Digest
+
 00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA
 
-
-
-Story by McKee
 
 Writing Fiction by Gotham
 
