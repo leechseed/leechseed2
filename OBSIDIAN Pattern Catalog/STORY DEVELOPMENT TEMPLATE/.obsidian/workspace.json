@@ -8,18 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0891a2d071d35cd6",
+            "id": "7f23e20d31a60156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc780494875a258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_ALIENATION - BLOOM, HOWARD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "595a533cd3e3a332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TABOO - BLOOM, HAROLD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c7d9e302cf1708e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62991a65043b4b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91b44a6578013bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md"
+                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md"
               }
             }
           },
@@ -166,30 +227,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0891a2d071d35cd6",
+  "active": "bb2c0ef29d16cf36",
   "lastOpenFiles": [
-    "00_TOC/00_MCKEE/00_wk_Story - MCKEE, ROBERT.md",
-    "00_TOC/00_MCKEE/00_Story - MCKEE, ROBERT.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_DARK HUMOR - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_CIVIL DISOBEDIENCE - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TRICKSTER - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE TRICKSTER - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE TABOO - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE SUBLIME - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE LABYRINTH - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE HERO'S JOURNEY 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE GROTESQUE 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE AMERICAN DREAM - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_SIN AND REDEMPTION - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_REBIRTH AND RENEWAL - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_HUMAN SEXUALITY - BLOOM, HAROLD 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_DEATH AND DYING 1.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_ALIENATION - BLOOM, HOWARD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TABOO - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_DARK HUMOR - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",
+    "01_THEME/FRONTPAGE 01_THEME.md",
+    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
-    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_wk_The Complete Handbook of Novel Writing.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE SUBLIME - BLOOM, HAROLD.md",
+    "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
     "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_The Complete Handbook of Novel Writing.md",
-    "00_TOC/00_ DRAMATICA/00_wk_Dramataica - Melanie Anne Phillips.md",
-    "00_TOC/00_ DRAMATICA/00_REF_Dramataica - Melanie Anne Phillips.md",
-    "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
-    "03_CHARACTER/03_SMITH D/03_wk_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters - DAVIS, RIB.md",
-    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters - DAVIS, RIB.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_wk_The Compass of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_The Art of Character - CORBETT, DAVID.md",
-    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character/03_wk The Art of Character - CORBETT, DAVID.md",
+    "Untitled.md",
+    "00_TOC/00_DODD",
+    "assets/Pasted image 20230914052600.png",
+    "01_THEME/01_BLOOM, HAROLD",
+    "assets/Pasted image 20230914075003.png",
+    "assets/Pasted image 20230914074955.png",
+    "assets/Pasted image 20230914074947.png",
     "assets/Pasted image 20230910052149.png",
     "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest",
     "assets/Pasted image 20230912045401.png",
@@ -197,22 +270,10 @@
     "assets/Pasted image 20230912044559.png",
     "assets/Pasted image 20230912044503.png",
     "assets/Pasted image 20230912044457.png",
-    "assets/Pasted image 20230912044448.png",
-    "assets/Pasted image 20230912044438.png",
-    "assets/Pasted image 20230912044432.png",
-    "assets/Pasted image 20230912044426.png",
     "00_TOC/00_MCKEE",
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "00_TOC/00_ALESSANDRA/00_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
-    "00_TOC/00_ALESSANDRA/00_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
-    "00_TAG SHEET.md",
     "00_TOC/00_ DRAMATICA",
     "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID",
     "03_CHARACTER/03_CORBETT/03_The_Art_of_Character",
-    "03_CHARACTER/03_DAVIS/03_wk_03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB",
-    "assets/Character by Mckee  Robert (z-lib.org).pdf",
-    "assets",
-    "00_TOC",
-    "03_CHARACTER/03_LAUTHER"
+    "03_CHARACTER/03_DAVIS/03_wk_03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB"
   ]
 }
