@@ -11,8 +11,6 @@
    - **Summary**: This section delineates the concept of 'Powerband', illustrating the fluctuating understanding and perceptions between the self and the world, indicating a continual cycle of fear and misunderstanding. It also portrays the tragic shifts of power dynamics that could occur during alienation, outlining potential conflicts and resolutions between the self's understanding and the world's perceptions, and the resulting tragic conflicts that ensue.
    - **Key Idea**: The power dynamics in alienation reveal a complex interplay between self-perception and the world's understanding, potentially leading to tragic conflicts and shifts in power dynamics.
 
----
-
 
 1. **Alienation in "Bartleby, the Scrivener"**
    - **Summary:** The concept of alienation is discussed in several facets including its lay definition as estrangement, its application in law, its exploration in social psychology regarding a person's withdrawal from society, critical social theory which highlights a worker's disconnection from the products of their labor (referencing Marx), and in literature portraying an individual's psychological isolation from society or community.

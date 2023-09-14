@@ -7,6 +7,25 @@
 
 The Writer's Journey by Vogler
 
+The daemon knows: literary greatness and the American sublime
+
+The Hero With a Thousand Faces
+
+Thinking theme: the heart of the matter
+
+Writing Your Storys Theme The Writers Guide to Plotting Stories That Matter
+
+Genius: a mosaic of one hundred exemplary creative minds
+
+A Desire Called America
+
+Routledge Philosophy Guidebook to Aristotle and the Poetics
+
+The souls of Black folk
+
+Sweet violence: the idea of the tragic
+
+The Norton anthology of theory and criticism
 ### 01_LOGSEQ THEME STUDIES - Cardenas, JAY
 I've compiled a compact set of thematic analyses I previously conducted in Logseq. These excerpts touch on themes found in literature, and I'm currently expanding on them as part of my ongoing project in Obsidian.
 [01_LOGSEQ THEME STUDIES](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_LOGSEQ%20THEME%20STUDIES%20-%20Cardenas%2C%20Jay)
@@ -63,3 +82,6 @@ Bloom interprets alienation in the works of Hamlet and Kafka as a deep internal 
 
 ### 01_THE TRICKSTER - BLOOM, HAROLD
 [01_THE TRICKSTER](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20TRICKSTER%20-%20BLOOM%2C%20HAROLD)
+
+
+

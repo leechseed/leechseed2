@@ -56,3 +56,7 @@ A compilation of insights from fiction authors on character development. This is
 5 [03_The Psychology Workbook for Writers - SMITH, DARIAN](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_SMITH%20D%2F03_The%20Psychology%20Workbook%20for%20Writers%20-%20SMITH%2C%20DARIAN)
 6 [03_Creating Characters - WRITER'S DIGEST](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_WRITERS%20DIGEST%2F03_Creating%20Characters%20-%20WRITER'S%20DIGEST)
 7 [03_Creating Characters - LAUTHER, HOWARD](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=03_CHARACTER%2F03_LAUTHER%2F03_Creating%20Characters%20-%20LAUTHER%2C%20HOWARD)
+
+
+
+Fiction is Folks (Robert Newton Peck)— (Z-Library).pdf

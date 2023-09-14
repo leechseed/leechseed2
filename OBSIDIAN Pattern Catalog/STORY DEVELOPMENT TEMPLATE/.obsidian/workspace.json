@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f23e20d31a60156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc780494875a258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_ALIENATION - BLOOM, HOWARD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "595a533cd3e3a332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TABOO - BLOOM, HAROLD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c7d9e302cf1708e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62991a65043b4b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91b44a6578013bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
+                "file": "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
+                "file": "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
+                "file": "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md"
+                "file": "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md"
               }
             }
           },
@@ -227,36 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "2c7d9e302cf1708e",
   "lastOpenFiles": [
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_DARK HUMOR - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_CIVIL DISOBEDIENCE - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TRICKSTER - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE TRICKSTER - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE TABOO - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE SUBLIME - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE LABYRINTH - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE HERO'S JOURNEY 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE GROTESQUE 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_THE AMERICAN DREAM - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_SIN AND REDEMPTION - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_REBIRTH AND RENEWAL - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_HUMAN SEXUALITY - BLOOM, HAROLD 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ENSLAVEMENT AND EMANCIPATION 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_DEATH AND DYING 1.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_ALIENATION - BLOOM, HOWARD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TABOO - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_DARK HUMOR - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
-    "00_TOC/FRONTPAGE 00_TOC.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE SUBLIME - BLOOM, HAROLD.md",
-    "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
-    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_The Complete Handbook of Novel Writing.md",
+    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
+    "MYTH STUDY.md",
     "Untitled.md",
+    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
+    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
+    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "00_TOC/FRONTPAGE 00_TOC.md",
+    "01_THEME/FRONTPAGE 01_THEME.md",
+    "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_DARK HUMOR - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_DARK HUMOR - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_CIVIL DISOBEDIENCE - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_CIVIL DISOBEDIENCE - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_ALIENATION - BLOOM, HOWARD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD.md",
+    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_wk_The Complete Handbook of Novel Writing.md",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TRICKSTER - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE TRICKSTER - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE TABOO - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE SUBLIME - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE LABYRINTH - BLOOM, HAROLD.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE HERO'S JOURNEY.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE GROTESQUE.md",
+    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
+    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",
     "00_TOC/00_DODD",
     "assets/Pasted image 20230914052600.png",
     "01_THEME/01_BLOOM, HAROLD",
