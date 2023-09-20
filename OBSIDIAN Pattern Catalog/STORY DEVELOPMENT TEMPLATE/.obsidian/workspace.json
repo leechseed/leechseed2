@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b49fe52fbf3108d8",
+        "id": "62b996d94b1ba844",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7d9e302cf1708e",
+            "id": "ca13713bee9ff0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md",
+                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3f011408ea43067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_TOC/004_DUNNE/004_The Architecture of Story by DUNNE, WILL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md",
+                "file": "00_TOC/004_DUNNE/004_The Architecture of Story by DUNNE, WILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md",
+                "file": "00_TOC/004_DUNNE/004_The Architecture of Story by DUNNE, WILL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md"
+                "file": "00_TOC/004_DUNNE/004_The Architecture of Story by DUNNE, WILL.md"
               }
             }
           },
@@ -166,52 +179,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7d9e302cf1708e",
+  "active": "c3f011408ea43067",
   "lastOpenFiles": [
-    "00_TOC/00_MCKEE/00_Story - MCKEE, ROBERT.md",
+    "00_TOC/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
+    "00_TOC/003_ DRAMATICA/003_Dramataica - Melanie Anne Phillips.md",
+    "00_TOC/003_ALESSANDRA/003_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
+    "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "00_TOC/004_DUNNE/004_The Architecture of Story by DUNNE, WILL.md",
+    "00_TOC/004_DUNNE",
     "00_TOC/FRONTPAGE 00_TOC.md",
-    "00_TOC/00_DODD/00_The Writer's Compass - Dodd, Nancy Ellen.md",
-    "Pasted image 20230915063945.png",
-    "Pasted image 20230915063925.png",
-    "Pasted image 20230915063922.png",
-    "Untitled.md",
-    "Pasted image 20230915062832.png",
-    "Pasted image 20230915062719.png",
-    "Pasted image 20230915062324.png",
-    "Pasted image 20230915062322.png",
-    "Pasted image 20230915062208.png",
-    "Pasted image 20230915062142.png",
-    "Pasted image 20230915061915.png",
-    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_The Complete Handbook of Novel Writing.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_ALIENATION - BLOOM, HOWARD.md",
-    "00_TOC/00_ DRAMATICA/00_Dramataica - Melanie Anne Phillips.md",
-    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
-    "MYTH STUDY.md",
-    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
-    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
-    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_DARK HUMOR - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_DARK HUMOR - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_CIVIL DISOBEDIENCE - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_CIVIL DISOBEDIENCE - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_ALIENATION - BLOOM, HOWARD.md",
-    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest/00_wk_The Complete Handbook of Novel Writing.md",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM/01_THE TRICKSTER - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE TRICKSTER - BLOOM, HAROLD.md",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_THE TABOO - BLOOM, HAROLD.md",
+    "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
+    "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
+    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_SMITH D/03_wk_The Psychology Workbook for Writers - SMITH, DARIAN.md",
+    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
+    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
+    "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
+    "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters - DAVIS, RIB.md",
+    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters - DAVIS, RIB.md",
+    "00_TOC/003_ALESSANDRA/003_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_TOC/003_MCKEE/003_wk_Story - MCKEE, ROBERT.md",
+    "00_TOC/002_DODD/002_wk_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "00_TOC/002_READER'S DIGEST/002_wk_The Complete Handbook of Novel Writing.md",
+    "00_TOC/007_LEIGH",
+    "assets/Pasted image 20230918083240.png",
+    "assets/Pasted image 20230920082003.png",
+    "assets/Pasted image 20230918185628.png",
+    "assets/Pasted image 20230918090316.png",
+    "assets/Pasted image 20230918090253.png",
+    "assets/Pasted image 20230918083500.png",
+    "assets/Pasted image 20230918083455.png",
+    "00_TOC/005_BERGER",
+    "assets/Pasted image 20230915053757.png",
+    "assets/Pasted image 20230917230544.png",
+    "assets/Pasted image 20230915203222.png",
     "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
     "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",
-    "00_TOC/00_DODD",
+    "00_TOC/002_DODD",
     "01_THEME/01_BLOOM, HAROLD",
-    "00_TOC/00_The Complete Handbook of Novel Writing - the Editors of Reader's Digest",
-    "00_TOC/00_MCKEE",
-    "00_TOC/00_ DRAMATICA",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID",
-    "03_CHARACTER/03_CORBETT/03_The_Art_of_Character",
-    "03_CHARACTER/03_DAVIS/03_wk_03_Creating Compelling Characters for Film, TV, Theatre and Radio - DAVIS, RIB"
+    "00_TOC/002_READER'S DIGEST",
+    "00_TOC/003_MCKEE",
+    "00_TOC/003_ DRAMATICA"
   ]
 }

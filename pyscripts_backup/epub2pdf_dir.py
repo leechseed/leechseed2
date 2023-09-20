@@ -17,5 +17,5 @@ def convert_epubs_to_pdfs(directory):
                 print(f"Conversion of {epub_path} failed with error:\n{e}")
 
 # example usage:
-directory = r"C:\Users\U01_LEECHSEED\Desktop\BOOKS\0.Unprocessed\0.EPUBS"
+directory = r"C:\Users\U01_LEECHSEED\Desktop\BOOKS\0.Unprocessed"
 convert_epubs_to_pdfs(directory)

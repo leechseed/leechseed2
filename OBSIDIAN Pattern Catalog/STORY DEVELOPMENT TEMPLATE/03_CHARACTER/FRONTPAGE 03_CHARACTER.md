@@ -4,6 +4,17 @@
 
 **Character is not created in isolation or repose; it’s forged through *interaction with others and the world.*** - STENDHAL
 
+
+| Author's Last Name  | Book Title                                                          |
+|---------------------|---------------------------------------------------------------------|
+| CORBETT, DAVID      | The Art of Character                                                |
+| CORBETT, DAVID      | The Compass of Character                                            |
+| DAVIS, RIB          | Creating Compelling Characters for Film, TV, Theatre, and Radio      |
+| LAUTHER, HOWARD     | Creating Characters                                                 |
+| MCKEE, ROBERT       | Character The Art of Role and Cast Design for Page, Stage, and Screen|
+| SMITH, DARIAN       | The Psychology Workbook for Writers                                 |
+| WRITER'S DIGEST     | Creating Characters                                                  |
+
 # Character - Body of Knowledge
 
 ## Character Cornerstones
