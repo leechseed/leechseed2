@@ -25,7 +25,7 @@
 ```
 
 
-
+Guidebook to Aristotle by ROUTLEDGE
 
 
 
@@ -65,6 +65,9 @@
 | DODD, NANCY ELLEN     | The Writer's Compass                            |
 | READER'S DIGEST       | The Complete Handbook of Novel Writing          |
 
+The Longman Writer by NADELL, JUDITH 
+Strategic Series Author by HUNT, CRYSTAL
+Writing Sci-Fi, Fantasy & Horror for Dummies by DAKAN, RICK 
 ### 002_The Writer's Compass - DODD, NANCY ELLEN
 Dodd's book primarily delves into the less-explored aspects of mainstream narrative components that authors frequently overlook. Her meticulous attention to detail and clear writing style make it easier for readers to grasp her insights and incorporate them into a broader writing framework.
 *My main glean from Dodd is her delve into the process of writing for the writer themselves. If I have trouble in the meta, I should turn to her first.*
@@ -109,6 +112,9 @@ In my opinion, this kind of approach from authors, who seem more focused on prom
 | MCKEE, ROBERT                       | Story Substance, Structure, Style, and the Principles of Screenwriting   |
 | PHILLIPS, MELANIE ANNE & HUNTLEY, CHRIS | Dramatica                                                                |
 
+Storytelling for Film and Television by DANCYGER, KEN
+LOST by AABRAMS, J.J.
+Stranger Things Bible by DUFFER, MATT
 ### 003_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT
 During my late teenage years, I immersed myself in studying McKee's renowned narrative and storytelling techniques. This educational journey emerged as perhaps the most significant influence from any resources found in my 'Theory of Composition Body of Knowledge' (TOCBOK). McKee's teachings, which prominently feature the concept of dualism, profoundly shaped my understanding of the vital role dualism plays in crafting a captivating story.
 *While McKee's brilliance cannot be denied, it is both his strength and weakness. He passionately shares profound insights, albeit in a manner that can sometimes lack a structured and practical approach essential for actual writing. Nevertheless, his brilliant ideas serve as invaluable references, complementing more structured and methodical storytelling theories and frameworks.*
@@ -145,8 +151,8 @@ Dramatica is a storytelling model that places a strong emphasis on structure, us
 
 
 
-
-
+Drama System OGL by Laws, Robin D.
+Musical Theatre for Dummies by RUDETSKY, SETH
 
 
 ## 005_Video Game & Transmedia
@@ -164,6 +170,37 @@ Dramatica is a storytelling model that places a strong emphasis on structure, us
 |--------------------|--------------------------------------------|
 | BERGER, ROSS       | Dramatic Storytelling & Narrative Design   |
 
+Dirty Bomb GDD by EXODORE
+
+Digital Storytelling by LAMBERT, JOE
+
+Game Development 2042 by FIELDS, TIM
+
+Integrated Storytelling by Design by PAULSEN, KLAUS SOMMER
+
+Introduction to Game Systems Design by GAZAWAY, DAX
+
+Pattern Language for Game Design by BARNEY, CHRISTOPHER 
+
+Cyberpunk 2077 by PRIMA GUIDE
+
+Grand Theft Auto V by PRIMA GUIDE
+
+Mass Effect 2 by PRIMA GUIDE
+ 
+Mass Effect 3 by PRIMA GUIDE
+
+Red Dead Redemption 2 by PRIMA GUIDE
+
+Quests by HOWARD, JEFF
+
+The Advanced Game Narrative by HEUSSNER, TOBIAS
+
+The Art and Craft of Narrative Design by BREAULT, MIKE
+
+The Game Narrative Toolbox by HEUSSNER, TOBIAS
+
+Writing for Games by NICKLIN, HANNAH 
 ### 005_Dramatic Storytelling & Narrative Design - BERGER, ROSS
 An interesting introduction to Transmedia in the realm of Video Games. What I Wanted to glean from this book is how transmedia can be applied to literature. The most important takes from this book are the broadest of strokes. 
 *I believe the best lessons I learned from this is to prepare for growth by having good documentation. Good documentation IE: an Obsidian notebook with the development notes available to those in different industries. This will empower those in other industries to understand the meat under the bikini so to speak.* 
@@ -181,14 +218,85 @@ An interesting introduction to Transmedia in the realm of Video Games. What I Wa
 ```
 
 
+Complete Kobold Guide by BOUR, WOLFGANG
 
+Basic Fantasy Role-Playing Game 4th Edition by GONNERMAN, CHRIS
 
+Pathfinder RPG 2nd Edition by BULMAN, JASON
 
+Pathfinder Strategy Guide by BULMAN, JASON
 
+Pathfinder Advanced Class Guide by BULMAN, JASON 
 
+Pathfinder Advanced Race Guide by BULMAN, JASON
 
+Pathfinder GameMastery Guide by BULMAN, JASON
 
+Building Blocks of Tabletop by ENGEELSTEIN, GEOFFREY
 
+Battletech Primer by WEISMAN, JORDAN K.
+
+Battletech How The Core Rulebooks Work by WEISMAN, JORDAN K.
+
+Battletech Introductory Rulebook by WEISMAN, JORDAN K.
+
+Battletech Total Warfare by WEISMAN, JORDAN K.
+
+Battletech Tactical Operations by WEISMAN, JORDAN K.
+
+Battletech Strategic Operations by WEISMAN, JORDAN K.
+
+Battletech Interstellar Operations by WEISMAN, JORDAN K.
+
+Battletech Campaign Operations by WEISMAN, JORDAN K.
+
+Battletech A Time of War by WEISMAN, JORDAN K.
+
+Carbon 2185 by MARRINER-DODDS, ROBERT
+
+Cepheus Engine SRD by Kemp, Jason 'Flynn'
+
+D&D SRD by WIZARDS
+
+D6 Adventure by Virtis, Nikola 
+
+D20 Modern SRD by Lunar Eclipse Games
+
+Dungeon Master's Guide by MEARLS, MIKE
+
+FATE Core System by BALSERA, LEONARD
+
+FATE System Toolkit by DONOGHUE, ROBERT
+
+FENG SHUI 2 by LAWS, ROBIN D.
+
+GURPS for Dummies by GRIFFITH, ADAM
+
+Ironsword SRD by Baker, Vincent D. 
+
+Kids on Bikes by GILMOUR, JON
+
+2D20 System SRD by DOWDELL, N 
+
+Shadowrun 5E by HARDY, JASON M. 
+
+Shadowrun Sixth World 5E, by HARDY, JASON M. 
+
+Shadowrun Data Trails 5E by ANDREW, JASON 
+
+Shadowrun Run & Gun 5E by CROTEAU, RAYMOND
+
+Shadowrun Forbidden Arcana 5E by HARDY, JASON M. 
+
+Shadowrun Rigger 5E by DYNNA, MARK 
+
+Shadowrun Street Grimoire 5E by HARDY, JASON M. 
+
+The Creation of Narrative in TTRPG by Cover, Jennifer Grouling
+
+Things From the Flood by STALENHAG, SIMON 
+
+Vampire the Masquerade 5E by HITE, KENNETH 
 ## 007_Artificial Intelligence
 
 ```
@@ -214,8 +322,9 @@ A comprehensive introduction to ChatGPT, providing valuable insights into its us
 
 
 
+## 008_Composition REFERENCE 
 
-
+A dictionary of literary terms and literary theory by CUDDON, J.A.
 
 
 
