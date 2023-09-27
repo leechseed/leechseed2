@@ -5,12 +5,13 @@
 
 ## 001_The Theory of Literature 
 
+*Literature forms the core foundation of my composition theory. From a post-modern viewpoint, all forms of art are seen as derivatives of language, a concept that stems from literary criticism. Therefore, whenever my composition theory encounters a challenge or issue, it should first seek answers within literature before exploring other mediums incorporated within the theory of composition.*
+
 ```
 | Author's Last Name    | Book Title                                                         |
 |-----------------------|--------------------------------------------------------------------|
 | ALBER, JAN            | Unnatural narratology                                              |
 | ALISON, JANE          | Meander, Spiral, Explode                                            |
-| BAL, MIEKE            | Narratology: Introduction to the Theory of Narrative               |
 | BORK, ERIK            | The Idea                                                           |
 | BROOKS, LARRY         | Story Engineering                                                  |
 | CHATMAN, SEYMOUR BENJAMIN | Story and Discourse                                           |
@@ -21,17 +22,31 @@
 | HILLSDALE, NJ         | Deixis in narrative                                                |
 | MARKS, DARA           | Inside Story The Power of the Transformational Arc                 |
 | O'GORMAN, DANIEL      | The Routledge Companion to Twenty-First Century Literary Fiction  |
+| ROUTLEDGE             | Guidebook to Aristotle                                             |
 | STORR, WILL           | The Science of Storytelling                                        |
+
 ```
 
+| Author's Last Name    | Book Title                                      |
+|-----------------------|-------------------------------------------------|
+| BAL, MIEKE      | Narratology: Introduction to the Theory of Narrative                            |
 
-Guidebook to Aristotle by ROUTLEDGE
+### 001_Narratology - BAL, MIEKE
+
+
+
 
 
 
 
 
 ## 002_The Craft of Writing Literature
+
+*My composition theory seeks to address the methods of composition, an area often overlooked by narrative theory and literary studies. The aura of mystique surrounding literary writing often stems from authors who base their success on the quantity of their works, rather than the depth of their insights. This sentiment echoes the ideas of Harold Bloom's School of Resentment, summarized as "authors are published because they've been published." *
+
+*Regrettably, writers developing their unique writing systems must discern truths that often originate from compromised sources. The skill and principles that govern "high art," especially in literature, involves concealing these truths and placing power in resentment rather than mastery. This has led to an elitist academic environment that determines and disseminates what is deemed "literature."*
+
+*Through an extensive review of existing literature on the art of writing, my goal is to unravel and shed light on the obscured art of storytelling. This is an effort to challenge the barriers established by opportunistic writers who hide behind exclusivity, be it through financial gatekeeping or the façade of advanced academia.*
 
 ```
 | Author's Last Name   | Book Title                                                            |
@@ -42,21 +57,25 @@ Guidebook to Aristotle by ROUTLEDGE
 | CLARK, ROY PETER     | Writing Tools                                                         |
 | CLARK, ROY PETER     | 50 Essential Strategies for Every Writer                              |
 | DAKAN, RICK          | Writing sci-fi, fantasy, & horror for dummies                         |
+| DAKAN, RICK          | Writing Sci-Fi, Fantasy & Horror for Dummies                          |
 | DEARDRON, AMY        | The Story Template                                                    |
 | FREY, JAMES N.       | How to write a damn good novel                                        |
 | FREY, JAMES N.       | How to write a damn good novel II                                     |
 | GOTHAM               | Writing Fiction                                                       |
 | HARDY, JANICE        | Planning your novel: ideas and structure                              |
+| HUNT, CRYSTAL        | Strategic Series Author                                               |
 | INGERMANSON, RANDY   | Writing Fiction For Dummies                                           |
 | INGERMANSON, RANDY   | How to Write a Novel Using the Snowflake Method                       |
 | JANZER, ANNE H.      | The Writer's Process                                                  |
 | LYONS, JEFF          | Rapid Story Development                                               |
+| NADELL, JUDITH       | The Longman Writer                                                    |
 | ROSETT, SARA         | How to Write a Series                                                 |
 | THORN, J             | Three Story Method                                                    |
 | WEILAND, K.M.        | Structuring Your Novel Workbook                                       |
 | WEILAND, K.M.        | Structuring Your Novel Essential Keys                                 |
 | WEILAND, K.M.        | Outlining Your Novel                                                  |
 | WEILAND, K.M.        | Outlining Your Novel Workbook                                         |
+
 ```
 
 
@@ -65,9 +84,6 @@ Guidebook to Aristotle by ROUTLEDGE
 | DODD, NANCY ELLEN     | The Writer's Compass                            |
 | READER'S DIGEST       | The Complete Handbook of Novel Writing          |
 
-The Longman Writer by NADELL, JUDITH 
-Strategic Series Author by HUNT, CRYSTAL
-Writing Sci-Fi, Fantasy & Horror for Dummies by DAKAN, RICK 
 ### 002_The Writer's Compass - DODD, NANCY ELLEN
 Dodd's book primarily delves into the less-explored aspects of mainstream narrative components that authors frequently overlook. Her meticulous attention to detail and clear writing style make it easier for readers to grasp her insights and incorporate them into a broader writing framework.
 *My main glean from Dodd is her delve into the process of writing for the writer themselves. If I have trouble in the meta, I should turn to her first.*
@@ -89,15 +105,20 @@ In my opinion, this kind of approach from authors, who seem more focused on prom
 
 ## 003_Film & Television 
 
+*Over the past century, film and television have become the predominant mediums for storytelling. As a result, the storytelling principles, genres, and conventions presented through these mediums have deeply embedded themselves in both audiences and writers. My personal influences as a writer come significantly from the exposure I had to film and television, both during my childhood and in my professional journey. Thus, incorporating literature that delves into the theory and craft of screenwriting is crucial for formulating a comprehensive theory of composition.*
+
 ```
 | Author's Last Name         | Book Title                                          |
 |----------------------------|-----------------------------------------------------|
+| AABRAMS, J.J.              | LOST                                                |
 | AARONSON, LINDA            | The 21st Century Screenplay                         |
 | ALESSANDRA, PILAR          | The Coffee Break Screenwriter                       |
 | BLOCK, LAWRENCE            | Spider, spin me a web: a handbook for fiction writers|
 | BRINE, KELLY GORDON        | The Art of Cinematic Storytelling                    |
 | CHATMAN, SEYMOUR BENJAMIN  | Story and Discourse                                  |
 | CLARK, ROY PETER           | Writing Tools                                       |
+| DANCYGER, KEN              | Storytelling for Film and Television                |
+| DUFFER, MATT               | Stranger Things Bible                               |
 | FINK, EDWARD J.            | Dramatic Story Structure                            |
 | FRAYNE, CLIVE              | The Process of Screenwriting                        |
 | GULINO, PAUL               | Screenwriting The Sequence Approach Continuum       |
@@ -112,9 +133,7 @@ In my opinion, this kind of approach from authors, who seem more focused on prom
 | MCKEE, ROBERT                       | Story Substance, Structure, Style, and the Principles of Screenwriting   |
 | PHILLIPS, MELANIE ANNE & HUNTLEY, CHRIS | Dramatica                                                                |
 
-Storytelling for Film and Television by DANCYGER, KEN
-LOST by AABRAMS, J.J.
-Stranger Things Bible by DUFFER, MATT
+
 ### 003_Story Substance, Structure, Style, and the Principles of Screenwriting - MCKEE, ROBERT
 During my late teenage years, I immersed myself in studying McKee's renowned narrative and storytelling techniques. This educational journey emerged as perhaps the most significant influence from any resources found in my 'Theory of Composition Body of Knowledge' (TOCBOK). McKee's teachings, which prominently feature the concept of dualism, profoundly shaped my understanding of the vital role dualism plays in crafting a captivating story.
 *While McKee's brilliance cannot be denied, it is both his strength and weakness. He passionately shares profound insights, albeit in a manner that can sometimes lack a structured and practical approach essential for actual writing. Nevertheless, his brilliant ideas serve as invaluable references, complementing more structured and methodical storytelling theories and frameworks.*
@@ -135,34 +154,62 @@ Dramatica is a storytelling model that places a strong emphasis on structure, us
 
 ## 004_Theatre 
 
+*During my teenage years, theatre was a significant aspect of my life; I worked as a lighting designer and stagehand. Later, my friend Colin pursued dramaturgy and consistently shared insights with me about the nuances of stage storytelling. Distinct from literature and, to some degree, film, theatre often presents a more established set of storytelling principles. These principles often transcend the realm of theatre. Theatre has broadened my perspective on composition, introducing me to concepts like intertextuality and hypermediation. These ideas, moving from theoretical to practical application, provide a robust foundation for a comprehensive theory of storytelling.*
+
 ```
 | Author's Last Name | Book Title                                                  |
 |--------------------|-------------------------------------------------------------|
 | BOWELS, MEG        | How to Tell a Story (like the Moth)                         |
-| DONOVAN, RYAN      | The Routledge Companion to Musical Theatre                  |
-| DUNNE, WILL        | The Architecture of Story                                   |
+| DONOVAN, RYAN      | The Routledge Companion to Musical Theatre                   |
 | DUNNE, WILL        | Character, Scene, and Story                                 |
 | FRANCESCHINA, JOHN | Music Theory Through Musical Theatre                        |
 | LETWIN, DAVID      | The Architecture of Drama: plot, character, theme, genre, and style |
+| LAWS, ROBIN D.     | Drama System OGL                                           |
+| RUDETSKY, SETH     | Musical Theatre for Dummies                                |
+
 
 ```
 
+| Author's Last Name | Book Title                                 |
+|--------------------|--------------------------------------------|
+| DUNNE, WILL      | The Architecture of Story   |
 ### 004_The Architecture of Story by DUNNE, WILL
+A uniquely theatre based structure of story. There are many similarities that are intertextualized between mediums and concepts that are uniquely rooted within theatre itself.  Style and Dramatic Focus are two forms of story that are approached differently and could prove useful in forming a transmedia form of storytelling. 
+*The most interesting concept that Dunne delves into concern the topic of Magical Realism. I know that I've had issues regarding flexible chronologies, timelines, and shared imaginations, and Dunne seems to provide a decent introduction to such things*
+[The Architecture of Story](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=00_TOC%2F004_DUNNE%2F004_The%20Architecture%20of%20Story%20by%20DUNNE%2C%20WILL)
 
 
 
-Drama System OGL by Laws, Robin D.
-Musical Theatre for Dummies by RUDETSKY, SETH
+
+
 
 
 ## 005_Video Game & Transmedia
 
+*Film and television were the predominant entertainment mediums of the past century. However, in recent times, video games, short-form content, and transmedia narratives have emerged as the leading and most lucrative storytelling platforms. It's crucial to develop a theory that not only integrates these contemporary trends but also possesses a flexible structure, accommodating the introduction and phasing out of various storytelling mediums within the composition framework.*
+
 ```
-| Author's Last Name | Book Title                                           |
-|--------------------|------------------------------------------------------|
-| HOWARD            | You're Gonna Need a Bigger Story                     |
-| MCERLEAN, KELLY    | Interactive Narratives and Transmedia Storytelling   |
-| ZEGAL, JOSE PABLO  | Role-playing game studies: transmedia foundations    |
+| Author's Last Name  | Book Title                                           |
+|---------------------|------------------------------------------------------|
+| BARNEY, CHRISTOPHER | Pattern Language for Game Design                     |
+| BREAULT, MIKE       | The Art and Craft of Narrative Design                |
+| EXODORE             | Dirty Bomb GDD                                        |
+| FIELDS, TIM         | Game Development 2042                                |
+| GAZAWAY, DAX        | Introduction to Game Systems Design                  |
+| HEUSSNER, TOBIAS    | The Advanced Game Narrative                          |
+| HEUSSNER, TOBIAS    | The Game Narrative Toolbox                           |
+| HOWARD              | You're Gonna Need a Bigger Story                     |
+| HOWARD, JEFF        | Quests                                               |
+| LAMBERT, JOE        | Digital Storytelling                                 |
+| MCERLEAN, KELLY     | Interactive Narratives and Transmedia Storytelling   |
+| NICKLIN, HANNAH     | Writing for Games                                    |
+| PAULSEN, KLAUS SOMMER | Integrated Storytelling by Design                  |
+| PRIMA GUIDE         | Cyberpunk 2077                                       |
+| PRIMA GUIDE         | Grand Theft Auto V                                   |
+| PRIMA GUIDE         | Mass Effect 2                                        |
+| PRIMA GUIDE         | Mass Effect 3                                        |
+| PRIMA GUIDE         | Red Dead Redemption 2                                |
+| ZEGAL, JOSE PABLO   | Role-playing game studies: transmedia foundations    |
 
 ```
 
@@ -170,37 +217,6 @@ Musical Theatre for Dummies by RUDETSKY, SETH
 |--------------------|--------------------------------------------|
 | BERGER, ROSS       | Dramatic Storytelling & Narrative Design   |
 
-Dirty Bomb GDD by EXODORE
-
-Digital Storytelling by LAMBERT, JOE
-
-Game Development 2042 by FIELDS, TIM
-
-Integrated Storytelling by Design by PAULSEN, KLAUS SOMMER
-
-Introduction to Game Systems Design by GAZAWAY, DAX
-
-Pattern Language for Game Design by BARNEY, CHRISTOPHER 
-
-Cyberpunk 2077 by PRIMA GUIDE
-
-Grand Theft Auto V by PRIMA GUIDE
-
-Mass Effect 2 by PRIMA GUIDE
- 
-Mass Effect 3 by PRIMA GUIDE
-
-Red Dead Redemption 2 by PRIMA GUIDE
-
-Quests by HOWARD, JEFF
-
-The Advanced Game Narrative by HEUSSNER, TOBIAS
-
-The Art and Craft of Narrative Design by BREAULT, MIKE
-
-The Game Narrative Toolbox by HEUSSNER, TOBIAS
-
-Writing for Games by NICKLIN, HANNAH 
 ### 005_Dramatic Storytelling & Narrative Design - BERGER, ROSS
 An interesting introduction to Transmedia in the realm of Video Games. What I Wanted to glean from this book is how transmedia can be applied to literature. The most important takes from this book are the broadest of strokes. 
 *I believe the best lessons I learned from this is to prepare for growth by having good documentation. Good documentation IE: an Obsidian notebook with the development notes available to those in different industries. This will empower those in other industries to understand the meat under the bikini so to speak.* 
@@ -212,92 +228,80 @@ An interesting introduction to Transmedia in the realm of Video Games. What I Wa
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## 006_Tabletop Roleplaying Games 
 
+*Tabletop roleplaying games laid the foundation for video games. Setting aside the technological facets of video games, many of their design principles stem from tabletop roleplaying traditions. Unlike video games, tabletop games promote a collaborative storytelling approach among participants, as opposed to the conventional artist-viewer dynamic. My goal is to distill the intricacies of rule designs from tabletop roleplaying games—rules that are intricate yet clear enough for a group to grasp and co-create a shared narrative.*
+
 ```
+| Title                                              | Author                     |
+|----------------------------------------------------|----------------------------|
+| FATE Core System                                   | BALSERA, LEONARD           |
+| Pathfinder RPG 2nd Edition                         | BULMAN, JASON              |
+| Pathfinder Strategy Guide                          | BULMAN, JASON              |
+| Pathfinder Advanced Class Guide                    | BULMAN, JASON              |
+| Pathfinder Advanced Race Guide                     | BULMAN, JASON              |
+| Pathfinder GameMastery Guide                       | BULMAN, JASON              |
+| The Creation of Narrative in TTRPG                 | Cover, Jennifer Grouling   |
+| Shadowrun Run & Gun 5E                             | CROTEAU, RAYMOND           |
+| 2D20 System SRD                                    | DOWDELL, N                 |
+| FATE System Toolkit                                | DONOGHUE, ROBERT           |
+| Building Blocks of Tabletop                        | ENGEELSTEIN, GEOFFREY      |
+| Shadowrun Forbidden Arcana 5E                      | HARDY, JASON M.            |
+| Shadowrun 5E                                       | HARDY, JASON M.            |
+| Shadowrun Sixth World 5E                           | HARDY, JASON M.            |
+| Shadowrun Street Grimoire 5E                       | HARDY, JASON M.            |
+| Vampire the Masquerade 5E                          | HITE, KENNETH              |
+| Ironsword SRD                                      | Baker, Vincent D.          |
+| GURPS for Dummies                                  | GRIFFITH, ADAM             |
+| Basic Fantasy Role-Playing Game 4th Edition        | GONNERMAN, CHRIS           |
+| Kids on Bikes                                      | GILMOUR, JON               |
+| FENG SHUI 2                                        | LAWS, ROBIN D.             |
+| D20 Modern SRD                                     | Lunar Eclipse Games        |
+| Carbon 2185                                        | MARRINER-DODDS, ROBERT     |
+| Dungeon Master's Guide                             | MEARLS, MIKE               |
+| D6 Adventure                                       | Virtis, Nikola             |
+| Shadowrun Data Trails 5E                           | ANDREW, JASON              |
+| Shadowrun Rigger 5E                                | DYNNA, MARK                |
+| Cepheus Engine SRD                                 | Kemp, Jason 'Flynn'        |
+| Things From the Flood                              | STALENHAG, SIMON           |
+| D&D SRD                                            | WIZARDS                    |
+| Battletech Primer                                  | WEISMAN, JORDAN K.         |
+| Battletech How The Core Rulebooks Work             | WEISMAN, JORDAN K.         |
+| Battletech Introductory Rulebook                   | WEISMAN, JORDAN K.         |
+| Battletech Total Warfare                           | WEISMAN, JORDAN K.         |
+| Battletech Tactical Operations                     | WEISMAN, JORDAN K.         |
+| Battletech Strategic Operations                    | WEISMAN, JORDAN K.         |
+| Battletech Interstellar Operations                 | WEISMAN, JORDAN K.         |
+| Battletech Campaign Operations                     | WEISMAN, JORDAN K.         |
+| Battletech A Time of War                           | WEISMAN, JORDAN K.         |
+
 ```
 
 
-Complete Kobold Guide by BOUR, WOLFGANG
+| Author's Last Name | Book Title                                 |
+|--------------------|--------------------------------------------|
+| BOUR, WOLFGANG       | Complete Kobold Guide   |
 
-Basic Fantasy Role-Playing Game 4th Edition by GONNERMAN, CHRIS
+### 006_Complete Kobold Guide - BOUR, WOLFGANG
+Bour's writings offer a comprehensive insight into the intricacies of creating a tabletop role-playing game, encompassing the procedures, interactions, and challenges involved. What particularly intrigues me about this book is its focus on narrative design—specifically, the systematic approach to worldbuilding and the tenets of collaborative storytelling in tabletop role-playing game sessions.
+*The book primarily delves into the design of tabletop games, making it a dense read. Yet, the unique insights on organizational strategies, the integration of dice rolling and unpredictability, and the detailed design principles stand out as invaluable information, unmatched in any other storytelling medium.*
 
-Pathfinder RPG 2nd Edition by BULMAN, JASON
 
-Pathfinder Strategy Guide by BULMAN, JASON
 
-Pathfinder Advanced Class Guide by BULMAN, JASON 
 
-Pathfinder Advanced Race Guide by BULMAN, JASON
-
-Pathfinder GameMastery Guide by BULMAN, JASON
-
-Building Blocks of Tabletop by ENGEELSTEIN, GEOFFREY
-
-Battletech Primer by WEISMAN, JORDAN K.
-
-Battletech How The Core Rulebooks Work by WEISMAN, JORDAN K.
-
-Battletech Introductory Rulebook by WEISMAN, JORDAN K.
-
-Battletech Total Warfare by WEISMAN, JORDAN K.
-
-Battletech Tactical Operations by WEISMAN, JORDAN K.
-
-Battletech Strategic Operations by WEISMAN, JORDAN K.
-
-Battletech Interstellar Operations by WEISMAN, JORDAN K.
-
-Battletech Campaign Operations by WEISMAN, JORDAN K.
-
-Battletech A Time of War by WEISMAN, JORDAN K.
-
-Carbon 2185 by MARRINER-DODDS, ROBERT
-
-Cepheus Engine SRD by Kemp, Jason 'Flynn'
-
-D&D SRD by WIZARDS
-
-D6 Adventure by Virtis, Nikola 
-
-D20 Modern SRD by Lunar Eclipse Games
-
-Dungeon Master's Guide by MEARLS, MIKE
-
-FATE Core System by BALSERA, LEONARD
-
-FATE System Toolkit by DONOGHUE, ROBERT
-
-FENG SHUI 2 by LAWS, ROBIN D.
-
-GURPS for Dummies by GRIFFITH, ADAM
-
-Ironsword SRD by Baker, Vincent D. 
-
-Kids on Bikes by GILMOUR, JON
-
-2D20 System SRD by DOWDELL, N 
-
-Shadowrun 5E by HARDY, JASON M. 
-
-Shadowrun Sixth World 5E, by HARDY, JASON M. 
-
-Shadowrun Data Trails 5E by ANDREW, JASON 
-
-Shadowrun Run & Gun 5E by CROTEAU, RAYMOND
-
-Shadowrun Forbidden Arcana 5E by HARDY, JASON M. 
-
-Shadowrun Rigger 5E by DYNNA, MARK 
-
-Shadowrun Street Grimoire 5E by HARDY, JASON M. 
-
-The Creation of Narrative in TTRPG by Cover, Jennifer Grouling
-
-Things From the Flood by STALENHAG, SIMON 
-
-Vampire the Masquerade 5E by HITE, KENNETH 
 ## 007_Artificial Intelligence
+
+*The foremost hurdle in developing my theory of composition and achieving my productivity aims is the extensive literature I need to comprehend and expand upon. I hold that the most renowned artists historically leveraged technologies and techniques that were either morally questioned or overlooked due to resistance to change by the masses. Artificial intelligence will be instrumental in helping me assimilate the vast knowledge I seek and in creating the quality of art I envision.*
 
 ```
 | Book Title                    | Author               |
@@ -318,6 +322,9 @@ Vampire the Masquerade 5E by HITE, KENNETH
 A comprehensive introduction to ChatGPT, providing valuable insights into its usage in the context of fiction writing.
 *The author has a surface level understanding of story. However, what she does prove is the ability to use ChatGPT both 3.5 and 4.0 to efficiently brainstorm and the overall process of writing.*
 [ChatGPT For Fiction](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=00_TOC%2F007_LEIGH%2F007_ChatGPT%20For%20Fiction%20Writing%20-%20LEIGH%2C%20NOVA)
+
+
+
 
 
 

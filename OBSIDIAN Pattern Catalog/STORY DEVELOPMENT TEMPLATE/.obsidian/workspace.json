@@ -4,29 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "604b18e34eaef7c2",
+        "id": "5f0b9e05a3b1cc5a",
         "type": "tabs",
         "children": [
           {
-            "id": "51c503348269b34d",
+            "id": "c4a0d3c8ab96e4db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "file": "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "62b996d94b1ba844",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ca13713bee9ff0d4",
+            "id": "7f7e0e40470ec6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,45 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3f011408ea43067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71acfc2bf27bb777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1370bfe37675008a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "file": "00_TOC/FRONTPAGE 00_TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "file": "00_TOC/FRONTPAGE 00_TOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md"
+                "file": "00_TOC/FRONTPAGE 00_TOC.md"
               }
             }
           },
@@ -218,56 +176,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c503348269b34d",
+  "active": "7f7e0e40470ec6de",
   "lastOpenFiles": [
+    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
+    "00_TOC/001_BAL",
+    "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
+    "word count.md",
+    "00_TOC/006_BOUR/006_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
+    "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
+    "assets/Pasted image 20230922155604.png",
+    "00_TOC/006_BOUR",
+    "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "00_TOC/004_DUNNE/004_wk_The Architecture of Story - DUNNE, WILL.md",
+    "00_TOC/003_MCKEE/003_wk_Story - MCKEE, ROBERT.md",
+    "assets/Pasted image 20230923125127.png",
+    "assets/Pasted image 20230923115348.png",
+    "assets/Pasted image 20230923115327.png",
+    "assets/Pasted image 20230922155618.png",
     "01_THEME/FRONTPAGE 01_THEME.md",
-    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
     "09_REVISION/FRONTPAGE - 09_REVISION.md",
+    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
     "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "10_POST",
-    "00_TOC/004_DUNNE/004_The Architecture of Story by DUNNE, WILL.md",
-    "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
     "00_TOC/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
     "00_TOC/003_ DRAMATICA/003_Dramataica - Melanie Anne Phillips.md",
     "00_TOC/003_ALESSANDRA/003_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
-    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/004_DUNNE",
     "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
     "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
     "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_SMITH D/03_wk_The Psychology Workbook for Writers - SMITH, DARIAN.md",
-    "03_CHARACTER/03_MCKEE/03_wk Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_MCKEE/03_Character The Art of Role and Cast Design - MCKEE, ROBERT.md",
-    "03_CHARACTER/03_LAUTHER/03_wk_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_LAUTHER/03_Creating Characters - LAUTHER, HOWARD.md",
-    "03_CHARACTER/03_DAVIS/03_wk_Creating Compelling Characters - DAVIS, RIB.md",
-    "03_CHARACTER/03_DAVIS/03_Creating Compelling Characters - DAVIS, RIB.md",
-    "00_TOC/003_ALESSANDRA/003_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
     "00_TOC/007_LEIGH",
     "assets/Pasted image 20230918083240.png",
     "assets/Pasted image 20230920082003.png",
     "assets/Pasted image 20230918185628.png",
     "assets/Pasted image 20230918090316.png",
     "assets/Pasted image 20230918090253.png",
-    "assets/Pasted image 20230918083500.png",
-    "assets/Pasted image 20230918083455.png",
     "00_TOC/005_BERGER",
-    "assets/Pasted image 20230915053757.png",
-    "assets/Pasted image 20230917230544.png",
-    "assets/Pasted image 20230915203222.png",
     "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
     "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",
     "00_TOC/002_DODD",
-    "01_THEME/01_BLOOM, HAROLD",
-    "00_TOC/002_READER'S DIGEST",
-    "00_TOC/003_MCKEE"
+    "01_THEME/01_BLOOM, HAROLD"
   ]
 }
