@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ad5417152229178",
+        "id": "dd16b56f875f0fff",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7e0e40470ec6de",
+            "id": "b102906423a57dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,14 +167,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f7e0e40470ec6de",
+  "active": "b102906423a57dd4",
   "lastOpenFiles": [
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
-    "word count.md",
-    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
+    "01_THEME/FRONTPAGE 01_THEME.md",
+    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
+    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
+    "00_TOC/001_BAL/001_wk_Narratology - BAL, MIEKE.md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "word count.md",
+    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "00_TOC/002_DODD/002_wk_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "Pasted image 20231003122122.png",
+    "Pasted image 20231003120848.png",
+    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
     "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/001_BAL",
     "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
@@ -200,16 +206,10 @@
     "00_TOC/003_ALESSANDRA/003_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
     "00_TOC/004_DUNNE",
     "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_Creating Characters - WRITER'S DIGEST.md",
-    "03_CHARACTER/03_SMITH D/03_The Psychology Workbook for Writers - SMITH, DARIAN.md",
     "00_TOC/007_LEIGH",
     "assets/Pasted image 20230918083240.png",
     "assets/Pasted image 20230920082003.png",
     "assets/Pasted image 20230918185628.png",
-    "assets/Pasted image 20230918090316.png",
-    "assets/Pasted image 20230918090253.png",
     "00_TOC/005_BERGER",
     "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
     "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",

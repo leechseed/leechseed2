@@ -7,23 +7,6 @@
 
 
 
-The daemon knows: literary greatness and the American sublime
-
-
-
-
-
-
-
-Genius: a mosaic of one hundred exemplary creative minds
-
-
-
-
-
-
-
-
 
 
 
@@ -36,178 +19,254 @@ I've compiled a compact set of thematic analyses I previously conducted in Logse
 
 ## 011_The Theory of Theme
 
-The Hero With a Thousand Faces by CAMPBELL, JOSEPH
+| X | Author's Last Name    | Book Title                                      |
+|---|-----------------------|-------------------------------------------------|
+|   | BAL, MIEKE           | Narratology: Introduction to the Theory of Narrative                            |
+|   | CAMPBELL, JOSEPH     | The Hero With a Thousand Faces                  |
+|   | CURRIE, MARK         | Metafiction                                      |
+|   | CAMPBELL, JOSEPH     | The Inner Reaches of Outer Space                |
+|   | VOGLER, CHRISTOPHER  | The Writer's Journey                            |
+|   | LEITCH, VINCENT B.   | The Norton Anthology of Theory and Criticism     |
 
-The Norton anthology of theory and criticism by LEITCH, VINCENT B. 
-
-Metafiction by CURRIE, MARK 
-
-The Inner Reaches of Outer Space by CAMPBELL, JOSEPH 
-
-The Writer's Journey by VOGLER, CHRISTOPHER 
+ 
 
 ### Bloom's 15 Themes 
 
 *Each one of these 15 themes is identified by Bloom to be universal in literature, at least in terms of his modern cannon from a North American Perspective. After reading each one of these books I have found myself identifying with the narratives presented in each of these universal themes. I believe they can serve as overall topos or overarching themes present in every one of my novels. Keep in mind that I do go in depth a bit regarding how to structure these 15 themes together in...* [01_LOGSEQ THEME STUDIES](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_LOGSEQ%20THEME%20STUDIES%20-%20Cardenas%2C%20Jay)
-#### 011_ALIENATION - BLOOM, HOWARD
+#### 01110_ALIENATION - BLOOM, HOWARD
 Bloom interprets alienation in the works of Hamlet and Kafka as a deep internal struggle, often unvoiced, highlighting the tragic complexity of human self-alienation and inner turmoil.
 [01_ALIENATION](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_ALIENATION%20-%20BLOOM%2C%20HOWARD)
 
-#### 011_THE AMERICAN DREAM - BLOOM, HAROLD
+| X | Author's Last Name    | Book Title                                      |
+|---|-----------------------|-------------------------------------------------|
+|   | BELEW, KATHLEEN       | Bring the War Home                               |
+|   | BENTLY, NICK          | You Subcultures in Fiction, Film and Other      |
+|   | BRONNER, SIMON J      | Youth Cultures in America                       |
+|   | BUCKNELL BOSSEN, CHRISTINA | Uses and Gratifications                    |
+|   | DAVIS, COLIN          | Companion to Literature and Trauma              |
+|   | ESTES, CLARISSA PINKOLA | Women Who Run with the Wolves                |
+|   | HALL, ALICE           | Literature and Disability                        |
+|   | HODKINSON, PAUL       | Youth Cultures: Scenes, Subcultures, and Tribes |
+
+#### 01111_THE AMERICAN DREAM - BLOOM, HAROLD
 [01_THE AMERICAN DREAM](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20AMERICAN%20DREAM%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_CIVIL DISOBEDIENCE - BLOOM, HAROLD
+| X | Author's Last Name    | Book Title                                      |
+|---|-----------------------|-------------------------------------------------|
+|   | BURNETT, KATHERINE A. | Companion to Literature of the U.S. South       |
+|   | CAMPBELL, JOSEPH      | The Hero With a Thousand Faces                  |
+|   | CAMPBELL, JOSEPH      | The Inner Reaches of Outer Space                |
+|   | CURRIE, MARK          | Metafiction                                      |
+|   | DALSGAARD, INGER H.  | Companion to Thomas Pynchon                     |
+|   | KUSHNER, TONY        | Angels in America                               |
+|   | LEE, RACHEL C.       | Companion to Asian American Literature           |
+|   | MILLER, DAVID         | Dark Eden                                       |
+|   | MITTEL, JASON        | Complex TV                                      |
+|   | MORDDEN, ETHAN       | Anything Goes                                   |
+|   | NADEN, CORINNE J     | The Golden Age of American Musical Theatre      |
+|   | NEVES, SILVA         | American Film: A History                        |
+|   | VOGLER, CHRISTOPHER  | The Writer's Journey                            |
+
+#### 01112_CIVIL DISOBEDIENCE - BLOOM, HAROLD
 [01_CIVIL DISOBEDIENCE](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_CIVIL%20DISOBEDIENCE%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_DARK HUMOR - BLOOM, HAROLD
+| X | Author's Last Name   | Book Title                               |
+|---|----------------------|------------------------------------------|
+|   | BOAL, AUGUSTO        | Theatre of the Oppressed                 |
+|   | PATHANIA, GAURAV J   | The University as a Site of Resistance  |
+
+#### 01113_DARK HUMOR - BLOOM, HAROLD
 [01_DARK HUMOR](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_CIVIL%20DISOBEDIENCE%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_DEATH AND DYING
+| X | Author's Last Name | Book Title                     |
+|---|--------------------|--------------------------------|
+|   | HAINES, CHRISTIAN  | A Desire Called America        |
+|   | MARX, LEO          | The Machine in the Garden      |
+
+#### 01114_DEATH AND DYING
 [01_DEATH AND DYING](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_DEATH%20AND%20DYING)
 
-#### 011_ENSLAVEMENT AND EMANCIPATION
+| X | Author's Last Name | Book Title                                |
+|---|--------------------|-------------------------------------------|
+|   | JERNIGAN, DANIEL K.| The Routledge Companion to Death and Literature |
 
+#### 01115_ENSLAVEMENT AND EMANCIPATION
 [01_ENSLAVEMENT AND EMANCIPATION](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_ENSLAVEMENT%20AND%20EMANCIPATION)
 
-#### 011_THE GROTESQUE
+| X | Author's Last Name    | Book Title                               |
+|---|-----------------------|------------------------------------------|
+|   | DU BOIS, W.E.B.       | The Souls of Black Folk                   |
+|   | MACDONALD, ANDREW     | The Turner Diaries                       |
+|   | SHERRARD-JOHNSON, CHERENE | A Companion to the Harlem Renaissance |
+|   | SLATTON, BRITTANY C.  | Hyper Sexual                              |
+
+#### 01116_THE GROTESQUE
 [01_THE GROTESQUE](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20GROTESQUE)
 
-#### 011_THE HERO'S JOURNEY
+| X | Author's Last Name | Book Title                       |
+|---|--------------------|----------------------------------|
+|   | EAGLETON, TERRY    | Sweet Violence: The Idea of the Tragic |
+|   | MACKAY, ROBIN      | Collapse IV                      |
+
+#### 01117_THE HERO'S JOURNEY
 [01_THE HERO'S JOURNEY](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20HERO'S%20JOURNEY)
 
+| X | Author's Last Name | Book Title                           |
+|---|--------------------|--------------------------------------|
+|   | BLOOM, HAROLD      | Genius: A Mosaic                     |
+|   | LAZAR, ALLAN       | The 101 Most Influential People     |
+|   | MILLER, DEAN A.    | The Epic Hero                        |
 
-#### 011_HUMAN SEXUALITY - BLOOM, HAROLD
+
+#### 01118_HUMAN SEXUALITY - BLOOM, HAROLD
 [01_HUMAN SEXUALITY - BLOOM, HAROLD](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_HUMAN%20SEXUALITY%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_THE LABYRINTH - BLOOM, HAROLD
+| X | Author's Last Name   | Book Title                          |
+|---|----------------------|-------------------------------------|
+|   | ANAND, MARGOT        | The Art of Sexual Ecstasy           |
+|   | BRENTS, BARBRA G.    | The State of Sex                    |
+|   | KINSEY INSTITUTE     | Kinsey Institute Annual Report      |
+|   | MCKERCHER, BOB       | Sex and Tourism                     |
+|   | PARRY, DIANA C.      | Sex and Leisure                     |
+
+#### 01119_THE LABYRINTH - BLOOM, HAROLD
 [01_THE LABYRINTH](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20LABYRINTH%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_REBIRTH AND RENEWAL - BLOOM, HAROLD
+| X | Author's Last Name | Book Title                   |
+|---|--------------------|------------------------------|
+|   | DEBORD, GUY        | The Society of the Spectacle |
 
+#### 01120_REBIRTH AND RENEWAL - BLOOM, HAROLD
 [01_REBIRTH AND RENEWAL](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_REBIRTH%20AND%20RENEWAL%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_SIN AND REDEMPTION - BLOOM, HAROLD
+| X | Author's Last Name | Book Title                   |
+|---|--------------------|------------------------------|
+|   | PATRICK, TERA      | Sinner Takes All             |
+|   | WARD, MAITLAND     | Rated X                      |
+
+
+#### 01121_SIN AND REDEMPTION - BLOOM, HAROLD
 [01_SIN AND REDEMPTION](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_SIN%20AND%20REDEMPTION%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_THE SUBLIME - BLOOM, HAROLD
+| X | Author's Last Name | Book Title                      |
+|---|--------------------|---------------------------------|
+|   | AKIRA, ASA         | Insatiable                       |
+|   | BONINO, THOMAS     | Angels and Demons               |
+|   | CHARLES, ROBERT HENRY | The Book of Enoch            |
+|   | LUMPKIN, JOSEPH    | Fallen Angels                   |
+|   | RAYMOND, JOAD      | Milton's Angels                 |
+
+#### 01122_THE SUBLIME - BLOOM, HAROLD
 [01_THE SUBLIME](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20SUBLIME%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_THE TABOO - BLOOM, HAROLD
+| X | Author's Last Name | Book Title                                         |
+|---|--------------------|----------------------------------------------------|
+|   | BLOOM, HAROLD      | The Daemon Knows: Literary Greatness and the American Sublime |
+|   | SWINK, STEVE       | Game Feel                                          |
+
+#### 01123_THE TABOO - BLOOM, HAROLD
 [01_THE TABOO](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20TABOO%20-%20BLOOM%2C%20HAROLD)
 
-#### 011_THE TRICKSTER - BLOOM, HAROLD
+| X | AUTHOR             | BOOK TITLE                                                     |
+|---|--------------------|---------------------------------------------------------------|
+|   | ALEXANDER, SKYE    | The Modern Witchcraft Book of Tarot                           |
+|   | BAGMASTERPDX       | The Baggot Bible                                              |
+|   | DEAN, TIM          | Unlimited Intimacy                                            |
+|   | FLORENCIO, JOAO    | Bareback Porn                                                 |
+|   | GODWIN, JOSELYN    | The Hermetic Brotherhood of Luxor                             |
+|   | HAYWOOD, CHRIS     | Sex Clubs                                                     |
+|   | REHOR, JENNIFER    | Women and Kink                                                |
+|   | SCOATS, RYAN       | Understanding threesomes                                      |
+|   | SLATTON, BRITTANY C.| Hyper Sexual                                                  |
+|   | TRAXLER, DONALD    | Magia Sexualis                                                |
+|   | TUCKMAN, ARI       | ADHD after Dark                                               |
+|   | URBAN, HUGH B.     | Magica sexualis                                               |
+|   | WINSTON, SHERI     | Woman's Anatomy of Arousal                                    |
+
+#### 01124_THE TRICKSTER - BLOOM, HAROLD
 [01_THE TRICKSTER](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=01_THEME%2F01_THE%20TRICKSTER%20-%20BLOOM%2C%20HAROLD)
 
+| X | Author's Last Name | Book Title            |
+|---|--------------------|-----------------------|
+|   | PAGELS, ELAINE     | The Origin of Satan  |
 
 
 ## 012_The Craft of Writing Theme
 
-Writing Your Storys Theme The Writers Guide to Plotting Stories That Matter by WEILAND, K.M
+| X | Author's Last Name | Book Title                                                |
+|---|--------------------|-----------------------------------------------------------|
+|   | BERNHARDT, WILLIAM | Thinking Theme: The Heart of the Matter                    |
+|   | LYONS, JEFF         | Anatomy of a Premise Line                                  |
+|   | WEILAND, K.M        | Writing Your Story's Theme: The Writer's Guide to Plotting Stories That Matter |
 
-Thinking theme: the heart of the matter by BERNHARDT, WILLIAM
-
-Anatomy of a Premise Line by LYONS, JEFF
 ## 013_Film & Television
-American film: a history by LEWIS, JON
 
-Complex TV by MITTEL, JASON
 
-Scorsese by EBERT
+| X | Author's Last Name | Book Title                                     |
+|---|--------------------|------------------------------------------------|
+|   | EBERT              | Scorsese                                       |
+|   | O'NEILL, BILL      | The Great Book of 1990's Trivia               |
 
-The Great Book of 1990's Trivia BY O'NEILL, BILL
+
+
 ## 014_Theatre 
 
-Angels in America by KUSHNER, TONY
 
-Anything Goes by MORDDEN, ETHAN
 
-The Golden Age of American Musical Theatre by NADEN, CORINNE J
 
-Theatre of the Oppressed by BOAL, AUGUSTO
 ## 015_Video Game & Transmedia
 
-Game Feel by SWINK, STEVE
+| X | Author's Last Name | Book Title                                     |
+|---|--------------------|------------------------------------------------|
+|   | GRAHAM, SASHA      | Llewellyn's Complete                           |
+|   | MIZER, NICHOLAS J  | Experience of Imagined Worlds                 |
+
 
 
 ## 016_Tabletop Roleplaying Games
 
-Llewellyn's Complete by GRAHAM, SASHA 
 
-Experience of Imagined Worlds by MIZER, NICHOLAS J 
 
-The Modern Witchcraft Book of Tarot by ALEXANDER, SKYE
+
 ## 017_Literature 
 
-The Society of the Spectacle by DEBORD, GUY
 
-The State of Sex by BRENTS, BARBRA G.
+| X | Author's Last Name | Book Title                                     |
+|---|--------------------|------------------------------------------------|
+|   | BOULD, MARK        | Companion to Science Fiction                  |
+|   | BLOOM, HAROLD      | The Western Canon                              |
+|   | CARROL, NOEL       | Companion to Philosophy of Literature         |
+|   | O'GORMAN, DANIEL  | 21st Century Literary Fiction                 |
 
-A Companion to the Harlem Renaissance by SHERRARD-JOHNSON, CHERENE 
 
-The souls of Black folk by DU BOIS, W.E.B.
 
-The Western Canon by BLOOM, HAROLD
 
-Angels and Demons by BONINO, THOMAS
 
-A Desire Called America by HAINES, CHRISTIAN 
 
-Bring the War Home by BELEW, KATHLEEN
 
-Sweet violence: the idea of the tragic by EAGLETON, TERRY
 
-Collapse IV  by MACKAY, ROBIN 
 
-The University as a Site of Resistance by PATHANIA, GAURAV J
 
-Hyper Sexual by SLATTON, BRITTANY C.
 
-The Art of Sexual Ecstasy by ANAND, MARGOT
 
-Milton's Angels by RAYMOND, JOAD
-
-The Book of Enoch by CHARLES, ROBERT HENRY 
-
-Companion to Thomas Pynchon by DALSGAARD, INGER H.
-
-The Machine in the Garden by MARX, LEO
-
-21st Century Literary Fiction by O'GORMAN, DANIEL 
-
-Companion to Philosophy of Literature by  CARROL, NOEL
-
-Companion to Literature of the U.S. South by BURNETT, KATHERINE A. 
-
-Companion to Asian American Literature LEE, RACHEL C. 
-
-Companion to Literature and Trauma by DAVIS, COLIN 
-
-Companion to to Science Fiction by BOULD, MARK
-
-Women who Run with the Wolves by ESTES, CLARISSA PINKOLA
 ## 018__Theme REFERENCE
 
-Historical Atlas of World Mythology I by CAMPBELL, JOSEPH
+| X | Author's Last Name    | Book Title                                     |
+|---|-----------------------|------------------------------------------------|
+|   | CAMPBELL, JOSEPH      | Historical Atlas of World Mythology I          |
+|   | CAMPBELL, JOSEPH      | Historical Atlas of World Mythology II         |
+|   | CAMPBELL, JOSEPH      | Historical Atlas of World Mythology III        |
+|   | CAMPBELL, JOSEPH      | The Masks of God Vol 1                         |
+|   | CAMPBELL, JOSEPH      | The Masks of God Vol 2                         |
+|   | CAMPBELL, JOSEPH      | The Masks of God Vol 3                         |
+|   | CAMPBELL, JOSEPH      | The Masks of God Vol 4                         |
+|   | FORTUNE, DION         | The Esoteric Orders                            |
+|   | GUILEY, ROSEMARY ELLEN | The Encyclopedia of Demons and Demonology     |
+|   | PLATT, RUTHERFORD H.  | The Lost Books of the Bible                   |
 
-Historical Atlas of World Mythology II by CAMPBELL, JOSEPH
 
-Historical Atlas of World Mythology III by CAMPBELL, JOSEPH
 
-The Encyclopedia of Demons and Demonology by GUILEY, ROSEMARY ELLEN 
 
-The Esoteric Orders by FORTUNE, DION
 
-The Hermetic Brotherhood of Luxor by GODWIN, JOSELYN
 
-The Lost Books of the Bible by PLATT, RUTHERFORD H.
 
-The Masks of God Vol 1 by CAMPBELL, JOSEPH
-The Masks of God Vol 2 by CAMPBELL, JOSEPH
-The Masks of God Vol 3 by CAMPBELL, JOSEPH
-The Masks of God Vol 4 by CAMPBELL, JOSEPH
-
-Youth Cultures in America by BRONNER, SIMON J 
-
-Youth Cultures: Scenes, Subcultures, and Tribes by Hodkinson, Paul 
-
-You Subcultures in Fiction, Film and Other by Bently, Nick 
