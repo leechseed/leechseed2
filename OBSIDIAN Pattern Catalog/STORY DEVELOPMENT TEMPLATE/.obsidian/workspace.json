@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0b9e05a3b1cc5a",
+        "id": "2ad5417152229178",
         "type": "tabs",
         "children": [
-          {
-            "id": "c4a0d3c8ab96e4db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "7f7e0e40470ec6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "01_THEME/FRONTPAGE 01_THEME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "01_THEME/FRONTPAGE 01_THEME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "01_THEME/FRONTPAGE 01_THEME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md"
+                "file": "01_THEME/FRONTPAGE 01_THEME.md"
               }
             }
           },
@@ -182,14 +169,16 @@
   },
   "active": "7f7e0e40470ec6de",
   "lastOpenFiles": [
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "01_THEME/FRONTPAGE 01_THEME.md",
     "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "word count.md",
     "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
-    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
+    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/001_BAL",
     "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "word count.md",
     "00_TOC/006_BOUR/006_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
     "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
@@ -202,7 +191,6 @@
     "assets/Pasted image 20230923115348.png",
     "assets/Pasted image 20230923115327.png",
     "assets/Pasted image 20230922155618.png",
-    "01_THEME/FRONTPAGE 01_THEME.md",
     "09_REVISION/FRONTPAGE - 09_REVISION.md",
     "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
     "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",

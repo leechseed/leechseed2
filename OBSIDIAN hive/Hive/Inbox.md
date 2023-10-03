@@ -1,0 +1,11 @@
+*It was a dark and stormy night when the murder of animatronic crows descended upon the lonely man, whispering sweet nothings into his ear. He was reckoning with his impotence, a feeling that gnawed at his soul like a starving rat.*
+
+*It was a dark and stormy night when the murder of electric crows descended upon a lonely man. One sat upon his shoulder and croaked curious graveled muses into his ear. A lonely man was reckoning with his impotence, a shame that stank of desperation, a smell that damned him to company of the grifting cyberlife of South City. 
+
+
+"It was a dark and stormy night when the murder of electric crows descended upon a lonely man. The One sat upon his shoulder and croaked graveled muses into a crooked bulbous ear.  Lonely man felt the One's feet. Its weight pushing his rounded shoulders closer to the ground. Years of mindful baggage collected yet never stowed. He heard the One's crows as it echoed into nothing pinging wrinkles in his head. Currently he is  grappling with his life long impotence, a shame that reeked of desperation, a stench that condemned him to the company of the grifting cyberlife of South City."
+
+
+"It was a dark and stormy night when a murder of electric crows descended upon a lonely man. One particular crow, the One, sat upon his shoulder and croaked graveled muses into his crooked, bulbous ear.  He heard its caw  pinging through the wrinkles in his mind, losing its meaning in the static of his thoughts. Impotence. Shame. Lost Potential. The fog of self-doubt glazes his eyes, cataracts of the mind.  His thoughts stank. They reeked of desperation, a stench that condemned him to the company of the grifting cyberlife of South City.
+
+It was a dark and stormy night when the murder of electric crows descended upon a Lonely Man. The One, a particular crow, sat on Loney Man's shoulder and croaked graveled muses into his crooked, bulbous ear. He heard The One's caw pinging through the wrinkles of his mind and felt it melt into the static of the turbo-urbane. Impotence. Shame. Lost Potential. A fog of self-doubt glazed his eyes, cataracts of the mind, cancer of the soul. His thoughts stank of desperation, a stench that condemned him to the company of the grifting cyberlife of South City.
