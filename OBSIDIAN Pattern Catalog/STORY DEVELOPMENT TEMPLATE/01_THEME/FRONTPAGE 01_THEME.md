@@ -21,12 +21,13 @@ I've compiled a compact set of thematic analyses I previously conducted in Logse
 
 | X | Author's Last Name    | Book Title                                      |
 |---|-----------------------|-------------------------------------------------|
-|   | BAL, MIEKE           | Narratology: Introduction to the Theory of Narrative                            |
 |   | CAMPBELL, JOSEPH     | The Hero With a Thousand Faces                  |
 |   | CURRIE, MARK         | Metafiction                                      |
 |   | CAMPBELL, JOSEPH     | The Inner Reaches of Outer Space                |
 |   | VOGLER, CHRISTOPHER  | The Writer's Journey                            |
 |   | LEITCH, VINCENT B.   | The Norton Anthology of Theory and Criticism     |
+
+### 0112_Norton Anthology - LEITCH, VINCENT B.
 
  
 

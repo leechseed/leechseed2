@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "dd16b56f875f0fff",
+        "id": "870d5d3d445bf58a",
         "type": "tabs",
         "children": [
           {
-            "id": "b102906423a57dd4",
+            "id": "8e31137f9dec3ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "file": "word count.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eaf91b398b6c961c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b245375fecf49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#06_OTL,",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_THEME/FRONTPAGE 01_THEME.md"
+                "file": "word count.md"
               }
             }
           },
@@ -167,53 +185,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b102906423a57dd4",
+  "active": "8e31137f9dec3ced",
   "lastOpenFiles": [
+    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "word count.md",
+    "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
+    "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
+    "Pasted image 20231008230519.png",
+    "Pasted image 20231008230501.png",
+    "Pasted image 20231008224311.png",
     "01_THEME/FRONTPAGE 01_THEME.md",
+    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "00_TOC/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
+    "00_TOC/003_ DRAMATICA/003_Dramataica - Melanie Anne Phillips.md",
+    "00_TOC/003_ALESSANDRA/003_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
+    "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
+    "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "00_TOC/006_BOUR/006_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
+    "01_THEME/0112_LEITCH",
     "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
     "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
     "00_TOC/001_BAL/001_wk_Narratology - BAL, MIEKE.md",
     "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "word count.md",
-    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
     "00_TOC/002_DODD/002_wk_The Writer's Compass - Dodd, Nancy Ellen.md",
     "Pasted image 20231003122122.png",
     "Pasted image 20231003120848.png",
-    "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
-    "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/001_BAL",
-    "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "00_TOC/006_BOUR/006_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
-    "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
     "assets/Pasted image 20230922155604.png",
     "00_TOC/006_BOUR",
-    "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "00_TOC/004_DUNNE/004_wk_The Architecture of Story - DUNNE, WILL.md",
-    "00_TOC/003_MCKEE/003_wk_Story - MCKEE, ROBERT.md",
     "assets/Pasted image 20230923125127.png",
     "assets/Pasted image 20230923115348.png",
     "assets/Pasted image 20230923115327.png",
     "assets/Pasted image 20230922155618.png",
-    "09_REVISION/FRONTPAGE - 09_REVISION.md",
-    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
-    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "10_POST",
-    "00_TOC/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
-    "00_TOC/003_ DRAMATICA/003_Dramataica - Melanie Anne Phillips.md",
-    "00_TOC/003_ALESSANDRA/003_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
     "00_TOC/004_DUNNE",
-    "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_TOC/007_LEIGH",
-    "assets/Pasted image 20230918083240.png",
-    "assets/Pasted image 20230920082003.png",
-    "assets/Pasted image 20230918185628.png",
     "00_TOC/005_BERGER",
-    "01_THEME/01_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
-    "01_THEME/01_BLOOM, HAROLD/01_BOOKS BLOOM",
-    "00_TOC/002_DODD",
-    "01_THEME/01_BLOOM, HAROLD"
+    "01_THEME/0111_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
+    "01_THEME/0111_BLOOM, HAROLD/01_BOOKS BLOOM",
+    "00_TOC/002_DODD"
   ]
 }
