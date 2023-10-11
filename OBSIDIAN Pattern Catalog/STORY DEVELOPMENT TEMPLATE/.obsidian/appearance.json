@@ -1,5 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Everforest Enchanted",
-  "baseFontSize": 12
+  "cssTheme": "Material Gruvbox",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "textFontFamily": "Gadugi",
+  "monospaceFontFamily": "NSimSun",
+  "nativeMenus": true
 }

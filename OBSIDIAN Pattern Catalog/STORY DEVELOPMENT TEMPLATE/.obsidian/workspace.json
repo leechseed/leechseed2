@@ -6,6 +6,7 @@
       {
         "id": "870d5d3d445bf58a",
         "type": "tabs",
+        "dimension": 47.74390243902439,
         "children": [
           {
             "id": "8e31137f9dec3ced",
@@ -24,6 +25,7 @@
       {
         "id": "eaf91b398b6c961c",
         "type": "tabs",
+        "dimension": 52.25609756097561,
         "children": [
           {
             "id": "c4b245375fecf49c",
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md"
               }
             }
           },
@@ -185,10 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e31137f9dec3ced",
+  "active": "c4b245375fecf49c",
   "lastOpenFiles": [
-    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
     "word count.md",
+    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
     "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
     "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
