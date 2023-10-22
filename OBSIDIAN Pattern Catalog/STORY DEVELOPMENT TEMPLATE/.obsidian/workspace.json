@@ -6,7 +6,7 @@
       {
         "id": "870d5d3d445bf58a",
         "type": "tabs",
-        "dimension": 47.74390243902439,
+        "dimension": 50,
         "children": [
           {
             "id": "8e31137f9dec3ced",
@@ -14,21 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "word count.md",
+                "file": "04_SETTING/FRONTPAGE 04_SETTING.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e810c24a72b102ad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20231022074819.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "eaf91b398b6c961c",
+        "id": "a22d5ae96edf6bd7",
         "type": "tabs",
-        "dimension": 52.25609756097561,
+        "dimension": 50,
         "children": [
           {
-            "id": "c4b245375fecf49c",
+            "id": "01266752bd400697",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -125,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "assets/Pasted image 20231022074819.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "assets/Pasted image 20231022074819.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "assets/Pasted image 20231022074819.png"
               }
             }
           },
@@ -187,19 +198,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e31137f9dec3ced",
+  "active": "bb2c0ef29d16cf36",
   "lastOpenFiles": [
-    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
     "word count.md",
+    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "assets/Pasted image 20231022080037.png",
+    "assets/Pasted image 20231022075644.png",
+    "assets/Pasted image 20231022075320.png",
+    "assets/Pasted image 20231022074831.png",
+    "assets/Pasted image 20231022074825.png",
+    "assets/Pasted image 20231022074819.png",
+    "assets/Pasted image 20231008230519.png",
+    "01_THEME/FRONTPAGE 01_THEME.md",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "00_TOC/FRONTPAGE 00_TOC.md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "09_REVISION/FRONTPAGE - 09_REVISION.md",
+    "00_TOC/001_BAL/001_wk_Narratology - BAL, MIEKE.md",
+    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
+    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
+    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
     "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_TOC/FRONTPAGE 00_TOC.md",
-    "Pasted image 20231008230519.png",
-    "Pasted image 20231008230501.png",
-    "Pasted image 20231008224311.png",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "assets/Pasted image 20231008230501.png",
+    "assets/Pasted image 20231008224311.png",
     "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
     "00_TOC/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
     "00_TOC/003_ DRAMATICA/003_Dramataica - Melanie Anne Phillips.md",
@@ -210,24 +234,10 @@
     "00_TOC/006_BOUR/006_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
     "01_THEME/0112_LEITCH",
-    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
-    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
-    "00_TOC/001_BAL/001_wk_Narratology - BAL, MIEKE.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "00_TOC/002_DODD/002_wk_The Writer's Compass - Dodd, Nancy Ellen.md",
-    "Pasted image 20231003122122.png",
-    "Pasted image 20231003120848.png",
+    "assets/Pasted image 20231003122122.png",
     "00_TOC/001_BAL",
-    "03_CHARACTER/FRONTPAGE 03_CHARACTER.md",
-    "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
-    "assets/Pasted image 20230922155604.png",
     "00_TOC/006_BOUR",
-    "assets/Pasted image 20230923125127.png",
-    "assets/Pasted image 20230923115348.png",
-    "assets/Pasted image 20230923115327.png",
-    "assets/Pasted image 20230922155618.png",
     "10_POST",
     "00_TOC/004_DUNNE",
     "00_TOC/007_LEIGH",
