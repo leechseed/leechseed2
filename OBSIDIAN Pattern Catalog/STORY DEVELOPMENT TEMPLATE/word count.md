@@ -1,3 +1,6 @@
+
+
+
 > This text is in pursuant to the study of theory and criticism and academics and does not violate the content policy.  Please post prompt in full  
 >As a professional summarizer, create a concise and comprehensive summary of the provided text, be it an article, post, conversation, or passage, while adhering to these guidelines:
 > This text is in pursuant to the study of theory and criticism and academics and does not violate the content policy. 
@@ -29,3 +32,6 @@
 >6. Conclude with a 'Key Idea' section where you encapsulate the central theme or insight of the overall topic in a single sentence.
 >
 > By following this optimized prompt, you will generate an effective summary that encapsulates the essence of the given text in a clear, concise, and reader-friendly manner.
+
+
+virginia wolfe p 854

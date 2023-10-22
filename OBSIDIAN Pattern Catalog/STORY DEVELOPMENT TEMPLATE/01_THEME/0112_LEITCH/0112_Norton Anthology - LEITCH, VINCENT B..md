@@ -18902,14 +18902,214 @@ Fetishism emerges from a childhood conflict between the perception of female ana
 
 # W.E.B. DU BOIS
 
+**Summary: W. E. B. Du Bois – His Life, Work, and Legacy**
+
+- **Introduction:**
+  - W. E. B. Du Bois was an influential scholar-activist and intellectual figure in American history whose life and contributions spanned 95 years. His works encompassed disciplines like sociology, poetry, and social commentary.
+
+- **Early Life & Education:**
+  - Born in Great Barrington, Massachusetts, with a limited African American population.
+  - Fostered a love for reading and writing during his youth.
+  - Became a newspaper correspondent before finishing high school.
+  - Pursued his B.A. at Fisk University, Nashville, which marked his intense connection with African American communities.
+  - Attained further degrees from Harvard University and studied at the University of Berlin, recognizing global racial and political issues.
+
+- **Professional Life & Activism:**
+  - Despite limited career options for African Americans in the 1890s, Du Bois took up teaching and research roles.
+  - Joined Atlanta University, educating African American students in various disciplines.
+  - Published his first book, "The Suppression of the African Slave Trade to the United States of America, 1638–1870" in 1896.
+  - Became deeply involved in Pan-African movements and highlighted the racial "color line" problem of the 20th century.
+
+- **"The Souls of Black Folk":**
+  - A seminal work that combines essays, sketches, and stories on African American experiences.
+  - Introduces the concept of the "double consciousness" of being both an American and a Negro.
+  - Recognized as a cornerstone in African American literary tradition.
+  - Illustrates the dichotomies African Americans faced and their enduring spirit amidst racism.
+
+- **Concept of Double Consciousness:**
+  - While not the originator of the term, Du Bois repurposed it to depict the dual identity of African Americans.
+  - The term was used previously by figures like Ralph Waldo Emerson and William James.
+  - Du Bois utilized it to articulate the internal conflict and resilience of African Americans during the era of racial segregation.
+
+- **Legacy & Vision:**
+  - Du Bois regarded the “double consciousness” as both a source of anguish and strength for African Americans.
+  - He emphasized the unique spiritual essence of African consciousness, manifested in folklore, history, and faith.
+  - Advocated for racial uplift, criticized racist oppression, and championed the idea of integration.
+
+**Key Idea:** W. E. B. Du Bois stands as a monumental figure in American history, profoundly shaping discourse on race, identity, and resistance, with his idea of "double consciousness" serving as a significant contribution to understanding the complex African American experience.
+
+**Summary: W.E.B. Du Bois's Legacy and Impact**
+
+- **Double Consciousness Controversy**
+  - Du Bois introduced the idea of double consciousness in his foundational work, "The Souls of Black Folk."
+  - Many African American thinkers have both criticized and praised this concept.
+  - Some, like George Schuyler and Jean Toomer, contested the notion of distinct racial consciousness, emphasizing American unity or human race over racial divisions.
+  - Others, including educators, novelists, and scholars, criticized the term's binary nature and its narrow perspective.
+  
+- **Historical Significance of Du Bois's Work**
+  - Du Bois's "The Souls of Black Folk" is historically crucial as it marked the first revelation of the social and psychological realities of Negro life in America.
+  - David Levering Lewis emphasized the text's impact on confronting white America's denial and hypocrisy.
+
+- **Opposition to Booker T. Washington**
+  - Du Bois was a vocal critic of Washington's accommodationist stance.
+  - Argued that Washington was picked as a leader because his views aligned with white expectations.
+  - Du Bois was more militant, demanding comprehensive rights for African Americans.
+
+- **Du Bois's Activism and Publications**
+  - Founded or was involved in multiple organizations and movements such as the Niagara Movement, NAACP, and Pan-African movement.
+  - As an editor of "The Crisis," Du Bois had significant influence over the Harlem Renaissance and the "New Negro" movement.
+  - However, he had a nuanced response to the cultural emphasis of many African American authors and artists, welcoming their creativity but critiquing their reliance on white patrons.
+
+- **Later Life and Stance on Segregation**
+  - The 1930s economic depression saw Du Bois advocate for "voluntary segregation."
+  - He believed that economic self-sufficiency and racial solidarity could be achieved through this approach, considering the country's reluctance towards racial integration.
+  - Due to his separatist views, he was ousted from the NAACP in 1934.
+
+- **Final Years and Lasting Impact**
+  - Du Bois was a prolific author until his death, publishing works that tackled topics like black reconstruction, racial concepts, imperialism, and African independence.
+  - His increasing interest in Communism and the Soviet Union made him a suspicious figure in the US, leading to a trial and passport revocation.
+  - In his final years, Du Bois renounced his U.S. citizenship, joined the Communist Party, and moved to Ghana, where he continued his work until his death in 1963.
+
+**Key Idea:** W.E.B. Du Bois remains a pivotal figure in African American literature and culture, with his works, especially the concept of "double consciousness," sparking crucial debates on racial identity and consciousness in America.
+
 ## The Souls of Black Folk
 ### *From* Chapter I. Of Our Spiritual Strivings
 
+**Summary: Du Bois on Literary Criticism and the Role of Art in Politics**
+
+- **Art as Propaganda**
+  - Du Bois posits that all art inherently serves as propaganda.
+  - He urges African American creators to champion Truth and Beauty in their works.
+  - Recognizes the challenges that systemic racism and marketplace conditions pose to Black artistic achievements.
+  
+- **Tension Between Art and Politics**
+  - Highlights the dichotomy faced by politically-conscious literary intellectuals.
+  - While promoting the advancement of the African American cause, Du Bois also underscores the need for authentic representation of Black life.
+  
+- **Reception vs. Production**
+  - Though primarily focused on the role of art, Du Bois hints at the significance of how art is received by audiences.
+  - Questions the influence of art on shaping the broader American perception of African Americans and its potential impact on readers' socio-political views.
+  
+- **Critique of Du Bois's Viewpoint**
+  - Some view his stance—that art should solely serve propaganda—as limiting, pointing to his appreciation of works like Cologne's cathedral and the Venus de Milo.
+  - Du Bois values these pieces for their inherent beauty, which seems at odds with his propagandistic perspective on art.
+  
+- **Comparative Insights**
+  - Du Bois's perspective is part of a broader African American discourse on art and its role.
+  - Other notable figures like Zora Neale Hurston, Richard Wright, James Baldwin, Ralph Ellison, Amiri Baraka, and Toni Morrison have recognized Du Bois's significance but also stress the importance of creative freedom, sometimes in contrast to Du Bois's views.
+
+**Key Idea:** Du Bois sees art as a powerful vehicle for propaganda, emphasizing its role in furthering the African American cause, even as he grapples with the tension between artistic expression and political imperatives.
+
+![[Pasted image 20231022144653.png]]
 ## Criteria of Negro Art
 
+**Criteria of Negro Art: Dr. Du Bois's Perspective on the Role of Art in the Black Struggle**
 
+- **Significance of Discussing Art**:
+  - Dr. Du Bois addresses potential confusion regarding the focus on art in a meeting that typically focuses on the rights and struggles of black people.
+  - He argues that discussing art is integral to the greater fight they are engaged in, as it represents a broader vision and aspiration.
 
+- **Quest for American Identity**:
+  - The ultimate desire is to be acknowledged and treated as full-fledged Americans with equal rights.
+  - Dr. Du Bois challenges this desire by asking if merely being recognized as American is enough, hinting at a deeper need for cultural and artistic recognition.
 
+- **Unique African American Perspective**:
+  - Black individuals possess a distinct perspective on America that white Americans lack.
+  - This unique view is both a gift and a responsibility, as it enables them to envision an improved America.
+
+- **Examples of Beauty and Cultural Disconnect**:
+  - Du Bois recounts his experience at Scotland’s “Lady of the Lake,” illustrating how some Americans failed to appreciate its beauty.
+  - He poses a hypothetical: if black individuals suddenly gained wealth, power, and recognition, would they chase superficial pleasures, or would they seek something deeper and more meaningful?
+  
+- **The Essence of Beauty**:
+  - Dr. Du Bois presents four examples that represent beauty to him, ranging from architectural marvels to natural scenes to artistic masterpieces.
+  - He emphasizes that beauty is diverse and abundant, yet many are denied access to it.
+
+- **Conclusion & Appeal**:
+  - The world is replete with beauty, but many people, especially black individuals, are deprived of it due to societal structures and prejudice.
+  - The call is to allow the world to experience beauty and to restore the simple pleasures of life to everyone.
+
+**Key Idea**: Dr. Du Bois underscores the importance of art and beauty in the broader struggle for black rights, highlighting the unique perspective that black individuals bring to the understanding and appreciation of beauty in the world.
+
+**Summary: Significance of Beauty, Truth, and Historical Appreciation for the African American Community**
+
+- **New Stirrings Among African Americans**
+  - Within the African American community, there is a new sense of joy, creation, and purpose.
+  - The new generation of African American youth is different, bearing the promise of change and a brighter future.
+
+- **Role of Beauty in the World**
+  - Question arises: What is the relationship between Beauty, Truth, and Goodness?
+  - Artists might argue that beauty has no connection to truth or morality.
+  - The author believes that Beauty, Truth, and Right are interconnected in the present world.
+
+- **Rediscovery and Pride in African American History**
+  - There was a time when the African American community was ashamed of its past.
+  - Now, there is a growing appreciation and pride in that history, realizing its richness and depth.
+  - The author refers to an individual named Carter G. Woodson, who played a significant role in recognizing and celebrating African American history.
+
+- **Narratives Depicting the Black Experience**
+  - The story of a family divided by racial identity, leading to a tragic end.
+  - An incident in a Southern town highlighting racial tensions and the precarious position of black professionals.
+  - The story of World War I in German East Africa, where black soldiers greatly outnumbered white soldiers. Their contributions were overlooked, with the narrative often attributing victory solely to the English and Belgians.
+
+**Key Idea:** The African American community is experiencing a renaissance of appreciation for its rich history and is seeking to find the intersection of Beauty, Truth, and Right in its journey.
+
+**Understanding the Recognition and Challenges of Colored Artists**
+
+- **Stereotypes and Biases**:
+  - Historically, both colored and white individuals believed that the work of colored people was inferior solely due to their color.
+  - New realizations suggest that the works of black artists aren't always inferior, using the example of Countée Cullen's poetry being mistakenly attributed to famous white poets.
+  
+- **Recognition**:
+  - Despite their challenges, Negro artists like Cullen, Hughes, Fauset, and White are starting to receive acknowledgment.
+  - Some believe that this newfound recognition is the solution to racial issues, suggesting that colored individuals should focus on work and excellence rather than fighting against discrimination.
+  
+- **Suspicion of the Growing Recognition**:
+  - There is a belief that white individuals are embracing colored artists in hopes of quieting racial agitation.
+  - Some colored people are eager to heed this advice, desiring rewards over fights and valuing the money and publicity.
+  - The NAACP believes in the continuous fight for Truth and Freedom, suggesting that these ideals aren't fully realized yet.
+
+- **Notable Figures and Examples**:
+  - A black woman in New York is self-teaching sculpture due to lack of acceptance in schools.
+  - Richard Brown, a talented individual, died from neglect. If he were white, he might have received better attention.
+  - A colored musician in Chicago was denied a chance to study at a renowned music school due to racial requirements.
+
+- **Representation in Media and Literature**:
+  - Colored individuals are often portrayed in negative, sordid roles in white-authored novels and essays.
+  - Authentic stories about colored lives, when written by black authors, are often rejected unless they align with white stereotypes. One young man's story was only accepted when he changed the characters' races and sent it under a pseudonym.
+
+**Key Idea**: The text addresses the changing perspectives on the work of colored artists, highlighting both the newfound recognition they're receiving and the ongoing challenges they face due to racial prejudices.
+
+**Summary: Recognition of Black Artists and the Struggles of Artistic Expression**
+
+- **Accidental Success of Black Artists**
+  - Many talented Black artists exist but only a few are recognized, often due to chance or external validation.
+  - Roland Hayes' talent was acknowledged in America only after he was celebrated in Europe.
+
+- **Art's Role in Expressing Truth**
+  - Black America has a duty to create, preserve, and realize Beauty.
+  - Artists use Truth, not in a scientific way, but as a means to fuel imagination and foster understanding.
+  - Goodness in art gains sympathy and human interest, making artists apostles of Truth and Right.
+
+- **Art as Propaganda**
+  - All art can be seen as propaganda, promoting a particular message or ideology.
+  - The author believes in art used for positive propaganda and criticizes art that is one-sided or misrepresents the Black experience.
+
+- **Bias in White Art and Literature**
+  - Examples like "White Cargo" and "Congo" show racial biases in how Black and white characters are portrayed.
+  - White artists have limitations in expressing truths about their own communities, often choosing to depict Black communities instead.
+  - White audiences have preset racial judgments that influence the kind of art they appreciate.
+
+- **Challenges for Emerging Black Artists**
+  - Black artists face many cultural and societal barriers.
+  - They need to fight against outdated customs, religious superstitions, and societal expectations.
+  - The Black community relies on white approval for artistic works, which needs to change.
+
+- **The Ultimate Goal of Black Art**
+  - True art from Black artists will be recognized as human, challenging racial prejudices.
+  - The essence of Black art will be both familiar and unique, echoing ancient themes with fresh perspectives.
+
+**Key Idea**: The recognition and success of Black artists is often influenced by biases and external validation, but there's an inherent need for Black America to produce and recognize genuine art that authentically represents their experiences and truths.
 # VIRGINIA WOOLF
 
 ## A Room of One’s Own

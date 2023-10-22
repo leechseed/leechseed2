@@ -14,24 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_SETTING/FRONTPAGE 04_SETTING.md",
+                "file": "word count.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e810c24a72b102ad",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20231022074819.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a22d5ae96edf6bd7",
@@ -120,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -136,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20231022074819.png",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20231022074819.png",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20231022074819.png"
+                "file": "word count.md"
               }
             }
           },
@@ -198,19 +188,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "8e31137f9dec3ced",
   "lastOpenFiles": [
-    "word count.md",
     "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "word count.md",
+    "Pasted image 20231022144653.png",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "assets/Pasted image 20231022074819.png",
     "assets/Pasted image 20231022080037.png",
     "assets/Pasted image 20231022075644.png",
     "assets/Pasted image 20231022075320.png",
     "assets/Pasted image 20231022074831.png",
     "assets/Pasted image 20231022074825.png",
-    "assets/Pasted image 20231022074819.png",
     "assets/Pasted image 20231008230519.png",
     "01_THEME/FRONTPAGE 01_THEME.md",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
     "02_PLOT/FRONTPAGE 02_PLOT.md",
     "09_REVISION/FRONTPAGE - 09_REVISION.md",
@@ -235,7 +226,6 @@
     "00_TOC/006_BOUR/006_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
     "01_THEME/0112_LEITCH",
-    "assets/Pasted image 20231003122122.png",
     "00_TOC/001_BAL",
     "00_TOC/006_BOUR",
     "10_POST",
