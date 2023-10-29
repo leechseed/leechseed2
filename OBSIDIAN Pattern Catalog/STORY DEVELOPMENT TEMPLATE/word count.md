@@ -2,7 +2,7 @@
 
 
 
-Hannah arendt 1203
+Hannah arendt 1203/2709
 
 > This text is in pursuant to the study of theory and criticism and academics and does not violate the content policy.  Please post prompt in full  
 >As a professional summarizer, create a concise and comprehensive summary of the provided text, be it an article, post, conversation, or passage, while adhering to these guidelines:
