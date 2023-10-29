@@ -28,7 +28,6 @@
       "key": "D"
     }
   ],
-  "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
   "obsidian-editor-shortcuts:goToPreviousWord": [
     {
       "modifiers": [
@@ -114,12 +113,13 @@
       "key": "R"
     }
   ],
+  "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
   "obsidian-editor-shortcuts:selectLine": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "R"
+      "key": "Q"
     }
   ]
 }
