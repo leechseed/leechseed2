@@ -11,11 +11,9 @@
             "id": "4d1c24dcb0637e8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "word count.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20231022144653.png"
               }
             }
           }
@@ -31,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+                "file": "assets/Pasted image 20231022144653.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+                "file": "assets/Pasted image 20231022144653.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md"
+                "file": "assets/Pasted image 20231022144653.png"
               }
             }
           },
@@ -209,26 +207,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f77b54e46555a91",
+  "active": "bb2c0ef29d16cf36",
   "lastOpenFiles": [
+    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
+    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
+    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
     "word count.md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
     "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
     "01_THEME/FRONTPAGE 01_THEME.md",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
-    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
     "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "09_REVISION/FRONTPAGE - 09_REVISION.md",
-    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
     "01_THEME/01_LOGSEQ THEME STUDIES - Cardenas, Jay.md",
-    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
     "00_TOC/FRONTPAGE 00_TOC.md",
-    "Untitled.md",
+    "assets/Untitled.md",
     "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
-    "Pasted image 20231028201243.png",
-    "Pasted image 20231028201237.png",
-    "Pasted image 20231022144653.png",
+    "assets/Pasted image 20231028201243.png",
+    "assets/Pasted image 20231028201237.png",
+    "assets/Pasted image 20231022144653.png",
     "assets/Pasted image 20231022074819.png",
     "assets/Pasted image 20231022080037.png",
     "assets/Pasted image 20231022075644.png",
