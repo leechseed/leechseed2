@@ -11,9 +11,11 @@
             "id": "4d1c24dcb0637e8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20231022144653.png"
+                "file": "word count.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -29,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20231022144653.png",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20231022144653.png",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20231022144653.png"
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md"
               }
             }
           },
@@ -207,15 +209,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "3f77b54e46555a91",
   "lastOpenFiles": [
+    "word count.md",
+    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
+    "02_PLOT/FRONTPAGE 02_PLOT.md",
+    "templates/template for steps.md",
+    "assets/Pasted image 20231022144653.png",
     "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
     "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
     "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
     "04_SETTING/FRONTPAGE 04_SETTING.md",
-    "word count.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
     "01_THEME/FRONTPAGE 01_THEME.md",
     "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "09_REVISION/FRONTPAGE - 09_REVISION.md",
@@ -226,7 +231,6 @@
     "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
     "assets/Pasted image 20231028201243.png",
     "assets/Pasted image 20231028201237.png",
-    "assets/Pasted image 20231022144653.png",
     "assets/Pasted image 20231022074819.png",
     "assets/Pasted image 20231022080037.png",
     "assets/Pasted image 20231022075644.png",
@@ -235,7 +239,6 @@
     "assets/Pasted image 20231022074825.png",
     "assets/Pasted image 20231008230519.png",
     "00_TOC/001_BAL/001_wk_Narratology - BAL, MIEKE.md",
-    "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
     "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "00_TOC/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
     "00_TOC/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
@@ -244,7 +247,6 @@
     "00_TOC/003_MCKEE/003_Story - MCKEE, ROBERT.md",
     "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
     "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "00_TOC/006_BOUR/006_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "01_THEME/0112_LEITCH",
     "00_TOC/001_BAL",
     "00_TOC/006_BOUR",
