@@ -28414,9 +28414,22 @@ Historical narratives, deeply intertwined with figurative language and literary 
 
 # ADRIENNE RICH
 
+## *From* Compulsory Heterosexuality and Lesbian Existence
+
+
+
 # CHINUA ACHEBE
 
+## An Image of Africa: Racism in Conrad’s *Heart of Darkness*
+
+
 # ADUNIS
+## An Introduction to Arab Poetics
+### *From* Chapter 1. Poetics and Orality in the *Jāhiliyya*
+
+### *From* Chapter 4. Poetics and Modernity
+
+
 
 # HAROLD BLOOM
 
