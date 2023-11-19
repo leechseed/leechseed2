@@ -1,0 +1,142 @@
+<mxfile host="Electron" modified="2023-11-19T19:22:46.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="boobt3se0JjmDzAz1GeE" version="22.1.2" type="device">
+  <diagram name="Page-1" id="smcQzOhiuEvdkw2aSfRC">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I2OX1gjJgS594v17q29d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-1" value="Narratology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-2" target="I2OX1gjJgS594v17q29d-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-2" value="Theory of Composition" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-6" target="I2OX1gjJgS594v17q29d-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-6" value="Patterns" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-7" target="I2OX1gjJgS594v17q29d-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-7" value="Research" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-8" target="I2OX1gjJgS594v17q29d-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-8" value="Narrator" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-9" target="I2OX1gjJgS594v17q29d-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-9" value="Characters" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-10" target="I2OX1gjJgS594v17q29d-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-10" value="Syuzhet" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-11" target="I2OX1gjJgS594v17q29d-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-11" value="Fabula" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-12" target="I2OX1gjJgS594v17q29d-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-12" value="Diegeis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-13" target="I2OX1gjJgS594v17q29d-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-13" value="Mimesis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-14" target="I2OX1gjJgS594v17q29d-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-14" value="Expression" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2OX1gjJgS594v17q29d-1" target="I2OX1gjJgS594v17q29d-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-28" value="The plot (Syuzhet) is the sequence and manner in which events are presented in the narrative" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-30" value="The story (Fabula) is the chronological sequence of events as they occurred in the world of the story." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-32" value="Diegesis refers to the narrative world.&amp;nbsp;A diegetic element is part of the story world (like dialogue)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-34" value="&amp;nbsp;Mimesis refers to the representation of the story.&amp;nbsp;a mimetic element represents the story (like a descriptive passage)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-36" value="The individuals portrayed in a narrative, they are distinguished by their traits, roles, and functions within the story." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-38" value="The entity through which a story is told.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-40" value="Authorship" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="750" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-42" value="Literature that specifically focuses on Narratology" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-44" value="The relationship between one text and others that surround it. (Intertextuality) Narratology also studies the recurring types or categories of narratives&amp;nbsp; they might contain. (Genres)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-46" value="Introduces a myriad of theories, models, and philosophies surrounding narrative and story. Using these tenets of story, the goal is to distill and craft my own theory of composition." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-74" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="250" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-71" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;THE&lt;br&gt;PAT&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;RES&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;NAR&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;CHA&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;SYU&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;FAB&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;DIE&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;MIM&lt;/span&gt;&lt;br style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;EXP&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="60" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="I2OX1gjJgS594v17q29d-77" value="&lt;font color=&quot;#000000&quot;&gt;NOLOGY::&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
