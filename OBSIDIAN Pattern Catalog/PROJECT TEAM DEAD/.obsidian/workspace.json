@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 CHARACTER/03 CHARACTER - RESEARCH.md",
+                "file": "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#06_OTL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 CHARACTER/03 CHARACTER - RESEARCH.md"
+                "file": "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md"
               }
             }
           }
@@ -166,13 +167,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c840da9eb9785af",
+  "active": "84c1c287f83a3953",
   "lastOpenFiles": [
+    "02 PLOT/02 PLOT - FRONTPAGE.md",
+    "01 THEME/01 THEME - FRONTPAGE.md",
+    "03 CHARACTER/03 CHARACTER - RESEARCH.md",
     "03 CHARACTER/03 CHARACTER - FRONTPAGE.md",
     "04 SETTING/04 SETTING - FRONTPAGE.md",
     "08 FUZZY CLASSIFIER/08 FUZZY CLASSIFIER - FRONTPAGE.md",
-    "02 PLOT/02 PLOT - FRONTPAGE.md",
-    "01 THEME/01 THEME - FRONTPAGE.md",
     "05 (EQE) EQUIPOISE/05 EQUIPOISE - FRONTPAGE.md",
     "10 MEDIA FOLDER/Pasted image 20230805204820.png",
     "10 MEDIA FOLDER",
@@ -181,7 +183,6 @@
     "00 TAG SHEET.md",
     "03 CHARACTER/1HF - MARIA.md",
     "10 MEDIA FOLDER/Pasted image 20230805205439.png",
-    "03 CHARACTER/03 CHARACTER - RESEARCH.md",
     "10 MEDIA FOLDER/Pasted image 20230805204823.png",
     "INBOX_NOTES.md",
     "09 MGMT/09 MGMT - FRONTPAGE.md",
