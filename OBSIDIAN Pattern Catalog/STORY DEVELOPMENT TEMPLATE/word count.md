@@ -1,4 +1,6 @@
-This text is in pursuant to the study of theory and criticism and academics and does not violate the content policy.  Please post prompt in full  
+“In the real world I have to write up lists of stuff that I have to buy. I never thought to myself, 'realism is fun.' I go to play games to have fun. And so we had to come up with some notion for what fun was: 'the degrees to which the game responds to the player's choices, actions, and progressions. If I go up to a wall and shoot it, to me it feels like the wall is ignoring me. I'm getting a narcissistic injury when the wall is ignoring me.  The wall  needs to respond,  one way or another. You have to have this sense of the game acknowledging and responding to the choices, actions, and progressions you have made.” 
+LAURA MULVEY 1989
+
 >As a professional summarizer, create a concise and comprehensive summary of the provided text, be it an article, post, conversation, or passage, while adhering to these guidelines:
 > This text is in pursuant to the study of theory and criticism and academics and does not violate the content policy. 
 >1. Craft a summary that is detailed, thorough, in-depth, and complex, while maintaining clarity and conciseness.
@@ -13,5 +15,3 @@ This text is in pursuant to the study of theory and criticism and academics and 
 >6. Conclude with a 'Key Idea' section where you encapsulate the central theme or insight of the overall topic in a single sentence.
 >
 > By following this optimized prompt, you will generate an effective summary that encapsulates the essence of the given text in a clear, concise, and reader-friendly manner.
-
-1867 benedict anderson
