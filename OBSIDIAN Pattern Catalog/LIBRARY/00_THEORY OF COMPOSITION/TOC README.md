@@ -157,7 +157,7 @@ Dramatica is a storytelling model that places a strong emphasis on structure, us
 |   | BOWELS, MEG        | How to Tell a Story (like the Moth)                         |
 
 |   | DUNNE, WILL        | Character, Scene, and Story                                 |
-| x | DUNNE, WILL        | The Architecture of Story                                 |
+|  | DUNNE, WILL        | The Architecture of Story                                 |
                     |
 |   | LETWIN, DAVID      | The Architecture of Drama: plot, character, theme, genre, and style |
 |   | LAWS, ROBIN D.     | Drama System OGL                                           |
@@ -182,7 +182,7 @@ A uniquely theatre based structure of story. There are many similarities that ar
 |---|---------------------|------------------------------------------------------|
 
 |   | BREAULT, MIKE       | The Art and Craft of Narrative Design                |
-| x | BERGER, ROSS        | Dramatic Storytelling & Narrative Design              |
+
 |   | FIELDS, TIM         | Game Development 2042                                |
                 |
 |   | HEUSSNER, TOBIAS    | The Advanced Game Narrative                          |
@@ -191,12 +191,6 @@ A uniquely theatre based structure of story. There are many similarities that ar
 |   | HOWARD, JEFF        | Quests                                               |
 |   | LAMBERT, JOE        | Digital Storytelling                                 |
 
-
-
-### 005_Dramatic Storytelling & Narrative Design - BERGER, ROSS
-An interesting introduction to Transmedia in the realm of Video Games. What I Wanted to glean from this book is how transmedia can be applied to literature. The most important takes from this book are the broadest of strokes. 
-*I believe the best lessons I learned from this is to prepare for growth by having good documentation. Good documentation IE: an Obsidian notebook with the development notes available to those in different industries. This will empower those in other industries to understand the meat under the bikini so to speak.* 
-[Dramatic Storytelling](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=00_TOC%2F00_BERGER%2F01_Dramatic%20Storytelling%20%26%20Narrative%20Design%20-%20BERGER%2C%20ROSS)
 
 
 

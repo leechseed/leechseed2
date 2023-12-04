@@ -25,9 +25,19 @@
 |   | NICKLIN, HANNAH     | Writing for Games                                    |
 |   | PAULSEN, KLAUS SOMMER | Integrated Storytelling by Design                  |                             |
 |   | ZEGAL, JOSE PABLO   | Role-playing game studies: transmedia foundations    |
+| x | BERGER, ROSS        | Dramatic Storytelling & Narrative Design              |
+
 
 # Artificial Intelligence GPT
 
 |   | ANAND, M            | ChatGPT Excel Mastery       |
 |   | ANAND, M            | ChatGPT Word Mastery        |
 |   | IBRAHIM, JOHN       | The Art of Asking ChatGPT   |
+
+
+### 005_Dramatic Storytelling & Narrative Design - BERGER, ROSS
+An interesting introduction to Transmedia in the realm of Video Games. What I Wanted to glean from this book is how transmedia can be applied to literature. The most important takes from this book are the broadest of strokes. 
+*I believe the best lessons I learned from this is to prepare for growth by having good documentation. Good documentation IE: an Obsidian notebook with the development notes available to those in different industries. This will empower those in other industries to understand the meat under the bikini so to speak.* 
+[Dramatic Storytelling](obsidian://open?vault=STORY%20DEVELOPMENT%20TEMPLATE&file=00_TOC%2F00_BERGER%2F01_Dramatic%20Storytelling%20%26%20Narrative%20Design%20-%20BERGER%2C%20ROSS)
+
+
