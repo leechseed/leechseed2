@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01266752bd400697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_PLOT/FRONTPAGE 02_PLOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c35bc1af27b1e5bb",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "caeb8b66c5318846",
@@ -56,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TOC/FRONTPAGE 00_TOC.md"
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md"
               }
             }
           },
@@ -212,20 +199,43 @@
   },
   "active": "f547bad346426966",
   "lastOpenFiles": [
-    "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
-    "08_FUZZ INTERTEXT AND GENRES/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
-    "08_FUZZ INTERTEXT AND GENRES",
-    "00_TOC/FRONTPAGE 00_TOC.md",
+    "01_THEME/THEME README.md",
+    "02_PLOT SYUHZET/PLOT SYUHZET README.md",
+    "02_PLOT SYUHZET/FRONTPAGE 02_PLOT.md",
+    "02_PLOT SYUHZET",
+    "09_PUBLICATION/PUBLICATION README.md",
+    "09_PUBLICATION/FRONTPAGE - 09_REVISION.md",
+    "09_PUBLICATION",
+    "03_CHARACTER/CHARACTER README.md",
+    "04_SETTING/SETTING README.md",
+    "05_SEQUENCE FABULA/SEQUENCE FABULA README.md",
+    "05_SEQUENCE FABULA/FRONTPAGE - 05_EQE (EQUIPOISE).md",
+    "05_SEQUENCE FABULA",
+    "07_DIEGESIS/DIEGESIS README.md",
+    "06_NARRATOR/NARRATOR README.md",
+    "06_NARRATOR/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
+    "06_NARRATOR",
+    "07_DIEGESIS/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
+    "07_DIEGESIS",
     "01_THEME/FRONTPAGE 01_THEME.md",
-    "04_SETTING/0041_BOUR/00411_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
-    "word count.md",
-    "word count KOBOLD.md",
-    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
-    "00_TOC/006_BOUR/0060_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+    "00_THEORY OF COMPOSITION/TOC README.md",
+    "00_TOC/FRONTPAGE 00_TOC.md",
+    "00_THEORY OF COMPOSITION/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_THEORY OF COMPOSITION/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_THEORY OF COMPOSITION/006_BOUR/0060_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "00_THEORY OF COMPOSITION/006_BOUR/0060_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "00_THEORY OF COMPOSITION/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "00_THEORY OF COMPOSITION/003_MCKEE/003_wk_Story - MCKEE, ROBERT.md",
+    "00_THEORY OF COMPOSITION/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "00_THEORY OF COMPOSITION/003_MCKEE/003_Story - MCKEE, ROBERT.md",
+    "00_THEORY OF COMPOSITION/004_DUNNE/004_wk_The Architecture of Story - DUNNE, WILL.md",
+    "00_THEORY OF COMPOSITION/007_LEIGH",
+    "00_THEORY OF COMPOSITION/006_BOUR",
+    "00_THEORY OF COMPOSITION/005_BERGER",
+    "00_THEORY OF COMPOSITION/003_MCKEE",
+    "00_THEORY OF COMPOSITION/004_DUNNE",
     "assets/Pasted image 20231204061043.png",
-    "00_TAG SHEET.md",
     "assets/Pasted image 20231204064157.png",
     "assets/Pasted image 20231204064134.png",
     "assets/Pasted image 20231204064118.png",
@@ -234,29 +244,6 @@
     "assets/Pasted image 20231204063939.png",
     "assets/Pasted image 20231204063633.png",
     "assets/Pasted image 20231204063247.png",
-    "assets/Pasted image 20231204063234.png",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
-    "04_SETTING/0041_BOUR",
-    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
-    "templates/template for steps.md",
-    "assets/Untitled.md",
-    "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
-    "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
-    "00_TOC/006_BOUR/0060_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_TOC/004_DUNNE/004_wk_The Architecture of Story - DUNNE, WILL.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
-    "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
-    "09_REVISION/FRONTPAGE - 09_REVISION.md",
-    "01_THEME/0112_LEITCH",
-    "00_TOC/001_BAL",
-    "00_TOC/006_BOUR",
-    "10_POST",
-    "00_TOC/004_DUNNE",
-    "00_TOC/007_LEIGH",
-    "00_TOC/005_BERGER",
-    "01_THEME/0111_BLOOM, HAROLD/01_wk_BOOKS BLOOM"
+    "assets/Pasted image 20231204063234.png"
   ]
 }

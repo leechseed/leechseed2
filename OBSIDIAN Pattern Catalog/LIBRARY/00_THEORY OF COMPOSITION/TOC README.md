@@ -110,22 +110,19 @@ In my opinion, this kind of approach from authors, who seem more focused on prom
 
 | X | Author's Last Name          | Book Title                                          |
 |---|----------------------------|-----------------------------------------------------|
-|   | AABRAMS, J.J.              | LOST                                                |
-|   | AARONSON, LINDA            | The 21st Century Screenplay                         |
+
 |   | ALESSANDRA, PILAR          | The Coffee Break Screenwriter                       |
 |   | BLOCK, LAWRENCE            | Spider, spin me a web: a handbook for fiction writers|
 |   | BRINE, KELLY GORDON        | The Art of Cinematic Storytelling                    |
 |   | CHATMAN, SEYMOUR BENJAMIN  | Story and Discourse                                  |
 |   | CLARK, ROY PETER           | Writing Tools                                       |
 |   | DANCYGER, KEN              | Storytelling for Film and Television                |
-|   | DUFFER, MATT               | Stranger Things Bible                               |
+Bible                               |
 |   | FINK, EDWARD J.            | Dramatic Story Structure                            |
-|   | FRAYNE, CLIVE              | The Process of Screenwriting                        |
-|   | GULINO, PAUL               | Screenwriting The Sequence Approach Continuum       |
-|   | LANDAU, NEIL               | TV Writing On Demand                                |
+Demand                                |
 | x | MCKEE, ROBERT               | Story Substance, Structure, Style, and the Principles of Screenwriting   |
 | x | PHILLIPS, MELANIE ANNE & HUNTLEY, CHRIS | Dramatica                                |
-|   | PIXAR STORYTELLING RULES   | Pixar Storytelling Rules                            |
+Rules                            |
 |   | RABIGER, MICHAEL           | Developing Story Ideas                              |
 
 
@@ -158,13 +155,12 @@ Dramatica is a storytelling model that places a strong emphasis on structure, us
 | X | Author's Last Name | Book Title                                 |
 |---|--------------------|--------------------------------------------|
 |   | BOWELS, MEG        | How to Tell a Story (like the Moth)                         |
-|   | DONOVAN, RYAN      | The Routledge Companion to Musical Theatre                   |
+
 |   | DUNNE, WILL        | Character, Scene, and Story                                 |
 | x | DUNNE, WILL        | The Architecture of Story                                 |
-|   | FRANCESCHINA, JOHN | Music Theory Through Musical Theatre                        |
+                    |
 |   | LETWIN, DAVID      | The Architecture of Drama: plot, character, theme, genre, and style |
 |   | LAWS, ROBIN D.     | Drama System OGL                                           |
-|   | RUDETSKY, SETH     | Musical Theatre for Dummies                                |
 
 
 ### 004_The Architecture of Story by DUNNE, WILL
@@ -184,20 +180,17 @@ A uniquely theatre based structure of story. There are many similarities that ar
 
 | X | Author's Last Name  | Book Title                                           |
 |---|---------------------|------------------------------------------------------|
-|   | BARNEY, CHRISTOPHER | Pattern Language for Game Design                     |
+
 |   | BREAULT, MIKE       | The Art and Craft of Narrative Design                |
 | x | BERGER, ROSS        | Dramatic Storytelling & Narrative Design              |
 |   | FIELDS, TIM         | Game Development 2042                                |
-|   | GAZAWAY, DAX        | Introduction to Game Systems Design                  |
+                |
 |   | HEUSSNER, TOBIAS    | The Advanced Game Narrative                          |
 |   | HEUSSNER, TOBIAS    | The Game Narrative Toolbox                           |
 |   | HOWARD              | You're Gonna Need a Bigger Story                     |
 |   | HOWARD, JEFF        | Quests                                               |
 |   | LAMBERT, JOE        | Digital Storytelling                                 |
-|   | MCERLEAN, KELLY     | Interactive Narratives and Transmedia Storytelling   |
-|   | NICKLIN, HANNAH     | Writing for Games                                    |
-|   | PAULSEN, KLAUS SOMMER | Integrated Storytelling by Design                  |                             |
-|   | ZEGAL, JOSE PABLO   | Role-playing game studies: transmedia foundations    |
+
 
 
 ### 005_Dramatic Storytelling & Narrative Design - BERGER, ROSS
@@ -249,10 +242,9 @@ Bour's writings offer a comprehensive insight into the intricacies of creating a
 
 | X | Author's Last Name | Book Title                  |
 |---|--------------------|-----------------------------|
-|   | ANAND, M            | ChatGPT Excel Mastery       |
-|   | ANAND, M            | ChatGPT Word Mastery        |
+
 |   | FERGUSON, GENTRY B  | ChatGPT for Dummies         |
-|   | IBRAHIM, JOHN       | The Art of Asking ChatGPT   |
+
 | x | LEIGH, NOVA        | ChatGPT For Fiction Writing |
 |   | ROWE, DINAH         | The ChatGPT Revolution      |
 
