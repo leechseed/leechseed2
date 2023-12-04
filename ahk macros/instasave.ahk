@@ -6,8 +6,8 @@ ImageX := 601
 ImageY := 383
 
 ; DL for square pic
-TargetX := 412
-TargetY := 260
+TargetX := 503
+TargetY := 172
 
 
 ; DL for 3:4 pic

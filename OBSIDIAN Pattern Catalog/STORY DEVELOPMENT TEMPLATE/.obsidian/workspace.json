@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TOC/006_BOUR/0061_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+                "file": "04_SETTING/0041_BOUR/00411_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md"
               }
             }
           },
@@ -192,8 +192,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,44 +210,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c35bc1af27b1e5bb",
+  "active": "f547bad346426966",
   "lastOpenFiles": [
-    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
     "word count.md",
+    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "00_TOC/006_BOUR/0060_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "00_TOC/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_TOC/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
+    "assets/Pasted image 20231204061043.png",
+    "00_TAG SHEET.md",
+    "assets/Pasted image 20231204064157.png",
+    "assets/Pasted image 20231204064134.png",
+    "assets/Pasted image 20231204064118.png",
+    "assets/Pasted image 20231204064035.png",
+    "assets/Pasted image 20231204064013.png",
+    "assets/Pasted image 20231204063939.png",
+    "assets/Pasted image 20231204063633.png",
+    "assets/Pasted image 20231204063247.png",
+    "assets/Pasted image 20231204063234.png",
+    "word count KOBOLD.md",
+    "04_SETTING/0041_BOUR/00411_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+    "04_SETTING/FRONTPAGE 04_SETTING.md",
+    "04_SETTING/0041_BOUR",
+    "03_CHARACTER/03_CORBETT/03_The Compass of Character - CORBETT, DAVID/03_The Compass of Character - CORBETT, DAVID.md",
+    "templates/template for steps.md",
+    "assets/Untitled.md",
     "00_TOC/001_BAL/001_Narratology - BAL, MIEKE.md",
     "00_TOC/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "00_TOC/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_TOC/004_DUNNE/004_The Architecture of Story - DUNNE, WILL.md",
     "00_TOC/006_BOUR/0060_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_TOC/006_BOUR/0060_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_TOC/006_BOUR/0061_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
     "00_TOC/004_DUNNE/004_wk_The Architecture of Story - DUNNE, WILL.md",
-    "word count KOBOLD.md",
-    "Pasted image 20231121002639.png",
-    "Pasted image 20231121002629.png",
-    "Pasted image 20231121002621.png",
-    "Pasted image 20231121002501.png",
     "00_TOC/FRONTPAGE 00_TOC.md",
     "02_PLOT/FRONTPAGE 02_PLOT.md",
-    "04_SETTING/FRONTPAGE 04_SETTING.md",
     "05_EQE/FRONTPAGE - 05_EQE (EQUIPOISE).md",
     "08_FUZZ/FRONTPAGE - 08_FUZZ (FUZZY CLASSIFIER).md",
     "07_ICOM/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
     "09_REVISION/FRONTPAGE - 09_REVISION.md",
     "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
     "03_CHARACTER/03_WRITERS DIGEST/03_wk_Creating Characters - WRITER'S DIGEST.md",
-    "00_TOC/001_BAL/001_wk_Narratology - BAL, MIEKE.md",
-    "01_THEME/0111_BLOOM, HAROLD/01_wk_BOOKS BLOOM/01_wk_CIVIL DISOBEDIENCE - BLOOM, HAROLD.md",
-    "00_TAG SHEET.md",
-    "templates/template for steps.md",
-    "assets/Pasted image 20231022144653.png",
-    "06_OLS/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "assets/Pasted image 20231028201243.png",
-    "assets/Pasted image 20231028201237.png",
-    "assets/Pasted image 20231022074819.png",
-    "assets/Pasted image 20231022080037.png",
-    "assets/Pasted image 20231022075644.png",
     "01_THEME/0112_LEITCH",
     "00_TOC/001_BAL",
     "00_TOC/006_BOUR",
@@ -257,7 +257,6 @@
     "00_TOC/007_LEIGH",
     "00_TOC/005_BERGER",
     "01_THEME/0111_BLOOM, HAROLD/01_wk_BOOKS BLOOM",
-    "01_THEME/0111_BLOOM, HAROLD/01_BOOKS BLOOM",
-    "00_TOC/002_DODD"
+    "01_THEME/0111_BLOOM, HAROLD/01_BOOKS BLOOM"
   ]
 }
