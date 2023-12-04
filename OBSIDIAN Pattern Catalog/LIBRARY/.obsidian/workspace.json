@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md"
+                "file": "word count.md"
               }
             }
           },
@@ -197,8 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f547bad346426966",
+  "active": "c35bc1af27b1e5bb",
   "lastOpenFiles": [
+    "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
     "01_THEME/THEME README.md",
     "02_PLOT SYUHZET/PLOT SYUHZET README.md",
     "02_PLOT SYUHZET/FRONTPAGE 02_PLOT.md",
@@ -218,7 +219,6 @@
     "07_DIEGESIS/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
     "07_DIEGESIS",
     "01_THEME/FRONTPAGE 01_THEME.md",
-    "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
     "00_THEORY OF COMPOSITION/TOC README.md",
     "00_TOC/FRONTPAGE 00_TOC.md",
     "00_THEORY OF COMPOSITION/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
