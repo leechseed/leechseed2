@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ebd4c5e9868ee8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_THEORY OF COMPOSITION/000_TOC README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ebd4c5e9868ee8e",
+  "active": "b189b9682ba33b2c",
   "lastOpenFiles": [
     "00_THEORY OF COMPOSITION/00011_BREAULT - The Art and Craft of Narrative Design.md",
     "00_THEORY OF COMPOSITION/000_TOC README.md",
