@@ -62,7 +62,7 @@
       {
         "id": "63f57af9659c9c57",
         "type": "tabs",
-        "dimension": 19.960079840319363,
+        "dimension": 19.96007984031936,
         "children": [
           {
             "id": "f4dc6e04bc4e0ce5",
@@ -104,7 +104,7 @@
       {
         "id": "8520f1e5031b3a15",
         "type": "tabs",
-        "dimension": 80.03992015968065,
+        "dimension": 80.03992015968063,
         "children": [
           {
             "id": "bb2c0ef29d16cf36",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md"
               }
             }
           },
@@ -197,8 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c35bc1af27b1e5bb",
+  "active": "bb2c0ef29d16cf36",
   "lastOpenFiles": [
+    "11_ETC",
+    "word count.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER",
@@ -230,8 +232,6 @@
     "00_THEORY OF COMPOSITION/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
     "00_THEORY OF COMPOSITION/006_BOUR/0060_Complete Kobold Guide - BOUR, WOLFGANG.md",
     "00_THEORY OF COMPOSITION/006_BOUR/0060_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_THEORY OF COMPOSITION/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "00_THEORY OF COMPOSITION/003_MCKEE/003_wk_Story - MCKEE, ROBERT.md",
     "00_THEORY OF COMPOSITION/007_LEIGH",
     "00_THEORY OF COMPOSITION/006_BOUR",
     "00_THEORY OF COMPOSITION/005_BERGER",
