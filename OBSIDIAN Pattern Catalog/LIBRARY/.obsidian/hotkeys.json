@@ -121,5 +121,24 @@
       ],
       "key": "Q"
     }
+  ],
+  "markdown:add-metadata-property": [],
+  "highlightr-plugin:Cyan": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }

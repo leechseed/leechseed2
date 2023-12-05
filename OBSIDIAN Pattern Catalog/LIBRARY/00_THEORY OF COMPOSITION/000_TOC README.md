@@ -5,6 +5,26 @@
 
 # Theory of Composition - Body of Knowledge
 
+# Update 12042023
+## 001-00011 are books focused on <mark style="background: #ABF7F7A6;">Theory</mark>
+
+| ID            | TITLE                                             | INTERTEXT  | DESCRIPTION |
+| ------------- | ------------------------------------------------- | ---------- | ----------- |
+| 001_BAL       | Narratology Introduction                          | Literature |             |
+| 002_EAGLETON  | Literary Theory                                   | Literature |             |
+| 003_PHILIPS   | Dramatica                                         | Screen     |             |
+| 004_HATAVARA  | Narrative theory, literature, and new media       | Transmedia |             |
+| 005_GAVINS    | Text World Theory                                 | Literature |             |
+| 006_HILLSDALE | Dexis in Narrative                                | Literature |             |
+| 007_MCKEE     | Story                                             | Screen     |             |
+| 008_ALISON    | Meander, Spiral, Explode                          | Literature |             |
+| 009_O'GORMAN  | Routledge Companion 21st Century Literary Fiction | Literature |             |
+| 00010_CRON    | Wired for Story                                   | Literature |             |
+| 00011_BREAULT | The Art and Craft of Narrative Design             | Video Game |             |
+
+
+
+
 ## 001_The Theory of Literature 
 
 *Literature forms the core foundation of my composition theory. From a post-modern viewpoint, all forms of art are seen as derivatives of language, a concept that stems from literary criticism. Therefore, whenever my composition theory encounters a challenge or issue, it should first seek answers within literature before exploring other mediums incorporated within the theory of composition.*

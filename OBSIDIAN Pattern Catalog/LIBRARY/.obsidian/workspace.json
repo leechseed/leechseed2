@@ -4,46 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a22d5ae96edf6bd7",
+        "id": "ac066a36a3e5b6ae",
         "type": "tabs",
         "children": [
           {
-            "id": "c35bc1af27b1e5bb",
+            "id": "b189b9682ba33b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "word count.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "caeb8b66c5318846",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f77b54e46555a91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_SETTING/0041_BOUR/00411_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+                "file": "00_THEORY OF COMPOSITION/000_TOC README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f547bad346426966",
+            "id": "3ebd4c5e9868ee8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+                "file": "00_THEORY OF COMPOSITION/000_TOC README.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +44,7 @@
       {
         "id": "63f57af9659c9c57",
         "type": "tabs",
-        "dimension": 19.960079840319363,
+        "dimension": 19.96007984031936,
         "children": [
           {
             "id": "f4dc6e04bc4e0ce5",
@@ -104,7 +86,7 @@
       {
         "id": "8520f1e5031b3a15",
         "type": "tabs",
-        "dimension": 80.03992015968065,
+        "dimension": 80.03992015968063,
         "children": [
           {
             "id": "bb2c0ef29d16cf36",
@@ -136,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "00_THEORY OF COMPOSITION/000_TOC README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "00_THEORY OF COMPOSITION/000_TOC README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "00_THEORY OF COMPOSITION/000_TOC README.md"
               }
             }
           },
@@ -183,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,43 +178,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c35bc1af27b1e5bb",
+  "active": "3ebd4c5e9868ee8e",
   "lastOpenFiles": [
+    "00_THEORY OF COMPOSITION/00011_BREAULT - The Art and Craft of Narrative Design.md",
+    "00_THEORY OF COMPOSITION/000_TOC README.md",
+    "00_THEORY OF COMPOSITION/00010_CRON - Wired for Story.md",
+    "00_THEORY OF COMPOSITION/009_O'GORMAN - Routledge Companion 21st Century Literary Fiction.md",
+    "00_THEORY OF COMPOSITION/008_ALISON - Meander, Spiral, Explode.md",
+    "00_THEORY OF COMPOSITION/007_MCKEE - Story.md",
+    "00_THEORY OF COMPOSITION/006_HILLSDALE - Dexis in Narrative.md",
+    "00_THEORY OF COMPOSITION/005_GAVINS - Text World Theory.md",
+    "00_THEORY OF COMPOSITION/004_HATAVARA - Narrative theory, literature, and new media.md",
+    "00_THEORY OF COMPOSITION/003_PHILIPS - Dramatica.md",
+    "00_THEORY OF COMPOSITION/001_BAL - Narratology Introduction.md",
+    "00_THEORY OF COMPOSITION/002_EAGLETON - Literary Theory.md",
+    "00_THEORY OF COMPOSITION/003_ALESSANDRA/003_wk_The Coffee Break Screenwriter - PILLAR, ALESSANDRA.md",
+    "00_THEORY OF COMPOSITION/004_MCKEE/004_Story - MCKEE, ROBERT.md",
+    "00_THEORY OF COMPOSITION/006_LEIGH/006_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_THEORY OF COMPOSITION/005_BOUR/0050_Complete Kobold Guide - BOUR, WOLFGANG.md",
+    "00_THEORY OF COMPOSITION/003_ DRAMATICA/003_Dramataica - Melanie Anne Phillips.md",
+    "00_THEORY OF COMPOSITION/002_READER'S DIGEST/002_The Complete Handbook of Novel Writing.md",
+    "00_THEORY OF COMPOSITION/002_DODD/002_The Writer's Compass - Dodd, Nancy Ellen.md",
+    "00_THEORY OF COMPOSITION/001_BAL/001_Narratology - BAL, MIEKE.md",
+    "00_THEORY OF COMPOSITION/006_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
+    "00_THEORY OF COMPOSITION/004_MCKEE/004_wk_Story - MCKEE, ROBERT.md",
+    "word count.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER",
     "01_THEME/THEME README.md",
-    "02_PLOT SYUHZET/PLOT SYUHZET README.md",
-    "02_PLOT SYUHZET/FRONTPAGE 02_PLOT.md",
     "02_PLOT SYUHZET",
-    "09_PUBLICATION/PUBLICATION README.md",
-    "09_PUBLICATION/FRONTPAGE - 09_REVISION.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
     "02_PLOT",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
     "09_PUBLICATION",
-    "03_CHARACTER/CHARACTER README.md",
-    "04_SETTING/SETTING README.md",
-    "05_SEQUENCE FABULA/SEQUENCE FABULA README.md",
-    "05_SEQUENCE FABULA/FRONTPAGE - 05_EQE (EQUIPOISE).md",
     "05_SEQUENCE FABULA",
-    "07_DIEGESIS/DIEGESIS README.md",
-    "06_NARRATOR/NARRATOR README.md",
-    "06_NARRATOR/FRONTPAGE 06_OLS (OUTBOUND LINGUISTICS SYSTEMS).md",
     "06_NARRATOR",
-    "07_DIEGESIS/FRONTPAGE 07_ICOM (INTRABOUND COMMUNICATIONS).md",
     "07_DIEGESIS",
-    "00_THEORY OF COMPOSITION/TOC README.md",
-    "00_TOC/FRONTPAGE 00_TOC.md",
-    "00_THEORY OF COMPOSITION/007_LEIGH/007_wk_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_THEORY OF COMPOSITION/007_LEIGH/007_ChatGPT For Fiction - LEIGH, NOVA.md",
-    "00_THEORY OF COMPOSITION/006_BOUR/0060_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_THEORY OF COMPOSITION/006_BOUR/0060_wk_Complete Kobold Guide - BOUR, WOLFGANG.md",
-    "00_THEORY OF COMPOSITION/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
-    "00_THEORY OF COMPOSITION/003_MCKEE/003_wk_Story - MCKEE, ROBERT.md",
-    "00_THEORY OF COMPOSITION/007_LEIGH",
-    "00_THEORY OF COMPOSITION/006_BOUR",
+    "00_THEORY OF COMPOSITION/006_LEIGH",
+    "00_THEORY OF COMPOSITION/005_BOUR",
     "00_THEORY OF COMPOSITION/005_BERGER",
     "assets/Pasted image 20231204061043.png",
     "assets/Pasted image 20231204064157.png",
