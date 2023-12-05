@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md"
+                "file": "word count.md"
               }
             }
           },
