@@ -17,5 +17,5 @@ def convert_to_pdf(directory):
                 print(f"Conversion of {file_path} failed with error:\n{e}")
 
 # example usage:
-directory = r"C:\Users\kckso\Downloads\Books\convert"
+directory = r"C:\Users\U01_LEECHSEED\Desktop\BOOKS\0.Unprocessed"
 convert_to_pdf(directory)

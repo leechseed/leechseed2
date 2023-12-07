@@ -2,7 +2,7 @@
 
 
 100011_MACGREGOR - Routledge Companion to Real Estate Investment
-100012_ANON - Real Estate Principles
+100012_LING - Real Estate Principles
 100013_BAUM - Real estate investment: strategies, structures, decisions
 100014_MOUROUZI - Market Analysis for Real Estate
 100015_HEATON - Essential Property Investment Calculations
