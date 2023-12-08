@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
+                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
                 "mode": "source",
                 "source": false
               }
@@ -197,8 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "c35bc1af27b1e5bb",
   "lastOpenFiles": [
+    "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "word count.md",
+    "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
+    "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
     "10_Post/10001_Real Estate/Real Estate README.md",
     "10_Post/10001_Real Estate/Real Estate README.mD",
     "10_Post/10001_Real Estate",
@@ -217,7 +221,6 @@
     "00_THEORY OF COMPOSITION/00011_BREAULT - The Art and Craft of Narrative Design.md",
     "00_THEORY OF COMPOSITION/00010_CRON - Wired for Story.md",
     "11_ETC",
-    "word count.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER/005_wk_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER/005_Dramatic Storytelling & Narrative Design - BERGER, ROSS.md",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER",
@@ -227,10 +230,7 @@
     "02_PLOT SYUHZET",
     "09_PUBLICATION/PUBLICATION README.md",
     "09_PUBLICATION/FRONTPAGE - 09_REVISION.md",
-    "02_PLOT/FRONTPAGE 02_PLOT.md",
     "02_PLOT",
-    "01_THEME/FRONTPAGE 01_THEME.md",
-    "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
     "09_PUBLICATION",
     "05_SEQUENCE FABULA",
     "06_NARRATOR",
