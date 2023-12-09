@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a22d5ae96edf6bd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c35bc1af27b1e5bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_POST/POST README.MD",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0766eecedc9c48ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11_ETC/11001_Real Estate/Real Estate README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "caeb8b66c5318846",
         "type": "tabs",
         "children": [
@@ -56,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+                "file": "word count.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11_ETC/11001_Real Estate/Real Estate README.md",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11_ETC/11001_Real Estate/Real Estate README.md",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11_ETC/11001_Real Estate/Real Estate README.md"
+                "file": "word count.md"
               }
             }
           },
@@ -210,13 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "f547bad346426966",
   "lastOpenFiles": [
-    "11_ETC/ETC README.md",
-    "10_POST/POST README.MD",
-    "11_ETC/11001_Real Estate/Real Estate README.md",
-    "word count.md",
     "01_THEME/0112_LEITCH/0112_Norton Anthology - LEITCH, VINCENT B..md",
+    "10_POST/POST README.MD",
+    "word count.md",
+    "11_ETC/11001_Real Estate/Real Estate README.md",
+    "11_ETC/ETC README.md",
     "01_THEME/0112_LEITCH/0112_wk_Norton Anthology - LEITCH, VINCENT B..md",
     "08_FUZZ INTERTEXT AND GENRES/FUZZ README.md",
     "10_Post/10001_Real Estate/Real Estate README.md",
