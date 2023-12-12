@@ -6,6 +6,7 @@
       {
         "id": "8293fc1f7749f85e",
         "type": "tabs",
+        "dimension": 54.22740524781341,
         "children": [
           {
             "id": "f547bad346426966",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "word count.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "40c884558417cb85",
         "type": "tabs",
+        "dimension": 45.77259475218659,
         "children": [
           {
             "id": "9bd1275b39047cb4",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md"
               }
             }
           },
@@ -184,8 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f547bad346426966",
+  "active": "9bd1275b39047cb4",
   "lastOpenFiles": [
+    "01_THEME/01000_THEME README.md",
+    "01_THEME/010017_CARDENAS - Logseq Notes.md",
+    "07_DIEGESIS/07000_DIEGESIS README.md",
+    "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
+    "09_PUBLICATION/09000_PUBLICATION README.md",
+    "02_PLOT SYUHZET/02000_PLOT SYUHZET README.md",
     "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
     "word count.md",
     "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
@@ -196,9 +204,6 @@
     "11_ETC/110001_Real Estate/1100010_Real Estate README.md",
     "10_WORKS/10000_WORKS README.md",
     "06_NARRATOR/06000_NARRATOR README.md",
-    "07_DIEGESIS/07000_DIEGESIS README.md",
-    "09_PUBLICATION/09000_PUBLICATION README.md",
-    "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
     "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md",
     "05_SEQUENCE FABULA/05000_SEQUENCE FABULA README.md",
     "assets/Pasted image 20231211193557.png",
@@ -213,10 +218,7 @@
     "assets/Pasted image 20231211194838.png",
     "assets/Pasted image 20231211194241.png",
     "00_THEORY OF COMPOSITION/00008_MCKEE - Story.md",
-    "00_THEORY OF COMPOSITION/00009_ALISON - Meander, Spiral, Explode.md",
-    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
     "desktop.ini",
-    "01_THEME/010016_LEITCH - Norton Anthology of Theory and Criticism.md",
     "10_Post/10001_Real Estate",
     "10_Post",
     "11_ETC",
