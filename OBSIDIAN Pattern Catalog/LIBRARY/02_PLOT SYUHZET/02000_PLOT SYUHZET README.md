@@ -22,3 +22,13 @@
 ## 027_Literature 
 
 ## 028__Plot REFERENCE
+
+
+---
+---
+---
+
+# Plot Syuhzet Lit Review 
+
+020001_PHILIPS - Dramatica
+
