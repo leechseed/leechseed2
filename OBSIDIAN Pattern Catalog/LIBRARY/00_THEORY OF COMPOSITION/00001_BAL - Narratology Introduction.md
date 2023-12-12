@@ -18,40 +18,41 @@
 
 **Foundational Concepts in Narratology**
 
-- **Narratology and Its Purpose:**
-  - Defines narratology as the study of narratives in various forms, including texts, images, and events.
-  - Aims to provide tools for understanding, analyzing, and evaluating narratives.
+- <mark>  **Narratology and Its Purpose:** 
+   - Defines narratology as the study of narratives in various forms, including texts, images, and events.
+   - Aims to provide tools for understanding, analyzing, and evaluating narratives. 
+  
 
-- **Theory of Narratology:**
+- <mark> **Theory of Narratology:**
   - Presents a theory as a set of generalized statements about a segment of reality, in this case, narrative texts.
   - Focuses on defining characteristics of narrative texts and their construction within a narrative system.
 
-- **Narrative Texts and System:**
+- <mark>  **Narrative Texts and System:**
   - Describes narrative texts as diverse, serving multiple purposes and functions.
   - Proposes that narrative texts can be analyzed using a finite set of concepts from the narrative system.
 
-- **Interpretation Tools:**
+- <mark>  **Interpretation Tools:**
   - Offers concepts in narratology as intellectual tools for interpreting narrative texts.
   - Emphasizes that these tools facilitate understanding and discussion, rather than providing definitive truths.
 
-- **Working Definitions in Narratology:**
+- <mark>  **Working Definitions in Narratology:**
   - Provides working definitions to clarify concepts and enable consistent understanding.
   - Defines a text as a finite, structured whole composed of various signs.
 
-- **Key Definitions in Narratology:**
-  - Narrative Text: A text where a story is told by an agent to an addressee using various mediums.
-  - Story: The content of the narrative text, giving particular manifestation to a fabula.
-  - Fabula: A series of logically and chronologically related events caused or experienced by actors.
+- <mark>  **Key Definitions in Narratology:**
+  - <mark> **Narrative Text:** </mark>  A text where a story is told by an agent to an addressee using various mediums.
+  - <mark> **Story**:</mark>  The content of the narrative text, giving particular manifestation to a fabula.
+  - <mark> **Fabula**:</mark>  A series of logically and chronologically related events caused or experienced by actors.
 
-- **Event and Actor Definitions:**
-  - Defines an event as a transition between states and actors as agents performing actions.
-  - Actors can be non-human, and actions are defined as causing or experiencing an event.
+- <mark> **Event and Actor Definitions:**
+  - Defines an <mark> **event** </mark>  as a transition between states and actors as agents performing actions.
+  - <mark> **Actors**</mark>  can be non-human, and actions are defined as causing or experiencing an event.
 
-- **Three-Layer Distinction:**
-  - Proposes a three-layer distinction in narratives: text, story, and fabula.
+- <mark>  **Three-Layer Distinction:**
+  - Proposes a three-layer distinction in narratives: <mark> **text**, **story**, and **fabula**.
   - Emphasizes that while these layers are analytically separable, they are inseparable in practice.
 
-- **Reading vs. Analyzing Narratives:**
+- <mark>  **Reading vs. Analyzing Narratives:**
   - Distinguishes between reading (which involves interpretation) and analyzing narratives.
   - Notes that analysis requires reading, and reading includes interpretive elements.
 
@@ -60,15 +61,15 @@
 
 **Essentials of Narratology: Understanding Narrative Texts**
 
-- **Defining Fabula in Narratology:**
+- <mark>  **Defining Fabula in Narratology:**
   - Identifies fabula as a series of events constructed with a logical sequence.
   - Highlights the importance of elements like time and location in the fabula.
 
-- **Construction of a Story:**
+- <mark>  **Construction of a Story:**
   - Describes how elements of a fabula are organized into a story.
   - Includes processes like sequencing events, character development, and determining points of view.
 
-- **From Story to Text:**
+- <mark>  **From Story to Text:**
   - Explains that a narrative text is a story conveyed through a medium, requiring an agent (narrator) to tell it.
   - Distinguishes the roles of narrators and characters in narrative texts.
 
@@ -76,11 +77,11 @@
   - Emphasizes the division into three parts: text, story, and fabula.
   - Considers the ideological and aesthetic implications of different narrative styles.
 
-- **Distinguishing Narrative Agents:**
+- <mark>  **Distinguishing Narrative Agents:**
   - Identifies different agents in each layer: narrator or speaker in the text, character in the story, and actor in the fabula.
   - Suggests that narrative text is characterized by the presence of two types of speakers.
 
-- **Three-Layer Framework:**
+- <mark>  **Three-Layer Framework:**
   - Proposes a three-layer framework for narrative analysis: text, story, and fabula.
   - Argues that distinguishing these layers is crucial for effective narrative analysis.
 
@@ -88,7 +89,7 @@
   - Clarifies that narrative characteristics do not exclusively define texts as narratives.
   - Notes that some texts with narrative characteristics, like certain poems, may not be considered narratives.
 
-- **Purpose of Narrative Analysis:**
+- <mark>  **Purpose of Narrative Analysis:**
   - Asserts the relevance of narrative analysis in capturing attention and facilitating interpretation.
   - Links narrative analysis to cultural analysis, considering the influence of cultural constraints on interpretation.
 
@@ -101,31 +102,31 @@
 
 **Narratology: Understanding the Narrative Agent and Narrator**
 
-- **Concept of the Narrative Agent:**
+- <mark>  **Concept of the Narrative Agent:**
   - Defines the narrative agent as the function expressing itself in language or images, not the biographical author.
   - Emphasizes the distinction between the narrative agent and the author for narratological analysis.
 
-- **Role and Identity of the Narrator:**
+- <mark>  **Role and Identity of the Narrator:**
   - Discusses the narrator as the linguistic, visual, or cinematic subject of the narrative.
   - Differentiates the narrator from the historical author, focusing on the narrator's function in the narrative.
 
-- **Narrator vs. Author:**
+- <mark>  **Narrator vs. Author:**
   - Clarifies that the narrator's identity and status are distinct from the author's biographical details.
   - Uses the term 'narrator' to refer specifically to the agent expressing the narrative.
 
-- **Narrative Agent and Reader Interaction:**
+- <mark>  **Narrative Agent and Reader Interaction:**
   - Highlights the importance of the reader in narrative interpretation, acknowledging social and cultural influences on reading.
   - Rejects the notion of reader omnipotence, emphasizing the collaborative nature of narrative interpretation.
 
-- **Focalization in Narration:**
+- <mark>  **Focalization in Narration:**
   - Introduces the concept of focalization, related to the narrator's point of view.
   - Differentiates focalization as part of narration from linguistic, visual, or auditive agents.
 
-- **Forms of Narration: First and Third Person:**
+- <mark>  **Forms of Narration: First and Third Person:**
   - Examines traditional distinctions in narration, such as first-person and third-person perspectives.
   - Illustrates these concepts using examples from literature.
 
-- **Narrative Rhetoric and Truth:**
+- <mark>  **Narrative Rhetoric and Truth:**
   - Explores the rhetoric of truth in narration, considering character-bound and external narrators.
   - Discusses the implications of narrative forms on perceived truthfulness.
 
@@ -148,15 +149,15 @@
 
 **Narratology: The Narrative Agent, Narrator, and Forms of Narration**
 
-- **Defining the Narrative Agent:**
+- <mark>  **Defining the Narrative Agent:**
   - Explains the narrative agent as the function expressing itself in the text, distinct from the biographical author.
   - Highlights the importance of differentiating between the narrative agent and the author for analysis.
 
-- **Identity and Status of the Narrator:**
+- <mark>  **Identity and Status of the Narrator:**
   - Discusses the narrator as a subject in the narrative, separate from the historical author.
   - Clarifies that the narrator's identity and status are critical to understanding the narrative's character.
 
-- **Narrator vs. Author Distinction:**
+- <mark>  **Narrator vs. Author Distinction:**
   - Emphasizes the distinction between the narrator's function and the author's biographical details.
   - Uses the term 'narrator' to refer to the agent expressing the narrative, not the author.
 
@@ -189,15 +190,15 @@
 
 **Narratology: Exploring Narrative Situations and Second-Person Narration**
 
-- **Narrative Agent and Truth Claims:**
+- <mark>  **Narrative Agent and Truth Claims:**
   - Examines the narrative agent's role in shaping truth claims within a story.
   - Illustrates this with examples from "Don Quixote," where the narrative agent frames truth differently.
 
-- **Narrator as Witness:**
+- <mark>  **Narrator as Witness:**
   - Discusses the narrator's function as a witness, impacting narrative veracity and reader engagement.
   - Highlights ethical considerations such as modesty versus voyeurism in narration.
 
-- **Variable Focalization:**
+- <mark>  **Variable Focalization:**
   - Notes that focalization can shift between different agents within a narrative.
   - Mentions Alain Robbe-Grillet’s "La jalousie" as an example of consistent focalization.
 
@@ -205,7 +206,7 @@
   - Analyzes different narrative situations, showing how the narrator's involvement with the story varies.
   - Demonstrates this through examples where narrators are external to the fabula or part of it as witnesses.
 
-- **Traditional Narrative Distinctions:**
+- <mark> **Traditional Narrative Distinctions:**
   - Argues that traditional distinctions like "I-narratives" and "he-narratives" are overly simplistic.
   - Explores how these distinctions fail to capture the complexity of narrative situations.
 
@@ -213,7 +214,7 @@
   - Discusses the rarity and challenges of consistently using second-person narration in novels.
   - Uses Michel Butor’s "La modification" as an example, describing its return to traditional narrative forms.
 
-- **Deixis and Subjectivity in Language:**
+- <mark>  **Deixis and Subjectivity in Language:**
   - Emphasizes the importance of deixis, or context-dependent words, in language and narrative.
   - Explains how the essence of language lies in communication between "I" and "you," creating subjectivity.
 
@@ -221,34 +222,34 @@
   - Critiques Butor's use of second-person narration for not engaging in the reciprocal nature of deixis.
   - Suggests that second-person narrators are impractical for readers, as they disrupt the narrative’s communicative essence.
 
-- **Reader's Role as Narrative's "Second Person":**
+- <mark>  **Reader's Role as Narrative's "Second Person":**
   - Asserts that the reader inherently takes on the role of the "second person" in narrative communication.
 
-- **Key Idea:**
+- <mark>  **Key Idea:**
   - In narratology, the narrative agent's role in truth claims, the narrator's function as a witness, and the complexities of focalization and narrative situations highlight the intricate dynamics of storytelling. The challenges and misconceptions of second-person narration underscore the significance of deixis and the reciprocal nature of narrative communication.
 
 **Narratology: Non-Narrative Comments and Description in Narrative Texts**
 
-- **Non-Narrative Comments in Narratives:**
+- <mark>  **Non-Narrative Comments in Narratives:**
   - Explores the role of non-narrative comments in narrative texts, often containing ideological statements.
   - Analyzes how overt and hidden ideologies are presented through both narrative and non-narrative elements.
   - Uses an example from a Dutch children's book to illustrate the impact of non-narrative comments on conveying ideology.
 
-- **Ideological Implications of Non-Narrative Comments:**
+- <mark>  **Ideological Implications of Non-Narrative Comments:**
   - Discusses how argumentative textual passages refer to general knowledge outside the fabula.
   - Highlights the importance of examining the relationship between different textual forms to understand a text's ideological tenor.
   - Notes that non-narrative comments can contradict or support the narrative parts of the text.
 
-- **The Prevalence of Non-Narrative Elements:**
+- <mark>  **The Prevalence of Non-Narrative Elements:**
   - Emphasizes that non-narrative comments are common within narratives and can significantly affect the reader's interpretation.
   - Acknowledges that even scientific texts often contain narrative elements.
 
-- **Description as a Textual Form:**
+- <mark>  **Description as a Textual Form:**
   - Analyzes description as an integral part of narrative texts, essential for visualizing the story's world.
   - Defines description as the attribution of features to objects within the text.
   - Considers the descriptive function as dominant when it characterizes objects or settings in detail.
 
-- **Description and Focalization:**
+- <mark>  **Description and Focalization:**
   - Identifies description as a key site for focalization, influencing the ideological and aesthetic effects of the text.
   - Distinguishes between predominantly descriptive texts and those that mix description with narration.
 
@@ -256,32 +257,32 @@
   - Reflects on the problematic nature of description in the realistic tradition of literature, referencing Plato and Homer.
   - Observes efforts to narratively motivate descriptions or frame them as part of the narrative.
 
-- **Key Idea:**
+- <mark>  **Key Idea:**
   - In narratology, non-narrative comments and descriptions play critical roles in shaping a narrative's ideological messages and visualizing its world. These elements, often interwoven with narrative parts, contribute significantly to the reader's interpretation and understanding of the text's broader cultural and ideological contexts.
 
 
 **Narratology: Rhetoric of Description in Narrative Texts**
 
-- **Motivation in Descriptions:**
+- <mark>  **Motivation in Descriptions:**
   - Addresses the need for motivation in realistic narrative descriptions.
   - Explains how motivation through looking, speaking, or acting integrates descriptions into the narrative.
   - Highlights that descriptions are often motivated by characters' actions, perceptions, or speech.
 
-- **Rhetorical Strategies for Description:**
+- <mark>  **Rhetorical Strategies for Description:**
   - Describes how descriptions are rhetorically structured to seem natural or necessary, masking their subjective nature.
   - Notes the use of descriptions to create believable, plausible narratives within realistic fiction.
 
-- **Types of Description Motivation:**
+- <mark>  **Types of Description Motivation:**
   - Identifies three types of motivation: text-level (character describes an object), story-level (vision of the character motivates description), and fabula-level (actor interacts with an object).
 
 - **Examples of Motivated Descriptions:**
   - Provides literary examples demonstrating how descriptions are integrated and motivated in narrative texts.
 
-- **Arbitrariness and Necessity of Motivation:**
+- <mark> **Arbitrariness and Necessity of Motivation:**
   - Argues that motivation in fictional texts can never be fully sufficient due to their inherent arbitrariness.
   - Suggests that motivation is ultimately a rhetorical device to make arbitrary elements appear natural.
 
-- **Types of Descriptive Rhetoric:**
+- <mark> **Types of Descriptive Rhetoric:**
   - Differentiates between six types of description based on their rhetorical structure and function:
     1. Referential, Encyclopaedic Description: Objective, knowledge-conveying.
     2. Referential-Rhetorical Description: Combines knowledge conveyance with persuasion.
@@ -296,7 +297,7 @@
 - **Historical and Stylistic Use of Descriptive Rhetoric:**
   - Notes how different rhetorical categories of description have been used to characterize various historical periods and narrative styles.
 
-- **Key Idea:**
+- <mark> **Key Idea:**
   - The rhetoric of description in narrative texts plays a critical role in shaping the reader's perception, with motivation and rhetorical strategies used to integrate descriptions seamlessly into the narrative. Different types of descriptive rhetoric, ranging from objective encyclopaedic details to complex metaphoric structures, contribute to the narrative's believability and stylistic characteristics.
 
 

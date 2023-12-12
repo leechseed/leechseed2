@@ -25,26 +25,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09_PUBLICATION/09000_PUBLICATION README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "656c7f89ae4072a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09_PUBLICATION/090004.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "1534b7406776d29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "656c7f89ae4072a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09_PUBLICATION/090004.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09_PUBLICATION/090004.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09_PUBLICATION/090004.md"
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md"
               }
             }
           },
@@ -191,8 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "656c7f89ae4072a7",
+  "active": "7c85b69ca449e80c",
   "lastOpenFiles": [
+    "09_PUBLICATION/09000_PUBLICATION README.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+    "00_THEORY OF COMPOSITION/00000_TOC README.md",
+    "09_PUBLICATION/090004.md",
     "09_PUBLICATION/0900011.md",
     "09_PUBLICATION/0900010_BELL - Fiction Attack! Insider Secrets for Writing and Selling Your Novels & Stories .md",
     "09_PUBLICATION/090009_MAUM - Before and After the Book Deal.md",
@@ -201,7 +211,6 @@
     "09_PUBLICATION/090006_HERMAN - Jeff Herman's Guide to Book Publishers.md",
     "09_PUBLICATION/090005_JONES - Novel & Short Story Writer's Market Guide.md",
     "09_PUBLICATION/090003_THOMPSON - Book Wars.md",
-    "09_PUBLICATION/09000_PUBLICATION README.md",
     "09_PUBLICATION/090002_CLARK - Inside Book Publishing .md",
     "09_PUBLICATION/090002.md",
     "09_PUBLICATION/090001_BAVERSTOCK - Contemporary Publishing and the Culture of Books.md",
@@ -211,14 +220,11 @@
     "09_PUBLICATION/090007.md",
     "09_PUBLICATION/090006.md",
     "09_PUBLICATION/090005.md",
-    "09_PUBLICATION/090004.md",
     "09_PUBLICATION/090003.md",
     "09_PUBLICATION/090001.md",
     "01_THEME/01000_THEME README.md",
     "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
     "01_THEME/010017_CARDENAS - Logseq Notes.md",
-    "07_DIEGESIS/07000_DIEGESIS README.md",
-    "02_PLOT SYUHZET/02000_PLOT SYUHZET README.md",
     "assets/Pasted image 20231211193557.png",
     "assets/Pasted image 20231211195203.png",
     "assets/Pasted image 20231211194838.png",
