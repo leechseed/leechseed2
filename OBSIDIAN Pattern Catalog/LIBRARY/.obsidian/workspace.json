@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "caeb8b66c5318846",
+        "id": "8293fc1f7749f85e",
         "type": "tabs",
         "children": [
           {
@@ -13,19 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md",
+                "file": "word count.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "40c884558417cb85",
+        "type": "tabs",
+        "children": [
           {
-            "id": "3f77b54e46555a91",
+            "id": "9bd1275b39047cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+                "file": "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 229.5
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -117,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md"
+                "file": "word count.md"
               }
             }
           },
@@ -180,32 +186,37 @@
   },
   "active": "f547bad346426966",
   "lastOpenFiles": [
+    "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
+    "word count.md",
+    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
     "03_CHARACTER/030007_DARIAN - The Psychology Workbook for Writers.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+    "00_THEORY OF COMPOSITION/00000_TOC README.md",
+    "11_ETC/11000_ETC README.md",
+    "11_ETC/110001_Real Estate/1100010_Real Estate README.md",
+    "10_WORKS/10000_WORKS README.md",
+    "06_NARRATOR/06000_NARRATOR README.md",
+    "07_DIEGESIS/07000_DIEGESIS README.md",
+    "09_PUBLICATION/09000_PUBLICATION README.md",
+    "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
+    "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md",
+    "05_SEQUENCE FABULA/05000_SEQUENCE FABULA README.md",
+    "assets/Pasted image 20231211193557.png",
+    "03_CHARACTER/03000_CHARACTER README.md",
     "03_CHARACTER/030006_CORBETT - The Compass of Character.md",
     "03_CHARACTER/030005_CORBETT - The Art of Character.md",
     "03_CHARACTER/030004_DAVIS - Creating Compelling Characters.md",
     "03_CHARACTER/030003_WRITER'S DIGEST - Creating Characters.md",
     "03_CHARACTER/030002_HOWARD - Creating Characters.md",
     "03_CHARACTER/030001_MCKEE - Character The Art of Role and Cast Design.md",
-    "03_CHARACTER/03000_CHARACTER README.md",
-    "01_THEME/01001_BLOOM - Alienation.md",
-    "01_THEME/01000_THEME README.md",
-    "00_THEORY OF COMPOSITION/0000011_BREAULT - The Art and Craft of Narrative Design.md",
-    "00_THEORY OF COMPOSITION/000010_CRON - Wired for Story.md",
-    "00_THEORY OF COMPOSITION/00009_O'GORMAN - Routledge Companion 21st Century Literary Fiction.md",
-    "00_THEORY OF COMPOSITION/00008_ALISON - Meander, Spiral, Explode.md",
-    "00_THEORY OF COMPOSITION/00007_MCKEE - Story.md",
-    "00_THEORY OF COMPOSITION/00006_HILLSDALE - Dexis in Narrative.md",
-    "00_THEORY OF COMPOSITION/00005_GAVINS - Text World Theory.md",
-    "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
-    "00_THEORY OF COMPOSITION/00003_PHILIPS - Dramatica.md",
-    "00_THEORY OF COMPOSITION/00002_EAGLETON - Literary Theory.md",
-    "00_THEORY OF COMPOSITION/00000_TOC README.md",
-    "11_ETC/110001_Real Estate/1100010_Real Estate README.md",
-    "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
-    "08_FUZZ INTERTEXT AND GENRES/080001_BERGER - Dramatic Storytelling & Narrative Design.md",
-    "05_SEQUENCE FABULA/05000_SEQUENCE FABULA README.md",
-    "04_SETTING/04000_SETTING README.md",
+    "assets/Pasted image 20231211195203.png",
+    "assets/Pasted image 20231211194838.png",
+    "assets/Pasted image 20231211194241.png",
+    "00_THEORY OF COMPOSITION/00008_MCKEE - Story.md",
+    "00_THEORY OF COMPOSITION/00009_ALISON - Meander, Spiral, Explode.md",
+    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+    "desktop.ini",
+    "01_THEME/010016_LEITCH - Norton Anthology of Theory and Criticism.md",
     "10_Post/10001_Real Estate",
     "10_Post",
     "11_ETC",
@@ -215,16 +226,11 @@
     "09_PUBLICATION",
     "05_SEQUENCE FABULA",
     "06_NARRATOR",
-    "07_DIEGESIS",
     "assets/Pasted image 20231204061043.png",
     "assets/Pasted image 20231204064157.png",
     "assets/Pasted image 20231204064134.png",
     "assets/Pasted image 20231204064118.png",
     "assets/Pasted image 20231204064035.png",
-    "assets/Pasted image 20231204064013.png",
-    "assets/Pasted image 20231204063939.png",
-    "assets/Pasted image 20231204063633.png",
-    "assets/Pasted image 20231204063247.png",
-    "assets/Pasted image 20231204063234.png"
+    "assets/Pasted image 20231204064013.png"
   ]
 }
