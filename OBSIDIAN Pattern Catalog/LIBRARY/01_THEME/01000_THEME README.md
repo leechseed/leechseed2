@@ -3,97 +3,21 @@
 ### Additional Information 
 	Mckee and Bloom are the two foundational authors I reference when creating themes.
 
-#01_THEME 
+CAMPBELL - The Hero With a Thousand Faces
+CAMPBELL - The Inner Reaches of Outer Space
+VOGLER - The Writer's Journey
+MILLER - The Epic Hero
+BERNHARDT - Thinking Theme: The Heart of the Matter
+MIZER - Tabletop Roleplaying Games and the Experience of Imagined Worlds
+CURRIE - Metafiction
 
 
+BURNETT - Companion to Literature of the U.S. South
+LEE - Companion to Asian American Literature
+DAVIS - Companion to Literature and Trauma
+BRONNER - Youth Cultures in America
+NADEN - The Golden Age of American Musical Theatre
 
-
----
----
----
-
-# Theme Readings
-
-BERNHARDT, WILLIAM Thinking Theme: The Heart of the Matter
-
-|   |   |
-|---|---|
-|MILLER, DEAN A.|The Epic Hero|
-
-|   | MIZER, NICHOLAS J  | Experience of Imagined Worlds   
-
-|              |                                                                                |
-| ------------ | ------------------------------------------------------------------------------ |
-| WEILAND, K.M | Writing Your Story's Theme: The Writer's Guide to Plotting Stories That Matter |
-| 
-
-|   | CAMPBELL, JOSEPH     | The Hero With a Thousand Faces                  |
-|   | CURRIE, MARK         | Metafiction                                      |
-|   | CAMPBELL, JOSEPH     | The Inner Reaches of Outer Space                |
-|   | VOGLER, CHRISTOPHER  | The Writer's Journey  
-
-
-|   | DAVIS, COLIN          | Companion to Literature and Trauma              |
-
-|     |
-| --- |
-| 
-|   | BRONNER, SIMON J      | Youth Cultures in America                       |
-
-
-||   | BURNETT, KATHERINE A. | Companion to Literature of the U.S. South       |
-
-
-|   | LEE, RACHEL C.       | Companion to Asian American Literature           |
-
-
-|   | NADEN, CORINNE J     | The Golden Age of American Musical Theatre      |
-
-
-|   | NEVES, SILVA         | American Film: A History                        |
-
-|   | BOAL, AUGUSTO        | Theatre of the Oppressed                 |
-
-|     | HAINES, CHRISTIAN | A Desire Called America   |
-| --- | ----------------- | ------------------------- |
-|     | MARX, LEO         | The Machine in the Garden |
-|  DU BOIS, W.E.B.       | The Souls of Black Folk  
-
-
-| EAGLETON, TERRY | Sweet Violence: The Idea of the Tragic |             |     |
-| --------------- | -------------------------------------- | ----------- | --- |
-|                 | MACKAY, ROBIN                          | Collapse IV |     |
-| 
-| ANAND, MARGOT        | The Art of Sexual Ecstasy   
-
-
-|     |     |     |     |     | DEBORD, GUY | The Society of the Spectacle |
-| --- | --- | --- | --- | --- | ----------- | ---------------------------- |
-| 
-
- | BONINO, THOMAS     | Angels and Demons               |
-|   | CHARLES, ROBERT HENRY | The Book of Enoch  
-
-
-|     |     |     |     |             |                              ||   |   |
-|---|---|
-|SWINK, STEVE|Game Feel|
-
-PAGELS, ELAINE     | The Origin of Satan  
-
-|                  |                               |
-| ---------------- | ----------------------------- |
-| O'GORMAN, DANIEL | 21st Century Literary Fiction |
-| 
-|   |   |
-|---|---|
-|BOULD, MARK|Companion to Science Fiction|
-
-|     | O'GORMAN, DANIEL | 21st Century Literary Fiction |
-| --- | ---------------- | ----------------------------- |
-|     |                  |                               |
-|     |                  |                               |
-| CARROL, NOEL       | Companion to Philosophy of Litera
 
 
 ---

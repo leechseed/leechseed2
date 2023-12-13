@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md"
+                "file": "01_THEME/01000_THEME README.md"
               }
             }
           },
@@ -211,6 +211,8 @@
   },
   "active": "fad6f4df1e0c536e",
   "lastOpenFiles": [
+    "desktop.ini",
+    "00_THEORY OF COMPOSITION/00006_DUCHAN - Deixis in Narrative.md",
     "00_THEORY OF COMPOSITION/00005_GAVINS - Text World Theory.md",
     "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
     "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
@@ -245,9 +247,6 @@
     "09_PUBLICATION/090001_BAVERSTOCK - Contemporary Publishing and the Culture of Books.md",
     "09_PUBLICATION/0900010.md",
     "09_PUBLICATION/090009.md",
-    "09_PUBLICATION/090008.md",
-    "09_PUBLICATION/090007.md",
-    "desktop.ini",
     "10_Post/10001_Real Estate",
     "10_Post",
     "11_ETC",
