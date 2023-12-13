@@ -9,6 +9,7 @@
 *? 2. General UI
 *?   - Workspace
 *?   - Menus
+*?   - Sidebars
 *?   - Canvas
 *?   - Loading Screen
 *? 4. Markdown
@@ -17,6 +18,7 @@
 *?   - Links
 *?   - Lists
 *?   - Blockquotes
+*?   - Embeds
 *?   - Tables
 *?   - Tags
 *?   - Embeds
@@ -40,7 +42,7 @@
 /**** Implementation ****/
 
 
-:root body:is(.theme-dark, .theme-light) {
+:root body:where(.theme-dark, .theme-light) {
 
     /** Miscellaneous **/
 
@@ -78,17 +80,35 @@
     --text-faint:               var(--grey1);
     --text-selection:           var(--bg-visual);
 
-    --text-link:                var(--header-aqua);
-    --text-link-hover:          var(--fg-aqua);
-    --text-link-external:       var(--header-blue);
-    --text-link-external-hover: var(--fg-blue);
-    --text-accent:              var(--header-blue);
-    --text-accent-hover:        var(--header-purple);
+    --link-color:                  var(--header-aqua);
+    --link-color-hover:            var(--fg-aqua);
+    --link-external-color:         var(--header-blue);
+    --link-external-color-hover:   var(--fg-blue);
+    --text-accent:                 var(--header-blue);
+    --text-accent-hover:           var(--header-purple);
+
+    --link-unresolved-decoration-style:       dashed;
+    --link-unresolved-color:                  var(--header-blue);
+    --link-unresolved-color-hover:            var(--header-purple); /* Non-standard */
+    --link-unresolved-decoration-color:       var(--bg-red);
+    --link-unresolved-decoration-color-hover: var(--fg-red); /* Non-standard */
 
     --code-header: #0004;
     --code-background: var(--bg-dim);
     --code-normal: var(--text-muted);
     --code-inline: var(--fg-blue);
+
+    --code-normal: var(--fg);
+    --code-comment: var(--grey1);
+    --code-function: var(--fg-green);
+    --code-important: var(--fg-red);
+    --code-keyword: var(--fg-blue);
+    --code-operator: var(--fg-orange);
+    --code-property: var(--fg-aqua);
+    --code-punctuation: var(--grey1);
+    --code-string: var(--fg-yellow);
+    --code-tag: var(--fg-orange);
+    --code-value: var(--fg-purple);
 
     --table-background: var(--bg2);
     --table-column-alt-background: unset;
@@ -297,22 +317,21 @@
 }
 
 /* Make gutters not affect the content flow for unstacked tabs */
-.workspace-tabs:not(.mod-stacked) .mod-cm6.is-readable-line-width:not(.full-width) .cm-contentContainer,
-body:not(.stacked-panes-gutter-disable-float) .workspace-tabs.mod-stacked .mod-cm6.is-readable-line-width .cm-contentContainer {
-    display: grid !important;
-}
-.workspace-tabs:not(.mod-stacked) .mod-cm6.is-readable-line-width:not(.full-width) :is(.cm-gutters,.cm-content),
-body:not(.stacked-panes-gutter-disable-float) .workspace-tabs.mod-stacked .mod-cm6.is-readable-line-width :is(.cm-gutters,.cm-content) {
-    grid-area: 1 / -1;
-}
-.workspace-tabs:not(.mod-stacked) .mod-cm6.is-readable-line-width:not(.full-width) .cm-content,
-body:not(.stacked-panes-gutter-disable-float) .workspace-tabs.mod-stacked .mod-cm6.is-readable-line-width .cm-content {
-    width: unset !important;
-}
-.workspace-tabs:not(.mod-stacked) .mod-cm6.is-readable-line-width:not(.full-width) .cm-gutters,
-body:not(.stacked-panes-gutter-disable-float) .workspace-tabs.mod-stacked .mod-cm6.is-readable-line-width .cm-gutters {
-    justify-self: left;
-    translate: -100% 0;
+.workspace-tabs:not(.mod-stacked) .mod-cm6.is-readable-line-width:not(.full-width),
+body:not(.stacked-panes-gutter-disable-float) .workspace-tabs.mod-stacked .mod-cm6.is-readable-line-width {
+    .cm-contentContainer {
+        display: grid !important;
+    }
+    :is(.cm-gutters,.cm-content) {
+        grid-area: 1 / -1;
+    }
+    .cm-content {
+        width: unset !important;
+    }
+    .cm-gutters {
+        justify-self: left;
+        translate: -100% 0;
+    }
 }
 
 /* Smaller margins for stacked tabs */
@@ -347,6 +366,11 @@ div ul.has-list-bullet ul.has-list-bullet .collapse-indicator {
     box-shadow: 0 4px 0 var(--text-highlight-bg);
 }
 
+/* Fix gutter number vertical cutoff */
+:root .cm-lineNumbers .cm-gutterElement {
+    line-height: normal !important;
+}
+
 
 /** Menus **/
 
@@ -358,20 +382,29 @@ button:hover {
 }
 
 /* Modal transitions */
-.modal-container {
-    animation: modal-in var(--anim-duration-superfast) forwards;
+body:not(.disable-menu-animations, .enable-menu-blur) .modal-bg {
+    animation: fade-in var(--anim-duration-superfast) linear;
 }
-.modal,
-.prompt {
-    animation: menu-in var(--anim-duration-superfast) forwards;
+body:not(.disable-menu-animations) :is(.modal, .prompt) {
+    animation: fade-in var(--anim-duration-superfast),
+        slide-in var(--anim-duration-superfast) ease-out;
 }
-@keyframes menu-in {
+@keyframes slide-in {
     0% {translate: 0 4px}
     100% {translate: 0 0}
 }
-@keyframes modal-in {
+@keyframes fade-in {
     0% {opacity: 0}
     100% {opacity: 1}
+}
+
+
+/** Sidebars **/
+
+/* Stop the scrollbar from causing layout shifts */
+.nav-files-container {
+    scrollbar-gutter: stable;
+    padding-right: var(--size-2-2);
 }
 
 
@@ -436,7 +469,9 @@ button:hover {
 strong,
 .cm-s-obsidian span.cm-em,
 em,
-.language-markdown :is(.bold, .italic) > * {
+.language-markdown :is(.bold, .italic) > *,
+span:is(.cm-em, .cm-strong) + .cm-widgetBuffer + span.math,
+span.math:has(+ .cm-widgetBuffer + span:is(.cm-em, .cm-strong)) {
     color: var(--fg-purple);
 }
 
@@ -454,11 +489,12 @@ del {
 .markdown-rendered code {
     background-color: var(--code-background);
     padding: 0.1em 0.25em;
-    border-radius: var(--radius-s)
+    border-radius: var(--radius-s);
+    font-size: var(--code-size) !important; /* required for lp */
 }
 /* Fix other elements' inline code */
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting),
-.markdown-rendered :is(table, p, li, .callout-title-inner) code {
+.markdown-rendered :is(table, p, li, .callout-title-inner, h1, h2, h3, h4, h5, h6) code {
     color: var(--code-inline);
 }
 
@@ -488,7 +524,7 @@ pre {
 
 /* Codeblock top bars */
 pre[class^="language-"] {
-    padding-top: calc(var(--size-4-2) + var(--code-size) * var(--line-height-normal));
+    padding-top: calc(var(--size-4-2) + var(--code-size) * var(--line-height-normal) + 1px);
 }
 pre[class^="language-"]::before {
     content: "";
@@ -517,6 +553,7 @@ pre[class^="language-"]::after {
     height: calc(1em * var(--line-height-normal));
     display: flex;
     place-items: center;
+    color: var(--text-muted);
     font-size: 0.875em;
 }
 .markdown-source-view.mod-cm6 .code-block-flair:not(:has(>svg)) {
@@ -532,79 +569,55 @@ pre[class^="language-"]::after {
     top: calc(6px + var(--code-size) * var(--line-height-normal));
 }
 
+pre.language-applescript::after { content: "AppleScript" }
+pre.language-bash::after { content: "Bash" }
 pre.language-c::after { content: "C" }
-pre.language-python::after { content: "Python" }
-pre.language-py::after { content: "Python" }
-pre.language-nginx::after { content: "Nginx" }
+pre.language-cpp::after { content: "C++" }
+pre.language-cs::after { content: "C#" }
 pre.language-css::after { content: "CSS" }
-pre.language-node::after { content: "Node" }
-pre.language-react::after { content: "React" }
+pre.language-flow::after { content: "Flow" }
+pre.language-git::after { content: "GIT" }
+pre.language-haskell::after { content: "Haskell" }
+pre.language-html::after { content: "HTML" }
+pre.language-ini::after { content: "INI" }
+pre.language-java::after { content: "JAVA" }
 pre.language-javascript::after { content: "JavaScript" }
 pre.language-js::after { content: "JavaScript" }
-pre.language-typescript::after { content: "TypeScript" }
-pre.language-ts::after { content: "TypeScript" }
-pre.language-php::after { content: "PHP" }
-pre.language-shell::after { content: "Shell" }
-pre.language-bash::after { content: "Bash" }
-pre.language-zsh::after { content: "zsh" }
-pre.language-flow::after { content: "Flow" }
-pre.language-sequence::after { content: "Sequence" }
-pre.language-sql::after { content: "SQL" }
-pre.language-yaml::after { content: "YAML" }
-pre.language-ini::after { content: "INI" }
-pre.language-xml::after { content: "XML" }
-pre.language-git::after { content: "GIT" }
-pre.language-cs::after { content: "C#" }
-pre.language-cpp::after { content: "C++" }
-pre.language-java::after { content: "JAVA" }
-pre.language-html::after { content: "HTML" }
-pre.language-txt::after { content: "Plain Text" }
-pre.language-text::after { content: "Plain Text" }
-pre.language-url::after { content: "URL" }
-pre.language-applescript::after { content: "AppleScript" }
+pre.language-json::after { content: "JSON" }
+pre.language-lua::after { content: "Lua" }
+pre.language-makefile::after { content: "Makefile" }
 pre.language-markdown::after { content: "Markdown" }
 pre.language-md::after { content: "Markdown" }
+pre.language-nginx::after { content: "Nginx" }
+pre.language-node::after { content: "Node" }
+pre.language-php::after { content: "PHP" }
+pre.language-py::after { content: "Python" }
+pre.language-python::after { content: "Python" }
+pre.language-r::after { content: "R" }
+pre.language-react::after { content: "React" }
 pre.language-regex::after { content: "Regex" }
-pre.language-lua::after { content: "Lua" }
-pre.language-haskell::after { content: "Haskell" }
-pre.language-vim::after { content: "vimrc" }
 pre.language-rust::after { content: "Rust" }
+pre.language-sequence::after { content: "Sequence" }
+pre.language-shell::after { content: "Shell" }
+pre.language-sql::after { content: "SQL" }
+pre.language-text::after { content: "Plain Text" }
+pre.language-ts::after { content: "TypeScript" }
+pre.language-txt::after { content: "Plain Text" }
+pre.language-typescript::after { content: "TypeScript" }
+pre.language-url::after { content: "URL" }
+pre.language-vim::after { content: "vimrc" }
+pre.language-xml::after { content: "XML" }
+pre.language-yaml::after { content: "YAML" }
+pre.language-zsh::after { content: "zsh" }
 
 
 /** Links **/
 
-.cm-s-obsidian span.cm-hmd-internal-link {
-    color: var(--text-link);
-}
-
-/* Wiki links */
-a.internal-link {
-    color: var(--text-link);
-}
-.cm-s-obsidian span.cm-hmd-internal-link:hover,
-a.internal-link:hover {
-    color: var(--text-link-hover)
-}
-
-/* Markdown links */
-a.external-link {
-    color: var(--text-link-external);
-}
-.markdown-source-view.mod-cm6 .cm-link .cm-underline:hover,
-.markdown-source-view.mod-cm6 .cm-url .cm-underline:hover,
-a.external-link:hover {
-    color: var(--text-link-external-hover);
-}
-
 /* Unresolved links */
-:root:root a.is-unresolved,
-.markdown-source-view.mod-cm6 span.is-unresolved > span.cm-underline {
-    --link-unresolved-decoration-style: dashed;
-    text-decoration-color: var(--bg-red);
-}
 :root:root a.is-unresolved:hover,
-.markdown-source-view.mod-cm6 span.is-unresolved > span.cm-underline:hover {
-    text-decoration-color: var(--fg-red);
+.markdown-source-view.mod-cm6 .is-unresolved .cm-underline:hover {
+    text-decoration-color: var(--link-unresolved-decoration-color-hover);
+    color: var(--link-unresolved-color-hover);
 }
 .cm-s-obsidian span.cm-hmd-internal-link:hover {
     text-decoration: none;
@@ -627,10 +640,10 @@ a.external-link:hover {
 .markdown-rendered .list-bullet {
     margin-left: -11px;
 }
-:root .show-indentation-guide .has-list-bullet::before {
+:root .show-indentation-guide li :is(ul, ol)::before {
     left: -11px;
 }
-.task-list-item {
+ul > .task-list-item {
     margin-left: 6px;
 }
 .show-indentation-guide .contains-task-list.has-list-bullet::before {
@@ -683,7 +696,7 @@ input.task-list-item-checkbox:checked::after {
 
 .markdown-preview-view blockquote {
     padding-block: 0.25em;
-    padding-left: 17px;
+    padding-left: 1.7ch;
 }
 
 /* Make blockquotes work in source view */
@@ -703,6 +716,14 @@ input.task-list-item-checkbox:checked::after {
     left: -2px;
 }
 
+
+/** Embeds **/
+
+.cm-embed-block {
+    box-shadow: 0 4px 14px -2px hsla(0,0%,0%,0%);
+    transition: box-shadow var(--anim-duration-fast) ease-out;
+}
+
 /* Reduce embed edit button opacity */
 .markdown-source-view.mod-cm6 .cm-embed-block:hover .edit-block-button {
     opacity: 0.5;
@@ -718,10 +739,15 @@ input.task-list-item-checkbox:checked::after {
     --line-height-tight: 1.375;
 }
 
-/* Fix table margin collapse bug */
-div:has(>table) {
+/* Fix table margin collapse bug and add table margins */
+.markdown-preview-view div:not([class]):has(> table) {
     overflow: unset !important;
+
+    > table {
+        margin-block: var(--p-spacing);
+    }
 }
+
 /* Fix borders from Dataview */
 .table-view-table > thead > tr > th {
     border-left: var(--table-header-border-width) solid var(--table-header-border-color);
@@ -955,6 +981,29 @@ settings:
     description: Disables custom line number floating in the stacked tab mode. This makes the line numbers shift over the content in stacked tabs. Use this if your panes are too thin to show them.
     type: class-toggle
 -
+    id: menu-blur-settings
+    title: Menu modals
+    type: heading
+    level: 2
+    collapsed: true
+-
+    id: disable-menu-animations
+    title: Disable menu animations
+    description: Disables the floating-up animation of modal menus (e.g. settings, command palette).
+    type: class-toggle
+-
+    id: enable-menu-blur
+    title: Enable menu blur
+    description: Blur the content behind modal menus (e.g. settings, command palette).
+    type: class-toggle
+-
+    id: menu-blur-radius
+    title: Menu blur radius
+    description: The amount to blur in pixels.
+    type: variable-number
+    default: 5
+    format: px
+-
     id: element-settings
     title: Elements
     description: Lists, tables, canvas
@@ -976,14 +1025,14 @@ settings:
     format: px
 -
     id: image-embed-settings
-    title: Image Embed
+    title: Image Embeds
     type: heading
     level: 2
     collapsed: true
 -
     id: image-embed-enable-zoom
     title: Image Embeds - Enable zoom
-    description: Enable zooming in on images by clicking on them. Just like minimal!
+    description: Enable zooming in on images by clicking on them. Just like minimal! Note that mobile Obsidian already has this.
     type: class-toggle
 -
     id: image-embed-no-drag
@@ -1050,7 +1099,7 @@ settings:
 -
     id: extra-appearance-settings
     title: Extras
-    description: Stacked pane count, background image
+    description: Stacked pane count, background image, visual parity
     type: heading
     level: 1
     collapsed: true
@@ -1069,7 +1118,7 @@ settings:
     markdown: true
 -
     id: custom-stacked-panes-enabled
-    title: Enable Custom Stacked Panes
+    title: Custom Stacked Panes
     description: Changes stacked panes to fit a certain number on screen instead of using pixel values.
     type: class-toggle
 -
@@ -1183,6 +1232,24 @@ settings:
     title: Pane view
     description: Changes pages to be panes on a transparent background. BEST USED WITH UI OPACITY 0!
     type: class-toggle
+-
+    id: visual-parity
+    title: Visual Parity
+    type: heading
+    level: 2
+    collapsed: true
+-
+    id: background-image-description
+    title: Info
+    description: |
+        Changes reading mode to match editing mode visually.
+    type: info-text
+    markdown: true
+-
+    id: visual-parity-enabled
+    title: Visual Parity
+    description: Changes reading mode to match editing mode.
+    type: class-toggle
 
 */
 
@@ -1192,6 +1259,7 @@ settings:
     padding-bottom: 400px;
 }
 [data-id="everforest-enchanted-theme"] + .style-settings-container .setting-item-heading {
+    margin-top: 0;
     margin-bottom: 0;
 }
 [data-id="everforest-enchanted-theme"] + .style-settings-container .setting-item-heading + .style-settings-container {
@@ -1206,6 +1274,7 @@ settings:
     place-content: flex-start;
 }
 
+
 /** Editor Settings **/
 
 /* Highlighted folders */
@@ -1213,6 +1282,13 @@ body.highlighted-folders .nav-folder:not(.is-collapsed, .mod-root) {
     border-radius: var(--radius-s);
     background-color: rgba(var(--mono-rgb-100), 0.05);
 }
+
+/* Menu blur */
+body:not(.is-translucent).enable-menu-blur .modal-bg {
+    backdrop-filter: blur(var(--menu-blur-radius, 5px));
+    opacity: 1 !important;
+}
+
 
 /** Element Settings **/
 
@@ -1276,7 +1352,7 @@ body.image-embed-enable-zoom .image-embed:active {
 }
 body.image-embed-enable-zoom .image-embed:active img {
     width: var(--zoom-embed-size) !important;
-    max-height: 100%;
+    max-height: 80%;
     margin: 0 !important;
     user-select: none;
     object-fit: contain;
@@ -1314,6 +1390,7 @@ body.image-embed-enable-zoom .cm-embed-block.cm-callout:has(.image-embed:active)
     max-width: calc((100% / var(--custom-stacked-panes-count, 2)) - 2.5rem) !important;
     width: 100% !important;
 }
+
 
 /** Custom Background Image **/
 
@@ -1399,6 +1476,45 @@ body.background-image-enabled {
 }
 :root .background-image-pane-view .view-header  {
     background-color: var(--background-partially-transparent) !important;
+}
+
+
+/** Visual Parity **/
+body.visual-parity-enabled {
+    --p-spacing: calc(1.5 * var(--font-text-size));
+    --heading-spacing: calc(var(--p-spacing) * 1);
+
+    /* Fix hr elements */
+    .markdown-rendered hr {
+        margin-block: calc(
+            (
+                    var(--font-text-size, 1rem) * var(--line-height-normal) -
+                        var(--hr-thickness)
+                ) / 2 + var(--p-spacing)
+        );
+    }
+
+    /* Fix header top margins */
+    .is-live-preview .cm-content > .HyperMD-header {
+        padding-top: unset;
+    }
+
+    /* Fix collapsed headers in live preview */
+    .HyperMD-header:has(> .is-collapsed) {
+        padding-block: 0 var(--p-spacing);
+    }
+
+    /* Fix blockquotes */
+    & :not(blockquote) + blockquote,
+    & .cm-line:not(.HyperMD-quote-1) + .HyperMD-quote-1,
+    & .HyperMD-quote-1:first-child {
+        padding-top: 0.25em !important;
+    }
+    & blockquote:has(+ :not(blockquote)),
+    & .HyperMD-quote-1:has(+ .cm-line:not(.HyperMD-quote-1)),
+    & .HyperMD-quote-1:last-child {
+        padding-bottom: 0.25em !important;
+    }
 }
 
 
@@ -1519,6 +1635,7 @@ body.background-image-enabled {
 img {
     display: block;
     margin-inline: auto;
+    image-rendering: auto !important;
 }
 
 /* Makes multiple images on the same line appear in a flex grid */
@@ -1526,7 +1643,7 @@ img {
 p:has(.image-embed ~ .image-embed, img ~ img):not(:has([alt="inline"])) {
     display: flex;
     gap: 0.5rem;
-    align-items: end;
+    align-items: start;
 }
 .cm-line:not(.cm-active):has(.image-embed ~ .image-embed, img:not(.cm-widgetBuffer) ~ img:not(.cm-widgetBuffer)):not(:has([alt="inline"])) > .image-embed,
 p:has(.image-embed ~ .image-embed, img ~ img):not(:has([alt="inline"])) > .image-embed {
@@ -1534,7 +1651,8 @@ p:has(.image-embed ~ .image-embed, img ~ img):not(:has([alt="inline"])) > .image
     display: flex;
     justify-content: center;
 }
-.cm-line:not(.cm-active):has(.image-embed ~ .image-embed, img:not(.cm-widgetBuffer) ~ img:not(.cm-widgetBuffer)) > .cm-widgetBuffer {
+.cm-line:not(.cm-active):has(.image-embed ~ .image-embed, img:not(.cm-widgetBuffer) ~ img:not(.cm-widgetBuffer)) > .cm-widgetBuffer,
+.cm-widgetBuffer + span[contenteditable="false"]:not([class]) {
     display: none !important;
 }
 /* Makes a highlighted line shrink the image */
@@ -1629,7 +1747,7 @@ img[src^="http"][alt~="right"] {
 
 /* Floats */
 .markdown-reading-view .image-embed[src~="float"] > img:not([width]) {
-    width: calc(var(--img-width, 100) / 100 * var(--file-line-width));
+    width: calc(var(--img-width, 100) / 100 * min(100vw, var(--file-line-width)));
     margin: 0 !important;
 }
 .markdown-reading-view .image-embed[src~="float"] {
@@ -1676,26 +1794,41 @@ img[src^="http"][alt~="blur"]:hover {
 }
 
 /* Alt text as caption under image */
-body:not(.no-image-alttext-caption) .image-embed:not([alt*=".png"], [alt*=".gif"], [alt*=".jpg"], [alt*=".jpeg"], [alt*=".tiff"], [alt*=".avif"], [alt*=".webp"], [alt="inline"])::after {
-    display: block;
+body:not(.no-image-alttext-caption)
+    .image-embed:not(
+        [alt*=".png"],
+        [alt*=".gif"],
+        [alt*=".jpg"],
+        [alt*=".jpeg"],
+        [alt*=".tiff"],
+        [alt*=".avif"],
+        [alt*=".webp"],
+        [alt="inline"],
+        [width]
+    )::after {
     content: attr(alt);
+    display: block;
     color: var(--text-muted);
-    margin-inline: auto;
     text-align: center;
+    width: calc(
+        var(--img-width, 100) / 100 * min(100%, var(--file-line-width))
+    );
 }
-body:not(.no-image-alttext-caption) .image-embed:not([alt*=".png"], [alt*=".gif"], [alt*=".jpg"], [alt*=".jpeg"], [alt*=".tiff"], [alt*=".avif"], [alt*=".webp"], [alt="inline"], [width])::after {
-    width: calc(var(--img-width, 100) / 100 * min(100%, var(--file-line-width)));
+/* Align the text boxes correctly */
+.image-embed {
+    &::after {
+        margin-inline: auto;
+    }
+    &[src~="left"]::after {
+        margin-inline: 0 auto;
+    }
+    &[src~="right"]::after {
+        margin-inline: auto 0;
+    }
+    :root .markdown-preview-view &[src~="float"]::after {
+        width: 100%;
+    }
 }
-body:not(.no-image-alttext-caption) .markdown-reading-view .image-embed[src~="float"]:not([alt*=".png"], [alt*=".gif"], [alt*=".jpg"], [alt*=".jpeg"], [alt*=".tiff"], [alt*=".avif"], [alt*=".webp"], [alt="inline"], [width])::after {
-    width: calc(var(--img-width, 100) / 100 * var(--file-line-width));
-}
-body:not(.no-image-alttext-caption) .image-embed:not([alt*=".png"], [alt*=".gif"], [alt*=".jpg"], [alt*=".jpeg"], [alt*=".tiff"], [alt*=".avif"], [alt*=".webp"], [alt="inline"], [width])[src~="left"]::after {
-    margin-inline: 0 auto;
-}
-body:not(.no-image-alttext-caption) .image-embed:not([alt*=".png"], [alt*=".gif"], [alt*=".jpg"], [alt*=".jpeg"], [alt*=".tiff"], [alt*=".avif"], [alt*=".webp"], [alt="inline"], [width])[src~="right"]::after {
-    margin-inline: auto 0;
-}
-
 
 /** CSS Classes **/
 
@@ -1844,11 +1977,6 @@ hr.page-break::before {
     }
 }
 
-/* Fix gutter number vertical cutoff */
-.ͼ1 .cm-lineNumbers .cm-gutterElement {
-    line-height: normal !important;
-}
-
 /* Fix weird ol bug */
 ol > li > p {
     margin: 0;
@@ -1857,4 +1985,9 @@ ol > li > p {
 /* Make backlinks padding more consistent */
 .markdown-preview-view .embedded-backlinks {
     margin-top: 100px;
+}
+
+/* Fix specific word break difference */
+:root .cm-lineWrapping {
+    white-space: unset;
 }
