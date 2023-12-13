@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09_PUBLICATION/09000_PUBLICATION README.md",
+                "file": "word count.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fad6f4df1e0c536e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+                "file": "word count.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,13 +51,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "656c7f89ae4072a7",
+            "id": "ce204b936cf4a3b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
-                "mode": "preview",
+                "file": "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md"
+                "file": "00_THEORY OF COMPOSITION/00006_DUCHAN - DeIxis in Narrative.md"
               }
             }
           },
@@ -197,16 +209,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c85b69ca449e80c",
+  "active": "fad6f4df1e0c536e",
   "lastOpenFiles": [
-    "09_PUBLICATION/09000_PUBLICATION README.md",
+    "00_THEORY OF COMPOSITION/00005_GAVINS - Text World Theory.md",
+    "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
+    "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
+    "assets/Pasted image 20231212174953.png",
+    "Untitled.md",
+    "word count.md",
+    "assets/Pasted image 20231212185819.png",
+    "assets/Pasted image 20231212185814.png",
+    "assets/Pasted image 20231212185808.png",
+    "assets/Pasted image 20231212185148.png",
+    "assets/Pasted image 20231212185142.png",
+    "assets/Pasted image 20231212184916.png",
+    "assets/Pasted image 20231212183731.png",
+    "09_PUBLICATION/090008_FRIEDMAN - Publishing 101.md",
+    "assets/Pasted image 20231212182311.png",
+    "assets/Pasted image 20231212182302.png",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
+    "09_PUBLICATION/09000_PUBLICATION README.md",
+    "02_PLOT SYUHZET/02000_PLOT SYUHZET README.md",
+    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
     "00_THEORY OF COMPOSITION/00000_TOC README.md",
     "09_PUBLICATION/090004.md",
     "09_PUBLICATION/0900011.md",
     "09_PUBLICATION/0900010_BELL - Fiction Attack! Insider Secrets for Writing and Selling Your Novels & Stories .md",
     "09_PUBLICATION/090009_MAUM - Before and After the Book Deal.md",
-    "09_PUBLICATION/090008_FRIEDMAN - Publishing 101.md",
     "09_PUBLICATION/090007_BURT-THOMAS - The Writer's Digest Guide to Query Letters.md",
     "09_PUBLICATION/090006_HERMAN - Jeff Herman's Guide to Book Publishers.md",
     "09_PUBLICATION/090005_JONES - Novel & Short Story Writer's Market Guide.md",
@@ -218,17 +247,6 @@
     "09_PUBLICATION/090009.md",
     "09_PUBLICATION/090008.md",
     "09_PUBLICATION/090007.md",
-    "09_PUBLICATION/090006.md",
-    "09_PUBLICATION/090005.md",
-    "09_PUBLICATION/090003.md",
-    "09_PUBLICATION/090001.md",
-    "01_THEME/01000_THEME README.md",
-    "08_FUZZ INTERTEXT AND GENRES/08000_FUZZ README.md",
-    "01_THEME/010017_CARDENAS - Logseq Notes.md",
-    "assets/Pasted image 20231211193557.png",
-    "assets/Pasted image 20231211195203.png",
-    "assets/Pasted image 20231211194838.png",
-    "assets/Pasted image 20231211194241.png",
     "desktop.ini",
     "10_Post/10001_Real Estate",
     "10_Post",
@@ -238,12 +256,6 @@
     "02_PLOT",
     "09_PUBLICATION",
     "05_SEQUENCE FABULA",
-    "06_NARRATOR",
-    "assets/Pasted image 20231204061043.png",
-    "assets/Pasted image 20231204064157.png",
-    "assets/Pasted image 20231204064134.png",
-    "assets/Pasted image 20231204064118.png",
-    "assets/Pasted image 20231204064035.png",
-    "assets/Pasted image 20231204064013.png"
+    "06_NARRATOR"
   ]
 }
