@@ -42,12 +42,8 @@
             "id": "11acff3981f10742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -136,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_FABULA SPACETIME/02000_FABULA SPACETIME.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,9 +191,15 @@
   },
   "active": "11acff3981f10742",
   "lastOpenFiles": [
+    "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
+    "02_FABULA CASIO-EXPERIENCE/02000_FABULA SPACETIME.md",
+    "02_FABULA CASIO-EXPERIENCE/020001_PHILIPS - Dramatica.md",
+    "02_FABULA CASIO-EXPERIENCE",
+    "05_SYUHZET PLOT/05000_SYUHZET PLOT.md",
+    "05_SYUHZET PLOT/05000_SEQUENCE FABULA README.md",
+    "05_SYUHZET PLOT",
     "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
     "05_SEQUENCE FABULA/05000_SEQUENCE FABULA README.md",
-    "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
     "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
     "04_SETTING/04000_SETTING README.md",
     "03_CHARACTER/030005_CORBETT - The Art of Character.md",
@@ -232,18 +230,12 @@
     "09_PUBLICATION/090008_FRIEDMAN - Publishing 101.md",
     "assets/Pasted image 20231212182311.png",
     "assets/Pasted image 20231212182302.png",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction.md",
-    "09_PUBLICATION/09000_PUBLICATION README.md",
-    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
-    "00_THEORY OF COMPOSITION/00000_TOC README.md",
     "10_Post/10001_Real Estate",
     "10_Post",
     "11_ETC",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER",
     "02_FABULA SPACETIME",
     "02_PLOT",
-    "09_PUBLICATION",
-    "05_SEQUENCE FABULA",
-    "06_NARRATOR"
+    "09_PUBLICATION"
   ]
 }
