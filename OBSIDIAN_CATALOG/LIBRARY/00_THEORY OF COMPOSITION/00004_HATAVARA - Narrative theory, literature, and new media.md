@@ -2231,3 +2231,97 @@ Country and western ballads have evolved from basic, behaviorist narratives to c
 ![[Pasted image 20231212185808.png]]
 ![[Pasted image 20231212185814.png]]
 ![[Pasted image 20231212185819.png]]
+
+
+**Narrative Techniques in “A Finnish Winter Day”**
+
+- **Heterodiegetic Narration with Internal Focalization:**
+  - Instances where the narrator adopts the internal viewpoint of a character.
+  - Example: Narrator describes Janne and Eeva's morning, including their thoughts and rationale, indicating a shift in focalization between characters.
+
+- **Homodiegetic Narration and Focalization:**
+  - Involves a narrator who is part of the narrative world.
+  - Example: The narrator relates the experiences and perspectives of Janne and Eeva, blending their thoughts with the narrative voice.
+
+- **Character Perspective and Thought Report:**
+  - Blends narrative voice with characters' consciousness and thoughts.
+  - Example: Janne and Eeva's thoughts on the day's activities, reflecting a mix of thought report and narrative control.
+
+- **Visual Focalization in Photographic Illustration:**
+  - A series of photographs used to convey a character's perspective.
+  - Example: Photographs of Titta, showing her in sheltered housing, illustrate her isolation and viewpoint, moving from an external to an internal perspective.
+
+- **Contrast Between Past and Present:**
+  - Highlights the change in a character's life due to circumstances.
+  - Example: Titta's transition from an active, independent life to a more confined existence in sheltered housing.
+
+- **Narrative Ambiguity and Ethical Sensitivity:**
+  - Explores the blurred line between character experience and narrative perspective.
+  - Example: Uncertainty over whether Titta's sense of isolation is her own feeling or a perception imposed by the narrator.
+
+- **Concepts of Slant and Filter in Focalization:**
+  - Slant: Narrator's attitudes and ideological implications.
+  - Filter: Character's internal experiences and perceptions.
+  - Example: The visual framing in Titta's story suggests the narrator's influence in portraying her isolation.
+
+**Key Idea:**
+The narrative in “A Finnish Winter Day” skillfully employs a mix of heterodiegetic and homodiegetic narration, internal focalization, and visual storytelling to explore character perspectives, revealing the complex interplay between a narrator's control and a character's experience in conveying themes of isolation and change.
+
+**Narrative Techniques and Character Perspectives in Documenting Everyday Life**
+
+- **Narrator's Slant vs. Character's Filter:**
+  - The narrative often shows a dominance of the narrator's perspective over the character's internal view.
+  - Titta's case exemplifies this, where her hesitation about moving to sheltered housing is more from the narrator's summarization than her internal focalization.
+
+- **Contradiction and Institutional Influence:**
+  - A noticeable contradiction in the narrative between the illusion of independence and actual restrictions in sheltered housing.
+  - The narrative suggests an institutional mindset influencing both Titta and the narrator's perspectives.
+
+- **Transition from External to Internal Perspectives:**
+  - The narrative shifts from an outside view to sharing characters' internal perspectives, both visually and verbally.
+  - Example: Karl-Mikael and Camilla's morning routine, transitioning from a dark island to their lit home and personal actions.
+
+- **Use of Thought Report and Free Indirect Thought:**
+  - The narrative employs thought reports to summarize characters' intentions and free indirect thought to blend characters' thoughts with the narrator's voice.
+  - Example: Atro's morning routine in Helsinki, where the narrative uses deictic markers and shifts in tense to align with his perspective.
+
+- **Documentary Setting and Real Interviews:**
+  - The narrative is based on real interviews, allowing for a unique blend of actual verbal reports and narrative modification.
+  - This approach is distinct from fiction, where original character verbalization is assumed rather than explicitly given.
+
+- **Expressivity in Narrative:**
+  - The narrative uses expressivity to offer interpretative possibilities, like in Helena's case, where her contentment could be a psychonarration or a sign of her discursive agency.
+
+- **Reporting Physical Expressions Rarely:**
+  - The narrative seldom reports on characters' facial expressions, focusing more on verbal expression and internal states.
+  - When physical expressions are reported, it's for rhetorical purposes, as seen in Lea's laughter about her cat, Martti.
+
+**Key Idea:**
+The narrative in "Documenting Everyday Life" skillfully intertwines the narrator's slant with characters' filters, using thought reports, free indirect thought, and minimal physical expression reporting to explore the nuanced perspectives and internal states of characters in everyday settings.
+
+**Narrative Techniques in "A Finnish Winter Day" and Their Implications**
+
+- **Interplay of Negative Attitudes and Humor:**
+  - Use of direct quotes and reporting clauses to mitigate negative attitudes.
+  - Example: Tarja's smile in response to her in-laws' criticism is presented as a private joke, softening the narrative's tone.
+
+- **Narrator's Rhetorical Intentions:**
+  - The narrator's framing of quotations and thoughts influences the reader's interpretation.
+  - This approach reflects self-representations in digital media, where the authorial narrator shapes the presentation of characters' words and attitudes.
+
+- **Fictionality in Documentary Narrative:**
+  - Utilization of fictional techniques within the communicative act of the documentary.
+  - Focus on local fictionality, using internal focalization and varying modes of thought presentation while maintaining a factual frame.
+
+- **Mind and Consciousness Representation:**
+  - Blend of everyday storytelling and fictional techniques in representing minds and consciousness.
+  - The exhibition employs a mix of free indirect discourse and thought report, often derived from real interviews.
+
+- **Fictionalization and Clarity of Intentions:**
+  - Fictionalization in the narrative risks obscuring the clarity of intentions and authenticity of represented subjectivity.
+  - Example: The portrayal of Titta's life leaves ambiguity about whether her perceived abnormality is her own emotion, narrative construction, or social scripting.
+
+**Key Idea:**
+In "A Finnish Winter Day," the narrative employs a sophisticated blend of documentary and fictional techniques to represent characters' minds and consciousness, creating a narrative that navigates between factual representation and the rhetorical use of fictionality, ultimately influencing the reader's perception and understanding of the characters' experiences and the author's intentions.
+
+

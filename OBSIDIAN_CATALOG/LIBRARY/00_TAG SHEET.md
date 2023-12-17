@@ -17,3 +17,5 @@ tags:
 		- added 00_GENERAL 
 		- assets folder
 
+api key 
+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

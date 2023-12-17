@@ -18,32 +18,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fad6f4df1e0c536e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1534b7406776d29d",
         "type": "tabs",
         "children": [
           {
-            "id": "11acff3981f10742",
+            "id": "fad6f4df1e0c536e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00_THEORY OF COMPOSITION/00005_MCKEE - Story.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -116,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -132,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "word count.md"
+              }
             }
           },
           {
@@ -189,8 +185,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11acff3981f10742",
+  "active": "f547bad346426966",
   "lastOpenFiles": [
+    "00_THEORY OF COMPOSITION/00005_MCKEE - Story.md",
+    "Pasted image 20231217075328.png",
+    "Pasted image 20231217075321.png",
+    "Pasted image 20231217075316.png",
+    "word count.md",
+    "Pasted image 20231217075037.png",
+    "Pasted image 20231217075029.png",
+    "Pasted image 20231217074524.png",
+    "Pasted image 20231217074407.png",
+    "Pasted image 20231217074359.png",
+    "Pasted image 20231217073947.png",
+    "Pasted image 20231217072609.png",
+    "desktop.ini",
+    "00_TAG SHEET.md",
+    "test api script.py",
+    "00_THEORY OF COMPOSITION/test api script.py",
+    "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
+    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
     "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
     "02_FABULA CASIO-EXPERIENCE/02000_FABULA SPACETIME.md",
     "02_FABULA CASIO-EXPERIENCE/020001_PHILIPS - Dramatica.md",
@@ -198,9 +212,7 @@
     "05_SYUHZET PLOT/05000_SYUHZET PLOT.md",
     "05_SYUHZET PLOT/05000_SEQUENCE FABULA README.md",
     "05_SYUHZET PLOT",
-    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
     "05_SEQUENCE FABULA/05000_SEQUENCE FABULA README.md",
-    "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
     "04_SETTING/04000_SETTING README.md",
     "03_CHARACTER/030005_CORBETT - The Art of Character.md",
     "03_CHARACTER/030006_CORBETT - The Compass of Character.md",
@@ -215,27 +227,10 @@
     "00_THEORY OF COMPOSITION/00007_MCKEE - Story.md",
     "00_THEORY OF COMPOSITION/00006_DUCHAN - Deixis in Narrative.md",
     "00_THEORY OF COMPOSITION/00005_GAVINS - Text World Theory.md",
-    "desktop.ini",
-    "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
-    "assets/Pasted image 20231212174953.png",
-    "Untitled.md",
-    "word count.md",
-    "assets/Pasted image 20231212185819.png",
-    "assets/Pasted image 20231212185814.png",
-    "assets/Pasted image 20231212185808.png",
-    "assets/Pasted image 20231212185148.png",
-    "assets/Pasted image 20231212185142.png",
-    "assets/Pasted image 20231212184916.png",
-    "assets/Pasted image 20231212183731.png",
-    "09_PUBLICATION/090008_FRIEDMAN - Publishing 101.md",
-    "assets/Pasted image 20231212182311.png",
-    "assets/Pasted image 20231212182302.png",
     "10_Post/10001_Real Estate",
     "10_Post",
     "11_ETC",
     "08_FUZZ INTERTEXT AND GENRES/005_BERGER",
-    "02_FABULA SPACETIME",
-    "02_PLOT",
-    "09_PUBLICATION"
+    "02_FABULA SPACETIME"
   ]
 }
