@@ -3,20 +3,20 @@
 ### Additional Information 
 	Mckee and Bloom are the two foundational authors I reference when creating themes.
 
-CAMPBELL - The Hero With a Thousand Faces
-CAMPBELL - The Inner Reaches of Outer Space
-VOGLER - The Writer's Journey
-MILLER - The Epic Hero
-BLOOM - The Western Canon        
-BERNHARDT - Thinking Theme: The Heart of the Matter
-DEBORD - The Society of the Spectacle
-MIZER - Tabletop Roleplaying Games and the Experience of Imagined Worlds
-CURRIE - Metafiction
-BURNETT - Companion to Literature of the U.S. South
-LEE - Companion to Asian American Literature
-DAVIS - Companion to Literature and Trauma
-BRONNER - Youth Cultures in America
-NADEN - The Golden Age of American Musical Theatre
+0100018_CAMPBELL - The Hero With a Thousand Faces
+0100019_CAMPBELL - The Inner Reaches of Outer Space
+0100020_VOGLER - The Writer's Journey
+0100021_MILLER - The Epic Hero
+0100022_BLOOM - The Western Canon        
+0100023_BERNHARDT - Thinking Theme: The Heart of the Matter
+0100024_DEBORD - The Society of the Spectacle
+0100025_MIZER - Tabletop Roleplaying Games and the Experience of Imagined Worlds
+0100026_CURRIE - Metafiction
+0100027_BURNETT - Companion to Literature of the U.S. South
+0100028_LEE - Companion to Asian American Literature
+0100029_DAVIS - Companion to Literature and Trauma
+0100030_BRONNER - Youth Cultures in America
+0100031_NADEN - The Golden Age of American Musical Theatre
 
 
 
