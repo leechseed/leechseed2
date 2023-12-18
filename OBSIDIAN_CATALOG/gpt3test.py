@@ -16,12 +16,12 @@ def read_pdf(file_path):
             text += page.extract_text()
     return text
 
-def split_text(text, chunk_size=1000):
+def split_text(text, chunk_size=1200):
     words = text.split()
     for i in range(0, len(words), chunk_size):
         yield ' '.join(words[i:i+chunk_size])
 
-async def query_gpt_async(text_chunk, prompt, session, semaphore, retry_delay=120, max_attempts=5):
+async def query_gpt_async(text_chunk, prompt, session, semaphore, retry_delay=69, max_attempts=5):
     async with semaphore:
         attempts = 0
         while attempts < max_attempts:
@@ -37,7 +37,7 @@ async def query_gpt_async(text_chunk, prompt, session, semaphore, retry_delay=12
                         "messages": [
                             {"role": "user", "content": text_chunk + "\n\n" + prompt}
                         ]
-                    }
+                    }   
                 )
                 if response.status == 200:
                     data = await response.json()
@@ -55,7 +55,7 @@ async def query_gpt_async(text_chunk, prompt, session, semaphore, retry_delay=12
         return "Error: Max attempts reached"
 
 async def process_chunks(chunks, prompt):
-    semaphore = asyncio.Semaphore(5)  # Limit to 5 concurrent requests
+    semaphore = asyncio.Semaphore(3)  # Limit to 3 concurrent requests
     async with aiohttp.ClientSession() as session:
         tasks = [asyncio.create_task(query_gpt_async(chunk, prompt, session, semaphore)) for chunk in chunks]
         return await asyncio.gather(*tasks)

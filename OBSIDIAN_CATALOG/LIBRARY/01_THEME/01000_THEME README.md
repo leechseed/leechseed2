@@ -7,11 +7,11 @@ CAMPBELL - The Hero With a Thousand Faces
 CAMPBELL - The Inner Reaches of Outer Space
 VOGLER - The Writer's Journey
 MILLER - The Epic Hero
+BLOOM - The Western Canon        
 BERNHARDT - Thinking Theme: The Heart of the Matter
+DEBORD - The Society of the Spectacle
 MIZER - Tabletop Roleplaying Games and the Experience of Imagined Worlds
 CURRIE - Metafiction
-
-
 BURNETT - Companion to Literature of the U.S. South
 LEE - Companion to Asian American Literature
 DAVIS - Companion to Literature and Trauma

@@ -4,3 +4,9 @@
 
 The Emotional Craft of Fiction by Mass
 
+Booth, Wayne C.	The Rhetoric of Fiction		Chicago: University of Chicago Press, 1983
+
+Burke, Kenneth	The Philosophy of Literary Form		Berkeley: University of California Press, 1974
+
+
+Scholes, Robert, and Robert Kellogg	The Nature of Narrative		Oxford: Oxford University Press, 1966
