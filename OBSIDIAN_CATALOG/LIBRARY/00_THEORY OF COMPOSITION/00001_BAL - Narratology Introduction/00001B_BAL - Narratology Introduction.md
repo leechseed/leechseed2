@@ -523,6 +523,7 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - The exploration of narrative structures, particularly in the works of Flaubert, Proust, and Coetzee, demonstrates the dynamic and evolving nature of storytelling in literature. Authors skillfully manipulate narration levels and speech forms to create complex and engaging narratives that challenge traditional storytelling methods and reader perceptions.
 
+### Key Terms
 |Term|Definition|
 |---|---|
 |Character Identification|In Narratology, this refers to the process through which readers relate to or empathize with characters in a narrative. It involves how characters are presented and developed, influencing how readers perceive and connect with them emotionally or psychologically.|
@@ -565,6 +566,7 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - The intricate use of direct, indirect, and free indirect discourse in literature serves not only to enrich the narrative complexity but also to deepen character development and thematic exploration. Authors like Flaubert skillfully weave these techniques into their storytelling, creating narratives that are both <mark style="background: #FFF3A3A6;">immersive</mark> and <mark style="background: #FFF3A3A6;">reflective</mark> of their <mark style="background: #FFF3A3A6;">characters' inner worlds</mark> and <mark style="background: #FFF3A3A6;">societal contexts</mark>.
 
+### Key Terms
 |Term|Definition|
 |---|---|
 |Ambiguous Discourse|In Narratology, this refers to a narrative style that deliberately creates uncertainty or multiple meanings in its storytelling. It leaves room for interpretation and often challenges the reader to actively engage in deciphering the true intent or reality of the narrative.|
@@ -601,6 +603,7 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - The intricate use of embedded narratives in literature serves not only to enrich the storytelling but also to provide deeper insights into characters, <mark style="background: #FFF3A3A6;">societal norms</mark>, and <mark style="background: #FFF3A3A6;">thematic elements</mark>. The interplay between primary and embedded stories is a powerful tool that authors use to engage readers and add complexity to their narratives, often leaving room for multiple interpretations and a richer reading experience.
 
+### Key Terms
 |Term|Definition|
 |---|---|
 |Backstory|In Narratology, this refers to the history or background of a character or event that is revealed to provide context to the current narrative. It offers deeper insights into characters’ motivations, behaviors, and relationships.|
@@ -642,6 +645,7 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - The use of embedded narratives and mirrortexts in literature serves as a sophisticated tool for authors, enabling them to create multi-layered stories. These narrative techniques not only enrich the plot but also invite readers to engage in a more profound and interpretative reading experience, where the boundaries between reality, fiction, and interpretation become intriguingly blurred.
 
+### Key Terms
 |Term|Definition|
 |---|---|
 |Key Events|In Narratology, key events are significant moments or actions within a narrative that have a profound impact on the plot and character development. They are pivotal points that drive the story forward and often lead to crucial changes or resolutions in the narrative.|
@@ -672,6 +676,7 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - The intricate use of embedded narratives, dialogue, and the distinction between the author and narrator in literature serves to enrich the <mark style="background: #FFF3A3A6;">storytelling experience</mark>. These techniques not only add layers to the narrative but also invite readers to engage in deeper interpretation and analysis, recognizing the complex interplay of narrative elements and their implications within the story's universe.
 
+### Key Terms
 |Term|Definition|
 |---|---|
 |Author's Intention|In Narratology, this term refers to the purpose or goal the author aims to achieve through the narrative. It encompasses the themes, messages, and effects the author intends to convey to the reader.|
@@ -708,6 +713,7 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - Postmodern literature utilizes complex narrative techniques, including the strategic use of embedded texts and dialogue, to deepen the storytelling experience. These techniques encourage readers to engage with the text critically, recognizing the diverse layers and meanings within the narrative and the broader cultural and <mark style="background: #FFF3A3A6;">ideological context</mark> in which it exists.
 
+### Key Terms
 |Term|Definition|
 |---|---|
 |Dramatic Form|In Narratology, this refers to a narrative structure that emphasizes elements typically found in drama, such as dialogue and conflict, focusing on the action and interaction of characters rather than narration or description.|
@@ -741,94 +747,142 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 - **Key Idea:**
   - <mark style="background: #FFF3A3A6;">Narrative techniques involving time and sequential ordering highlight the intricate and deliberate construction of stories.</mark> These techniques challenge the <mark style="background: #FFF3A3A6;">perception of time</mark> and <mark style="background: #FFF3A3A6;">event progression</mark>, allowing narratives to convey complex themes and emotions beyond the constraints of <mark style="background: #FFF3A3A6;">linear time</mark>.
 
+### Key Terms
+|Term|Definition|
+|---|---|
+|Chronological Order|In Narratology, this refers to the arrangement of events in the order in which they occurred in time. It is a traditional narrative structure that follows a linear progression from the past through the present to the future.|
+|Constructed Nature of Storytelling|This term highlights that narratives are intentionally crafted by authors, with elements like plot, characters, and settings deliberately chosen and arranged to convey a specific story or message.|
+|Event Progression|In Narratology, event progression refers to the sequence and development of events within a narrative. It is how the plot unfolds and moves forward, contributing to the overall story arc.|
+|Historical Time|This term denotes the period in which the events of a narrative are set, reflecting the historical context and conditions of that era. In Narratology, it provides a backdrop against which the narrative unfolds.|
+|Linear Time|A narrative structure in Narratology where events are told in a straightforward, sequential manner, following a direct progression from one event to the next in a time-ordered sequence.|
+|Logical Order of Events|In Narratology, this refers to the arrangement of events in a story based on a logical, cause-and-effect relationship. It ensures the narrative flows in a coherent and understandable manner.|
+|Micro Time|This term in Narratology refers to the focus on small, often minute-by-minute or day-by-day, intervals of time within a narrative. It allows for detailed exploration of events and characters’ experiences within a short duration.|
+|Monumental Time|In Narratology, monumental time refers to a grand, sweeping temporal scope in a narrative, often encompassing significant historical periods or vast spans of time, lending an epic quality to the story.|
+|Narrative Effects|These are the impacts or responses elicited from readers by the way a story is told. In Narratology, narrative effects can be emotional, intellectual, or psychological, influenced by the author's use of narrative techniques.|
+|Narrative Time|The time within which the story takes place, including the duration of the story, the order in which events are presented, and the pace at which the narrative progresses.|
+|Presentist Time|In Narratology, this term refers to a narrative focus on the present moment, often disregarding traditional linear time to emphasize the immediacy and urgency of current events or experiences.|
+|Reader's Perception of Time|This is how the reader experiences and interprets the passage of time within a narrative. It can be influenced by the narrative’s pacing, structure, and the way time is manipulated within the story.|
+|Sequence of Events (Sequential Ordering)|This refers to the arrangement of events in a narrative in a specific order, typically following a linear or logical sequence. It forms the backbone of the plot and is fundamental in guiding the reader through the story.|
+|Thematic Exploration|In Narratology, thematic exploration involves delving into the underlying themes and concepts of a narrative. It includes examining the ideas, messages, and motifs that the narrative seeks to explore and convey.|
+|Time|A fundamental element in Narratology representing the duration, sequencing, and pacing of events in a narrative. It is essential in structuring the plot and affects how the story is perceived and understood by the reader.|
 
 
-
-**Analyzing Temporal Manipulation in Narratives: Retroversion and Anticipation**
+## **Analyzing Temporal Manipulation in Narratives: Retroversion and Anticipation**
 
 - **Temporal Complexity in Narratives:**
   - Time in narratives is presented in a multi-layered and non-linear manner, challenging the conventional linear perception of time. This complexity in temporal presentation enhances reader engagement and highlights the narrative's thematic depth.
 
 - **Example of Retroversion: Homer's "Iliad":**
-  - The opening of "The Iliad" demonstrates retroversion, starting with the consequence (Achilles' anger) and then tracing back to the causes. This structure emphasizes the influence of external forces on human actions and prefaces the story's content.
+  - The opening of "The Iliad" demonstrates <mark style="background: #FFF3A3A6;">retroversion</mark>, starting with the consequence (Achilles' anger) and then tracing back to the causes. This structure emphasizes the influence of external forces on human actions and prefaces the story's content.
 
 - **Modern Narrative Example: Harry Mulisch's "What Happened to Sergeant Massuro?":**
-  - This narrative exhibits intricate temporal manipulation, alternating between the present moment and past events. The sequence A4-B5-C3-D2-E1 illustrates this shift, showcasing the story's depth and the character's psychological journey.
+  - This narrative exhibits intricate <mark style="background: #FFF3A3A6;">temporal manipulation</mark>, alternating between the <mark style="background: #FFF3A3A6;">present moment</mark> and <mark style="background: #FFF3A3A6;">past events</mark>. The sequence A4-B5-C3-D2-E1 illustrates this shift, showcasing the story's depth and the <mark style="background: #FFF3A3A6;">character's psychological journey</mark>.
 
 - **Key Idea:**
-  - The use of retroversion and anticipation in narratives serves as a powerful tool for creating intricate storylines. This temporal manipulation not only enhances the storytelling but also deepens the reader's understanding of the narrative's themes and characters' experiences.
+  - The use of retroversion and <mark style="background: #FFF3A3A6;">anticipation</mark> in narratives serves as a powerful tool for creating intricate storylines. This temporal manipulation not only enhances the storytelling but also deepens the reader's understanding of the narrative's themes and characters' experiences.
 
-**Exploring Temporal Complexity in Harry Mulisch's Narrative**
+|Term|Definition|
+|---|---|
+|Anticipation|In Narratology, this refers to the technique of creating expectation or suspense about future events in a story. It keeps readers engaged by making them look forward to potential outcomes or twists in the narrative.|
+|Character's Psychological Journey|This term describes the emotional and psychological development of a character throughout the narrative. It involves the character's internal struggles, changes, and growth, contributing significantly to character depth and plot progression.|
+|Retroversion|In Narratology, retroversion is a narrative technique where the story revisits or reflects on past events. It provides background, depth, and context to the current storyline, and can reveal motivations, causes, and effects that were not previously apparent.|
+|Temporal Manipulation|This refers to the deliberate alteration of time sequences in a narrative. It includes techniques such as flashbacks, flashforwards, and non-linear timelines, used to enhance storytelling, reveal character depth, and build suspense.|
+
+
+## **Exploring Temporal Complexity in Harry Mulisch's Narrative**
 
 - **Contextual Background of Harry Mulisch:**
   - Harry Mulisch, influenced by his war-torn background, believed in the transformative power of art and language. His works, including "What Happened to Sergeant Massuro?", delve into mystical and philosophical themes.
 
 - **Narrative Analysis of "What Happened to Sergeant Massuro?":**
-  - The story revolves around Massuro's gradual transformation into stone, recounted by a friend. The narrative features chronological deviations, blending present and past events, and highlighting the impact of colonial and personal conflicts.
+  - The story revolves around Massuro's gradual transformation into stone, recounted by a friend. The narrative features <mark style="background: #FFF3A3A6;">chronological deviations</mark>, blending present and past events, and highlighting the impact of <mark style="background: #FFF3A3A6;">colonial</mark> and <mark style="background: #FFF3A3A6;">personal conflicts</mark>.
 
 - **Chronological Sequencing and Its Effects:**
-  - The story's temporal sequence is intricately structured, with segments ranging from Massuro's death to moments of past acquaintance. This sequencing enhances the story's complexity and mirrors the confusion underlying the fabula.
+  - The story's <mark style="background: #FFF3A3A6;">temporal sequence</mark> is intricately structured, with segments ranging from Massuro's death to moments of past acquaintance. This sequencing enhances the story's complexity and mirrors the confusion underlying the fabula.
 
 - **Nuances of Anachrony in the Narrative:**
-  - Different types of anachronies (subjective and objective) are employed, reflecting variations in the characters' consciousness and the narrative's chronological flow.
+  - Different types of <mark style="background: #FFF3A3A6;">anachronies</mark> (<mark style="background: #FFF3A3A6;">subjective</mark> and <mark style="background: #FFF3A3A6;">objective</mark>) are employed, reflecting variations in the <mark style="background: #FFF3A3A6;">characters' consciousness</mark> and the narrative's <mark style="background: #FFF3A3A6;">chronological flow</mark>.
 
 - **Complexities in Determining Chronological Primacy:**
-  - The narrative's structure makes it challenging to pinpoint a primary chronological segment, illustrating the intricate relationship between story and fabula.
+  - The narrative's structure makes it challenging to pinpoint a <mark style="background: #FFF3A3A6;">primary chronological segment</mark>, illustrating the intricate relationship between story and fabula.
 
 - **Influence of Narrative Units on Each Other:**
-  - The story's time units are interrelated, contributing to the overall narrative complexity. Genette's method of rough indication of time units is employed for analysis, focusing on detailed study of complex fragments.
+  - The <mark style="background: #FFF3A3A6;">story's time units</mark> are interrelated, contributing to the overall narrative complexity. Genette's method of rough indication of time units is employed for analysis, focusing on detailed study of complex fragments.
 
 - **Key Idea:**
-  - Harry Mulisch's "What Happened to Sergeant Massuro?" exemplifies the intricate manipulation of time in narrative storytelling, where chronological deviations serve to deepen thematic exploration and character development.
+  - Harry Mulisch's "What Happened to Sergeant Massuro?" exemplifies the intricate manipulation of time in narrative storytelling, where <mark style="background: #FFF3A3A6;">chronological deviations</mark> serve to deepen thematic exploration and character development.
+
+|Term|Definition|
+|---|---|
+|Character's Consciousness|In Narratology, this refers to the depiction of a character’s inner thoughts, feelings, and mental processes within the narrative. It provides insight into the character’s motivations and emotional responses.|
+|Chronological Deviations|These are intentional departures from the chronological order of events within a narrative. They can be used for various narrative effects, such as creating suspense, providing backstory, or revealing character motivations.|
+|Chronological Flow|In Narratology, chronological flow refers to the progression of events in a narrative in the order they occur in time. It's the linear sequence from past through present to future.|
+|Colonial Conflicts|These are conflicts within a narrative that stem from colonialism. They often involve themes of power, resistance, cultural identity, and the impact of colonial rule on individuals and societies.|
+|Objective Anachronies|In Narratology, objective anachronies are disruptions in the chronological sequence of events presented from a neutral, external viewpoint. They provide factual information about events and situations independent of characters’ personal experiences.|
+|Personal Conflicts|Refers to the internal struggles and conflicts faced by characters in a narrative. These conflicts are often central to character development and plot progression and can include emotional, psychological, or relational challenges.|
+|Primary Chronological Segment|This term denotes the main time frame around which a narrative is centered. It is the dominant period of the story against which other timelines or anachronies are contrasted.|
+|Story Time Units|In Narratology, story time units refer to the segments of time that make up the narrative, which can vary in duration and are essential for structuring the story's temporal dimension.|
+|Subjective Anachronies|These are disruptions in the chronological sequence of events in a narrative, presented from the perspective of a character’s internal experience. They reflect the character's personal perceptions and emotions.|
+|Temporal Sequence|This refers to the order in which events are presented in a narrative, which may or may not align with their actual chronological order, depending on the narrative techniques employed.|
 
 
-**Anachronies and Temporal Manipulation in Narrative Texts**
+## **Anachronies and Temporal Manipulation in Narrative Texts**
 
 - **Introduction to Anachronies:**
-  - Anachronies refer to deviations from chronological sequence in narrative texts. They vary in type and complexity, influencing how stories are perceived and interpreted by readers.
+  - <mark style="background: #FFF3A3A6;">Anachronies</mark> refer to deviations from chronological sequence in narrative texts. They vary in type and complexity, influencing how stories are perceived and interpreted by readers.
 
 - **External, Internal, and Mixed Retroversions:**
-  - External Retroversion: Occurs completely outside the primary fabula's timeline.
-  - Internal Retroversion: Happens within the primary fabula's timeline.
-  - Mixed Retroversion: Begins outside and ends within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">External Retroversion</mark>: Occurs completely outside the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Internal Retroversion</mark>: Happens within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Mixed Retroversion</mark>: Begins outside and ends within the primary fabula's timeline.
 
 - **Functions of Retroversions:**
-  - External retroversions often provide background or historical context for characters or events.
-  - Internal retroversions may fill narrative gaps, provide new information, or offer alternative perspectives on previously narrated events.
+  - <mark style="background: #FFF3A3A6;">External retroversions often provide background or historical context for characters or events</mark>.
+  - Internal retroversions may fill <mark style="background: #FFF3A3A6;">narrative gaps</mark>, provide new information, or offer alternative perspectives on previously narrated events.
 
 - **Chronological Homonymy and Complexity:**
-  - In some narratives, it's challenging to determine the exact temporal placement of events, leading to a phenomenon akin to "chronological homonymy."
+  - In some narratives, it's challenging to determine the exact <mark style="background: #FFF3A3A6;">temporal placement of events</mark>, leading to a phenomenon akin to "<mark style="background: #FFF3A3A6;">chronological homonymy</mark>."
 
 - **Subjective and Objective Anachronies:**
-  - Subjective Anachronies: Based on a character's consciousness or memory.
-  - Objective Anachronies: Present events independent of a character's personal perspective.
+  - <mark style="background: #FFF3A3A6;">Subjective Anachronies</mark>: Based on a character's consciousness or memory.
+  - <mark style="background: #FFF3A3A6;">Objective Anachronies</mark>: Present events independent of a character's personal perspective.
 
 - **Examples of Anachrony in Literature:**
   - Harry Mulisch's "What Happened to Sergeant Massuro?" demonstrates intricate temporal manipulation, blending external and internal retroversions to create a sense of mystery and colonial critique.
-  - Michel Butor's "La Modification" uses subjective retroversions to explore a character's dissatisfaction and internal conflicts.
+  - Michel Butor's "La Modification" uses <mark style="background: #FFF3A3A6;">subjective retroversions</mark> to explore a character's dissatisfaction and internal conflicts.
 
 - **The Role of Anachrony in Various Genres:**
-  - Anachronies are vital in genres like detective novels and mystery literature, where they contribute to suspense and plot development.
+  - Anachronies are vital in genres like detective novels and mystery literature, where they contribute to <mark style="background: #FFF3A3A6;">suspense</mark> and <mark style="background: #FFF3A3A6;">plot development.
+</mark>
 
 - **Key Idea:**
-  - Anachronies in narrative texts, whether external, internal, or mixed, play a crucial role in shaping a story's depth and complexity. They serve various functions from providing historical context to enhancing character development and thematic exploration.
+  - Anachronies in narrative texts, whether external, internal, or <mark style="background: #FFF3A3A6;">mixed</mark>, play a crucial role in shaping a story's depth and complexity. They serve various functions from providing historical context to enhancing character development and thematic exploration.
 
-**Exploring Anachronies in Narrative Texts**
+|Key Word|Definition|
+|---|---|
+|Anachronies|In Narratology, anachronies refer to the discrepancy between the order of events in the story and their chronological order in the narrative. It includes flashbacks or flashforwards that disrupt the chronological flow.|
+|Chronological Homonymy|A concept in Narratology where different events occurring at different times are presented as if they are occurring simultaneously or in a similar timeframe.|
+|External Retroversion|A type of retroversion in Narratology where the narrative goes back in time to describe events external to the character’s immediate experience, often providing additional context or background.|
+|Internal Retroversion|In Narratology, this refers to a narrative technique where the story revisits events or experiences that are internal to a character’s consciousness, such as memories or thoughts.|
+|Mixed Retroversion|A combination of both internal and external retroversion in a narrative, intertwining characters’ internal experiences with external events to enrich the storytelling.|
+|Temporal Placement of Events|The positioning of events in a narrative according to their time sequence. It determines how the story’s timeline is structured and perceived by the reader.|
+
+## **Exploring Anachronies in Narrative Texts**
 
 - **Concept of Span in Anachronies:**
-  - Span refers to the duration covered by an anachrony in a narrative. It varies from punctual (brief, significant events) to durative (longer periods depicting situations or developments).
+  - <mark style="background: #FFF3A3A6;">Span</mark> refers to the duration covered by an anachrony in a narrative. It varies from <mark style="background: #FFF3A3A6;">punctual</mark> (brief, significant events) to <mark style="background: #FFF3A3A6;">durative</mark> (longer periods depicting situations or developments).
 
 - **Types of Anachronies Based on Span:**
-  - External Retroversion: Occurs outside the primary fabula's timeline.
-  - Internal Retroversion: Happens within the primary fabula's timeline.
-  - Mixed Retroversion: Begins outside and ends within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">External Retroversion</mark>: Occurs outside the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Internal Retroversion</mark>: Happens within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Mixed Retroversion</mark>: Begins outside and ends within the primary fabula's timeline.
 
 - **Completeness of Anachronies:**
-  - Anachronies can be complete, covering the entire development from start to finish, or incomplete, providing only fragmented information.
+  - Anachronies can be <mark style="background: #FFF3A3A6;">complete</mark>, covering the entire development from start to finish, or <mark style="background: #FFF3A3A6;">incomplete</mark>, providing only fragmented information.
 
 - **Punctual vs. Durative Anachronies:**
-  - Punctual Anachronies: Brief but significant events.
-  - Durative Anachronies: Longer periods that often provide context or background.
+  - <mark style="background: #FFF3A3A6;">Punctual Anachronies</mark>: Brief but significant events.
+  - <mark style="background: #FFF3A3A6;">Durative Anachronies</mark>: Longer periods that often provide context or background.
 
 - **Functions and Impacts of Anachronies:**
   - Provide background or context.
@@ -836,77 +890,122 @@ Here's the vocabulary list from the provided text about narratology, focusing on
   - Create suspense or enhance narrative complexity.
 
 - **Examples of Anachrony in Literature:**
-  - Harry Mulisch's "What Happened to Sergeant Massuro?" illustrates the use of external and internal retroversions to create mystery and explore colonial themes.
+  - Harry Mulisch's "What Happened to Sergeant Massuro?" illustrates the use of external and internal retroversions to create mystery and explore <mark style="background: #FFF3A3A6;">colonial themes</mark>.
   - Marcel Proust’s “À la recherche du temps perdu” demonstrates the intricate manipulation of time through punctual and durative anachronies.
 
 - **Anachrony and Narrative Styles:**
-  - The use of anachrony can characterize an author’s narrative style and reflect their worldview.
+  - The use of anachrony can characterize an <mark style="background: #FFF3A3A6;">author’s narrative style</mark> and reflect their worldview.
   - Frequent punctual anachronies often indicate a direct, informative style, while dominant durative anachronies suggest a focus on inevitable situations and character development.
 
 - **Key Idea:**
   - Anachronies, whether punctual or durative, play a crucial role in narrative texts by adding depth, complexity, and richness to the storytelling. They manipulate time to enhance character development, provide context, and engage readers in a more profound understanding of the narrative.
 
+|Term|Definition|
+|---|---|
+|Author's Narrative Style|In Narratology, this refers to the unique manner in which an author constructs and conveys a story, encompassing language use, narrative techniques, and the structuring of plot and characters.|
+|Colonial Themes|These are narrative elements that explore issues related to colonialism, including power dynamics, cultural conflicts, and the impact of colonial rule, often reflecting historical and sociopolitical contexts.|
+|Complete Anachronies|In Narratology, complete anachronies are instances where the narrative deviates from the chronological sequence to provide a full and detailed account of events occurring at different times.|
+|Durative Anachronies|These are temporal shifts within a narrative that span a length of time, rather than focusing on a single moment. They allow for a broader exploration of events and their impact over time.|
+|External Retroversion|A narrative technique where the story revisits past events external to the character’s current experiences, often providing additional background or context to the main narrative.|
+|Incomplete Anachronies|In Narratology, incomplete anachronies refer to partial deviations from the chronological sequence, where the narrative provides glimpses or fragments of events occurring at different times.|
+|Internal Retroversion|This narrative technique involves revisiting past events or experiences that are internal to a character’s consciousness, such as memories or reflections, enriching character development and depth.|
+|Mixed Retroversion|In Narratology, mixed retroversion is a combination of both internal and external retroversion, intertwining a character’s internal experiences with external historical events to enhance the narrative.|
+|Punctual Anachronies|These are specific, isolated disruptions in the chronological sequence of a narrative, focusing on single events that deviate from the main timeline.|
+|Span of Anachronies|Refers to the extent or range of temporal disruptions within a narrative, indicating the degree to which the chronological order is altered or manipulated.|
 
-**Navigating the Complexities of Anachronies in Narrative Structures**
+
+## **Navigating the Complexities of Anachronies in Narrative Structures**
 
 - **Understanding Anticipations:**
-  - Anticipations are allusions to future events in a narrative, which can be overt or covert.
-  - They may be used to create tension, suggest fatalism, or foreshadow future events.
+  - <mark style="background: #FFF3A3A6;">Anticipations</mark> are <mark style="background: #FFF3A3A6;">allusions</mark> to future events in a narrative, which can be <mark style="background: #FFF3A3A6;">overt</mark> or <mark style="background: #FFF3A3A6;">covert</mark>.
+  - They may be used to create <mark style="background: #FFF3A3A6;">tension</mark>, suggest <mark style="background: #FFF3A3A6;">fatalism</mark>, or <mark style="background: #FFF3A3A6;">foreshadow</mark> future events.
 
 - **Traditional Forms and Functions:**
-  - Opening summaries often serve as anticipations, providing early glimpses of the narrative's outcome.
+  - <mark style="background: #FFF3A3A6;">Opening summaries often serve as anticipations, providing early glimpses of the narrative's outcome.</mark>
   - Anticipations can shift suspense, leading readers to question how or why events unfold as they do.
 
 - **First-Person Narratives and Anticipations:**
-  - Narratives with a central narrator (CN) commonly include anticipations, especially when recounting their own past.
-  - Such anticipations can be both retroversions and anticipations, depending on the narrative's timeline.
+  - Narratives with a <mark style="background: #FFF3A3A6;">central narrator (CN)</mark> commonly include anticipations, especially when recounting their own past.
+  - Such <mark style="background: #FFF3A3A6;">anticipations can be both retroversions and anticipations</mark>, depending on the narrative's timeline.
 
 - **Iterative Anticipations:**
-  - Iterative anticipations present an event as the first in a series, implying repetition in the future.
-  - Detailed descriptions in iterative anticipations can sometimes undermine their credibility.
+  - <mark style="background: #FFF3A3A6;">Iterative anticipations</mark> present an event as the first in a series, implying repetition in the future.
+  - <mark style="background: #FFF3A3A6;">Detailed descriptions in iterative anticipations can sometimes undermine their credibility.</mark>
 
 - **Types of Anticipations:**
-  - Announcements are explicit indications of future events.
-  - Hints are subtle clues that may foreshadow future developments.
+  - <mark style="background: #FFF3A3A6;">Announcements</mark> are explicit indications of future events.
+  - <mark style="background: #FFF3A3A6;">Hints</mark> are subtle clues that may foreshadow future developments.
 
 - **Achrony: An Unanalyzable Deviation:**
-  - Achrony refers to deviations in time within a narrative that cannot be further defined or analyzed.
-  - It includes complex structures like anticipations-within-retroversions or the reverse.
+  - <mark style="background: #FFF3A3A6;">Achrony</mark> refers to deviations in time within a narrative that cannot be further defined or analyzed.
+  - It includes complex structures like <mark style="background: #FFF3A3A6;">anticipations-within-retroversions</mark> or the reverse.
 
 - **Examples and Implications:**
-  - Various narrative techniques, such as retroversion-within-anticipation, highlight the complexities and possibilities within storytelling.
-  - Such techniques can also serve as meta-narrative commentary, emphasizing the fictional nature of the narrative.
+  - Various narrative techniques, such as <mark style="background: #FFF3A3A6;">retroversion-within-anticipation</mark>, highlight the complexities and possibilities within storytelling.
+  - Such techniques can also serve as <mark style="background: #FFF3A3A6;">meta-narrative commentary</mark>, emphasizing the fictional nature of the narrative.
 
 - **Key Idea:**
-  - Anachronies, particularly anticipations, play a vital role in shaping narratives, manipulating reader expectations, and creating a multifaceted storytelling experience. These temporal deviations enrich the narrative by adding layers of meaning and complexity.
+  - <mark style="background: #FFF3A3A6;">Anachronies, particularly anticipations, play a vital role in shaping narratives, manipulating reader expectations, and creating a multifaceted storytelling experience.</mark> These temporal deviations enrich the narrative by adding layers of meaning and complexity.
 
-**Exploring Anachronies, Achronies, and Narrative Rhythms**
+|Term|Definition|
+|---|---|
+|Achrony|In Narratology, achrony refers to a discrepancy or absence of a clear temporal relationship between events or elements in a narrative, leading to an ambiguous or undefined timeline.|
+|Allusions|These are indirect references in a narrative to other texts, events, or cultural elements. Allusions enrich the story by creating layers of meaning and connecting the narrative to broader themes and contexts.|
+|Anticipation Announcements|In Narratology, these are explicit statements within a narrative that signal upcoming events or developments, often used to create expectation or curiosity about the story’s direction.|
+|Anticipation Hints|Subtle clues or suggestions in a narrative that hint at future events or outcomes, used to subtly guide the reader’s expectations and maintain engagement with the story.|
+|Anticipations|These are narrative elements that foreshadow or suggest future events in the story, creating a sense of expectation or foreboding about what is to come.|
+|Anticipations-Within-Retroversions|A complex narrative technique where anticipatory elements are embedded within retrospectives or flashbacks, intertwining future expectations with past events.|
+|Central Narrator (CN)|The main narrator of a story in Narratology, responsible for conveying the primary narrative and often serving as the focal point for the reader’s understanding and interpretation.|
+|Covert Anticipations|Subtle or indirect anticipations in a narrative that are not explicitly stated but implied, creating a sense of foreshadowing or expectation without direct revelation.|
+|Fatalism|A narrative theme or tone where events are portrayed as predetermined or inevitable, often creating a sense of resignation or acceptance of the predetermined course of events.|
+|Foreshadow|A narrative technique where future events or outcomes are hinted at or suggested, often through subtle clues, setting the stage for later developments in the story.|
+|Iterative Anticipations|Repetitive or recurring anticipatory elements in a narrative, used to reinforce expectations or themes and build a sense of inevitability about future events.|
+|Meta-Narrative Commentary|Commentary within a narrative that reflects on the process of storytelling itself, often breaking the fourth wall or addressing the nature of narrative construction and interpretation.|
+|Overt Anticipations|Clear and explicit anticipations in a narrative where future events or developments are directly suggested or stated, often used to build suspense or guide the reader’s expectations.|
+|Retroversion-Within-Anticipation|A narrative technique where retrospectives or flashbacks are included within anticipatory segments, providing historical context or background to the expectations being set.|
+|Tension|The sense of suspense, conflict, or urgency in a narrative that keeps readers engaged and interested in the outcome of the story or the resolution of its conflicts.|
+
+## **Exploring Anachronies, Achronies, and Narrative Rhythms**
 
 - **Anachronies and Achronies in Narratives:**
-  - Anachronies refer to deviations from chronological order in a narrative, encompassing retroversions (references to the past) and anticipations (allusions to the future).
-  - Achronies are deviations that defy analysis due to their complexity or lack of clear temporal information.
+  - Anachronies refer to deviations from chronological order in a narrative, encompassing <mark style="background: #FFF3A3A6;">retroversions (references to the past) and anticipations (allusions to the future).</mark>
+  - <mark style="background: #FFF3A3A6;">Achronies are deviations that defy analysis due to their complexity or lack of clear temporal information.</mark>
 
 - **Complex Forms of Anachrony:**
   - Anticipations within retroversions and vice versa can create intricate narrative structures.
-  - Achronies may arise from undated references or grouping events by non-chronological criteria (like spatial connections).
+  - Achronies may arise from undated references or grouping events by <mark style="background: #FFF3A3A6;">non-chronological criteria</mark> (like <mark style="background: #FFF3A3A6;">spatial connections</mark>).
 
 - **Narrative Rhythm and Its Measurement:**
-  - Narrative rhythm involves the speed and pattern of event presentation in a story.
-  - It can be analyzed by comparing the time covered by narrative events (fabula time) with the amount of text devoted to these events.
+  - <mark style="background: #FFF3A3A6;">Narrative rhythm</mark> involves the <mark style="background: #FFF3A3A6;">speed</mark> and <mark style="background: #FFF3A3A6;">pattern of event presentation</mark> in a story.
+  - It can be analyzed by comparing the time covered by narrative events (<mark style="background: #FFF3A3A6;">fabula time</mark>) with the amount of text devoted to these events.
 
-- **Overall Rhythm and Attention Distribution:**
+- **Overall Rhythm and <mark style="background: #FFF3A3A6;">Attention Distribution</mark>:**
   - A story's rhythm can be deduced by observing the distribution of attention across different episodes.
-  - Variations in rhythm, like extended descriptions (pauses) or omitted sections (ellipses), reveal the author's focus and narrative style.
+  - <mark style="background: #FFF3A3A6;">Variations in rhythm</mark>, like <mark style="background: #FFF3A3A6;">extended descriptions</mark> (<mark style="background: #FFF3A3A6;">pauses</mark>) or omitted sections (<mark style="background: #FFF3A3A6;">ellipses</mark>), reveal the <mark style="background: #FFF3A3A6;">author's focus</mark> and narrative style.
 
 - **Case Studies in Narrative Rhythm:**
-  - The novel "Migas de pan" by Azriel Bibliowicz exemplifies the use of achrony to express the temporality of trauma, showcasing a non-linear approach to time.
+  - The novel "Migas de pan" by Azriel Bibliowicz exemplifies the use of achrony to express the <mark style="background: #FFF3A3A6;">temporality of trauma</mark>, showcasing a non-linear approach to time.
   - The novel's structure, dominated by reflections on time, captures the pervasive impact of trauma across generations.
 
 - **Key Idea:**
-  - Anachronies and achronies are powerful narrative tools that challenge traditional notions of time, allowing for complex storytelling that can convey deeper themes, such as the enduring impact of trauma. Understanding these elements sheds light on the intricate rhythms and focuses of narrative construction.
+  - Anachronies and achronies are powerful narrative tools that challenge traditional notions of time, allowing for complex storytelling that can convey deeper themes, such as the enduring impact of trauma. <mark style="background: #FFF3A3A6;">Understanding these elements sheds light on the intricate rhythms and focuses of narrative construction.</mark>
 
+|Term|Definition|
+|---|---|
+|Attention Distribution|In Narratology, this refers to how the narrative allocates focus and emphasis on different elements or events, guiding the reader's attention and shaping their perception of the story.|
+|Author's Focus|This term denotes the aspects of the narrative that the author chooses to emphasize or highlight, such as character development, thematic elements, or specific events, shaping the overall narrative experience.|
+|Ellipses|In Narratology, ellipses refer to the omission or skipping of sections of the story's timeline, creating gaps in the narrative that can accelerate the pace or focus on specific events.|
+|Fabula Time|This term refers to the chronological order of events as they would have occurred in the story world, independent of how they are presented in the narrative structure.|
+|Non-Chronological Criteria|Criteria used in Narratology to organize or analyze a narrative based on elements other than chronological order, such as thematic connections, character development, or symbolic patterns.|
+|Narrative Rhythm|The pacing and flow of a narrative, determined by the arrangement and frequency of events, dialogues, descriptions, and pauses. It affects the reader's engagement and the overall mood of the story.|
+|Pause|In Narratology, a pause refers to a moment in the narrative where the progression of events halts, often used to provide descriptive detail, character introspection, or thematic exploration.|
+|Pattern of Event Presentation|This term describes the way in which events are arranged and revealed in a narrative, including their order, frequency, and the connections between them.|
+|Spatial Connections|In Narratology, spatial connections refer to how locations and settings are linked or related within a narrative, contributing to the story's coherence and the reader's understanding of the story world.|
+|Speed of Event Presentation|This refers to how quickly or slowly events are depicted in the narrative. It influences the story's pacing and can impact the reader's perception of the action and tension within the story.|
+|Temporality of Trauma|In Narratology, this concept relates to how narratives represent the experience and impact of trauma, often affecting the chronological structure and emotional tone of the story.|
+|Variations in Rhythm|These are changes in the pacing and flow of a narrative, which can be used to create emphasis, build suspense, or highlight thematic or emotional shifts within the story.|
 
-**Analyzing Narrative Rhythms and Techniques**
+## **Analyzing Narrative Rhythms and Techniques**
 
 - **Narrative Rhythms and Their Categories:**
   - Rhythms in narratives are categorized into ellipses, summaries, scenes, slow-downs, and pauses.

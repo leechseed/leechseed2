@@ -20,61 +20,9 @@
   "editor:toggle-checklist-status": [],
   "editor:open-link-in-new-leaf": [],
   "editor:delete-paragraph": [],
-  "obsidian-editor-shortcuts:goToNextWord": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "obsidian-editor-shortcuts:goToPreviousWord": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "workspace:close": [],
-  "obsidian-editor-shortcuts:moveCursorDown": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
-  "obsidian-editor-shortcuts:moveCursorUp": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
   "workspace:close-window": [],
   "global-search:open": [],
-  "obsidian-editor-shortcuts:goToPrevLine": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "A"
-    }
-  ],
-  "obsidian-editor-shortcuts:goToNextLine": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-editor-shortcuts:duplicateLine": [],
   "obsidian-editor-shortcuts:goToNextHeading": [
     {
@@ -114,14 +62,6 @@
     }
   ],
   "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
-  "obsidian-editor-shortcuts:selectLine": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "markdown:add-metadata-property": [],
   "highlightr-plugin:Cyan": [
     {
@@ -140,5 +80,99 @@
       ],
       "key": "V"
     }
-  ]
+  ],
+  "obsidian-editor-shortcuts:goToLineStart": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToPrevChar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-editor-shortcuts:moveCursorDown": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToNextChar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-editor-shortcuts:moveCursorUp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-editor-shortcuts:selectLine": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToPreviousWord": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToNextWord": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToNextLine": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-editor-shortcuts:copyLineDown": [],
+  "obsidian-editor-shortcuts:goToPrevLine": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-editor-shortcuts:selectAllOccurrences": []
 }
