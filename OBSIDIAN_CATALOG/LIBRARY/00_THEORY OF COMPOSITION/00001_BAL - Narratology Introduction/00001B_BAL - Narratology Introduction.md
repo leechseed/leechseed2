@@ -276,7 +276,7 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
   - In narratology, <mark style="background: #FFF3A3A6;">non-narrative comments and descriptions play critical roles in shaping a narrative's ideological messages and visualizing its world.</mark> These elements, often interwoven with narrative parts, contribute significantly to the reader's interpretation and understanding of the text's broader cultural and ideological contexts.
 
 ### Key Words
-Here's the vocabulary list from the provided text about narratology, focusing on non-narrative comments and description in narrative texts, formatted as a Markdown table and ordered alphabetically:
+
 
 |Term|Definition|
 |---|---|
