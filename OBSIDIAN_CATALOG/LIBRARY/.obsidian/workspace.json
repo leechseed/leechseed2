@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cc2de569c41a171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "word count.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -181,24 +193,42 @@
   },
   "active": "d2475de634934d41",
   "lastOpenFiles": [
-    "desktop.ini",
+    "02_FABULA CASIO-EXPERIENCE/020000_FABULA SPACETIME.md",
+    "01_THEME/0100031_NADEN - The Golden Age of American Musical Theatre.md",
+    "01_THEME/0100030_BRONNER - Youth Cultures in America.md",
+    "01_THEME/0100029_DAVIS - Companion to Literature and Trauma.md",
+    "01_THEME/0100028_LEE - Companion to Asian American Literature.md",
+    "01_THEME/0100027_BURNETT - Companion to Literature of the U.S. South.md",
+    "01_THEME/0100026_CURRIE - Metafiction.md",
+    "01_THEME/0100024_DEBORD - The Society of the Spectacle.md",
+    "01_THEME/0100023_BERNHARDT - Thinking Theme.md",
+    "01_THEME/0100022_BLOOM - The Western Canon.md",
+    "01_THEME/0100021_MILLER - The Epic Hero.md",
+    "01_THEME/0100019_CAMPBELL - The Inner Reaches of Outer Space.md",
+    "01_THEME/0100018_CAMPBELL - The Hero With a Thousand Faces.md",
+    "01_THEME/0100031_NADEN - The Golden Age of American Musical Theatre",
+    "01_THEME/0100030_BRONNER - Youth Cultures in America",
+    "01_THEME/0100029_DAVIS - Companion to Literature and Trauma",
+    "01_THEME/0100028_LEE - Companion to Asian American Literature",
+    "01_THEME/0100027_BURNETT - Companion to Literature of the U.S. South",
+    "01_THEME/0100026_CURRIE - Metafiction",
+    "01_THEME/0100024_DEBORD - The Society of the Spectacle",
+    "01_THEME/0100023_BERNHARDT - Thinking Theme",
+    "01_THEME/0100022_BLOOM - The Western Canon",
+    "01_THEME/0100021_MILLER - The Epic Hero",
+    "word count.md",
     "templates/CHAT GPT PROMPTS.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
     "templates/template for steps.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
-    "word count.md",
     "00_THEORY OF COMPOSITION/00005_MCKEE - Story.md",
     "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001_BAL - Narratology Introduction copy.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001_BAL - Narratology Introduction.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction",
     "00_THEORY OF COMPOSITION/000012_O'GORMAN - Routledge Companion 21st Century Literary Fiction.md",
     "00_THEORY OF COMPOSITION/000011_O'GORMAN - Routledge Companion 21st Century Literary Fiction.md",
     "00_THEORY OF COMPOSITION/000010_O'GORMAN - Routledge Companion 21st Century Literary Fiction.md",
     "00_THEORY OF COMPOSITION/00009_GAVINS - Text World Theory.md",
-    "00_THEORY OF COMPOSITION/00008_GAVINS - Text World Theory.md",
-    "00_THEORY OF COMPOSITION/00007_DUCHAN - Deixis in Narrative.md",
-    "00_THEORY OF COMPOSITION/00006_ARISTOTLE - Poetics",
     "assets/Pasted image 20231217184928.png",
     "assets/Pasted image 20231217183849.png",
     "assets/Pasted image 20231217183840.png",
@@ -208,23 +238,6 @@
     "assets/Pasted image 20231217183814.png",
     "assets/Pasted image 20231217183809.png",
     "assets/Pasted image 20231217183802.png",
-    "assets/Pasted image 20231217183757.png",
-    "00_TAG SHEET.md",
-    "test api script.py",
-    "00_THEORY OF COMPOSITION/test api script.py",
-    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
-    "02_FABULA SPACETIME/02000_FABULA SPACETIME.md",
-    "02_FABULA CASIO-EXPERIENCE/02000_FABULA SPACETIME.md",
-    "02_FABULA CASIO-EXPERIENCE/020001_PHILIPS - Dramatica.md",
-    "02_FABULA CASIO-EXPERIENCE",
-    "05_SYUHZET PLOT/05000_SYUHZET PLOT.md",
-    "05_SYUHZET PLOT/05000_SEQUENCE FABULA README.md",
-    "05_SYUHZET PLOT",
-    "05_SEQUENCE FABULA/05000_SEQUENCE FABULA README.md",
-    "04_SETTING/04000_SETTING README.md",
-    "03_CHARACTER/030005_CORBETT - The Art of Character.md",
-    "10_Post/10001_Real Estate",
-    "10_Post",
-    "11_ETC"
+    "assets/Pasted image 20231217183757.png"
   ]
 }

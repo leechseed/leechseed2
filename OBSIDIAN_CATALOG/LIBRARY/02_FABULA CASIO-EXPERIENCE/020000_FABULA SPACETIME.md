@@ -2,6 +2,8 @@
 
 
 02000_FABULA SPACETIME
+020001_PHILIPS - Dramatica
+
 
 > [!note] In narratology, the term "fabula" refers to the chronological sequence of events in a story. It includes all the events that are narrated and those inferred by the audience. The fabula is the raw material of a story, and it represents what actually happens in the narrative, regardless of how these events are presented in the plot.
 

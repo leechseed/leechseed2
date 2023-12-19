@@ -323,11 +323,11 @@ Here's the vocabulary list from the provided text about narratology, focusing on
   - Notes how <mark style="background: #FFF3A3A6;">different rhetorical categories of description have been used to characterize various historical periods and narrative styles.</mark>
 
 - **Key Idea:**
-  - <mark style="background: #FFF3A3A6;">The rhetoric of description in narrative texts plays a critical role in shaping the reader's perception, with motivation and rhetorical strategies used to integrate descriptions seamlessly into the narrative.</mark> Different types of descriptive rhetoric, ranging from objective encyclopaedic details to complex metaphoric structures, contribute to the narrative's believability and stylistic characteristics.
+  - <mark style="background: #FFF3A3A6;">The rhetoric of description in narrative texts plays a critical role in shaping the reader's perception, with motivation and rhetorical strategies used to integrate descriptions seamlessly into the narrative.</mark> Different types of descriptive rhetoric, ranging from objective encyclopedic details to complex metaphoric structures, contribute to the narrative's believability and stylistic characteristics.
 
 ### Key Words
 
-####
+#### Descriptive Motivation 
 |Term|Definition|
 |---|---|
 |**Descriptive Rhetoric**|Techniques in narratives for describing elements, varying from factual to metaphorical styles.|
@@ -441,112 +441,183 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 
 
 
-## **<mark style="background: #FF5582A6;">Analyzing</mark> Narrative Structures in Literature Across Periods**
+## Analyzing Narrative Structures in Literature Across Periods**
 
 - **Introduction:**
   - The summary delves into the narrative structures of different literary periods, focusing on how authors utilize narration levels to create unique storytelling experiences.
 
 - **Narrative Complexity in Flaubert’s "Madame Bovary":**
-  - Flaubert uses a first-person plural narrator, creating a witness-like perspective that aligns with realist literary traditions.
-  - The narrative subtly shifts between identification with the protagonist, Emma, and a detached viewpoint, challenging reader perceptions and realist norms.
+  - Flaubert uses a <mark style="background: #FFF3A3A6;">first-person plural narrator</mark>, creating a witness-like perspective that aligns with realist literary traditions.
+  - The <mark style="background: #FFF3A3A6;">narrative subtly shifts between identification with the protagonist</mark>, Emma, and a <mark style="background: #FFF3A3A6;">detached viewpoint</mark>, challenging reader perceptions and realist norms.
 
 - **Subjectivity in Proust’s "À la recherche du temps perdu":**
-  - Proust's modernist approach emphasizes subjectivity, with a first-person narrator deeply reflecting on personal experiences.
-  - The narrative structure, focusing on the narrator’s subjective viewpoint, contrasts with Flaubert's realism.
+  - <mark style="background: #FFF3A3A6;">Proust's modernist approach</mark> emphasizes subjectivity, with a <mark style="background: #FFF3A3A6;">first-person narrator</mark> deeply reflecting on personal experiences.
+  - The narrative structure, focusing on the narrator’s subjective viewpoint, contrasts with <mark style="background: #FFF3A3A6;">Flaubert's realism</mark>.
 
 - **J.M. Coetzee’s Postmodern Twist in "Foe":**
-  - Coetzee reworks Defoe's "Robinson Crusoe" with a female narrator, Susan Barton, who narrates a large portion of the novel.
-  - The narrative is framed with quotation marks, indicating that Susan’s narration might be embedded within a larger narrative by another character, Foe.
+  - <mark style="background: #FFF3A3A6;">Coetzee reworks Defoe's "Robinson Crusoe" with a female narrator</mark>, Susan Barton, who narrates a large portion of the novel.
+  - <mark style="background: #FFF3A3A6;">The narrative is framed with quotation marks</mark>, indicating that Susan’s narration might be embedded within a larger narrative by another character, Foe.
 
 - **Interplay of Narration Levels in Coetzee's Work:**
   - Susan's narration initially appears as first-level but is later revealed as embedded within Foe's narrative.
-  - The structure challenges conventional narrative forms, questioning the identity of the primary narrator and the nature of storytelling.
+  - The structure challenges conventional narrative forms, questioning the identity of the <mark style="background: #FFF3A3A6;">primary narrator</mark> and the nature of storytelling.
 
 - **Exploring the “You” in Coetzee’s Narrative:**
-  - The use of “you” in the narrative, initially ambiguous, later reveals Foe as the primary storyteller.
-  - Susan's role as a character-narrator quoted by Foe adds complexity to the narrative structure and reader interpretation.
+  - The use of “you” in the narrative, initially ambiguous, later reveals Foe as the <mark style="background: #FFF3A3A6;">primary storyteller</mark>.
+  - Susan's role as a <mark style="background: #FFF3A3A6;">character-narrator</mark> quoted by Foe adds complexity to the <mark style="background: #FFF3A3A6;">narrative structure</mark> and <mark style="background: #FFF3A3A6;">reader interpretation</mark>.
 
 - **Impact of Narrative Structure on Literary History:**
   - The analysis of these novels demonstrates how authors across different periods have manipulated narrative levels.
-  - Each author’s unique approach reflects and challenges the literary movements of their time, from realism to modernism and postmodernism.
+  - <mark style="background: #FFF3A3A6;">Each author’s unique approach reflects and challenges the literary movements of their time</mark>, from <mark style="background: #FFF3A3A6;">realism</mark> to <mark style="background: #FFF3A3A6;">modernism</mark> and <mark style="background: #FFF3A3A6;">postmodernism</mark>.
 
 - **Key Idea:**
   - The exploration of narrative structures in works by Flaubert, Proust, and Coetzee illustrates the evolving complexity of storytelling across literary periods, revealing how authors use narration levels to engage, challenge, and redefine reader expectations and literary conventions.
 
-**Exploring Narrative Complexity in Literature**
+#### Literary Movements in Narratology
+|        Key Term       |       Definition                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Modernism     | This narratological approach emerged in the late 19th and early 20th centuries, characterized by a break from traditional forms and techniques. It emphasizes self-consciousness in writing, focusing on inner subjectivity. This style often experiments with time, narrative structure, and language, highlighting the fragmented nature of human experience.                                                                      |
+| Postmodernism | A late 20th-century movement in narrative theory, this approach is known for its skepticism towards grand narratives and ideologies, and an inclination towards irony, pastiche, and playful intertextuality. Narratives in this style often blur boundaries between fiction and reality, challenge authorial authority, and explore paradoxes and contradictions, reflecting the complex and uncertain nature of contemporary life. |
+| Realism       | A narrative approach that aims to depict everyday life and society accurately and without embellishment. Emerging in the 19th century as a reaction against Romanticism, it focuses on the ordinary, the everyday, and the believable. Narratives in this style often emphasize character development and detailed settings, employing a straightforward style that seeks to reflect the truth of the human condition.                              |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+#### Select Authors
+|Key Term|Definition|
+|---|---|
+|Gustave Flaubert|A central figure in the realism movement, this author's approach to realism was revolutionary for its emphasis on the relativity of reality, dependent on individual perception. Rejecting the idea of transposing a “slice of life” onto the page, <mark style="background: #FFF3A3A6;">this author believed that only art could imbue the raw material of the external world with meaning.</mark> Employing an 'impersonal' narrative style, <mark style="background: #FFF3A3A6;">this author's approach minimized the visible presence of the author, favoring a narrator who is omnipresent yet unobtrusive, marking a shift from direct representation to a more nuanced composition.</mark>|
+|Marcel Proust|A significant figure in modernism, this author is known for a seven-part novel that intricately explores memory and subjective experience. <mark style="background: #FFF3A3A6;">The narrative style is characterized by lengthy, complex sentences that deeply probe the psychological depths of characters.</mark> <mark style="background: #FFF3A3A6;">This author's narrative technique often blurs the lines between the narrator and the subject of narration</mark>, challenging traditional narrative structures and pushing the boundaries of the novel form, influencing the trajectory of modernist literature.|
+|J.M. Coetzee|Associated with postmodernism, this author is recognized for a narrative style that is both sparse and deeply introspective. <mark style="background: #FFF3A3A6;">Known for exploring themes like authority, humanity, and the postcolonial condition, this author frequently employs metafictional techniques, drawing attention to the narrative as a constructed entity.</mark> This approach challenges reader expectations and assumptions about storytelling, truth, and representation, <mark style="background: #FFF3A3A6;">focusing on marginalized or complex characters who confront moral ambiguities and societal challenges.</mark>|
+#### Key Terms
+|  Key Term | Definition   |
+|---|---|
+|Character-Narrator|In Narratology, this refers to a character within the story who also serves as the narrator. This narrative voice provides a unique perspective, often colored by the character’s own experiences, biases, and limitations. It allows for a more intimate and subjective portrayal of events from within the narrative world.|
+|First Person Narrative|A narrative mode in which a story is narrated by one character at a time, speaking for and about themselves. In Narratology, this perspective is critical as it allows for direct expression of a character's thoughts, feelings, and experiences, offering a subjective view of the narrative.|
+|Literary Movement|This term refers to a trend or pattern of shared beliefs or practices that mark an approach to literature at a specific time. In Narratology, it encompasses various styles and techniques that characterize the writing of a certain era or group, such as realism, modernism, or postmodernism.|
+|Narrative Structure|This is the organizational framework of a story, determining how the narrative is presented to the reader. In Narratology, it includes elements like plot, setting, character development, and the sequence of events, and can vary widely from linear progressions to more complex, non-linear formats.|
+|Primary Narrator|In Narratology, this refers to the main voice that tells the story in a narrative. This narrator is responsible for presenting the events of the story and often sets the tone, perspective, and pace of the narrative.|
+|Reader Interpretation|This term in Narratology refers to the process by which readers derive meaning from a narrative. It is influenced by the reader's personal experiences, cultural background, and emotional responses, and is a critical aspect of how narratives are understood and analyzed.|
+## **Exploring Narrative Complexity in Literature**
 
 - **Introduction:**
-  - The summary focuses on the intricate narrative structures found in literature, examining how authors manipulate narration levels and speech forms to enrich their storytelling.
+  - The summary focuses on the intricate <mark style="background: #FFF3A3A6;">narrative structures</mark> found in literature, examining how authors manipulate <mark style="background: #FFF3A3A6;">narration levels</mark> and <mark style="background: #FFF3A3A6;">speech forms</mark> to enrich their storytelling.
 
 - **Narrative Techniques in Flaubert and Proust:**
-  - Flaubert's "Madame Bovary" begins with a first-person plural narrator, creating a collective witness perspective, subtly shifting between character identification and a detached viewpoint.
-  - Proust’s "À la recherche du temps perdu" emphasizes subjective experience with a first-person narrator, differing from Flaubert's approach by focusing more on individual perception rather than collective experience.
+  - Flaubert's "Madame Bovary" begins with a <mark style="background: #FFF3A3A6;">first-person plural narrator</mark>, creating a <mark style="background: #FFF3A3A6;">collective witness perspective</mark>, subtly shifting between <mark style="background: #FFF3A3A6;">character identification</mark> and a <mark style="background: #FFF3A3A6;">detached viewpoint</mark>.
+  - Proust’s "À la recherche du temps perdu" emphasizes <mark style="background: #FFF3A3A6;">subjective experience</mark> with a<mark style="background: #FFF3A3A6;"> first-person narrator</mark>, differing from Flaubert's approach by <mark style="background: #FFF3A3A6;">focusing more on individual perception rather than collective experience.</mark>
 
 - **Postmodern Narrative in Coetzee's "Foe":**
   - Coetzee reinterprets Defoe's "Robinson Crusoe" through a female narrator, Susan Barton, challenging conventional narrative forms.
-  - The narrative structure in "Foe" is complex, with Susan initially appearing as a first-level narrator but later revealed as an embedded character-narrator within Foe's broader narrative.
+  - The narrative structure in "Foe" is complex, with Susan initially appearing as a <mark style="background: #FFF3A3A6;">first-level narrator</mark> but later revealed as an embedded character-narrator within Foe's broader narrative.
 
 - **Interplay of Personal and Impersonal Language Situations:**
-  - Personal language situations involve characters directly addressing each other or reflecting inwardly, while impersonal language situations are more detached and objective.
-  - Text interference occurs when these levels intertwine, such as when a narrator adopts the discourse of a character or vice versa.
+  - <mark style="background: #FFF3A3A6;">Personal language situations</mark> involve characters directly addressing each other or reflecting inwardly, while <mark style="background: #FFF3A3A6;">impersonal language situations</mark> are more detached and objective.
+  - <mark style="background: #FFF3A3A6;">Text interference</mark> occurs when these levels intertwine, such as when a narrator adopts the discourse of a character or vice versa.
 
 - **Indirect Discourse and Its Variations:**
-  - Indirect discourse involves the narrator representing a character’s speech in a manner that blends personal and impersonal language elements.
+  - <mark style="background: #FFF3A3A6;">Indirect discourse</mark> involves the narrator representing a character’s speech in a manner that blends personal and impersonal language elements.
   - Different levels of accuracy in representing a character's words can be observed in indirect discourse, as seen in the variations of Elizabeth's statements.
 
 - **Analyzing Elizabeth's Statements:**
-  - Comparisons of Elizabeth's statements in different forms (direct speech, indirect speech with varying degrees of accuracy) illustrate the subtleties of indirect discourse.
-  - Changes in pronouns, verb tenses, and modal verbs reflect the shift from a personal to an impersonal narrative perspective.
+  - Comparisons of Elizabeth's statements in different forms (<mark style="background: #FFF3A3A6;">direct speech</mark>, <mark style="background: #FFF3A3A6;">indirect speech</mark> with varying degrees of accuracy) illustrate the subtleties of indirect discourse.
+  - Changes in pronouns, verb tenses, and <mark style="background: #FFF3A3A6;">modal verbs</mark> reflect the shift from a personal to an impersonal narrative perspective.
 
 - **Key Idea:**
-  - The exploration of narrative structures, particularly in the works of Flaubert, Proust, and Coetzee, demonstrates the dynamic and evolving nature of storytelling in literature. Authors skillfully manipulate narrative levels and speech forms to create complex and engaging narratives that challenge traditional storytelling methods and reader perceptions.
+  - The exploration of narrative structures, particularly in the works of Flaubert, Proust, and Coetzee, demonstrates the dynamic and evolving nature of storytelling in literature. Authors skillfully manipulate narration levels and speech forms to create complex and engaging narratives that challenge traditional storytelling methods and reader perceptions.
 
-**Analyzing Complex Narrative Structures in Literature**
+### Key Terms
+|Term|Definition|
+|---|---|
+|Character Identification|In Narratology, this refers to the process through which readers relate to or empathize with characters in a narrative. It involves how characters are presented and developed, influencing how readers perceive and connect with them emotionally or psychologically.|
+|Collective Witness Perspective|This is a narrative perspective in Narratology where the story is told from the viewpoint of a group rather than an individual, providing a collective account of events or experiences. It offers a broader, often more communal understanding of the narrative.|
+|Detached Viewpoint|In Narratology, this refers to a narrative perspective that maintains an emotional or psychological distance from the characters and events. This viewpoint provides an objective or neutral observation of the narrative without deep engagement with the characters’ inner experiences.|
+|Direct Speech|A mode of speech representation in Narratology where characters’ spoken words are quoted directly, as in actual speech. It is used to convey dialogue exactly as spoken, often within quotation marks, allowing readers to hear characters’ voices directly.|
+|First-Level Narrator|This term in Narratology refers to the primary narrator in a story, the voice that directly addresses the reader and is responsible for telling the main narrative. This narrator often sets the tone and perspective of the story.|
+|First-Person Narrator|A narrative voice in Narratology that tells the story from the 'I' perspective. This narrator is a character in the story and provides a personal and subjective view of events, often sharing their own thoughts and feelings.|
+|First-Person Plural Narrator|In Narratology, this is a narrative voice that uses 'we' to tell the story. This perspective can represent a group's collective viewpoint, creating a sense of shared experience or collective identity within the narrative.|
+|Impersonal Language Situations|These refer to narrative instances in Narratology where the language used detaches from personal perspectives, often aiming for objectivity. This style lacks a strong sense of personal voice or emotional engagement.|
+|Indirect Discourse|A method in Narratology where the narrator conveys a character’s speech or thoughts in their own words rather than quoting them directly. It blurs the line between the narrator’s voice and the character’s, offering insight into the character’s mind without direct quotation.|
+|Indirect Speech|This is a form of speech representation in Narratology where a character’s spoken words are reported or paraphrased by the narrator, not quoted directly. It provides readers with an interpretation of what was said rather than the exact words.|
+|Modal Verbs|In Narratology, modal verbs (like 'can', 'may', 'must', 'should') are used to express the narrator's or characters’ attitudes, possibilities, obligations, or speculations, adding layers of meaning to the narrative.|
+|Narration Levels|These are the layers or tiers of storytelling in Narratology. Narration levels include the primary narrative level (the main story) and embedded levels (stories within the story), each with its own narrator and perspective.|
+|Narration Structures|In Narratology, this term refers to the frameworks and methods used to organize and present the narrative. This includes the arrangement of plot, the use of flashbacks or foreshadowing, and the overall design of the storytelling process.|
+|Personal Language Situations|These are instances in Narratology where the language reflects a personal, subjective viewpoint, often conveying individual characters' thoughts, feelings, or perspectives.|
+|Speech Forms|In Narratology, speech forms refer to the various ways in which characters’ speech is represented in a narrative, such as direct speech, indirect speech, and free indirect discourse. Each form offers different insights into characters and events.|
+|Subjective Experience|This term in Narratology refers to the internal, personal experiences and perceptions of characters. It emphasizes the individual emotional and psychological responses to events and situations within the narrative.|
+|Text Interference|In Narratology, text interference occurs when elements outside the main narrative, such as footnotes, authorial asides, or other disruptions, intrude into the storytelling, affecting the reader’s engagement with the text.|
+## **Analyzing Complex Narrative Structures in Literature**
 
-- **Introduction to Narrative Techniques:**
+- **Introduction to <mark style="background: #FFF3A3A6;">Narrative Techniques</mark>:**
   - The text delves into the intricate use of narrative techniques in literature, focusing on direct, indirect, and free indirect discourse, and how these techniques are employed to create complex narrative structures.
 
 - **Distinguishing Forms of Discourse:**
-  - Indirect discourse is characterized by narrating an actor's words at a higher level, with explicit indicators like declarative verbs and conjunctions, and detailed representation of the actor's speech.
-  - Free indirect discourse (FID) involves a blend of the narrator’s and actor's text, marked by personal language signals and a style attributable to the actor, providing more detail than necessary for the fabula.
+  - <mark style="background: #FFF3A3A6;">Indirect discourse</mark> is characterized by narrating an actor's words at a higher level, with explicit indicators like declarative verbs and conjunctions, and detailed representation of the actor's speech.
+  - <mark style="background: #FFF3A3A6;">Free indirect discourse (FID)</mark> involves a blend of the narrator’s and actor's text, marked by personal language signals and a style attributable to the actor, providing more detail than necessary for the fabula.
 
 - **Example Analysis - Indirect and Free Indirect Discourse:**
-  - Demonstrated through variations of a hypothetical scenario involving a character named Elizabeth, highlighting the nuances between direct speech, indirect speech, free indirect discourse, and the narrator's text.
+  - Demonstrated through variations of a hypothetical scenario involving a character named Elizabeth, highlighting the nuances between direct speech, indirect speech, free indirect discourse, and the <mark style="background: #FFF3A3A6;">narrator's text</mark>.
 
 - **Flaubert's Mastery of Narrative Confusion:**
-  - Flaubert's "Madame Bovary" exemplifies the use of narrative variations, often blurring the lines between direct, indirect, and free indirect discourse.
-  - The novel's immersive quality is achieved by shifting seamlessly between narration and FID, incorporating citational writing and idées reçues.
+  - Flaubert's "Madame Bovary" exemplifies the use of <mark style="background: #FFF3A3A6;">narrative variations</mark>, often blurring the lines between direct, indirect, and free indirect discourse.
+  - The novel's immersive quality is achieved by shifting seamlessly between narration and FID, incorporating <mark style="background: #FFF3A3A6;">citational writing </mark>and <mark style="background: #FFF3A3A6;">idées reçues</mark>.
 
 - **Case Study: Conversation in 'Madame Bovary':**
   - Analyzed a passage where Charles and his mother discuss Emma's reading habits. The narrative shifts from clear quotation to more ambiguous discourse, incorporating elements of FID and narrator's text.
   - The mother's proactive approach is depicted in the narrator's discourse, while Charles's hesitance is hinted at through FID.
 
 - **Key Idea:**
-  - The intricate use of direct, indirect, and free indirect discourse in literature serves not only to enrich the narrative complexity but also to deepen character development and thematic exploration. Authors like Flaubert skillfully weave these techniques into their storytelling, creating narratives that are both immersive and reflective of their characters' inner worlds and societal contexts.
+  - The intricate use of direct, indirect, and free indirect discourse in literature serves not only to enrich the narrative complexity but also to deepen character development and thematic exploration. Authors like Flaubert skillfully weave these techniques into their storytelling, creating narratives that are both <mark style="background: #FFF3A3A6;">immersive</mark> and <mark style="background: #FFF3A3A6;">reflective</mark> of their <mark style="background: #FFF3A3A6;">characters' inner worlds</mark> and <mark style="background: #FFF3A3A6;">societal contexts</mark>.
 
+### Key Terms
+|Term|Definition|
+|---|---|
+|Ambiguous Discourse|In Narratology, this refers to a narrative style that deliberately creates uncertainty or multiple meanings in its storytelling. It leaves room for interpretation and often challenges the reader to actively engage in deciphering the true intent or reality of the narrative.|
+|Character's Inner World|This term in Narratology describes the internal thoughts, feelings, motivations, and psychological landscape of a character within a narrative. It's a key element in developing a character's depth and relatability in the story.|
+|Citational Writing|In Narratology, citational writing involves incorporating quotations, references, or excerpts from other texts within a narrative. This technique can create intertextual layers, adding depth or offering commentary on the main narrative.|
+|Free Indirect Discourse (FID)|A narrative technique in which the narrator conveys a character's thoughts or speech in the narrator's own words but maintains the character's tone and perspective. It blurs the lines between the narrator's voice and the character's, providing insight into the character's mind without direct quotation.|
+|Idées Reçues|A French term meaning "accepted ideas" or "conventional wisdom." In Narratology, it refers to common or clichéd thoughts and beliefs presented in a narrative, often used to reflect or critique societal norms and attitudes.|
+|Indirect Discourse|A method in Narratology where the narrator conveys a character’s speech or thoughts in the narrator's own words rather than quoting them directly. This style provides a degree of interpretation or paraphrasing of the character's intended speech or thoughts.|
+|Narration Techniques|These are the various methods and strategies used in Narratology to convey a story. This includes the choice of narrator, the use of different perspectives, the structure of the narrative, and the techniques for representing thoughts, dialogue, and action.|
+|Narration Variations|In Narratology, narration variations refer to the different ways a story can be told, including changes in the narrator's perspective, the use of multiple narrators, shifts in temporal structure, and the implementation of various narrative styles.|
+|Narrator's Text|This term refers to the portion of a narrative that is directly attributed to the narrator. In Narratology, it includes descriptions, commentary, and any narrative content that is not dialogue or characters' internal thoughts.|
+|Societal Contexts|In Narratology, societal contexts refer to the social, cultural, and historical settings and circumstances that influence and are reflected in a narrative. These contexts help shape the narrative’s themes, characters, and events.|
 
-**Exploring the Interplay of Primary and Embedded Narratives in Literature**
+## **Exploring the Interplay of Primary and Embedded Narratives in Literature**
 
-- **Understanding Narrative Embedding:**
-  - Narrative techniques involving the embedding of one story within another are a complex aspect of literary storytelling, often used to create depth and add multiple dimensions to the narrative.
+- **Understanding <mark style="background: #FFF3A3A6;">Narrative Embedding</mark>:**
+  - Narrative techniques involving the embedding of one story within another are a complex aspect of literary storytelling, often used to create <mark style="background: #FFF3A3A6;">depth</mark> and add multiple <mark style="background: #FFF3A3A6;">dimensions</mark> to the narrative.
 
 - **Embedded Narrative Texts:**
-  - Frame narratives, like Emily Brontë's "Wuthering Heights," demonstrate clear examples of embedding, where a primary narrator (Lockwood) listens to another narrator (Nelly Dean), creating layers of storytelling.
-  - Classic story cycles like "Arabian Nights" feature multi-layered narratives, with Scheherazade's life-dependent storytelling acting as the primary narrative, encompassing various other stories.
+  - <mark style="background: #FFF3A3A6;">Frame narratives</mark>, like Emily Brontë's "Wuthering Heights," demonstrate clear examples of embedding, where a primary narrator (Lockwood) listens to another narrator (Nelly Dean), creating <mark style="background: #FFF3A3A6;">layers of storytelling</mark>.
+  - <mark style="background: #FFF3A3A6;">Classic story cycles</mark> like "Arabian Nights" feature <mark style="background: #FFF3A3A6;">multi-layered narratives</mark>, with Scheherazade's life-dependent storytelling acting as the primary narrative, encompassing various other stories.
 
 - **Interplay Between Primary and Embedded Narratives:**
-  - The relationship between primary and embedded narratives can vary. Sometimes the embedded story explains or provides context for the primary story, while in other cases, it may bear a thematic resemblance, leaving interpretation to the reader.
+  - The relationship between primary and <mark style="background: #FFF3A3A6;">embedded narratives</mark> can vary. Sometimes the embedded story explains or provides context for the <mark style="background: #FFF3A3A6;">primary story</mark>, while in other cases, it may bear a thematic resemblance, leaving interpretation to the reader.
 
 - **Example Analysis – Madame Bovary by Flaubert:**
   - Flaubert's "Madame Bovary" exemplifies the blending of direct, indirect, and free indirect discourse, often creating a sense of immersion and confusion. 
-  - This technique is used to build up the oppressive societal environment surrounding Emma Bovary, with the narrative structure reflecting the social dynamics and idées reçues of the time.
+  - This technique is used to build up the oppressive societal environment surrounding Emma Bovary, with the narrative structure reflecting the <mark style="background: #FFF3A3A6;">social dynamics</mark> and idées reçues of the time.
 
 - **Relation of Embedded Stories to Primary Plot:**
   - The embedded narrative can either be a substantial part of the story, overshadowing the primary narrative, or a minimal addition that explains the primary story.
-  - In cautionary tales, the embedded narrative often serves as a backstory explaining a character's current situation, thereby influencing the primary plot.
+  - In cautionary tales, the <mark style="background: #FFF3A3A6;">embedded narrative</mark> often serves as a <mark style="background: #FFF3A3A6;">backstory</mark> explaining a character's current situation, thereby influencing the primary plot.
 
 - **Key Idea:**
-  - The intricate use of embedded narratives in literature serves not only to enrich the storytelling but also to provide deeper insights into characters, societal norms, and thematic elements. The interplay between primary and embedded stories is a powerful tool that authors use to engage readers and add complexity to their narratives, often leaving room for multiple interpretations and a richer reading experience.
+  - The intricate use of embedded narratives in literature serves not only to enrich the storytelling but also to provide deeper insights into characters, <mark style="background: #FFF3A3A6;">societal norms</mark>, and <mark style="background: #FFF3A3A6;">thematic elements</mark>. The interplay between primary and embedded stories is a powerful tool that authors use to engage readers and add complexity to their narratives, often leaving room for multiple interpretations and a richer reading experience.
+
+### Key Terms
+|Term|Definition|
+|---|---|
+|Backstory|In Narratology, this refers to the history or background of a character or event that is revealed to provide context to the current narrative. It offers deeper insights into characters’ motivations, behaviors, and relationships.|
+|Classic Story Cycles|This term refers to a series of interconnected stories or narratives, often found in traditional literature, where each story stands alone but also contributes to a larger narrative or thematic exploration.|
+|Depth|In the context of Narratology, depth refers to the complexity and nuance of a narrative, including character development, thematic exploration, and the emotional and psychological layers within the story.|
+|Dimension|This term in Narratology signifies the aspects that add complexity to a narrative, such as temporal, spatial, psychological, or moral dimensions, contributing to a richer, more immersive storytelling experience.|
+|Embedded Narrative|A story within a story, where a secondary narrative is nested inside the primary narrative. It can provide contrast, depth, or a different perspective on the main story, enriching the overall narrative experience.|
+|Frame Narratives|A storytelling technique where a main narrative acts as a frame for one or more secondary narratives. The primary story sets the stage for and often ties together the embedded stories, creating a layered narrative structure.|
+|Layers of Storytelling|In Narratology, this refers to the different levels or strata within a narrative, including the main plot, subplots, backstories, and themes. These layers add depth and complexity to the story, enhancing its thematic and emotional resonance.|
+|Multi-Layered Narratives|These are narratives that contain multiple levels of storytelling, often including a primary story and several sub-narratives. Each layer contributes to the overall narrative, adding depth, complexity, and richness.|
+|Primary Story|In Narratology, this is the main narrative thread around which the story revolves. It is the central storyline that drives the plot and is usually the focus of the narrative's main conflict and resolution.|
+|Social Dynamics|This term refers to the interactions and relationships between characters within a narrative, influenced by and reflective of the societal and cultural norms of the story’s setting.|
+|Societal Norms|In Narratology, societal norms are the established rules, behaviors, and expectations that govern the characters' society. They often play a crucial role in shaping the characters' actions, conflicts, and the story’s thematic development.|
+|Thematic Elements|These are the central ideas, subjects, or concepts that a narrative explores. Thematic elements provide deeper meaning and insight into the narrative, contributing to its overall message and impact.|
 
 **Narrative Layers and Mirrortexts in Literature**
 
@@ -554,73 +625,106 @@ Here's the vocabulary list from the provided text about narratology, focusing on
   - The narrative technique of embedding stories within a story is a complex literary device. It's used to add depth and dimensionality, often weaving together multiple layers of storytelling.
 
 - **Embedded Narratives and their Impact:**
-  - In Toni Morrison's "Beloved," the interplay of primary and secondary narratives demonstrates the creative power of storytelling, blurring the lines between reality and supernatural elements.
-  - In Louis Couperus's "Of Old People," embedded narratives incrementally reveal key events from the past, influencing the primary story significantly.
+  - In Toni Morrison's "Beloved," the interplay of primary and <mark style="background: #FFF3A3A6;">secondary narratives</mark> demonstrates the creative power of storytelling, blurring the lines between reality and supernatural elements.
+  - In Louis Couperus's "Of Old People," <mark style="background: #FFF3A3A6;">embedded narratives incrementally reveal key events from the past</mark>, influencing the primary story significantly.
 
 - **Resemblance in Embedded Narratives:**
-  - When embedded stories resemble the primary narrative, they often serve as a mirrortext, reflecting and sometimes predicting the main storyline.
-  - This resemblance is determined by common elements in the summaries of both the primary and embedded stories.
+  - When embedded stories resemble the primary narrative, they often serve as a <mark style="background: #FFF3A3A6;">mirrortext</mark>, reflecting and sometimes predicting the main storyline.
+  - This <mark style="background: #FFF3A3A6;">resemblance is determined by common elements in the summaries of both the primary and embedded stories.</mark>
 
 - **Example of Narrative Complexity – Madame Bovary:**
   - Flaubert's "Madame Bovary" uses a mix of direct, indirect, and free indirect discourse, creating an immersive experience and reflecting societal dynamics.
 
 - **Borges's "Pierre Menard, Author of the Quixote":**
-  - This story illustrates postmodern questioning of art and literature, suggesting that writing is a form of reading, and vice versa, emphasizing the present's influence on interpretation.
+  - This story illustrates <mark style="background: #FFF3A3A6;">postmodern questioning</mark> of art and literature, suggesting that <mark style="background: #FFF3A3A6;">writing is a form of reading</mark>, and vice versa, emphasizing the <mark style="background: #FFF3A3A6;">present's influence on interpretation</mark>.
 
 - **Function of Mirror-Texts:**
-  - Mirror-texts can predict or reflect the primary story's outcome, influencing reader expectations and narrative suspense.
-  - These texts can also offer retrospective insights, enhancing or inflecting the primary story's significance.
+  - <mark style="background: #FFF3A3A6;">Mirror-texts</mark> can predict or reflect the primary story's outcome, influencing reader expectations and narrative suspense.
+  - These texts can also offer <mark style="background: #FFF3A3A6;">retrospective insights</mark>, enhancing or inflecting the primary story's significance.
 
 - **Key Idea:**
   - The use of embedded narratives and mirrortexts in literature serves as a sophisticated tool for authors, enabling them to create multi-layered stories. These narrative techniques not only enrich the plot but also invite readers to engage in a more profound and interpretative reading experience, where the boundaries between reality, fiction, and interpretation become intriguingly blurred.
 
-**Narrative Techniques and Interpretation in Literature**
+### Key Terms
+|Term|Definition|
+|---|---|
+|Key Events|In Narratology, key events are significant moments or actions within a narrative that have a profound impact on the plot and character development. They are pivotal points that drive the story forward and often lead to crucial changes or resolutions in the narrative.|
+|Mirror-Texts|These are texts within a narrative that reflect, parallel, or contrast with the main story. In Narratology, mirror-texts are used to provide deeper understanding, thematic reinforcement, or alternative perspectives on the events and characters of the primary narrative.|
+|Retrospective Insights|In Narratology, retrospective insights refer to understandings or revelations about events, characters, or situations that are revealed later in the narrative, looking back on past occurrences. These insights can offer new interpretations or deeper meanings to earlier parts of the story.|
+|Secondary Narratives|These are subordinate or supporting narratives within a main narrative. In Narratology, secondary narratives often complement or contrast with the primary story, adding depth, background, and richness to the overall narrative structure.|
+
+## **Narrative Techniques and Interpretation in Literature**
 
 - **Concept of Narrative Embedding and Interpretation:**
-  - The technique of embedding stories within a primary narrative, as seen in Edgar Allan Poe's "The Fall of the House of Usher," allows characters to interpret embedded texts as a mirror of their reality, influencing the story's direction.
+  - <mark style="background: #FFF3A3A6;">The technique of embedding stories within a primary narrative</mark>, as seen in Edgar Allan Poe's "The Fall of the House of Usher," <mark style="background: #FFF3A3A6;">allows characters to interpret embedded texts as a mirror of their reality, influencing the story's direction.</mark>
 
 - **Embedded Narratives as Mirrortexts:**
-  - Embedded narratives often function as mirrortexts, reflecting or predicting the primary narrative's trajectory. This technique is used effectively in Arabian Nights, where Sheherazade's storytelling captivates the king and influences the outcome.
+  - Embedded narratives often function as mirrortexts, reflecting or predicting the primary <mark style="background: #FFF3A3A6;">narrative's trajectory</mark>. This technique is used effectively in Arabian Nights, where Sheherazade's storytelling captivates the king and influences the outcome.
 
 - **Dialogue and Dramatic Influence:**
-  - The prevalence of dialogue in a narrative text lends it a dramatic quality. Dialogue-driven narratives resemble dramatic texts, where meaning is produced through the interaction of characters.
+  - The prevalence of <mark style="background: #FFF3A3A6;">dialogue</mark> in a <mark style="background: #FFF3A3A6;">narrative text</mark> lends it a dramatic quality. <mark style="background: #FFF3A3A6;">Dialogue-driven narratives</mark> resemble <mark style="background: #FFF3A3A6;">dramatic texts</mark>, where meaning is produced through the interaction of characters.
 
 - **Embedded Texts and Their Functions:**
-  - Non-narrative embedded texts, such as dialogues and monologues, contribute to the narrative's depth. These embedded elements can vary in their relationship to the primary text, from being closely related to entirely independent.
+  - <mark style="background: #FFF3A3A6;">Non-narrative embedded texts</mark>, such as dialogues and <mark style="background: #FFF3A3A6;">monologues</mark>, contribute to the narrative's depth. These embedded elements can vary in their relationship to the primary text, from being closely related to entirely independent.
 
 - **Significance of the Author and Narrator Distinction:**
-  - The distinction between the author and the narrator is crucial for understanding a narrative text. This distinction, emphasized by theorists like Michel Foucault and Roland Barthes, focuses on the narrative's internal mechanisms rather than the author's intentions.
+  - The distinction between the author and the narrator is crucial for understanding a narrative text. This distinction, emphasized by theorists like Michel Foucault and Roland Barthes, focuses on the narrative's internal mechanisms rather than the <mark style="background: #FFF3A3A6;">author's intentions</mark>.
 
 - **The Role of the Implied Author:**
-  - The concept of the implied author, as proposed by Wayne C. Booth, is problematic. It tends to centralize meaning and authority, potentially marginalizing diverse interpretations of the text.
+  - The concept of the <mark style="background: #FFF3A3A6;">implied author</mark>, as proposed by Wayne C. Booth, is <mark style="background: #FFF3A3A6;">problematic</mark>. It tends to <mark style="background: #FFF3A3A6;">centralize meaning and authority, potentially marginalizing diverse interpretations of the text.</mark>
 
 - **Key Idea:**
-  - The intricate use of embedded narratives, dialogue, and the distinction between the author and narrator in literature serves to enrich the storytelling experience. These techniques not only add layers to the narrative but also invite readers to engage in deeper interpretation and analysis, recognizing the complex interplay of narrative elements and their implications within the story's universe.
+  - The intricate use of embedded narratives, dialogue, and the distinction between the author and narrator in literature serves to enrich the <mark style="background: #FFF3A3A6;">storytelling experience</mark>. These techniques not only add layers to the narrative but also invite readers to engage in deeper interpretation and analysis, recognizing the complex interplay of narrative elements and their implications within the story's universe.
 
-**Narrative Techniques and Interpretation in Postmodern Literature**
+### Key Terms
+|Term|Definition|
+|---|---|
+|Author's Intention|In Narratology, this term refers to the purpose or goal the author aims to achieve through the narrative. It encompasses the themes, messages, and effects the author intends to convey to the reader.|
+|Dialogue|A form of narrative discourse where characters engage in conversation. In Narratology, dialogue is crucial for character development, advancing the plot, and providing insight into character relationships and dynamics.|
+|Dialogue-Driven Narratives|These are stories in Narratology where the primary mode of storytelling is through the dialogue between characters. The plot, character development, and thematic elements are largely revealed through conversations rather than descriptive passages.|
+|Dramatic Text|In Narratology, a dramatic text is a narrative primarily composed of dialogue and monologue, often intended for performance, like in plays. It emphasizes character interaction and spoken word to convey the story.|
+|Implied Author|A concept in Narratology representing the figure envisioned by the reader as responsible for the design and content of the narrative, distinct from the real-life author. It is an inferred intermediary who guides the reader’s interpretation of the text.|
+|Monologue|A long speech by a character in a narrative, often used to reveal their inner thoughts, feelings, or intentions. In Narratology, a monologue can provide deep insight into a character's psyche and contribute to character development.|
+|Narrative Text|This is the primary text of a narrative, encompassing both the story (events and actions) and the discourse (the manner of storytelling). In Narratology, it refers to the whole body of written or spoken content that makes up the narrative.|
+|Narrative Trajectory|In Narratology, narrative trajectory refers to the direction and path a narrative takes. It encompasses the plot’s progression, including the development of events, character arcs, and the unfolding of thematic elements.|
+|Non-Narrative Embedded Text|This refers to text within a narrative that does not contribute directly to the story's progression. In Narratology, it includes documents, letters, or other texts within the story that add depth or context but do not advance the plot.|
+|Storytelling Experience|In Narratology, this term encompasses the overall impact and process of conveying a story, including the techniques, style, and structure employed to engage and communicate with the reader.|
+
+## **Narrative Techniques and Interpretation in Postmodern Literature**
 
 - **Author as a Commodity in Neoliberal Culture:**
-  - In the context of neoliberal culture, the author becomes a marketable commodity, potentially skewing readers' interpretations and leading to a loss of interpretive creativity and awareness of alternative narrative possibilities.
+  - In the context of <mark style="background: #FFF3A3A6;">neoliberal culture</mark>, <mark style="background: #FFF3A3A6;">the author becomes a marketable commodity, potentially skewing readers' interpretations and leading to a loss of interpretive creativity and awareness of alternative narrative possibilities.</mark>
 
 - **Narrator's Role and Limitations:**
-  - The narrator is defined as the agent conveying the text's signs, distinct from the implied author or a visible, fictive "I." This distinction helps avoid conflating the author's intentions with the narrative's internal mechanisms, focusing instead on the text's communicative nature.
+  - The <mark style="background: #FFF3A3A6;">narrator</mark> is defined as the agent conveying the <mark style="background: #FFF3A3A6;">text's signs</mark>, distinct from the implied author or a <mark style="background: #FFF3A3A6;">visible, fictive "I."</mark> This distinction helps avoid conflating the author's intentions with the narrative's internal mechanisms, focusing instead on the text's communicative nature.
 
 - **Embedded Texts and Narrative Dynamics:**
   - Embedded texts, including dialogues and monologues, contribute to the narrative's complexity. Dialogue-heavy texts lean towards a dramatic form, influencing the reader's experience of the story.
 
 - **Importance of Dialogue and Embedded Narratives:**
-  - The quantity and presentation of dialogue within a narrative text affect its dramatic quality. Narratives with extensive dialogue can closely resemble dramatic texts in their construction and impact.
+  - The quantity and presentation of dialogue within a narrative text affect its <mark style="background: #FFF3A3A6;">dramatic quality</mark>. <mark style="background: #FFF3A3A6;">Narratives with extensive dialogue can closely resemble dramatic texts in their construction and impact.</mark>
 
 - **Interplay of Primary and Embedded Narratives:**
-  - Embedded narratives can mirror, explain, or contradict the primary narrative, influencing the overall story's interpretation and progression. This dynamic is evident in works like Poe's "The Fall of the House of Usher" and Borges's "Pierre Menard, Author of the Quixote."
+  - <mark style="background: #FFF3A3A6;">Embedded narratives can mirror, explain, or contradict the primary narrative, influencing the overall story's interpretation and progression. </mark>This dynamic is evident in works like Poe's "The Fall of the House of Usher" and Borges's "Pierre Menard, Author of the Quixote."
 
 - **Narrative Techniques in Postmodern Literature:**
   - Postmodern literature, like Coetzee's "Foe," often explores the fluidity and ambiguity of narrative levels, challenging traditional structures and inviting diverse interpretations.
 
 - **Key Idea:**
-  - Postmodern literature utilizes complex narrative techniques, including the strategic use of embedded texts and dialogue, to deepen the storytelling experience. These techniques encourage readers to engage with the text critically, recognizing the diverse layers and meanings within the narrative and the broader cultural and ideological context in which it exists.
+  - Postmodern literature utilizes complex narrative techniques, including the strategic use of embedded texts and dialogue, to deepen the storytelling experience. These techniques encourage readers to engage with the text critically, recognizing the diverse layers and meanings within the narrative and the broader cultural and <mark style="background: #FFF3A3A6;">ideological context</mark> in which it exists.
 
-
+### Key Terms
+|Term|Definition|
+|---|---|
+|Dramatic Form|In Narratology, this refers to a narrative structure that emphasizes elements typically found in drama, such as dialogue and conflict, focusing on the action and interaction of characters rather than narration or description.|
+|Dramatic Quality|This term in Narratology denotes the intensity and conflict-driven aspects of a narrative that make it resemble a drama or play, often marked by strong character interactions and emotional exchanges.|
+|Ideological Context|In Narratology, ideological context refers to the underlying set of beliefs, values, and attitudes that inform and shape the narrative. It influences the themes, characters, and direction of the story, reflecting broader societal and cultural ideologies.|
+|Internal Mechanisms of Narration|These are the underlying processes and techniques within a narrative that guide the story’s unfolding. In Narratology, this includes the narrative’s structure, pacing, point of view, and the way the story is pieced together and revealed to the reader.|
+|Narrator|The voice or character that tells the story in a narrative. In Narratology, the narrator can range from an omniscient presence to a character within the story, and their perspective and reliability significantly influence the reader's understanding of the narrative.|
+|Postmodern Literature|A genre of literature characterized by a departure from traditional narrative techniques. In Narratology, postmodern literature often includes metafiction, paradox, fragmentation, and an emphasis on the subjective nature of reality and the instability of meaning.|
+|Text Signs|In Narratology, text signs refer to elements within a narrative that convey meaning beyond the literal text, such as symbolism, metaphor, and other literary devices. They contribute to the depth and interpretation of the story.|
+|Text's Communicative Nature|This term in Narratology refers to the inherent ability of a text to convey messages, emotions, and ideas to the reader. It encompasses the effectiveness of the narrative in engaging with and impacting the audience.|
+|The Visible Fictive "I"|In Narratology, this refers to the explicit presence of a first-person narrator within a narrative. It is a self-aware narration style where the narrator’s identity and role in telling the story are evident to the reader.|
 
 
 # 2 Story: Aspects
@@ -629,105 +733,156 @@ Here's the vocabulary list from the provided text about narratology, focusing on
 **Exploring Narrative Techniques: Temporality and Sequential Ordering**
 
 - **Complexity of Time in Narrative Contexts:**
-  - Time in narratives is multifaceted and non-linear, contrasting with the regulated, daily time we experience. It encompasses monumental, historical, micro, and presentist time, each offering a unique perspective and experience.
+  - <mark style="background: #FFF3A3A6;">Time</mark> in narratives is multifaceted and non-linear, contrasting with the regulated, daily time we experience. It encompasses <mark style="background: #FFF3A3A6;">monumental</mark>, <mark style="background: #FFF3A3A6;">historical</mark>, <mark style="background: #FFF3A3A6;">micro</mark>, and <mark style="background: #FFF3A3A6;">presentist time</mark>, each offering a unique perspective and experience.
 
 - **Temporal Dynamics in "Arabian Nights":**
-  - The narrative in "Arabian Nights" showcases complex temporal layers, with the king bound to daily time and Scheherazade manipulating narrative time. This manipulation underscores the story's thematic exploration of time, fear, and control.
+  - The narrative in "Arabian Nights" showcases complex temporal layers, with the king bound to daily time and Scheherazade manipulating <mark style="background: #FFF3A3A6;">narrative time</mark>. This manipulation underscores the story's <mark style="background: #FFF3A3A6;">thematic exploration</mark> of time, fear, and control.
 
 - **Sequential Ordering in Storytelling:**
-  - The sequence of events in a story can differ from their chronological order in reality. This technique is used to create narrative effects, emphasizing the constructed nature of storytelling.
+  - The <mark style="background: #FFF3A3A6;">sequence of events</mark> in a story can differ from their <mark style="background: #FFF3A3A6;">chronological order</mark> in reality. This technique is used to create <mark style="background: #FFF3A3A6;">narrative effects</mark>, emphasizing the <mark style="background: #FFF3A3A6;">constructed nature of storytelling</mark>.
 
 - **Example of Sequential Ordering:**
-  - In the given example, John ringing a doorbell is presented before his motivation to see someone, reversing the logical order of events. This narrative choice reflects the flexibility and creativity in storytelling.
+  - In the given example, John ringing a doorbell is presented before his motivation to see someone, reversing the <mark style="background: #FFF3A3A6;">logical order of events</mark>. This narrative choice reflects the flexibility and creativity in storytelling.
 
 - **Key Idea:**
-  - Narrative techniques involving time and sequential ordering highlight the intricate and deliberate construction of stories. These techniques challenge the perception of time and event progression, allowing narratives to convey complex themes and emotions beyond the constraints of linear time.
+  - <mark style="background: #FFF3A3A6;">Narrative techniques involving time and sequential ordering highlight the intricate and deliberate construction of stories.</mark> These techniques challenge the <mark style="background: #FFF3A3A6;">perception of time</mark> and <mark style="background: #FFF3A3A6;">event progression</mark>, allowing narratives to convey complex themes and emotions beyond the constraints of <mark style="background: #FFF3A3A6;">linear time</mark>.
 
-**Analyzing Temporal Manipulation in Narratives: Retroversion and Anticipation**
+### Key Terms
+|Term|Definition|
+|---|---|
+|Chronological Order|In Narratology, this refers to the arrangement of events in the order in which they occurred in time. It is a traditional narrative structure that follows a linear progression from the past through the present to the future.|
+|Constructed Nature of Storytelling|This term highlights that narratives are intentionally crafted by authors, with elements like plot, characters, and settings deliberately chosen and arranged to convey a specific story or message.|
+|Event Progression|In Narratology, event progression refers to the sequence and development of events within a narrative. It is how the plot unfolds and moves forward, contributing to the overall story arc.|
+|Historical Time|This term denotes the period in which the events of a narrative are set, reflecting the historical context and conditions of that era. In Narratology, it provides a backdrop against which the narrative unfolds.|
+|Linear Time|A narrative structure in Narratology where events are told in a straightforward, sequential manner, following a direct progression from one event to the next in a time-ordered sequence.|
+|Logical Order of Events|In Narratology, this refers to the arrangement of events in a story based on a logical, cause-and-effect relationship. It ensures the narrative flows in a coherent and understandable manner.|
+|Micro Time|This term in Narratology refers to the focus on small, often minute-by-minute or day-by-day, intervals of time within a narrative. It allows for detailed exploration of events and characters’ experiences within a short duration.|
+|Monumental Time|In Narratology, monumental time refers to a grand, sweeping temporal scope in a narrative, often encompassing significant historical periods or vast spans of time, lending an epic quality to the story.|
+|Narrative Effects|These are the impacts or responses elicited from readers by the way a story is told. In Narratology, narrative effects can be emotional, intellectual, or psychological, influenced by the author's use of narrative techniques.|
+|Narrative Time|The time within which the story takes place, including the duration of the story, the order in which events are presented, and the pace at which the narrative progresses.|
+|Presentist Time|In Narratology, this term refers to a narrative focus on the present moment, often disregarding traditional linear time to emphasize the immediacy and urgency of current events or experiences.|
+|Reader's Perception of Time|This is how the reader experiences and interprets the passage of time within a narrative. It can be influenced by the narrative’s pacing, structure, and the way time is manipulated within the story.|
+|Sequence of Events (Sequential Ordering)|This refers to the arrangement of events in a narrative in a specific order, typically following a linear or logical sequence. It forms the backbone of the plot and is fundamental in guiding the reader through the story.|
+|Thematic Exploration|In Narratology, thematic exploration involves delving into the underlying themes and concepts of a narrative. It includes examining the ideas, messages, and motifs that the narrative seeks to explore and convey.|
+|Time|A fundamental element in Narratology representing the duration, sequencing, and pacing of events in a narrative. It is essential in structuring the plot and affects how the story is perceived and understood by the reader.|
+
+
+## **Analyzing Temporal Manipulation in Narratives: Retroversion and Anticipation**
 
 - **Temporal Complexity in Narratives:**
   - Time in narratives is presented in a multi-layered and non-linear manner, challenging the conventional linear perception of time. This complexity in temporal presentation enhances reader engagement and highlights the narrative's thematic depth.
 
 - **Example of Retroversion: Homer's "Iliad":**
-  - The opening of "The Iliad" demonstrates retroversion, starting with the consequence (Achilles' anger) and then tracing back to the causes. This structure emphasizes the influence of external forces on human actions and prefaces the story's content.
+  - The opening of "The Iliad" demonstrates <mark style="background: #FFF3A3A6;">retroversion</mark>, starting with the consequence (Achilles' anger) and then tracing back to the causes. This structure emphasizes the influence of external forces on human actions and prefaces the story's content.
 
 - **Modern Narrative Example: Harry Mulisch's "What Happened to Sergeant Massuro?":**
-  - This narrative exhibits intricate temporal manipulation, alternating between the present moment and past events. The sequence A4-B5-C3-D2-E1 illustrates this shift, showcasing the story's depth and the character's psychological journey.
+  - This narrative exhibits intricate <mark style="background: #FFF3A3A6;">temporal manipulation</mark>, alternating between the <mark style="background: #FFF3A3A6;">present moment</mark> and <mark style="background: #FFF3A3A6;">past events</mark>. The sequence A4-B5-C3-D2-E1 illustrates this shift, showcasing the story's depth and the <mark style="background: #FFF3A3A6;">character's psychological journey</mark>.
 
 - **Key Idea:**
-  - The use of retroversion and anticipation in narratives serves as a powerful tool for creating intricate storylines. This temporal manipulation not only enhances the storytelling but also deepens the reader's understanding of the narrative's themes and characters' experiences.
+  - The use of retroversion and <mark style="background: #FFF3A3A6;">anticipation</mark> in narratives serves as a powerful tool for creating intricate storylines. This temporal manipulation not only enhances the storytelling but also deepens the reader's understanding of the narrative's themes and characters' experiences.
 
-**Exploring Temporal Complexity in Harry Mulisch's Narrative**
+|Term|Definition|
+|---|---|
+|Anticipation|In Narratology, this refers to the technique of creating expectation or suspense about future events in a story. It keeps readers engaged by making them look forward to potential outcomes or twists in the narrative.|
+|Character's Psychological Journey|This term describes the emotional and psychological development of a character throughout the narrative. It involves the character's internal struggles, changes, and growth, contributing significantly to character depth and plot progression.|
+|Retroversion|In Narratology, retroversion is a narrative technique where the story revisits or reflects on past events. It provides background, depth, and context to the current storyline, and can reveal motivations, causes, and effects that were not previously apparent.|
+|Temporal Manipulation|This refers to the deliberate alteration of time sequences in a narrative. It includes techniques such as flashbacks, flashforwards, and non-linear timelines, used to enhance storytelling, reveal character depth, and build suspense.|
+
+
+## **Exploring Temporal Complexity in Harry Mulisch's Narrative**
 
 - **Contextual Background of Harry Mulisch:**
   - Harry Mulisch, influenced by his war-torn background, believed in the transformative power of art and language. His works, including "What Happened to Sergeant Massuro?", delve into mystical and philosophical themes.
 
 - **Narrative Analysis of "What Happened to Sergeant Massuro?":**
-  - The story revolves around Massuro's gradual transformation into stone, recounted by a friend. The narrative features chronological deviations, blending present and past events, and highlighting the impact of colonial and personal conflicts.
+  - The story revolves around Massuro's gradual transformation into stone, recounted by a friend. The narrative features <mark style="background: #FFF3A3A6;">chronological deviations</mark>, blending present and past events, and highlighting the impact of <mark style="background: #FFF3A3A6;">colonial</mark> and <mark style="background: #FFF3A3A6;">personal conflicts</mark>.
 
 - **Chronological Sequencing and Its Effects:**
-  - The story's temporal sequence is intricately structured, with segments ranging from Massuro's death to moments of past acquaintance. This sequencing enhances the story's complexity and mirrors the confusion underlying the fabula.
+  - The story's <mark style="background: #FFF3A3A6;">temporal sequence</mark> is intricately structured, with segments ranging from Massuro's death to moments of past acquaintance. This sequencing enhances the story's complexity and mirrors the confusion underlying the fabula.
 
 - **Nuances of Anachrony in the Narrative:**
-  - Different types of anachronies (subjective and objective) are employed, reflecting variations in the characters' consciousness and the narrative's chronological flow.
+  - Different types of <mark style="background: #FFF3A3A6;">anachronies</mark> (<mark style="background: #FFF3A3A6;">subjective</mark> and <mark style="background: #FFF3A3A6;">objective</mark>) are employed, reflecting variations in the <mark style="background: #FFF3A3A6;">characters' consciousness</mark> and the narrative's <mark style="background: #FFF3A3A6;">chronological flow</mark>.
 
 - **Complexities in Determining Chronological Primacy:**
-  - The narrative's structure makes it challenging to pinpoint a primary chronological segment, illustrating the intricate relationship between story and fabula.
+  - The narrative's structure makes it challenging to pinpoint a <mark style="background: #FFF3A3A6;">primary chronological segment</mark>, illustrating the intricate relationship between story and fabula.
 
 - **Influence of Narrative Units on Each Other:**
-  - The story's time units are interrelated, contributing to the overall narrative complexity. Genette's method of rough indication of time units is employed for analysis, focusing on detailed study of complex fragments.
+  - The <mark style="background: #FFF3A3A6;">story's time units</mark> are interrelated, contributing to the overall narrative complexity. Genette's method of rough indication of time units is employed for analysis, focusing on detailed study of complex fragments.
 
 - **Key Idea:**
-  - Harry Mulisch's "What Happened to Sergeant Massuro?" exemplifies the intricate manipulation of time in narrative storytelling, where chronological deviations serve to deepen thematic exploration and character development.
+  - Harry Mulisch's "What Happened to Sergeant Massuro?" exemplifies the intricate manipulation of time in narrative storytelling, where <mark style="background: #FFF3A3A6;">chronological deviations</mark> serve to deepen thematic exploration and character development.
+
+|Term|Definition|
+|---|---|
+|Character's Consciousness|In Narratology, this refers to the depiction of a character’s inner thoughts, feelings, and mental processes within the narrative. It provides insight into the character’s motivations and emotional responses.|
+|Chronological Deviations|These are intentional departures from the chronological order of events within a narrative. They can be used for various narrative effects, such as creating suspense, providing backstory, or revealing character motivations.|
+|Chronological Flow|In Narratology, chronological flow refers to the progression of events in a narrative in the order they occur in time. It's the linear sequence from past through present to future.|
+|Colonial Conflicts|These are conflicts within a narrative that stem from colonialism. They often involve themes of power, resistance, cultural identity, and the impact of colonial rule on individuals and societies.|
+|Objective Anachronies|In Narratology, objective anachronies are disruptions in the chronological sequence of events presented from a neutral, external viewpoint. They provide factual information about events and situations independent of characters’ personal experiences.|
+|Personal Conflicts|Refers to the internal struggles and conflicts faced by characters in a narrative. These conflicts are often central to character development and plot progression and can include emotional, psychological, or relational challenges.|
+|Primary Chronological Segment|This term denotes the main time frame around which a narrative is centered. It is the dominant period of the story against which other timelines or anachronies are contrasted.|
+|Story Time Units|In Narratology, story time units refer to the segments of time that make up the narrative, which can vary in duration and are essential for structuring the story's temporal dimension.|
+|Subjective Anachronies|These are disruptions in the chronological sequence of events in a narrative, presented from the perspective of a character’s internal experience. They reflect the character's personal perceptions and emotions.|
+|Temporal Sequence|This refers to the order in which events are presented in a narrative, which may or may not align with their actual chronological order, depending on the narrative techniques employed.|
 
 
-**Anachronies and Temporal Manipulation in Narrative Texts**
+## **Anachronies and Temporal Manipulation in Narrative Texts**
 
 - **Introduction to Anachronies:**
-  - Anachronies refer to deviations from chronological sequence in narrative texts. They vary in type and complexity, influencing how stories are perceived and interpreted by readers.
+  - <mark style="background: #FFF3A3A6;">Anachronies</mark> refer to deviations from chronological sequence in narrative texts. They vary in type and complexity, influencing how stories are perceived and interpreted by readers.
 
 - **External, Internal, and Mixed Retroversions:**
-  - External Retroversion: Occurs completely outside the primary fabula's timeline.
-  - Internal Retroversion: Happens within the primary fabula's timeline.
-  - Mixed Retroversion: Begins outside and ends within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">External Retroversion</mark>: Occurs completely outside the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Internal Retroversion</mark>: Happens within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Mixed Retroversion</mark>: Begins outside and ends within the primary fabula's timeline.
 
 - **Functions of Retroversions:**
-  - External retroversions often provide background or historical context for characters or events.
-  - Internal retroversions may fill narrative gaps, provide new information, or offer alternative perspectives on previously narrated events.
+  - <mark style="background: #FFF3A3A6;">External retroversions often provide background or historical context for characters or events</mark>.
+  - Internal retroversions may fill <mark style="background: #FFF3A3A6;">narrative gaps</mark>, provide new information, or offer alternative perspectives on previously narrated events.
 
 - **Chronological Homonymy and Complexity:**
-  - In some narratives, it's challenging to determine the exact temporal placement of events, leading to a phenomenon akin to "chronological homonymy."
+  - In some narratives, it's challenging to determine the exact <mark style="background: #FFF3A3A6;">temporal placement of events</mark>, leading to a phenomenon akin to "<mark style="background: #FFF3A3A6;">chronological homonymy</mark>."
 
 - **Subjective and Objective Anachronies:**
-  - Subjective Anachronies: Based on a character's consciousness or memory.
-  - Objective Anachronies: Present events independent of a character's personal perspective.
+  - <mark style="background: #FFF3A3A6;">Subjective Anachronies</mark>: Based on a character's consciousness or memory.
+  - <mark style="background: #FFF3A3A6;">Objective Anachronies</mark>: Present events independent of a character's personal perspective.
 
 - **Examples of Anachrony in Literature:**
   - Harry Mulisch's "What Happened to Sergeant Massuro?" demonstrates intricate temporal manipulation, blending external and internal retroversions to create a sense of mystery and colonial critique.
-  - Michel Butor's "La Modification" uses subjective retroversions to explore a character's dissatisfaction and internal conflicts.
+  - Michel Butor's "La Modification" uses <mark style="background: #FFF3A3A6;">subjective retroversions</mark> to explore a character's dissatisfaction and internal conflicts.
 
 - **The Role of Anachrony in Various Genres:**
-  - Anachronies are vital in genres like detective novels and mystery literature, where they contribute to suspense and plot development.
+  - Anachronies are vital in genres like detective novels and mystery literature, where they contribute to <mark style="background: #FFF3A3A6;">suspense</mark> and <mark style="background: #FFF3A3A6;">plot development.
+</mark>
 
 - **Key Idea:**
-  - Anachronies in narrative texts, whether external, internal, or mixed, play a crucial role in shaping a story's depth and complexity. They serve various functions from providing historical context to enhancing character development and thematic exploration.
+  - Anachronies in narrative texts, whether external, internal, or <mark style="background: #FFF3A3A6;">mixed</mark>, play a crucial role in shaping a story's depth and complexity. They serve various functions from providing historical context to enhancing character development and thematic exploration.
 
-**Exploring Anachronies in Narrative Texts**
+|Key Word|Definition|
+|---|---|
+|Anachronies|In Narratology, anachronies refer to the discrepancy between the order of events in the story and their chronological order in the narrative. It includes flashbacks or flashforwards that disrupt the chronological flow.|
+|Chronological Homonymy|A concept in Narratology where different events occurring at different times are presented as if they are occurring simultaneously or in a similar timeframe.|
+|External Retroversion|A type of retroversion in Narratology where the narrative goes back in time to describe events external to the character’s immediate experience, often providing additional context or background.|
+|Internal Retroversion|In Narratology, this refers to a narrative technique where the story revisits events or experiences that are internal to a character’s consciousness, such as memories or thoughts.|
+|Mixed Retroversion|A combination of both internal and external retroversion in a narrative, intertwining characters’ internal experiences with external events to enrich the storytelling.|
+|Temporal Placement of Events|The positioning of events in a narrative according to their time sequence. It determines how the story’s timeline is structured and perceived by the reader.|
+
+## **Exploring Anachronies in Narrative Texts**
 
 - **Concept of Span in Anachronies:**
-  - Span refers to the duration covered by an anachrony in a narrative. It varies from punctual (brief, significant events) to durative (longer periods depicting situations or developments).
+  - <mark style="background: #FFF3A3A6;">Span</mark> refers to the duration covered by an anachrony in a narrative. It varies from <mark style="background: #FFF3A3A6;">punctual</mark> (brief, significant events) to <mark style="background: #FFF3A3A6;">durative</mark> (longer periods depicting situations or developments).
 
 - **Types of Anachronies Based on Span:**
-  - External Retroversion: Occurs outside the primary fabula's timeline.
-  - Internal Retroversion: Happens within the primary fabula's timeline.
-  - Mixed Retroversion: Begins outside and ends within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">External Retroversion</mark>: Occurs outside the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Internal Retroversion</mark>: Happens within the primary fabula's timeline.
+  - <mark style="background: #FFF3A3A6;">Mixed Retroversion</mark>: Begins outside and ends within the primary fabula's timeline.
 
 - **Completeness of Anachronies:**
-  - Anachronies can be complete, covering the entire development from start to finish, or incomplete, providing only fragmented information.
+  - Anachronies can be <mark style="background: #FFF3A3A6;">complete</mark>, covering the entire development from start to finish, or <mark style="background: #FFF3A3A6;">incomplete</mark>, providing only fragmented information.
 
 - **Punctual vs. Durative Anachronies:**
-  - Punctual Anachronies: Brief but significant events.
-  - Durative Anachronies: Longer periods that often provide context or background.
+  - <mark style="background: #FFF3A3A6;">Punctual Anachronies</mark>: Brief but significant events.
+  - <mark style="background: #FFF3A3A6;">Durative Anachronies</mark>: Longer periods that often provide context or background.
 
 - **Functions and Impacts of Anachronies:**
   - Provide background or context.
@@ -735,77 +890,122 @@ Here's the vocabulary list from the provided text about narratology, focusing on
   - Create suspense or enhance narrative complexity.
 
 - **Examples of Anachrony in Literature:**
-  - Harry Mulisch's "What Happened to Sergeant Massuro?" illustrates the use of external and internal retroversions to create mystery and explore colonial themes.
+  - Harry Mulisch's "What Happened to Sergeant Massuro?" illustrates the use of external and internal retroversions to create mystery and explore <mark style="background: #FFF3A3A6;">colonial themes</mark>.
   - Marcel Proust’s “À la recherche du temps perdu” demonstrates the intricate manipulation of time through punctual and durative anachronies.
 
 - **Anachrony and Narrative Styles:**
-  - The use of anachrony can characterize an author’s narrative style and reflect their worldview.
+  - The use of anachrony can characterize an <mark style="background: #FFF3A3A6;">author’s narrative style</mark> and reflect their worldview.
   - Frequent punctual anachronies often indicate a direct, informative style, while dominant durative anachronies suggest a focus on inevitable situations and character development.
 
 - **Key Idea:**
   - Anachronies, whether punctual or durative, play a crucial role in narrative texts by adding depth, complexity, and richness to the storytelling. They manipulate time to enhance character development, provide context, and engage readers in a more profound understanding of the narrative.
 
+|Term|Definition|
+|---|---|
+|Author's Narrative Style|In Narratology, this refers to the unique manner in which an author constructs and conveys a story, encompassing language use, narrative techniques, and the structuring of plot and characters.|
+|Colonial Themes|These are narrative elements that explore issues related to colonialism, including power dynamics, cultural conflicts, and the impact of colonial rule, often reflecting historical and sociopolitical contexts.|
+|Complete Anachronies|In Narratology, complete anachronies are instances where the narrative deviates from the chronological sequence to provide a full and detailed account of events occurring at different times.|
+|Durative Anachronies|These are temporal shifts within a narrative that span a length of time, rather than focusing on a single moment. They allow for a broader exploration of events and their impact over time.|
+|External Retroversion|A narrative technique where the story revisits past events external to the character’s current experiences, often providing additional background or context to the main narrative.|
+|Incomplete Anachronies|In Narratology, incomplete anachronies refer to partial deviations from the chronological sequence, where the narrative provides glimpses or fragments of events occurring at different times.|
+|Internal Retroversion|This narrative technique involves revisiting past events or experiences that are internal to a character’s consciousness, such as memories or reflections, enriching character development and depth.|
+|Mixed Retroversion|In Narratology, mixed retroversion is a combination of both internal and external retroversion, intertwining a character’s internal experiences with external historical events to enhance the narrative.|
+|Punctual Anachronies|These are specific, isolated disruptions in the chronological sequence of a narrative, focusing on single events that deviate from the main timeline.|
+|Span of Anachronies|Refers to the extent or range of temporal disruptions within a narrative, indicating the degree to which the chronological order is altered or manipulated.|
 
-**Navigating the Complexities of Anachronies in Narrative Structures**
+
+## **Navigating the Complexities of Anachronies in Narrative Structures**
 
 - **Understanding Anticipations:**
-  - Anticipations are allusions to future events in a narrative, which can be overt or covert.
-  - They may be used to create tension, suggest fatalism, or foreshadow future events.
+  - <mark style="background: #FFF3A3A6;">Anticipations</mark> are <mark style="background: #FFF3A3A6;">allusions</mark> to future events in a narrative, which can be <mark style="background: #FFF3A3A6;">overt</mark> or <mark style="background: #FFF3A3A6;">covert</mark>.
+  - They may be used to create <mark style="background: #FFF3A3A6;">tension</mark>, suggest <mark style="background: #FFF3A3A6;">fatalism</mark>, or <mark style="background: #FFF3A3A6;">foreshadow</mark> future events.
 
 - **Traditional Forms and Functions:**
-  - Opening summaries often serve as anticipations, providing early glimpses of the narrative's outcome.
+  - <mark style="background: #FFF3A3A6;">Opening summaries often serve as anticipations, providing early glimpses of the narrative's outcome.</mark>
   - Anticipations can shift suspense, leading readers to question how or why events unfold as they do.
 
 - **First-Person Narratives and Anticipations:**
-  - Narratives with a central narrator (CN) commonly include anticipations, especially when recounting their own past.
-  - Such anticipations can be both retroversions and anticipations, depending on the narrative's timeline.
+  - Narratives with a <mark style="background: #FFF3A3A6;">central narrator (CN)</mark> commonly include anticipations, especially when recounting their own past.
+  - Such <mark style="background: #FFF3A3A6;">anticipations can be both retroversions and anticipations</mark>, depending on the narrative's timeline.
 
 - **Iterative Anticipations:**
-  - Iterative anticipations present an event as the first in a series, implying repetition in the future.
-  - Detailed descriptions in iterative anticipations can sometimes undermine their credibility.
+  - <mark style="background: #FFF3A3A6;">Iterative anticipations</mark> present an event as the first in a series, implying repetition in the future.
+  - <mark style="background: #FFF3A3A6;">Detailed descriptions in iterative anticipations can sometimes undermine their credibility.</mark>
 
 - **Types of Anticipations:**
-  - Announcements are explicit indications of future events.
-  - Hints are subtle clues that may foreshadow future developments.
+  - <mark style="background: #FFF3A3A6;">Announcements</mark> are explicit indications of future events.
+  - <mark style="background: #FFF3A3A6;">Hints</mark> are subtle clues that may foreshadow future developments.
 
 - **Achrony: An Unanalyzable Deviation:**
-  - Achrony refers to deviations in time within a narrative that cannot be further defined or analyzed.
-  - It includes complex structures like anticipations-within-retroversions or the reverse.
+  - <mark style="background: #FFF3A3A6;">Achrony</mark> refers to deviations in time within a narrative that cannot be further defined or analyzed.
+  - It includes complex structures like <mark style="background: #FFF3A3A6;">anticipations-within-retroversions</mark> or the reverse.
 
 - **Examples and Implications:**
-  - Various narrative techniques, such as retroversion-within-anticipation, highlight the complexities and possibilities within storytelling.
-  - Such techniques can also serve as meta-narrative commentary, emphasizing the fictional nature of the narrative.
+  - Various narrative techniques, such as <mark style="background: #FFF3A3A6;">retroversion-within-anticipation</mark>, highlight the complexities and possibilities within storytelling.
+  - Such techniques can also serve as <mark style="background: #FFF3A3A6;">meta-narrative commentary</mark>, emphasizing the fictional nature of the narrative.
 
 - **Key Idea:**
-  - Anachronies, particularly anticipations, play a vital role in shaping narratives, manipulating reader expectations, and creating a multifaceted storytelling experience. These temporal deviations enrich the narrative by adding layers of meaning and complexity.
+  - <mark style="background: #FFF3A3A6;">Anachronies, particularly anticipations, play a vital role in shaping narratives, manipulating reader expectations, and creating a multifaceted storytelling experience.</mark> These temporal deviations enrich the narrative by adding layers of meaning and complexity.
 
-**Exploring Anachronies, Achronies, and Narrative Rhythms**
+|Term|Definition|
+|---|---|
+|Achrony|In Narratology, achrony refers to a discrepancy or absence of a clear temporal relationship between events or elements in a narrative, leading to an ambiguous or undefined timeline.|
+|Allusions|These are indirect references in a narrative to other texts, events, or cultural elements. Allusions enrich the story by creating layers of meaning and connecting the narrative to broader themes and contexts.|
+|Anticipation Announcements|In Narratology, these are explicit statements within a narrative that signal upcoming events or developments, often used to create expectation or curiosity about the story’s direction.|
+|Anticipation Hints|Subtle clues or suggestions in a narrative that hint at future events or outcomes, used to subtly guide the reader’s expectations and maintain engagement with the story.|
+|Anticipations|These are narrative elements that foreshadow or suggest future events in the story, creating a sense of expectation or foreboding about what is to come.|
+|Anticipations-Within-Retroversions|A complex narrative technique where anticipatory elements are embedded within retrospectives or flashbacks, intertwining future expectations with past events.|
+|Central Narrator (CN)|The main narrator of a story in Narratology, responsible for conveying the primary narrative and often serving as the focal point for the reader’s understanding and interpretation.|
+|Covert Anticipations|Subtle or indirect anticipations in a narrative that are not explicitly stated but implied, creating a sense of foreshadowing or expectation without direct revelation.|
+|Fatalism|A narrative theme or tone where events are portrayed as predetermined or inevitable, often creating a sense of resignation or acceptance of the predetermined course of events.|
+|Foreshadow|A narrative technique where future events or outcomes are hinted at or suggested, often through subtle clues, setting the stage for later developments in the story.|
+|Iterative Anticipations|Repetitive or recurring anticipatory elements in a narrative, used to reinforce expectations or themes and build a sense of inevitability about future events.|
+|Meta-Narrative Commentary|Commentary within a narrative that reflects on the process of storytelling itself, often breaking the fourth wall or addressing the nature of narrative construction and interpretation.|
+|Overt Anticipations|Clear and explicit anticipations in a narrative where future events or developments are directly suggested or stated, often used to build suspense or guide the reader’s expectations.|
+|Retroversion-Within-Anticipation|A narrative technique where retrospectives or flashbacks are included within anticipatory segments, providing historical context or background to the expectations being set.|
+|Tension|The sense of suspense, conflict, or urgency in a narrative that keeps readers engaged and interested in the outcome of the story or the resolution of its conflicts.|
+
+## **Exploring Anachronies, Achronies, and Narrative Rhythms**
 
 - **Anachronies and Achronies in Narratives:**
-  - Anachronies refer to deviations from chronological order in a narrative, encompassing retroversions (references to the past) and anticipations (allusions to the future).
-  - Achronies are deviations that defy analysis due to their complexity or lack of clear temporal information.
+  - Anachronies refer to deviations from chronological order in a narrative, encompassing <mark style="background: #FFF3A3A6;">retroversions (references to the past) and anticipations (allusions to the future).</mark>
+  - <mark style="background: #FFF3A3A6;">Achronies are deviations that defy analysis due to their complexity or lack of clear temporal information.</mark>
 
 - **Complex Forms of Anachrony:**
   - Anticipations within retroversions and vice versa can create intricate narrative structures.
-  - Achronies may arise from undated references or grouping events by non-chronological criteria (like spatial connections).
+  - Achronies may arise from undated references or grouping events by <mark style="background: #FFF3A3A6;">non-chronological criteria</mark> (like <mark style="background: #FFF3A3A6;">spatial connections</mark>).
 
 - **Narrative Rhythm and Its Measurement:**
-  - Narrative rhythm involves the speed and pattern of event presentation in a story.
-  - It can be analyzed by comparing the time covered by narrative events (fabula time) with the amount of text devoted to these events.
+  - <mark style="background: #FFF3A3A6;">Narrative rhythm</mark> involves the <mark style="background: #FFF3A3A6;">speed</mark> and <mark style="background: #FFF3A3A6;">pattern of event presentation</mark> in a story.
+  - It can be analyzed by comparing the time covered by narrative events (<mark style="background: #FFF3A3A6;">fabula time</mark>) with the amount of text devoted to these events.
 
-- **Overall Rhythm and Attention Distribution:**
+- **Overall Rhythm and <mark style="background: #FFF3A3A6;">Attention Distribution</mark>:**
   - A story's rhythm can be deduced by observing the distribution of attention across different episodes.
-  - Variations in rhythm, like extended descriptions (pauses) or omitted sections (ellipses), reveal the author's focus and narrative style.
+  - <mark style="background: #FFF3A3A6;">Variations in rhythm</mark>, like <mark style="background: #FFF3A3A6;">extended descriptions</mark> (<mark style="background: #FFF3A3A6;">pauses</mark>) or omitted sections (<mark style="background: #FFF3A3A6;">ellipses</mark>), reveal the <mark style="background: #FFF3A3A6;">author's focus</mark> and narrative style.
 
 - **Case Studies in Narrative Rhythm:**
-  - The novel "Migas de pan" by Azriel Bibliowicz exemplifies the use of achrony to express the temporality of trauma, showcasing a non-linear approach to time.
+  - The novel "Migas de pan" by Azriel Bibliowicz exemplifies the use of achrony to express the <mark style="background: #FFF3A3A6;">temporality of trauma</mark>, showcasing a non-linear approach to time.
   - The novel's structure, dominated by reflections on time, captures the pervasive impact of trauma across generations.
 
 - **Key Idea:**
-  - Anachronies and achronies are powerful narrative tools that challenge traditional notions of time, allowing for complex storytelling that can convey deeper themes, such as the enduring impact of trauma. Understanding these elements sheds light on the intricate rhythms and focuses of narrative construction.
+  - Anachronies and achronies are powerful narrative tools that challenge traditional notions of time, allowing for complex storytelling that can convey deeper themes, such as the enduring impact of trauma. <mark style="background: #FFF3A3A6;">Understanding these elements sheds light on the intricate rhythms and focuses of narrative construction.</mark>
 
+|Term|Definition|
+|---|---|
+|Attention Distribution|In Narratology, this refers to how the narrative allocates focus and emphasis on different elements or events, guiding the reader's attention and shaping their perception of the story.|
+|Author's Focus|This term denotes the aspects of the narrative that the author chooses to emphasize or highlight, such as character development, thematic elements, or specific events, shaping the overall narrative experience.|
+|Ellipses|In Narratology, ellipses refer to the omission or skipping of sections of the story's timeline, creating gaps in the narrative that can accelerate the pace or focus on specific events.|
+|Fabula Time|This term refers to the chronological order of events as they would have occurred in the story world, independent of how they are presented in the narrative structure.|
+|Non-Chronological Criteria|Criteria used in Narratology to organize or analyze a narrative based on elements other than chronological order, such as thematic connections, character development, or symbolic patterns.|
+|Narrative Rhythm|The pacing and flow of a narrative, determined by the arrangement and frequency of events, dialogues, descriptions, and pauses. It affects the reader's engagement and the overall mood of the story.|
+|Pause|In Narratology, a pause refers to a moment in the narrative where the progression of events halts, often used to provide descriptive detail, character introspection, or thematic exploration.|
+|Pattern of Event Presentation|This term describes the way in which events are arranged and revealed in a narrative, including their order, frequency, and the connections between them.|
+|Spatial Connections|In Narratology, spatial connections refer to how locations and settings are linked or related within a narrative, contributing to the story's coherence and the reader's understanding of the story world.|
+|Speed of Event Presentation|This refers to how quickly or slowly events are depicted in the narrative. It influences the story's pacing and can impact the reader's perception of the action and tension within the story.|
+|Temporality of Trauma|In Narratology, this concept relates to how narratives represent the experience and impact of trauma, often affecting the chronological structure and emotional tone of the story.|
+|Variations in Rhythm|These are changes in the pacing and flow of a narrative, which can be used to create emphasis, build suspense, or highlight thematic or emotional shifts within the story.|
 
-**Analyzing Narrative Rhythms and Techniques**
+## **Analyzing Narrative Rhythms and Techniques**
 
 - **Narrative Rhythms and Their Categories:**
   - Rhythms in narratives are categorized into ellipses, summaries, scenes, slow-downs, and pauses.
