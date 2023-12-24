@@ -61,7 +61,15 @@
       "key": "R"
     }
   ],
-  "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
+  "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
   "markdown:add-metadata-property": [],
   "highlightr-plugin:Cyan": [
     {
@@ -124,9 +132,10 @@
   "obsidian-editor-shortcuts:selectLine": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Shift"
       ],
-      "key": "R"
+      "key": "."
     }
   ],
   "highlightr-plugin:Yellow": [
