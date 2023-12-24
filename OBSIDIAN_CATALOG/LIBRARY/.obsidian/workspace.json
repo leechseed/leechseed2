@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fee3cd45a6914dfe",
+            "id": "fce832dc30ce2c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "word count.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18d8b7a7b8d4f271",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,25 +30,23 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8f8b4f8082df2892",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d2475de634934d41",
+            "id": "fee3cd45a6914dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
-                "mode": "preview",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fce832dc30ce2c6c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -109,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -189,10 +198,11 @@
   },
   "active": "fee3cd45a6914dfe",
   "lastOpenFiles": [
-    "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
+    "word count.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
     "templates/CHAT GPT PROMPTS.md",
-    "word count.md",
+    "templates/template for steps.md",
+    "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
     "02_FABULA CASIO-EXPERIENCE/020000_FABULA SPACETIME.md",
     "01_THEME/0100031_NADEN - The Golden Age of American Musical Theatre.md",
     "01_THEME/0100030_BRONNER - Youth Cultures in America.md",
@@ -208,7 +218,6 @@
     "01_THEME/0100018_CAMPBELL - The Hero With a Thousand Faces.md",
     "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
     "desktop.ini",
-    "templates/template for steps.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
     "00_THEORY OF COMPOSITION/00005_MCKEE - Story.md",
     "00_THEORY OF COMPOSITION/00004_HATAVARA - Narrative theory, literature, and new media.md",

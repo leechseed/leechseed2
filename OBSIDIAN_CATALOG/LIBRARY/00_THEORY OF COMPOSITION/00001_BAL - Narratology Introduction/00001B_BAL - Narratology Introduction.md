@@ -236,10 +236,17 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
   - In narratology, the narrative agent's role in truth claims, the narrator's function as a witness, and the complexities of focalization and narrative situations highlight the intricate dynamics of storytelling. <mark style="background: #FFF3A3A6;">The challenges and misconceptions of second-person narration underscore the significance of deixis and the reciprocal nature of narrative communication.</mark>
 
 ### Key Words
-|   |   |
+|Term|Definition|
 |---|---|
-|**Deixis**|The use of context-dependent words like pronouns and adverbs in narratives to establish point of view and context.|
-|**Second-Person Narrator**|A narrative voice that addresses the reader directly using "you,".|
+|character involvement|Refers to the degree to which a character is engaged in the events or actions of the narrative, and how this engagement affects the story's development and the audience's connection to the character.|
+|deixis|A linguistic feature in narratology that anchors certain elements of the narrative, like pronouns or temporal and spatial terms, to the speaker's or narrator's perspective.|
+|narrative agent|An entity, often a character within the story, who acts to advance the plot or narrative, influencing events and other characters through their actions and decisions.|
+|narrative situations|The various configurations of narrator and narrative within a story, determining aspects like point of view, perspective, and the degree of knowledge or bias the narrator possesses.|
+|narrator as witness|A type of narrator in narratology who recounts events they have observed or experienced, providing a personal and potentially limited perspective on the narrative.|
+|second-person narrators|Narrators who address the reader directly using 'you,' creating an immersive and interactive narrative experience by positioning the reader as a character in the story.|
+|traditional narrative distinctions|The conventional separations or categories in narratology, such as first-person versus third-person narration, which help define the narrative's structure and perspective.|
+|truth claims|Statements or implications within a narrative that assert or suggest the veracity of the presented events or experiences, influencing the reader's perception of the narrative's realism.|
+|variable focalization|A technique in narratology where the perspective or point of view shifts within the narrative, allowing for different characters' perceptions and thoughts to be presented.|
 
 
 
@@ -277,10 +284,15 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 
 ### Key Words
 
-
 |Term|Definition|
 |---|---|
-|**Description**|The attribution of features to objects within the text, essential for visualizing the story's world.|
+|description|In narratology, this refers to the detailed portrayal of characters, settings, or events within a narrative, providing sensory details and context to enrich the story.|
+|focalization|The perspective through which events and characters in a narrative are perceived and related, which can be from a character's viewpoint (internal focalization) or the narrator's (external focalization).|
+|ideological implications|The underlying set of beliefs, values, and ideologies that are conveyed or suggested within a narrative, often reflecting broader social or cultural messages.|
+|non-narrative comments|Elements in a text that do not directly contribute to the progression of the narrative, such as authorial asides, reflections, or commentary on the narrative itself.|
+|realistic tradition|A style in narratology that emphasizes the accurate, detailed depiction of real-life situations and characters, often focusing on everyday experiences and social realities.|
+|textual form|The structural and stylistic arrangement of a narrative, including its layout, syntax, and narrative techniques, which shapes how the story is told and received.|
+
 
 
 
@@ -543,7 +555,12 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Speech Forms|In Narratology, speech forms refer to the various ways in which characters’ speech is represented in a narrative, such as direct speech, indirect speech, and free indirect discourse. Each form offers different insights into characters and events.|
 |Subjective Experience|This term in Narratology refers to the internal, personal experiences and perceptions of characters. It emphasizes the individual emotional and psychological responses to events and situations within the narrative.|
 |Text Interference|In Narratology, text interference occurs when elements outside the main narrative, such as footnotes, authorial asides, or other disruptions, intrude into the storytelling, affecting the reader’s engagement with the text.|
+
+
+
+
 ## **Analyzing Complex Narrative Structures in Literature**
+
 
 - **Introduction to <mark style="background: #FFF3A3A6;">Narrative Techniques</mark>:**
   - The text delves into the intricate use of narrative techniques in literature, focusing on direct, indirect, and free indirect discourse, and how these techniques are employed to create complex narrative structures.
@@ -579,6 +596,9 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Narration Variations|In Narratology, narration variations refer to the different ways a story can be told, including changes in the narrator's perspective, the use of multiple narrators, shifts in temporal structure, and the implementation of various narrative styles.|
 |Narrator's Text|This term refers to the portion of a narrative that is directly attributed to the narrator. In Narratology, it includes descriptions, commentary, and any narrative content that is not dialogue or characters' internal thoughts.|
 |Societal Contexts|In Narratology, societal contexts refer to the social, cultural, and historical settings and circumstances that influence and are reflected in a narrative. These contexts help shape the narrative’s themes, characters, and events.|
+
+
+
 
 ## **Exploring the Interplay of Primary and Embedded Narratives in Literature**
 
@@ -619,7 +639,9 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Societal Norms|In Narratology, societal norms are the established rules, behaviors, and expectations that govern the characters' society. They often play a crucial role in shaping the characters' actions, conflicts, and the story’s thematic development.|
 |Thematic Elements|These are the central ideas, subjects, or concepts that a narrative explores. Thematic elements provide deeper meaning and insight into the narrative, contributing to its overall message and impact.|
 
-**Narrative Layers and Mirrortexts in Literature**
+
+
+## **Narrative Layers and Mirrortexts in Literature**
 
 - **Concept of Narrative Embedding:**
   - The narrative technique of embedding stories within a story is a complex literary device. It's used to add depth and dimensionality, often weaving together multiple layers of storytelling.
@@ -652,6 +674,10 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Mirror-Texts|These are texts within a narrative that reflect, parallel, or contrast with the main story. In Narratology, mirror-texts are used to provide deeper understanding, thematic reinforcement, or alternative perspectives on the events and characters of the primary narrative.|
 |Retrospective Insights|In Narratology, retrospective insights refer to understandings or revelations about events, characters, or situations that are revealed later in the narrative, looking back on past occurrences. These insights can offer new interpretations or deeper meanings to earlier parts of the story.|
 |Secondary Narratives|These are subordinate or supporting narratives within a main narrative. In Narratology, secondary narratives often complement or contrast with the primary story, adding depth, background, and richness to the overall narrative structure.|
+
+
+
+
 
 ## **Narrative Techniques and Interpretation in Literature**
 
@@ -690,6 +716,10 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Non-Narrative Embedded Text|This refers to text within a narrative that does not contribute directly to the story's progression. In Narratology, it includes documents, letters, or other texts within the story that add depth or context but do not advance the plot.|
 |Storytelling Experience|In Narratology, this term encompasses the overall impact and process of conveying a story, including the techniques, style, and structure employed to engage and communicate with the reader.|
 
+
+
+
+
 ## **Narrative Techniques and Interpretation in Postmodern Literature**
 
 - **Author as a Commodity in Neoliberal Culture:**
@@ -727,10 +757,13 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |The Visible Fictive "I"|In Narratology, this refers to the explicit presence of a first-person narrator within a narrative. It is a self-aware narration style where the narrator’s identity and role in telling the story are evident to the reader.|
 
 
+
+
+
 # 2 Story: Aspects
 
 
-**Exploring Narrative Techniques: Temporality and Sequential Ordering**
+## **Exploring Narrative Techniques: Temporality and Sequential Ordering**
 
 - **Complexity of Time in Narrative Contexts:**
   - <mark style="background: #FFF3A3A6;">Time</mark> in narratives is multifaceted and non-linear, contrasting with the regulated, daily time we experience. It encompasses <mark style="background: #FFF3A3A6;">monumental</mark>, <mark style="background: #FFF3A3A6;">historical</mark>, <mark style="background: #FFF3A3A6;">micro</mark>, and <mark style="background: #FFF3A3A6;">presentist time</mark>, each offering a unique perspective and experience.
@@ -767,6 +800,9 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Time|A fundamental element in Narratology representing the duration, sequencing, and pacing of events in a narrative. It is essential in structuring the plot and affects how the story is perceived and understood by the reader.|
 
 
+
+
+
 ## **Analyzing Temporal Manipulation in Narratives: Retroversion and Anticipation**
 
 - **Temporal Complexity in Narratives:**
@@ -787,6 +823,10 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Character's Psychological Journey|This term describes the emotional and psychological development of a character throughout the narrative. It involves the character's internal struggles, changes, and growth, contributing significantly to character depth and plot progression.|
 |Retroversion|In Narratology, retroversion is a narrative technique where the story revisits or reflects on past events. It provides background, depth, and context to the current storyline, and can reveal motivations, causes, and effects that were not previously apparent.|
 |Temporal Manipulation|This refers to the deliberate alteration of time sequences in a narrative. It includes techniques such as flashbacks, flashforwards, and non-linear timelines, used to enhance storytelling, reveal character depth, and build suspense.|
+
+
+
+
 
 
 ## **Exploring Temporal Complexity in Harry Mulisch's Narrative**
@@ -824,6 +864,8 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Story Time Units|In Narratology, story time units refer to the segments of time that make up the narrative, which can vary in duration and are essential for structuring the story's temporal dimension.|
 |Subjective Anachronies|These are disruptions in the chronological sequence of events in a narrative, presented from the perspective of a character’s internal experience. They reflect the character's personal perceptions and emotions.|
 |Temporal Sequence|This refers to the order in which events are presented in a narrative, which may or may not align with their actual chronological order, depending on the narrative techniques employed.|
+
+
 
 
 ## **Anachronies and Temporal Manipulation in Narrative Texts**
@@ -866,6 +908,9 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Internal Retroversion|In Narratology, this refers to a narrative technique where the story revisits events or experiences that are internal to a character’s consciousness, such as memories or thoughts.|
 |Mixed Retroversion|A combination of both internal and external retroversion in a narrative, intertwining characters’ internal experiences with external events to enrich the storytelling.|
 |Temporal Placement of Events|The positioning of events in a narrative according to their time sequence. It determines how the story’s timeline is structured and perceived by the reader.|
+
+
+
 
 ## **Exploring Anachronies in Narrative Texts**
 
@@ -912,6 +957,8 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Mixed Retroversion|In Narratology, mixed retroversion is a combination of both internal and external retroversion, intertwining a character’s internal experiences with external historical events to enhance the narrative.|
 |Punctual Anachronies|These are specific, isolated disruptions in the chronological sequence of a narrative, focusing on single events that deviate from the main timeline.|
 |Span of Anachronies|Refers to the extent or range of temporal disruptions within a narrative, indicating the degree to which the chronological order is altered or manipulated.|
+
+
 
 
 ## **Navigating the Complexities of Anachronies in Narrative Structures**
@@ -965,6 +1012,10 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Retroversion-Within-Anticipation|A narrative technique where retrospectives or flashbacks are included within anticipatory segments, providing historical context or background to the expectations being set.|
 |Tension|The sense of suspense, conflict, or urgency in a narrative that keeps readers engaged and interested in the outcome of the story or the resolution of its conflicts.|
 
+
+
+
+
 ## **Exploring Anachronies, Achronies, and Narrative Rhythms**
 
 - **Anachronies and Achronies in Narratives:**
@@ -1004,6 +1055,9 @@ Certainly! Here's the revised vocabulary list with the specified entries (2, 4, 
 |Speed of Event Presentation|This refers to how quickly or slowly events are depicted in the narrative. It influences the story's pacing and can impact the reader's perception of the action and tension within the story.|
 |Temporality of Trauma|In Narratology, this concept relates to how narratives represent the experience and impact of trauma, often affecting the chronological structure and emotional tone of the story.|
 |Variations in Rhythm|These are changes in the pacing and flow of a narrative, which can be used to create emphasis, build suspense, or highlight thematic or emotional shifts within the story.|
+
+
+
 
 ## **Analyzing Narrative Rhythms and Techniques**
 
@@ -1129,6 +1183,9 @@ Creating a vocabulary list with definitions from the given text in terms of Narr
 This table organizes the terms alphabetically and provides definitions in the context of Narratology.
 
 
+
+
+
 ## **Understanding Character Construction in Narrative Texts**
 
 **<mark style="background: #FFF3A3A6;"></mark>**<mark style="background: #FFF3A3A6;">**Anthropomorphism**</mark> and <mark style="background: #FFF3A3A6;">**Character Effects**</mark>
@@ -1166,92 +1223,157 @@ This table organizes the terms alphabetically and provides definitions in the co
 
 
 
-**Character Categorization and Determination in Narratives**
+
+
+## Character Categorization and Determination in Narratives
 
 - **Resisting Simplistic Character Classifications**
-  - Traditional classifications like E.M. Forster's "round" and "flat" characters are limited and exclude diverse narrative genres.
+  - Traditional classifications like E.M. Forster's "<mark style="background: #FFF3A3A6;">round</mark>" and "<mark style="background: #FFF3A3A6;">flat</mark>" characters are <mark style="background: #FFF3A3A6;">limited and exclude diverse narrative genres</mark>.
   - Such categories often fail to appreciate the complexity of characters in non-psychological narratives, like fairy tales or ancient literature.
 
 - **Character Construction and Reader Interpretation**
   - Characters are constructed from various narrative elements, influencing reader perception and predictability.
-  - External knowledge and personal context of readers affect character interpretation, creating unique understandings.
+  - <mark style="background: #FFF3A3A6;">External knowledge and personal context of readers affect character interpretation, creating unique understandings.</mark>
 
 - **The Influence of Real-World Context on Characters**
-  - Real-world knowledge impacts character perception, as seen in historical or legendary figures in narratives.
-  - Readers' preconceived notions of these figures clash or align with narrative portrayal, affecting character understanding.
+  - <mark style="background: #FFF3A3A6;">Real-world knowledge impacts character perception, as seen in historical or legendary figures in narratives.</mark>
+  - Readers' preconceived notions of these figures clash or align with <mark style="background: #FFF3A3A6;">narrative portrayal</mark>, affecting character understanding.
 
 - **Character Behavior and Reader Expectations**
-  - Referential characters (historical, mythical) must align with general expectations to maintain identity within the narrative.
+  - <mark style="background: #FFF3A3A6;">Referential characters</mark> (<mark style="background: #FFF3A3A6;">historical</mark>, <mark style="background: #FFF3A3A6;">mythical</mark>) <mark style="background: #FFF3A3A6;">must align with general expectations to maintain identity within the narrative.</mark>
   - Deviations from expected behaviors can create surprise or humor, enhancing narrative engagement.
 
 - **Misinterpretation of Characters and Psychoanalytic Criticism**
-  - Misinterpretation of characters can occur when readers project real-world psychology onto fictional characters.
-  - Psychoanalytic criticism should focus on textual effects on readers, not on diagnosing fictional characters.
+  - <mark style="background: #FFF3A3A6;">Misinterpretation of characters can occur when readers project real-world psychology onto fictional characters.</mark>
+  - <mark style="background: #FFF3A3A6;">Psychoanalytic criticism</mark> should focus on <mark style="background: #FFF3A3A6;">textual effects</mark> on readers, not on <mark style="background: #FFF3A3A6;">diagnosing fictional characters</mark>.
 
 - **Key Idea:**
-  - In narrative texts, character categorization and determination are complex processes influenced by reader's pre-existing knowledge, external context, and the narrative's presentation. Understanding characters requires recognizing them as fictional constructs influenced by various narrative elements and resisting the urge to oversimplify or misinterpret them based on real-world psychology or stereotypes.
+  - In narrative texts, <mark style="background: #FFF3A3A6;">character categorization</mark> and <mark style="background: #FFF3A3A6;">determination</mark> are complex processes influenced by <mark style="background: #FFF3A3A6;">reader's pre-existing knowledge</mark>, <mark style="background: #FFF3A3A6;">external context</mark>, and the <mark style="background: #FFF3A3A6;">narrative's presentation</mark>. Understanding characters requires recognizing them as <mark style="background: #FFF3A3A6;">fictional constructs</mark> influenced by various narrative elements and resisting the urge to oversimplify or misinterpret them based on real-world psychology or stereotypes.
 
-**Character Construction and Transformation in Narratives**
+|Term|Definition|
+|---|---|
+|character categorization|The process in narratology where characters are classified into various types or categories based on their traits, roles, or functions in the narrative.|
+|character determination|The method by which a character's nature, purpose, and role are established in a narrative, shaping their actions and development.|
+|character misinterpretation|A phenomenon in narratology where a character is misunderstood or misjudged by readers or other characters, often due to limited information or biases.|
+|character perception|Refers to how characters are viewed or understood by readers or other characters within the narrative, influenced by narrative presentation and readers' perspectives.|
+|E.M Forster|An influential figure in narratology and literature, known for his contributions to the understanding of character development and narrative structure.|
+|fictional character|A character that is created for a narrative and does not exist in the real world. These characters are integral to the development of the story's plot and themes.|
+|fictional construct|An element in narratology that refers to a character, event, or setting created for the purpose of storytelling, not existing in reality.|
+|flat character|A type of character in literature who is relatively uncomplicated and does not change throughout the course of a narrative. Often serves a specific, singular purpose.|
+|historical characters|Characters in a narrative that are based on real historical figures. Their portrayal can blend factual and fictional elements.|
+|mythical characters|Characters derived from myths or legends, often embodying archetypal qualities or moral lessons, and used in narratives to convey deeper meanings.|
+|narrative portrayal|The way in which a story is told or presented to the reader, including the depiction of characters, events, and settings.|
+|reader's external knowledge|Information that a reader brings to a narrative from outside sources, such as historical facts or cultural context, which can influence their understanding.|
+|reader's general expectations|The preconceived notions or assumptions a reader has about a story or its elements, based on genre, prior experiences, or cultural norms.|
+|reader's personal context|The unique background, experiences, and perspective that a reader brings to a narrative, influencing their interpretation and engagement.|
+|reader's real-world knowledge|The knowledge and understanding a reader has from their own experience of the real world, influencing how they perceive and interpret a narrative.|
+|real world psychology|The study of the human mind and behavior as it exists in reality, which can be used to inform the development of realistic characters and interactions in narratives.|
+|real world stereotype|A widely held but fixed and oversimplified image or idea of a particular type of person or thing, often used in narratives for quickly establishing character traits.|
+|referential characters|Characters in a narrative who are intended to refer to or represent real people, ideas, or cultural concepts, often used to provide commentary or critique.|
+|round character|A complex character in a narrative who undergoes development, sometimes sufficiently to surprise the reader, contrasting with a flat character.|
+
+
+
+
+## Character Construction and Transformation in Narratives
 
 - **Referential Characters and Predictability**
-  - Characters linked to historical or mythical figures have a predefined set of expectations and limitations.
-  - Reader's knowledge and cultural context shape their perception and interpretation of these characters.
+  - <mark style="background: #FFF3A3A6;">Characters linked to historical or mythical figures have a predefined set of expectations and limitations.</mark>
+  - Reader's knowledge and <mark style="background: #FFF3A3A6;">cultural context</mark> shape their perception and interpretation of these characters.
 
-- **Character Determination through Descriptive Elements**
-  - Basic character traits like gender, age, and occupation set initial expectations and narrative possibilities.
-  - Names, physical descriptions, and social roles further refine and define character possibilities.
+- **<mark style="background: #FFF3A3A6;">Character Determination</mark> through Descriptive Elements**
+  - <mark style="background: #FFF3A3A6;">Basic character traits</mark> like gender, age, and occupation set <mark style="background: #FFF3A3A6;">initial expectations</mark> and narrative possibilities.
+  - Names, physical descriptions, and social roles further refine and define <mark style="background: #FFF3A3A6;">character possibilities</mark>.
 
 - **Genre Expectations Influencing Character Development**
-  - Genre conventions dictate certain character behaviors and outcomes, affecting reader anticipation.
-  - Deviations from genre norms can create narrative tension and surprise.
+  - <mark style="background: #FFF3A3A6;">Genre conventions</mark> dictate certain <mark style="background: #FFF3A3A6;">character behaviors</mark> and <mark style="background: #FFF3A3A6;">outcomes</mark>, affecting <mark style="background: #FFF3A3A6;">reader anticipation</mark>.
+  - <mark style="background: #FFF3A3A6;">Deviations from genre norms can create narrative tension and surprise.</mark>
 
 - **Challenges in Character Interpretation**
-  - Anthropomorphism in character interpretation leads to oversimplification and misjudgment.
-  - Real-world psychological projections onto characters can mislead and distort narrative understanding.
+  - Anthropomorphism in <mark style="background: #FFF3A3A6;">character interpretation</mark> leads to <mark style="background: #FFF3A3A6;">oversimplification and misjudgment</mark>.
+  - <mark style="background: #FFF3A3A6;">Real-world psychological projections onto characters can mislead and distort narrative understanding.</mark>
 
 - **Constructing Character Image**
-  - Repetition: Repeated character traits and behaviors solidify the character's image.
-  - Accumulation: Piling up of data and characteristics provides a comprehensive character profile.
-  - Relations: Interactions with other characters and self-transformations provide depth and complexity.
-  - Transformations: Character changes over the narrative course redefine or reinforce their image.
+  - <mark style="background: #FFF3A3A6;">Repetition</mark>: Repeated character traits and behaviors solidify the character's image.
+  - <mark style="background: #FFF3A3A6;">Accumulation</mark>: Piling up of data and characteristics provides a comprehensive character profile.
+  - <mark style="background: #FFF3A3A6;">Relations</mark>: Interactions with other characters and self-transformations provide depth and complexity.
+  - <mark style="background: #FFF3A3A6;">Transformations</mark>: Character changes over the narrative course redefine or reinforce their image.
 
 - **Key Idea:**
   - The construction and transformation of characters in narratives involve a complex interplay of repetition, accumulation of traits, relational dynamics, and transformations. These elements, combined with reader's preconceptions and genre expectations, shape the multifaceted image of a character, highlighting the intricate process of character formation in storytelling.
 
-**Character Construction and Dynamics in Narrative Texts**
+|Term|Definition|
+|---|---|
+| accumulation             | In narratology, this refers to the layering or building up of narrative elements (such as character traits, motifs, or themes) over the course of the story, enhancing depth and complexity. |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| character construction   | The process of creating and developing a character in a narrative, involving the establishment of their personality, background, motivations, and other key traits.                          |
+| character development    | The evolution of a character over the course of a narrative, marked by changes in personality, understanding, or relationships, often driving the plot forward.                              |
+| character determination  | The method by which the nature, purpose, and role of a character are established in a narrative, influencing their actions and story arc.                                                    |
+| character image          | The mental picture or conceptualization of a character formed by the reader, shaped by the narrative's descriptive elements and the reader's own interpretation.                             |
+| character interpretation | The process by which readers understand and derive meaning from characters in a narrative, influenced by their own experiences, knowledge, and the text's presentation.                      |
+| character transformation | The significant change or development a character undergoes in a narrative, which can be in terms of personality, perspective, or circumstances.                                             |
+| descriptive elements     | The aspects of a narrative that provide detail and nuance to the story, such as imagery, language, and detail used to portray characters, settings, and events.                              |
+| genre expectations       | The set of conventions or typical features associated with a specific literary genre, which can shape how narratives are structured and characters are portrayed.                            |
+| relations                | In narratology, this refers to the connections and interactions between characters, events, and elements within a narrative, shaping the story’s progression and themes.                     |
+| repetition               | The recurring use of certain elements (such as phrases, motifs, or character traits) in a narrative, which can create emphasis, develop themes, or build rhythm.                             |
+| transformations          | The significant changes that occur within a narrative, affecting characters, settings, or the story itself, often driving the plot and thematic development.                                 |
+                                                                                                   |
+
+
+
+
+## **Character Construction and Dynamics in Narrative Texts**
 
 - **Relevance of Semantic Axes in Characterization**
-  - Selecting relevant semantic axes (contrasting pairs like rich-poor, man-woman) helps in analyzing character traits.
-  - This approach reveals ideological stances and allows for mapping similarities and oppositions among characters.
+  - Selecting relevant <mark style="background: #FFF3A3A6;">semantic axes</mark> (contrasting pairs like rich-poor, man-woman) helps in analyzing character traits.
+  - <mark style="background: #FFF3A3A6;">This approach reveals ideological stances and allows for mapping similarities and oppositions among characters.
+</mark>
 
 - **Impact of Determination on Character Traits**
-  - Social and family roles significantly influence the characteristics a character is endowed with.
-  - Traits are often predictable based on these roles, leading to stereotypical character portrayals.
+  - <mark style="background: #FFF3A3A6;">Social</mark> and <mark style="background: #FFF3A3A6;">family roles</mark> significantly influence the characteristics a character is endowed with.
+  - <mark style="background: #FFF3A3A6;">Traits</mark> are often predictable based on these roles, leading to stereotypical character portrayals.
 
 - **Complexity of Character Qualifications**
-  - Characters are often qualified through self-analysis, interactions with others, and narrator descriptions.
-  - Qualifications can be explicit (direct statements) or implicit (inferred from actions and situations).
+  - Characters are often qualified through <mark style="background: #FFF3A3A6;">self-analysis</mark>, <mark style="background: #FFF3A3A6;">interactions with others</mark>, and <mark style="background: #FFF3A3A6;">narrator descriptions</mark>.
+  - <mark style="background: #FFF3A3A6;">Qualifications</mark> can be <mark style="background: #FFF3A3A6;">explicit</mark> (direct statements) or <mark style="background: #FFF3A3A6;">implicit</mark> (inferred from actions and situations).
 
 - **Influence of Genre and Reader's Frame of Reference**
   - Genre conventions and the reader's cultural knowledge shape the interpretation of characters.
   - The reader's engagement with the text plays a key role in perceiving and understanding characters.
 
 - **Character Relationships and Transformations**
-  - The relationships between characters and their transformations throughout the narrative add depth and complexity.
+  - <mark style="background: #FFF3A3A6;">The relationships between characters and their transformations throughout the narrative add depth and complexity.</mark>
   - Changes in character traits or roles can significantly alter the narrative structure and outcome.
 
 - **Key Idea:**
-  - The construction and dynamics of characters in narrative texts are shaped by a combination of explicit and implicit qualifications, social roles, genre conventions, and reader interpretations. These elements collectively contribute to the creation of a multifaceted character image that evolves and interacts within the narrative framework.
+  - The construction and <mark style="background: #FFF3A3A6;">dynamics</mark> of characters in narrative texts are shaped by a combination of explicit and implicit qualifications, social roles, genre conventions, and reader interpretations. These elements collectively contribute to the creation of a multifaceted character image that evolves and interacts within the narrative framework.
 
 ![[Pasted image 20231211193557.png]]
 
+### Key Terms
+|Term|Definition|
+|---|---|
+|character dynamics|Refers to the changes and developments a character undergoes in a narrative, including shifts in personality, relationships, and roles.|
+|character family roles|The roles a character assumes within their family structure, such as parent, child, or sibling, influencing their interactions and development in the narrative.|
+|character qualifications|The attributes, skills, or competencies assigned to a character in a narrative, contributing to their abilities and roles within the story.|
+|character social roles|The roles a character plays in their social context, such as leader, outcast, or mentor, which shape their interactions and influence within the narrative.|
+|character traits|The distinguishing qualities or characteristics of a character, including personality, attitudes, and values, that define them and drive their actions in the story.|
+|explicit character qualifications|Directly stated attributes or skills of a character, clearly outlined by the narrator or other characters within the narrative.|
+|implicit qualifications|Attributes or skills of a character that are suggested or inferred through their actions, dialogue, or interactions, rather than being explicitly stated.|
+|interaction with others|The way in which a character engages and communicates with other characters in the narrative, shaping relationships and influencing the story's development.|
+|narrator descriptions|The portrayals and depictions of characters, settings, and events provided by the narrator, shaping the reader's understanding and interpretation of the narrative.|
+|self-analysis|The process by which a character reflects on their own thoughts, feelings, and motivations, often providing insight into their inner world and character development.|
+|semantic axes|The conceptual frameworks or thematic axes around which narratives are structured, providing deeper meaning and context to the characters and events.|
 
-**Analysis of Character Construction in Narrative: Eve and Albertine as Case Studies**
+
+
+
+## **Analysis of Character Construction in Narrative: Eve and Albertine as Case Studies**
 
 - **Misinterpretations of Biblical Characters: Eve's Case**
-  - Traditional interpretations often misrepresent Eve from the Genesis narrative, depicting her as inferior and wicked.
+  - <mark style="background: #FFF3A3A6;">Traditional interpretations</mark> often misrepresent Eve from the Genesis narrative, depicting her as inferior and wicked.
   - A closer analysis reveals Eve as a character integral to the story of creation, her actions stemming from a quest for wisdom rather than greed or lust.
-  - Eve’s character challenges the traditional binary oppositions and demonstrates the need for critical interpretation.
+  - Eve’s character challenges the <mark style="background: #FFF3A3A6;">traditional binary oppositions</mark> and demonstrates the need for critical interpretation.
 
 - **Character Construction Principles and Their Application**
   - Repetition, accumulation, relationships, and transformations are key principles in constructing a character's image.
@@ -1259,58 +1381,97 @@ This table organizes the terms alphabetically and provides definitions in the co
   - Characters are often predictable based on their social roles, actions, and relationships with others.
 
 - **Role of Frames of Reference and Ideological Positions**
-  - A reader’s frame of reference and the ideological positions of critics significantly influence character interpretation.
+  - A <mark style="background: #FFF3A3A6;">reader’s frame of reference</mark> and the <mark style="background: #FFF3A3A6;">ideological positions of critics</mark> significantly influence character interpretation.
   - The interaction between reader’s perception and the narrative’s presentation shapes the understanding of characters.
 
 - **Proust’s Albertine: A Postmodern Character Analysis**
-  - Albertine in Proust’s work exemplifies a character constructed through modernist and postmodernist techniques.
+  - Albertine in Proust’s work exemplifies a character constructed through <mark style="background: #FFF3A3A6;">modernist</mark> and <mark style="background: #FFF3A3A6;">postmodernist</mark> techniques.
   - Her depiction as a flat character underscores the narrative’s focus on the artificiality of character construction.
   - The narrative’s temporality and the impossibility of truly knowing others are central to Albertine's portrayal.
 
 - **Key Idea:**
-  - The construction of characters in narratives is a complex interplay of repetition, relationships, transformations, and ideological interpretations. A critical understanding of these aspects, as seen in the cases of Eve and Albertine, reveals the depth and multi-dimensionality of characters, transcending traditional binary oppositions and simplistic interpretations.
+  - The construction of characters in narratives is a complex interplay of repetition, relationships, transformations, and ideological interpretations. A critical understanding of these aspects, as seen in the cases of Eve and Albertine, reveals the depth and multi-dimensionality of characters, transcending traditional <mark style="background: #FFF3A3A6;">binary oppositions</mark> and simplistic interpretations.
 
-**The Dynamics of Space in Narrative: Understanding the Role of Perception and Objects**
+### Key Terms
+|Term|Definition|
+|---|---|
+|ideological position of critics|Refers to the set of beliefs, values, and ideological stances that critics bring to their analysis and interpretation of narratives, influencing their understanding and critiques.|
+|modernist character construction|A style of character development in modernist literature, characterized by complex, often fragmented depictions, focusing on inner experiences, psychological depth, and existential themes.|
+|postmodernist character construction|Character development in postmodernist literature, often marked by fragmentation, paradox, and a departure from traditional narrative structures, questioning the nature of reality and identity.|
+|reader's frame of reference|The personal, cultural, and intellectual context that a reader brings to a narrative, influencing their interpretation and understanding of the story.|
+|traditional binary oppositions|Established dichotomies in literature, such as good vs. evil or man vs. nature, used to structure narratives and develop themes, often challenged in contemporary literature.|
+|traditional interpretations|Conventional or widely accepted understandings and analyses of literature, often based on established critical frameworks and historical contexts.|
+
+
+## **The Dynamics of Space in Narrative: Understanding the Role of Perception and Objects**
 
 - **Space in Relation to Characters and Perception**
-  - Space in a narrative is connected to the characters and their sensory perceptions (sight, hearing, touch).
-  - Visual elements like shapes, colors, and sizes are perceived through sight, contributing to the spatial representation.
-  - Sounds within the story help establish spatial proximity or distance, while tactile sensations indicate the immediacy of space.
+  - <mark style="background: #FFF3A3A6;">Space</mark> in a narrative is connected to the characters and their <mark style="background: #FFF3A3A6;">sensory perceptions</mark> (<mark style="background: #FFF3A3A6;">sight</mark>, <mark style="background: #FFF3A3A6;">hearing</mark>, <mark style="background: #FFF3A3A6;">touch</mark>).
+  - <mark style="background: #FFF3A3A6;">Visual elements</mark> like <mark style="background: #FFF3A3A6;">shapes</mark>, <mark style="background: #FFF3A3A6;">colors</mark>, and <mark style="background: #FFF3A3A6;">sizes</mark> are perceived through sight, contributing to the <mark style="background: #FFF3A3A6;">spatial representation</mark>.
+  - <mark style="background: #FFF3A3A6;">Sounds</mark> within the story help establish <mark style="background: #FFF3A3A6;">spatial proximity</mark> or <mark style="background: #FFF3A3A6;">distance</mark>, while <mark style="background: #FFF3A3A6;">tactile sensations</mark> indicate the <mark style="background: #FFF3A3A6;">immediacy of space</mark>.
 
 - **Spatial Frames and Symbolic Function**
   - Spaces within a narrative can function as frames, creating symbolic meanings based on the character’s experience.
-  - Inner spaces may represent safety or confinement, while outer spaces can symbolize liberation or danger.
+  - <mark style="background: #FFF3A3A6;">Inner spaces</mark> may represent safety or confinement, while <mark style="background: #FFF3A3A6;">outer spaces</mark> can symbolize liberation or danger.
   - The symbolic meaning of space often hinges on the boundary that delimits it, offering a range of interpretive possibilities.
 
 - **Objects within Spatial Settings**
-  - Objects within a narrative space have spatial status, impacting the perception of the space's size and character.
-  - A room's appearance and perceived size can be influenced by the arrangement and characteristics of objects within it.
+  - <mark style="background: #FFF3A3A6;">Objects</mark> within a <mark style="background: #FFF3A3A6;">narrative space</mark> have <mark style="background: #FFF3A3A6;">spatial status</mark>, impacting the perception of the space's size and character.
+  - <mark style="background: #FFF3A3A6;">A room's appearance and perceived size can be influenced by the arrangement and characteristics of objects within it.</mark>
   - Detailed presentation of objects in some narratives contrasts with more vague or implicit spatial descriptions in others.
 
 - **Allegorical and Political Implications of Space**
-  - Spatial invasion, such as the metaphorical rape of women, can carry allegorical meanings related to destruction and violation.
-  - Narratives may use spatial elements allegorically to comment on political or social themes.
+  - <mark style="background: #FFF3A3A6;">Spatial invasion</mark>, such as the metaphorical rape of women, can carry allegorical meanings related to destruction and violation.
+  - Narratives may use <mark style="background: #FFF3A3A6;">spatial elements</mark> allegorically to comment on political or social themes.
 
 - **Key Idea:**
   - The concept of space in narrative is multifaceted, involving characters' sensory perceptions, the symbolic function of spatial frames, and the role of objects in shaping these spaces. Understanding the dynamics of space in storytelling enhances our comprehension of the narrative's thematic depth and allegorical potential, revealing the intricate interplay between characters, their environment, and the broader cultural or political implications.
 
+### Key Terms
+|Term|Definition|
+|---|---|
+|colors|In narratology, colors are used within the narrative space to convey mood, symbolize themes, or depict realities, influencing the reader's visual imagination.|
+|hearing|Refers to the narrative's use of sound descriptions, which can create an auditory experience for the reader, enhancing the story's realism and emotional impact.|
+|immediacy of space|The sense of closeness or direct engagement with the narrative's spatial setting, influencing the reader's immersion and emotional response to the story.|
+|inner spaces|The mental or psychological settings within a narrative, representing a character's thoughts, emotions, or inner conflicts, and often contrasting with outer physical spaces.|
+|narrative space|The environment or setting within which the narrative unfolds, encompassing both physical locations and abstract, conceptual spaces.|
+|objects|Items within the narrative space that can have practical, symbolic, or thematic significance, contributing to the development of the story and its characters.|
+|outer spaces|The physical settings or environments in a narrative, ranging from intimate settings to expansive landscapes, which frame the action and influence the story's atmosphere.|
+|sensory perceptions|The narrative's depiction of sensations experienced by characters, such as sight, sound, and touch, which enhance the reader's engagement and empathy.|
+|shapes|Geometric forms used in narrative descriptions to create visual imagery, set the scene, or symbolize certain themes or ideas.|
+|sight|The use of visual descriptions in a narrative to create imagery, set scenes, and convey information about characters and settings.|
+|sizes|The dimensions or scale of objects, characters, or spaces in a narrative, used to create perspective, highlight contrasts, or emphasize certain elements.|
+|sound|The auditory elements in a narrative, such as dialogue, environmental sounds, or silence, which contribute to the atmosphere and realism of the story.|
+|spatial distance|The depiction of physical or emotional separation in a narrative, which can symbolize isolation, create tension, or emphasize differences between characters or elements.|
+|spatial elements|Components of a narrative that relate to the arrangement, description, and function of spaces within the story, contributing to its atmosphere and thematic depth.|
+|spatial frames|The boundaries or contexts within which spatial elements in a narrative are presented, shaping the reader's understanding of the setting and action.|
+|spatial invasion|A narrative element where a character or force disrupts the established spatial order, often creating conflict, tension, or a shift in the story's dynamics.|
+|spatial proximity|The closeness or nearness of characters, objects, or settings in a narrative, which can influence relationships, tensions, and the flow of the story.|
+|spatial representation|The way spaces and environments are depicted in a narrative, influencing the reader's visualization and understanding of the story's setting and context.|
+|spatial status|The relative importance or role of a particular space within the narrative, which can influence the plot, character development, and thematic exploration.|
+|symbolic function|The deeper meaning or significance attached to spatial elements, objects, or actions in a narrative, often contributing to the story's thematic depth.|
+|tactile sensations|The descriptions of physical sensations of touch in a narrative, enhancing the realism and sensory engagement of the reader with the story's environment.|
+|touch|The narrative depiction of physical contact or sensation, contributing to the sensory experience of the story and the emotional connection to characters.|
+|visual elements|The components of a narrative that are related to sight, such as imagery, descriptions, and symbols, used to create vivid scenes and enhance storytelling.|
 
-**Exploring Space in Narrative: From Perception to Function**
+
+
+## **Exploring Space in Narrative: From Perception to Function**
 
 - **Spatial Determination and Frames**
   - Space in narrative is influenced by the reader's frame of reference, with familiar settings invoking more specific images and meanings.
-  - Spaces function as frames, either being thematized as objects of presentation or serving as backdrops for action.
-  - Inner and outer spaces can be symbolic, representing safety, confinement, liberation, or danger.
+  - <mark style="background: #FFF3A3A6;">Spaces function as frames, either being thematized as objects of presentation or serving as backdrops for action.</mark>
+<mark style="background: #FFF3A3A6;">  - Inner and outer spaces can be symbolic, representing safety, confinement, liberation, or danger.</mark>
 
 - **Spatial Dynamics and Movement**
-  - Space in storytelling can be steady or dynamic, with the latter involving characters moving through various spaces.
-  - Movement through space can symbolize transition, personal growth, or be aimless, serving only to present space.
-  - Circular movements can portray space as a labyrinth, reflecting themes of confinement or unsafety.
+  - Space in storytelling can be steady or dynamic, with <mark style="background: #FFF3A3A6;">the latter involving characters moving through various spaces.</mark>
+  - <mark style="background: #FFF3A3A6;">Movement through space can symbolize transition, personal growth, or be aimless, serving only to present space.</mark>
+  - <mark style="background: #FFF3A3A6;">Circular movements can portray space as a labyrinth, reflecting themes of confinement or unsafety.</mark>
 
 - **Space and Characters' Experiences**
-  - The experience of space is subjective, depending on how characters perceive and interact with their environment.
-  - Space can be related to memory, becoming a site where historical or personal narratives are embedded.
-  - Spatial experiences can be gender-specific, with traditional narratives often depicting men as travelers and women as stationary.
+  - <mark style="background: #FFF3A3A6;">The experience of space is subjective</mark>, depending on how characters perceive and interact with their environment.
+  - <mark style="background: #FFF3A3A6;">Space can be related to memory</mark>, becoming a site where historical or personal narratives are embedded.
+  - <mark style="background: #FFF3A3A6;">Spatial experiences</mark> can be gender-specific, with traditional narratives often depicting <mark style="background: #FFF3A3A6;">men as travelers and women as stationary.</mark>
 
 - **Space in Specific Narratives**
   - The novel "Migas de pan" uses space to build its story, focusing on the family's waiting and the son's relationship with the house.
@@ -1318,45 +1479,64 @@ This table organizes the terms alphabetically and provides definitions in the co
   - The novel's approach to space highlights the importance of words and memory in understanding and healing the past.
 
 - **Key Idea:**
-  - In narrative, space is not just a physical setting but a dynamic element that interacts with characters and themes. It can be a frame for action, a thematic focus, or a symbol of deeper meanings. Understanding the role of space in storytelling reveals its capacity to shape narratives, reflect cultural and historical contexts, and influence character experiences, offering a deeper insight into the complex fabric of a narrative's world.
+  - In narrative, <mark style="background: #FFF3A3A6;">space is not just a physical setting but a dynamic element that interacts with characters and themes.</mark> It can be a frame for action, a thematic focus, or a symbol of deeper meanings. Understanding the role of space in storytelling reveals its capacity to shape narratives, reflect cultural and historical contexts, and influence character experiences, offering a deeper insight into the complex fabric of a narrative's world.
 
 
-**The Interplay of Space, Character, and Focalization in Narrative Structure**
+### Key Terms
+|Term|Definition|
+|---|---|
+|spatial determination|Refers to the way in which space is defined or characterized in a narrative, including how specific locations and environments are described and their significance to the story.|
+|spatial dynamics|The interplay and evolution of spatial elements within a narrative, including how changes in space affect character interactions, plot development, and thematic expression.|
+|spatial experience|The way characters and, by extension, readers perceive and interact with the spatial elements of the narrative, contributing to the overall immersion and understanding of the story.|
+|spatial frame|The conceptual or physical boundary within which spatial elements of a narrative are contained, shaping the reader's perception of the setting and events.|
+|spatial movement|The description and portrayal of characters or objects moving through space within a narrative, which can influence the pace, mood, and progression of the story.|
+
+## **The Interplay of Space, Character, and Focalization in Narrative Structure**
 
 1. **Spatial and Event Relationships:**
    - Stereotypical combinations of space and event in literature (e.g., love declarations on balconies, ghostly appearances in ruins).
    - Medieval and later literature often feature specific spaces for specific events (e.g., 'locus amoenus' in medieval love scenes).
 
 2. **Space and Character Dynamics:**
-   - The influence of living space on a character's lifestyle and possibilities, as seen in naturalistic novels.
+   - The influence of <mark style="background: #FFF3A3A6;">living space</mark> on a character's lifestyle and possibilities, as seen in naturalistic novels.
    - Example: "A Portrait of the Artist as a Young Man" shows Stephen Dedalus shaped by his impoverished environment.
 
 3. **Spatial Influence on Mood:**
-   - Characters' moods influenced by their spatial position (e.g., high spaces uplifting spirits).
+   - Characters' moods influenced by their <mark style="background: #FFF3A3A6;">spatial position</mark> (e.g., high spaces uplifting spirits).
    - Inaccessibility of a space affecting characters negatively, as seen in Kafka’s "The Castle."
 
 4. **Narrative Rhythm and Space-Time Relationship:**
-   - Detailed spatial descriptions disrupt time sequences in narration.
+   - Detailed <mark style="background: #FFF3A3A6;">spatial descriptions</mark> disrupt <mark style="background: #FFF3A3A6;">time sequences</mark> in narration.
    - Spatial indications as iterative, emphasizing the stability of setting against the transience of events.
 
 5. **Information Conveyance through Space:**
    - Implicit and explicit presentations of space in narratives.
-   - The effect of spatial information on reader's perception and the narrative’s depth.
+   - The effect of <mark style="background: #FFF3A3A6;">spatial information</mark> on reader's perception and the narrative’s depth.
 
 6. **Focalization - Vision and Perception:**
    - The inherent subjectivity in storytelling, influenced by the narrator’s perspective and experiences.
    - Focalization as the relationship between the narrative vision and the perceived events.
 
 **Key Idea:**
-The intricate interplay of space, character, and focalization in literature profoundly influences the narrative structure, mood, and reader’s perception, emphasizing the importance of the setting and viewpoint in shaping a story’s essence.
+<mark style="background: #FFF3A3A6;">The intricate interplay of space, character, and focalization</mark> in literature profoundly influences the narrative structure, mood, and reader’s perception, emphasizing the importance of the setting and viewpoint in shaping a story’s essence.
+
+### Key Terms
+|Term|Definition|
+|---|---|
+|living space|In narratology, this refers to the depiction of spaces that are inhabited or used by characters, contributing to the setting's realism and affecting character interactions and experiences.|
+|space and event relationship|The interconnection between spatial settings and narrative events in a story, where the location can influence, reflect, or enhance the action and character interactions.|
+|spatial description|The narrative detailing of a space or setting, including its physical characteristics, atmosphere, and significance, contributing to the reader's visualization and understanding of the story.|
+|spatial information|The details provided in a narrative about the location, layout, and characteristics of spaces, aiding in the creation of a vivid and coherent setting for the story.|
+|spatial position|The specific location or place of characters or objects within the narrative's setting, impacting the story's dynamics, character interactions, and plot development.|
+|time sequence|The order and progression of events in a narrative as related to time, which can be linear, nonlinear, or fragmented, playing a crucial role in the structure and pacing of the story.|
 
 
 ![[Pasted image 20231211194241.png]]
 
-**Understanding Focalization in Narratives**
+## **Understanding Focalization in Narratives**
 
 1. **Concept of Focalization:**
-   - Focalization is the relationship between the observer and what is observed in a narrative.
+   - <mark style="background: #FFF3A3A6;">Focalization</mark> is the relationship between the observer and what is observed in a narrative.
    - It is a key element in understanding and interpreting narratives, both textual and visual.
 
 2. **Visual Example - Arjuna’s Penance:**
@@ -1364,51 +1544,68 @@ The intricate interplay of space, character, and focalization in literature prof
    - Disconnected elements become a coherent narrative through the viewer's interpretation.
 
 3. **Sequential and Causal Relationships:**
-   - Events in a narrative are perceived sequentially and causally.
+   - <mark style="background: #FFF3A3A6;">Events</mark> in a narrative are perceived <mark style="background: #FFF3A3A6;">sequentially</mark> and <mark style="background: #FFF3A3A6;">causally</mark>.
    - Perception plays a vital role in forming the narrative’s sequence and meaning.
 
 4. **The Role of Perception:**
-   - Perception dictates how events are linked and understood in a story.
-   - Every act of perception (seeing) in a narrative is an act of focalization.
+   - <mark style="background: #FFF3A3A6;">Perception</mark> dictates how events are linked and understood in a story.
+   <mark style="background: #FFF3A3A6;">- Every act of perception (seeing) in a narrative is an act of focalization.</mark>
 
 5. **Types of Focalization:**
-   - Internal Focalization (CF): When the perspective is from within a character.
-   - External Focalization (EF): When an anonymous, external agent observes the story.
+   - <mark style="background: #FFF3A3A6;">Internal Focalization</mark> (CF): When the perspective is from within a character.
+   - <mark style="background: #FFF3A3A6;">External Focalization</mark> (EF): When an anonymous, external agent observes the story.
 
-6. **Character-Bound Focalizer (CF):**
+6. **<mark style="background: #FFF3A3A6;">Character-Bound Focalizer</mark> (CF):**
    - Provides a biased and limited view based on the character’s perspective.
    - Example: Henry James’s "What Maisie Knew" shows events through a child's limited understanding.
 
 7. **Shifts in Focalization:**
    - Narratives often shift between internal and external focalizers.
-   - This technique can offer varied perspectives and deepen the story’s complexity.
+   - <mark style="background: #FFF3A3A6;">This technique can offer varied perspectives and deepen the story’s complexity.</mark>
 
 8. **Effects of Different Focalizers:**
    - The choice of focalizer influences the reader's interpretation and understanding.
    - No narrative is completely objective, as all stories are influenced by the focalizer’s perspective.
 
 **Key Idea:**
-Focalization is a critical element in narrative construction, shaping the reader's perception and understanding through the interplay of observer and observed, internal and external viewpoints, and the sequential and causal relationships of events.
+Focalization is a critical element in narrative construction, shaping the reader's perception and understanding through the interplay of <mark style="background: #FFF3A3A6;">observer</mark> and <mark style="background: #FFF3A3A6;">observed</mark>, <mark style="background: #FFF3A3A6;">internal</mark> and <mark style="background: #FFF3A3A6;">external</mark> viewpoints, and the sequential and causal relationships of events.
 
 
-**Exploring the Dynamics of Focalization in Narratives**
+### Key Terms
+|Term|Definition|
+|---|---|
+|causal relationship|In narratology, this refers to the connection between events where one event causes or influences another, contributing to the narrative's logic and progression.|
+|character-bound focalizer|A perspective in a narrative that is tied to a specific character, presenting events and experiences from their unique viewpoint and understanding.|
+|events|Significant actions or occurrences within a narrative that drive the plot forward, shape character development, and contribute to the thematic structure.|
+|external focalization|A narrative perspective where the focalization is outside any of the characters, offering an objective or detached viewpoint of events and characters.|
+|external viewpoint|A perspective in a narrative that is outside the minds of the characters, providing a broader, often more objective view of events and settings.|
+|focalization|The perspective through which a narrative is presented, determining how information is conveyed and perceived by the reader.|
+|internal focalization|Focalization that occurs within the mind of a character, providing a subjective view of events and insights into their thoughts and feelings.|
+|internal viewpoint|A narrative perspective that is situated within the mind of a character, offering a subjective and intimate view of their experiences and perceptions.|
+|observer|In narratology, this refers to a character or narrative voice that observes and recounts events, but may not be directly involved in the action.|
+|observed|The character or element within a narrative that is being watched or recounted by the observer, often central to the unfolding of events.|
+|perception|The way characters in a narrative perceive and interpret events and other characters, which can be influenced by their personal experiences, biases, and emotions.|
+|sequential relationship|The linear or ordered connection between events in a narrative, with one event following another in a logical sequence, contributing to plot development.|
+
+
+## **Exploring the Dynamics of Focalization in Narratives**
 
 1. **Concept of Focalized Object:**
-   - Focalization involves a focalizer (observer) and a focalized object (subject of observation).
-   - The interaction between focalizer and focalized object shapes the narrative’s perspective.
+   - Focalization involves a <mark style="background: #FFF3A3A6;">focalizer</mark> (observer) and a <mark style="background: #FFF3A3A6;">focalized object</mark> (subject of observation).
+   - <mark style="background: #FFF3A3A6;">The interaction between focalizer and focalized object shapes the narrative’s perspective.</mark>
 
 2. **Impact of Focalizer-Object Relationship:**
    - This relationship influences the reader's perception of characters and events.
    - Example: In "Of Old People," Harold and Lot act as focalizers, affecting our view of the Indies and Mama Ottilie.
 
 3. **Questions Guiding Focalization Analysis:**
-   - What is being focalized?
-   - How is it being focalized (attitude/viewpoint)?
-   - Who is the focalizer?
+   - <mark style="background: #FFF3A3A6;">What is being focalized?</mark>
+   - <mark style="background: #FFF3A3A6;">How is it being focalized (attitude/viewpoint)?</mark>
+   - <mark style="background: #FFF3A3A6;">Who is the focalizer?</mark>
 
 4. **Range of Focalized Elements:**
    - Both characters and non-character elements like landscapes or events can be focalized.
-   - The focalizer's interpretation significantly influences the narrative.
+   - The<mark style="background: #FFF3A3A6;"> focalizer's interpretation</mark> significantly influences the narrative.
 
 5. **Descriptive Focalization Examples:**
    - Two Dutch novel excerpts demonstrate different approaches to focalization.
@@ -1420,33 +1617,48 @@ Focalization is a critical element in narrative construction, shaping the reader
    - External Focalization (EF): From an outside observer, potentially providing a broader perspective.
 
 7. **Internal Structure and Focalizer's Perspective:**
-   - Descriptions give insights into the focalizer’s perceptions and biases.
-   - The nature of the focalized object (real or imagined) affects the narrative.
+   - Descriptions give insights into the <mark style="background: #FFF3A3A6;">focalizer’s perceptions</mark> and <mark style="background: #FFF3A3A6;">biases</mark>.
+   -<mark style="background: #FFF3A3A6;"> The nature of the focalized object (real or imagined) affects the narrative.</mark>
 
 8. **Perceptible vs. Non-Perceptible Objects:**
-   - Focalization can involve externally observable objects or internal experiences like dreams.
+   - Focalization can involve <mark style="background: #FFF3A3A6;">externally observable objects</mark> or <mark style="background: #FFF3A3A6;">internal experiences</mark> like dreams.
    - The nature of the focalized object affects how the narrative is understood.
 
 **Key Idea:**
 The dynamics of focalization in narratives, encompassing the relationship between focalizer and focalized object, play a crucial role in shaping the reader's perception, with varying degrees of subjectivity and interpretation coloring the narrative's perspective and depth.
 
+### Key Terms
 
-**Complexities of Focalization in Narrative Analysis**
+|Term|Definition|
+|---|---|
+|externally observable objects|Objects in a narrative that can be seen or perceived externally by characters or the narrator, contributing to the physical setting and plot development.|
+|focalized object|The element or character in a narrative that is being observed or perceived by the focalizer, forming a key part of the narrative perspective.|
+|focalizer|The agent, either a character or narrative voice, through which the perspective of the narrative is presented, influencing how events and characters are perceived.|
+|focalizer-object relationship|The connection between the focalizer and the focalized object in a narrative, determining how the object is perceived, interpreted, and presented in the story.|
+|focalizer's bias|The preconceptions or prejudices of the focalizer that affect their perception and interpretation of events and characters in the narrative.|
+|focalizer's interpretation|The understanding or analysis of events, characters, or situations by the focalizer, based on their perspective, knowledge, and biases.|
+|internal experiences|The subjective thoughts, feelings, and mental states of characters in a narrative, often accessed through internal focalization and contributing to character development.|
+|non-perceptible objects|Elements in a narrative that cannot be directly observed or perceived by the senses, such as thoughts, emotions, or abstract concepts.|
+|perceptible objects|Objects or elements in a narrative that can be directly seen, heard, or otherwise sensed by characters, contributing to the tangible aspects of the story's setting and atmosphere.|
+
+
+
+## **Complexities of Focalization in Narrative Analysis**
 
 1. **Perceptibility in Focalization:**
    - Focalization can involve perceptible (p) and non-perceptible (np) objects.
-   - The distinction helps understand the power dynamics between characters in a narrative.
+   - <mark style="background: #FFF3A3A6;">The distinction helps understand the power dynamics between characters in a narrative.</mark>
 
 2. **Manipulation through Focalization:**
    - Focalization can manipulate readers' perceptions of characters and events.
-   - The narrative can provide insights into a character’s thoughts that other characters can't access.
+   - <mark style="background: #FFF3A3A6;">The narrative can provide insights into a character’s thoughts that other characters can't access.</mark>
 
 3. **Levels of Focalization:**
-   - Focalization occurs at multiple levels, indicating the depth and complexity of perception.
-   - Embedded focalization allows for nuanced perspectives within the narrative.
+   - <mark style="background: #FFF3A3A6;">Focalization occurs at multiple levels, indicating the depth and complexity of perception.</mark>
+   - <mark style="background: #FFF3A3A6;">Embedded focalization</mark> allows for nuanced perspectives within the narrative.
 
 4. **Attributive Signs and Shifts in Focalization:**
-   - Attributive signs indicate shifts between focalization levels.
+   - <mark style="background: #FFF3A3A6;">Attributive signs</mark> indicate shifts between <mark style="background: #FFF3A3A6;">focalization levels</mark>.
    - Verbs like “see” or “hear” often mark these transitions.
 
 5. **First-person vs. Third-person Narratives:**
@@ -1458,7 +1670,7 @@ The dynamics of focalization in narratives, encompassing the relationship betwee
    - This shift is subtly indicated, creating a nuanced narrative structure.
 
 7. **Free Indirect Focalization:**
-   - Similar to free indirect speech, it allows the narrative to closely align with a character's perception.
+   - Similar to <mark style="background: #FFF3A3A6;">free indirect speech</mark>, it allows the narrative to closely align with a character's perception.
    - Provides a blend of external and internal perspectives.
 
 8. **Analyzing Focalization in Narratives:**
@@ -1469,14 +1681,25 @@ The dynamics of focalization in narratives, encompassing the relationship betwee
 Focalization in narratives is a multi-layered and complex concept, involving perceptible and non-perceptible elements and multiple levels of perception. It significantly influences the reader's understanding and interpretation of the story, manipulating perceptions of character dynamics and underlying themes.
 
 
-**Intricacies of Focalization in Narrative Analysis**
+### Key Terms
+|Term|Definition|
+|---|---|
+|attributive signals|Linguistic cues or markers in a narrative that indicate a shift in focalization, perspective, or voice, such as changes in tense, pronouns, or narrative style.|
+|embedded focalization|A narrative technique where one character's perspective (the focalizer) is nested within the perspective of another, creating a layered and complex viewpoint.|
+|focalization levels|The different layers or degrees of focalization within a narrative, ranging from external, objective viewpoints to internal, subjective perspectives.|
+|free indirect focalization|A narrative technique that blends the narrator's voice with the thoughts and speech of characters, providing a hybrid perspective that offers both internal and external viewpoints.|
+|free indirect speech|A style of writing that merges the narrator's discourse with that of the characters, blurring the line between direct and indirect speech to convey characters' thoughts and speech indirectly.|
+
+
+
+## **Intricacies of Focalization in Narrative Analysis**
 
 1. **Double and Ambiguous Focalization:**
-   - Focalization can be double (EF1+CF2) or ambiguous (EF1/CF2), creating complex narrative perspectives.
+   - Focalization can be <mark style="background: #FFF3A3A6;">double</mark> (EF1+CF2) or <mark style="background: #FFF3A3A6;">ambiguous</mark> (EF1/CF2), creating complex narrative perspectives.
    - This is exemplified in Chekhov’s “Lady with Lapdog,” where focalization shifts subtly between external and internal viewpoints.
 
 2. **Memory as a Form of Focalization:**
-   - Memory acts as a narrative device, offering a vision of the past within the present.
+   - <mark style="background: #FFF3A3A6;">Memory</mark> acts as a narrative device, offering a vision of the past within the present.
    - It can be unreliable and shaped by the character’s current perspective and context.
 
 3. **Mapping through Memory:**
@@ -1484,15 +1707,15 @@ Focalization in narratives is a multi-layered and complex concept, involving per
    - It brings a historical and lived-in quality to spaces, as seen in Patrick Chamoiseau’s "Texaco."
 
 4. **Spatializing Memory:**
-   - Contrasts destructive, monumental focalization with irradiation that embodies space from within.
+   - Contrasts <mark style="background: #FFF3A3A6;">destructive</mark>, <mark style="background: #FFF3A3A6;">monumental</mark> focalization with irradiation that embodies space from within.
    - This approach to space and memory is crucial in understanding narratives with complex character, time, and space relationships.
 
 5. **Levels of Focalization in Classic Novels:**
-   - Even classic novels like Boleslaw Prus’s "The Doll" utilize complex focalization structures.
+   - Even classic novels like Boleslaw Prus’s "The Doll" utilize <mark style="background: #FFF3A3A6;">complex focalization structures</mark>.
    - The novel demonstrates emotional and commercial interests intertwined in a changing society.
 
 6. **Retrospective Focalization:**
-   - Shifts from present to retrospective focalization allow deeper character insights.
+   - Shifts from <mark style="background: #FFF3A3A6;">present</mark> to <mark style="background: #FFF3A3A6;">retrospective</mark> focalization allow deeper character insights.
    - This technique is used to explore the protagonist’s perceptions and emotions in "The Doll."
 
 7. **Societal Commentary through Focalization:**
@@ -1506,28 +1729,30 @@ Focalization in narratives is a multi-layered and complex concept, involving per
 **Key Idea:**
 Focalization, with its layers and complexities, is a fundamental tool in narrative analysis, enriching the reader's understanding of characters, memories, societal contexts, and the interplay of past and present. It is instrumental in revealing the nuanced depths of literary works, from modern narratives to classic novels.
 
+### Key Terms
 
 
-**Exploring Suspense and Focalization in Narratives**
+
+## **Exploring Suspense and Focalization in Narratives**
 
 1. **Suspense as Narrative Rhetoric:**
    - Defined as a technique where questions are raised and answers delayed.
    - It is analyzed in terms of focalization, with various forms based on the knowledge of the reader and characters.
 
 2. **Generating Suspense through Focalization:**
-   - Suspense arises from manipulating the image presented to the reader by the focalizer.
-   - Can be created by announcing future events, withholding information, or manipulating the narrative view.
+   - <mark style="background: #FFF3A3A6;">Suspense</mark> arises from manipulating the image presented to the reader by the focalizer.
+   - Can be created by <mark style="background: #FFF3A3A6;">announcing future events</mark>, <mark style="background: #FFF3A3A6;">withholding information</mark>, or <mark style="background: #FFF3A3A6;">manipulating the narrative view</mark>.
 
 3. **Forms of Suspense:**
    - Suspense varies based on what the reader and characters know:
-     - Both reader and character in the dark (e.g., detective stories).
-     - Reader knows, character does not (e.g., threat situations).
-     - Character knows, reader does not (e.g., secrets revealed gradually).
-     - Both reader and character know (no suspense).
+     - Both reader and character in the dark (e.g., <mark style="background: #FFF3A3A6;">detective stories</mark>).
+     - Reader knows, character does not (e.g., <mark style="background: #FFF3A3A6;">threat situations</mark>).
+     - Character knows, reader does not (e.g., <mark style="background: #FFF3A3A6;">secrets revealed gradually</mark>).
+     - Both reader and character know (<mark style="background: #FFF3A3A6;">no suspense</mark>).
 
 4. **Role of Focalization in Suspense:**
-   - Focalization determines the completeness of the image perceived by the reader.
-   - The relationship between the focalizer and the information shapes the narrative suspense.
+<mark style="background: #FFF3A3A6;">   - Focalization determines the completeness of the image perceived by the reader.</mark>
+<mark style="background: #FFF3A3A6;">   - The relationship between the focalizer and the information shapes the narrative suspense.</mark>
 
 5. **Narratological Aspects of Novels:**
    - Traditional theories of the novel have often blurred the distinction between different narrative aspects.
@@ -1542,18 +1767,36 @@ Focalization, with its layers and complexities, is a fundamental tool in narrati
    - It's important in revealing hidden ideologies, especially in media and literary analyses.
 
 8. **Cognitive Narratology and Fiction-Reality Relationship:**
-   - Cognitive narratology contributes to understanding narrative sophistication.
+   - <mark style="background: #FFF3A3A6;">Cognitive narratology</mark> contributes to understanding narrative sophistication.
    - The relationship between fiction and reality is crucial for critique rather than just for realism.
 
 **Key Idea:**
 Suspense in narratives, intricately linked with focalization, serves as a powerful rhetorical device, shaping the reader's engagement and understanding. The manipulation of information through focalization not only generates suspense but also unifies various narrative elements, revealing deeper layers of meaning and ideology within the story.
 
 
-**Understanding Genette’s Narrative Terms and Key Narratological Concepts**
+### Key Terms
+|Term|Definition|
+|---|---|
+|announcing future events|A narrative technique where upcoming events or outcomes are revealed to the reader beforehand, often creating anticipation or dramatic irony.|
+|cognitive narratology|An approach within narratology that focuses on how narratives are structured and understood based on cognitive processes, including perception, memory, and interpretation.|
+|detective stories|A genre of narrative focused on the investigation of a mystery, typically involving a crime, where suspense is built through the gradual uncovering of information.|
+|forms of suspense|The various methods and structures used in narratives to create suspense, such as withholding information, revealing secrets, or creating threat situations.|
+|manipulation focalization|The deliberate shaping or alteration of the focalization in a narrative to control how information is presented to and perceived by the reader.|
+|manipulating the narrative view|The technique of strategically controlling the reader's perspective or understanding of the narrative to create suspense, surprise, or a specific emotional response.|
+|narrative rhetoric|The use of specific narrative techniques and devices to persuade, engage, or affect the reader, including the way information is presented and structured in the story.|
+|no suspense|A narrative style or situation where there is an absence of suspense, often because outcomes are clear or expectations are not subverted.|
+|secrets revealed gradually|A narrative strategy where key information or plot elements are slowly disclosed over the course of the story, often enhancing suspense and engagement.|
+|suspense|A feeling of excitement, curiosity, or expectation about what will happen next in a narrative, often created by withholding information or creating uncertain situations.|
+|threat situations|Scenarios within a narrative that create a sense of danger or risk for the characters, contributing to the tension and suspense of the story.|
+|withholding information|A technique in storytelling where certain key details are deliberately kept from the reader, creating mystery, suspense, or surprise.|
+
+
+
+## **Understanding Genette’s Narrative Terms and Key Narratological Concepts**
 
 1. **Genette's Terminology:**
    - Constructed systematically using prepositions and word stems.
-   - For example, “paralips” (leaving something out on the side) and “paraleps” (adding something to the side).
+   - For example, “<mark style="background: #FFF3A3A6;">paralips</mark>” (leaving something out on the side) and “<mark style="background: #FFF3A3A6;">paraleps</mark>” (adding something to the side).
    - Complete time theory detailed in Genette’s work (referenced in English translation, 1980).
 
 2. **Debate on Fabula and Story:**
@@ -1569,7 +1812,7 @@ Suspense in narratives, intricately linked with focalization, serves as a powerf
    - Bachelard’s "Poetics of Space" (1957) and Uspenskij (1973) provide philosophical insights into narrative space.
 
 5. **Narratological Analysis of Space/Place:**
-   - The distinction between place and space in narratives varies.
+   - The distinction between <mark style="background: #FFF3A3A6;">place</mark> and <mark style="background: #FFF3A3A6;">space</mark> in narratives varies.
    - In this context, place equates to location, while space gives the specific look and feel.
 
 6. **Narratology and Focalization:**
@@ -1588,7 +1831,7 @@ Suspense in narratives, intricately linked with focalization, serves as a powerf
 Narratological analysis encompasses a broad spectrum of concepts and terminologies, with key contributions from theorists like Genette, Hamon, and Booth. Understanding these concepts, particularly focalization and the distinction between fabula and story, is crucial for a deeper analysis of narratives, character construction, and the interplay of memory and space in literature.
 
 
-
+### Key Terms
 
 
 # 3 Fabula: Elements
@@ -1600,28 +1843,28 @@ Narratological analysis encompasses a broad spectrum of concepts and terminologi
    - Applicable to other forms like film, theatre, and news reports.
 
 2. **Elements of Fabula:**
-   - Divided into stable elements (objects) and changeable elements (processes).
+   - Divided into stable <mark style="background: #FFF3A3A6;">elements (objects)</mark> and changeable <mark style="background: #FFF3A3A6;">elements (processes)</mark>.
    - Both objects and processes are essential for constructing a fabula.
 
 3. **Structuralist Approach:**
    - Maintains a structuralist approach for clarity in analyzing narrative elements.
 
 4. **Analyzing Events in Fabula:**
-   - Events are transitions caused or experienced by actors.
+   - <mark style="background: #FFF3A3A6;">Events are transitions caused or experienced by actors.</mark>
    - Analysis includes examining sentences for processes, alterations, and implications.
 
 5. **Criteria for Event Selection:**
-   - Change: Differentiating between condition and alteration.
-   - Choice: Determining functional events based on choices influencing fabula.
-   - Confrontation: Assessing the interaction between two actors or groups.
+   - <mark style="background: #FFF3A3A6;">Change</mark>: Differentiating between <mark style="background: #FFF3A3A6;">condition</mark> and <mark style="background: #FFF3A3A6;">alteration</mark>.
+   - <mark style="background: #FFF3A3A6;">Choice</mark>: Determining <mark style="background: #FFF3A3A6;">functional</mark> events based on choices influencing fabula.
+   - <mark style="background: #FFF3A3A6;">Confrontation</mark>: Assessing the interaction between two actors or groups.
 
 6. **Functional vs. Non-Functional Events:**
-   - Functional events significantly influence the narrative’s progression.
-   - Non-functional events may illustrate character traits or settings without affecting the fabula’s course.
+   - <mark style="background: #FFF3A3A6;">Functional events</mark> significantly influence the narrative’s progression.
+   - <mark style="background: #FFF3A3A6;">Non-functional events</mark> may illustrate character traits or settings without affecting the fabula’s course.
 
 7. **Linguistic Form and Event Analysis:**
-   - The linguistic form of information can indicate events but is not always decisive.
-   - Verbs of action can be used to make implicit relationships explicit.
+   - The <mark style="background: #FFF3A3A6;">linguistic form</mark> of information can indicate events but is not always decisive.
+   - <mark style="background: #FFF3A3A6;">Verbs of action</mark> can be used to make implicit relationships explicit.
 
 8. **Contextual Dependence of Events:**
    - The relevance of an event depends on its context within the fabula.
@@ -1632,7 +1875,27 @@ In narrative analysis, the structure of a fabula reflects both sentence construc
 
 ![[Pasted image 20231211194838.png]]
 
-**Structural Dynamics of Fabula in Narrative Texts**
+### Key Terms
+|Term|Definition|
+|---|---|
+|alteration|In narratology, this refers to the modification or change in the state of affairs within a narrative, often significant for character development or plot progression.|
+|change|A fundamental element in narratives, denoting the transition from one state to another within the story's events, characters, or settings.|
+|changeable process elements|Aspects of a narrative that are dynamic and evolve over the course of the story, such as actions, decisions, and events, contributing to the narrative's development.|
+|choice|The act of deciding between different options or paths in a narrative, often pivotal for character development and plot direction.|
+|confrontation|A key narrative element where characters or forces within the story come into conflict, driving the plot and often leading to crucial developments or changes.|
+|condition|The circumstances or state of affairs in a narrative that set the context for events and character actions, influencing the story's direction and meaning.|
+|event|An occurrence or incident within a narrative that is significant to the plot or character development, often marking a change or progression in the story.|
+|fabula|The chronological sequence of events in a story, as they happen in their 'real-world' order, distinct from the order and manner in which they are presented in the narrative (syuzhet).|
+|functional event|An event in a narrative that plays a significant role in advancing the plot or developing characters, integral to the structure and meaning of the story.|
+|linguistic form|The specific language and style used in a narrative, including the choice of words, sentence structure, and verbal tenses, shaping the story's presentation and impact.|
+|non-functional event|An event in a narrative that does not significantly influence the plot or character development, often serving as background or additional detail.|
+|stable object elements|Elements in a narrative that remain constant or unchanging, such as settings or specific character traits, providing a backdrop for the dynamic aspects of the story.|
+|verbs of action|Words in a narrative that denote action or movement, crucial for driving the plot forward and depicting events and character interactions.|
+
+
+
+
+## **Structural Dynamics of Fabula in Narrative Texts**
 
 1. **Defining Fabula:**
    - Fabula is a series of logically and chronologically related events in a narrative.
@@ -1643,37 +1906,53 @@ In narrative analysis, the structure of a fabula reflects both sentence construc
    - The fit between a model and a fabula highlights specific structural characteristics.
 
 3. **Bremond's Narrative Model:**
-   - Proposes that fabulas follow human thought and action, governed by logical and conventional rules.
-   - Distinguishes between logical rules (e.g., cause-effect) and cultural or ideological conventions.
+   -<mark style="background: #FFF3A3A6;"> Proposes that fabulas follow human thought and action, governed by logical and conventional rules.</mark>
+   - <mark style="background: #FFF3A3A6;">Distinguishes between logical rules (e.g., cause-effect) and cultural or ideological conventions.</mark>
 
 4. **Understanding Conventional Restrictions:**
-   - Conventional restrictions are culturally and historically specific.
+   - <mark style="background: #FFF3A3A6;">Conventional restrictions</mark> are culturally and historically specific.
    - Recognizing these norms is crucial for comprehending and appreciating narratives from diverse cultures.
 
 5. **The Narrative Cycle:**
    - Fabulas consist of groupings of event series.
-   - Defined by three phases: possibility, event, and result.
-   - These phases may not always be explicit but influence the narrative's progression.
+   - Defined by three phases: <mark style="background: #FFF3A3A6;">possibility</mark>, <mark style="background: #FFF3A3A6;">event</mark>, and <mark style="background: #FFF3A3A6;">result</mark>.
+   - <mark style="background: #FFF3A3A6;">These phases may not always be explicit but influence the narrative's progression.</mark>
 
 6. **Combining Elementary Series:**
-   - Elementary series can be sequential or embedded within other series.
+   - <mark style="background: #FFF3A3A6;">Elementary series</mark> can be sequential or embedded within other series.
    - The combination of series can characterize a fabula’s style and convey themes like fatalism or existentialism.
 
 7. **Processes of Improvement and Deterioration:**
-   - Narratives often depict cycles of improvement or deterioration.
-   - These processes can be realized or not, and may conclude successfully or otherwise.
+   - Narratives often depict <mark style="background: #FFF3A3A6;">cycles of improvement</mark> or <mark style="background: #FFF3A3A6;">deterioration</mark>.
+   <mark style="background: #FFF3A3A6;">- These processes can be realized or not, and may conclude successfully or otherwise.</mark>
 
 8. **Semantic Labeling of Events:**
-   - Applying abstract labels to events (e.g., negotiation, attack, satisfaction) facilitates structural comparison.
+   - <mark style="background: #FFF3A3A6;">Applying abstract labels to events (e.g., negotiation, attack, satisfaction) facilitates structural comparison.</mark>
    - Each label represents a theoretical abstraction of concrete narrative events.
 
 **Key Idea:**
-In narrative analysis, the structure of a fabula is understood as a series of interconnected events, shaped by logical and conventional rules. The analysis focuses on modeling the fabula structure to reveal its unique characteristics, understanding the cultural and ideological contexts, and recognizing the cyclic processes of improvement and deterioration that drive the narrative forward. This approach highlights the deep structural and thematic complexity inherent in narrative texts.
+In narrative analysis, the structure of a fabula is understood as a series of interconnected events, shaped by logical and conventional rules. <mark style="background: #FFF3A3A6;">The analysis focuses on modeling the fabula structure to reveal its unique characteristics, understanding the cultural and ideological contexts, and recognizing the cyclic processes of improvement and deterioration that drive the narrative forward.</mark> This approach highlights the deep structural and thematic complexity inherent in narrative texts.
 
-**Structural Principles and Actor Relationships in Narrative Fabulas**
+### Key Terms
+|Term|Definition|
+|---|---|
+|Bremond's Narrative Model|A model developed by Claude Bremond in narratology that breaks down narratives into sequences of possibilities and outcomes, focusing on the logical structure of events and actions.|
+|conventional restrictions|The established norms, rules, or conventions in narrative storytelling that shape how stories are constructed and understood, influencing plot, character development, and narrative style.|
+|cycles of deterioration|In narratology, sequences within a narrative where situations progressively worsen or degrade, often leading to conflict, climax, or character development.|
+|cycles of improvement|Sequences within a narrative where conditions or situations progressively improve, often contributing to resolution, development, or a positive turn in the story.|
+|elementary series|The basic units of action or events in a narrative, which, when combined, form complex narrative structures, such as cycles of improvement or deterioration.|
+|event|A significant occurrence or incident within a narrative that impacts the plot or character development, often marking a change or progression in the story.|
+|fabula structure|The underlying framework of a narrative that consists of the chronological sequence of events as they actually happen, irrespective of how they are presented in the narrative.|
+|possibility|An option or course of action available to characters in a narrative, which, when chosen, leads to certain events and consequences, shaping the story's direction.|
+|result|The outcome or consequence of an event or action in a narrative, which impacts subsequent events and the overall progression of the story.|
+|semantic labels of events|Descriptors used in narratology to categorize and understand the nature and significance of events in a narrative, such as 'conflict,' 'resolution,' or 'climax.'|
+|the narrative cycle|The repetitive or cyclical structure in narratives where certain patterns, themes, or events recur, contributing to the story's rhythm, coherence, and thematic development.|
+
+
+## **Structural Principles and Actor Relationships in Narrative Fabulas**
 
 1. **Event Relationships in Fabula:**
-   - Events in a fabula are interconnected and can be analyzed using various models.
+   <mark style="background: #FFF3A3A6;">- Events in a fabula are interconnected and can be analyzed using various models.</mark>
    - Avoids forcing texts into a general model, focusing instead on specific structural characteristics.
 
 2. **Applying Bremond's Model:**
@@ -1681,41 +1960,57 @@ In narrative analysis, the structure of a fabula is understood as a series of in
    - Highlights the influence of cultural and ideological norms on narrative construction.
 
 3. **Grouping Events for Structural Analysis:**
-   - Events can be grouped based on actor identity, nature of confrontation, chronological order, or location.
+   - Events can be grouped based on <mark style="background: #FFF3A3A6;">actor identity</mark>, <mark style="background: #FFF3A3A6;">nature of confrontation</mark>, <mark style="background: #FFF3A3A6;">chronological order</mark>, or <mark style="background: #FFF3A3A6;">location</mark>.
    - This approach reveals themes like alienation or determinism in the narrative.
 
 4. **Identifying Functional Actors:**
    - Essential to determine which actors cause or undergo functional events.
-   - Actors without a functional role in the fabula can be excluded from structural analysis.
+   - Actors without a <mark style="background: #FFF3A3A6;">functional role</mark> in the fabula can be excluded from structural analysis.
 
 5. **Actantial Model for Actors:**
-   - Structuralists use actants to classify actors based on their relationship to the fabula's aim.
-   - Subject and object actants represent the primary teleological relationship in a fabula.
+   - Structuralists use <mark style="background: #FFF3A3A6;">actants</mark> to classify actors based on their relationship to the fabula's aim.
+   - Subject and object actants represent the primary <mark style="background: #FFF3A3A6;">teleological relationship</mark> in a fabula.
 
 6. **Teleological Aspect of Fabula:**
-   - Fabulas are driven by actors' aspirations towards goals or avoidance of negative outcomes.
+<mark style="background: #FFF3A3A6;">   - Fabulas are driven by actors' aspirations towards goals or avoidance of negative outcomes.</mark>
    - The model is applicable to various narrative types, reflecting a range of human desires and fears.
 
 7. **Structuralist Approach to Actants:**
-   - Focuses on fixed relationships between classes of phenomena.
+   - Focuses on fixed relationships between <mark style="background: #FFF3A3A6;">classes of phenomena</mark>.
    - Actants are defined by their function in relation to the fabula’s telos (goal or purpose).
 
 8. **Examples of Subject-Object Relationships:**
-   - Demonstrates a wide range of subject-object relationships across different narrative types.
+   - Demonstrates a wide range of <mark style="background: #FFF3A3A6;">subject-object relationships</mark> across different narrative types.
    - Includes diverse goals like marriage, independence, crime prevention, and survival.
 
 **Key Idea:**
-In narrative analysis, the structure of a fabula is elucidated by examining the relationships among events and actors. This involves grouping events based on various criteria and identifying functional actors within the narrative. The actantial model, emphasizing the teleological relationship between actors and their goals, provides a structural framework for understanding the dynamics of narrative fabulas across a spectrum of genres and themes.
+In narrative analysis, <mark style="background: #FFF3A3A6;">the structure of a fabula is elucidated by examining the relationships among events and actors.</mark> <mark style="background: #FFF3A3A6;">This involves grouping events based on various criteria and identifying functional actors within the narrative.</mark> The actantial model, emphasizing the teleological relationship between actors and their goals, provides a structural framework for understanding the dynamics of narrative fabulas across a spectrum of genres and themes.
+
+### Key Terms
+|Term|Definition|
+|---|---|
+|actantial model|A narratological framework developed by A.J. Greimas, identifying six key roles (actants) in a narrative: Subject, Object, Helper, Opponent, Sender, and Receiver, used to analyze the structure of narratives.|
+|actants|Fundamental roles in a narrative, as defined in the actantial model, representing key functions or positions characters occupy in relation to the narrative's goals and structure.|
+|actor identity|The characteristics, qualities, and identity of characters in a narrative, which determine their actions, motivations, and roles within the story.|
+|chronological order|The sequence of events in a narrative as they occur in time, from earliest to latest, forming the linear timeline of the story.|
+|fabula's teleological relationship|The goal-oriented structure of a narrative, where events and actions are directed towards achieving a particular end or purpose in the story's fabula.|
+|functional actor|A character in a narrative who performs specific roles or actions that are important for the progression of the story or the development of other characters.|
+|functional role|The purpose or function a character serves within a narrative, contributing to the story's development, thematic expression, or plot advancement.|
+|location|The physical or conceptual space where events in a narrative take place, contributing to the setting, atmosphere, and context of the story.|
+|nature of confrontation|The characteristics and dynamics of conflict or opposition in a narrative, shaping plot development, tension, and character interactions.|
+|structural event grouping|The organization of events in a narrative into meaningful clusters or sequences, based on their interrelations, significance, or contribution to the narrative structure.|
+|subject-object relationship|A key relationship in narratology where the subject is a character or entity seeking an object or goal, forming a fundamental dynamic in narrative structure.|
 
 
-**Complex Dynamics of Power and Actors in Narrative Fabulas**
+
+## **Complex Dynamics of Power and Actors in Narrative Fabulas**
 
 1. **Role of Power and Receiver in Fabula:**
-   - Power is the class of actors that either facilitates or obstructs the subject's intention.
-   - The receiver is the person or entity to whom the object is given.
+   - <mark style="background: #FFF3A3A6;">Power</mark> is the class of actors that either facilitates or obstructs the <mark style="background: #FFF3A3A6;">subject's intention</mark>.
+   - The <mark style="background: #FFF3A3A6;">receiver</mark> is the person or entity to whom the <mark style="background: #FFF3A3A6;">object</mark> is given.
 
 2. **Concept of Sender and Receiver:**
-   - The terms 'sender' and 'receiver' are used, but 'power' is often more fitting as it implies influence rather than active participation.
+   - The terms '<mark style="background: #FFF3A3A6;">sender</mark>' and '<mark style="background: #FFF3A3A6;">receiver</mark>' are used, but 'power' is often more fitting as it implies influence rather than active participation.
    - Can be personified or abstract (e.g., society, fate).
 
 3. **Concretization of Actants:**
@@ -1728,14 +2023,14 @@ In narrative analysis, the structure of a fabula is elucidated by examining the 
 
 5. **Actantial Model and Teleology:**
    - Based on the principle that human actions are directed towards achieving goals or avoiding negative outcomes.
-   - The actantial model categorizes actors based on their function in achieving these goals.
+   - The <mark style="background: #FFF3A3A6;">actantial model</mark> categorizes actors based on their function in achieving these goals.
 
 6. **Helpers and Opponents in the Narrative:**
-   - Helper actants provide incidental aid to the subject, while opponents resist the subject's aims.
+   - <mark style="background: #FFF3A3A6;">Helper actants</mark> provide incidental aid to the subject, while <mark style="background: #FFF3A3A6;">opponents</mark> resist the subject's aims.
    - These roles are crucial for creating suspense and engaging the reader.
 
 7. **Sympathy and Actantial Roles:**
-   - Reader's sympathy or antipathy towards actors can differ from the actantial roles.
+<mark style="background: #FFF3A3A6;">   - Reader's sympathy or antipathy towards actors can differ from the actantial roles.</mark>
    - Understanding this difference is key to analyzing the narrative’s impact and themes.
 
 8. **Expanding Examples with Actantial Roles:**
@@ -1746,92 +2041,154 @@ In narrative fabulas, the complex interplay of actants—power, receiver, helper
 
 
 
-
-
 ![[Pasted image 20231211195203.png]]
 
-**Detailed Exploration of Actantial Roles and Structures in Narrative Fabulas**
+### Key Terms
+
+|Term|Definition|
+|---|---|
+|actantial model|A model in narratology developed by Algirdas Julien Greimas, identifying key roles or functions (actants) in a story, such as Subject, Object, Sender, Receiver, Helper, and Opponent.|
+|helper actants|Characters or forces in a narrative that assist or support the subject in achieving their goal or objective, often contributing to the subject's success.|
+|object|In narratology, the goal, desire, or item that the subject of a narrative seeks to obtain or achieve, driving the story's plot and character motivation.|
+|opponents|Characters or elements in a narrative that oppose or hinder the subject, creating conflict and obstacles that the subject must overcome.|
+|power|The capacity or ability of characters or entities in a narrative to affect outcomes, influence others, or control situations, often a key factor in plot development.|
+|reader's antipathy|The negative emotional response or dislike a reader may feel towards certain characters or situations in a narrative, influenced by the story's presentation and character development.|
+|reader's sympathy|The emotional connection or empathy a reader develops towards characters or situations in a narrative, often influenced by the portrayal and development of these elements.|
+|receiver|An actant in a narrative who is the intended recipient or beneficiary of the object or goal that the subject seeks to deliver or achieve.|
+|sender|An actant in a narrative who initiates the quest or mission by sending the subject to obtain or achieve the object, often providing motivation or direction.|
+|subject|The central character or entity in a narrative who undertakes the quest or action to achieve a goal or object, driving the story's plot.|
+|subject's intention|The purpose, aim, or desire driving the subject in a narrative, shaping their actions, decisions, and the overall direction of the story.|
+
+
+
+## **Detailed Exploration of Actantial Roles and Structures in Narrative Fabulas**
 
 1. **Actantial Roles Beyond Basic Actors:**
    - Includes power, receiver, helper, opponent, and their interactions.
-   - Power can be abstract or personified, influencing the subject's path to the object.
+<mark style="background: #FFF3A3A6;">   - Power can be abstract or personified, influencing the subject's path to the object.</mark>
 
 2. **Actants and Actantial Model:**
    - Actants are classes of actors sharing a characteristic quality related to the fabula's goal.
-   - The model describes structures and relationships, not just phenomena.
+   - <mark style="background: #FFF3A3A6;">The model describes structures and relationships, not just phenomena.</mark>
 
 3. **Subject and Object Relationships:**
-   - Central relationship in a fabula is between the subject aiming for an object.
-   - Can be objective (external object) or subjective (internal object).
+   - <mark style="background: #FFF3A3A6;">Central relationship</mark> in a fabula is between the subject aiming for an object.
+   - Can be <mark style="background: #FFF3A3A6;">objective</mark> (external object) or <mark style="background: #FFF3A3A6;">subjective</mark> (internal object).
 
 4. **Doubling and Subfabulas:**
-   - Introduces concepts of anti-subjects and subfabulas.
-   - Anti-subjects have their own aims and can intersect with the main fabula.
+   - Introduces concepts of <mark style="background: #FFF3A3A6;">anti-subjects </mark>and <mark style="background: #FFF3A3A6;">subfabulas</mark>.
+   - <mark style="background: #FFF3A3A6;">Anti-subjects</mark> have their own aims and can intersect with the <mark style="background: #FFF3A3A6;">main fabula</mark>.
 
 5. **Competence of Actors:**
-   - Actors' ability to act (competence) may be differentiated into will, power, and knowledge/skill.
+   - Actors' ability to act (<mark style="background: #FFF3A3A6;">competence</mark>) may be differentiated into <mark style="background: #FFF3A3A6;">will</mark>, <mark style="background: #FFF3A3A6;">power</mark>, and <mark style="background: #FFF3A3A6;">knowledge/skill</mark>.
    - Different types of competence lead to varied narrative structures.
 
 6. **Truth Value in Actantial Structure:**
    - Examines the reality of actants within the narrative.
-   - Includes the dynamics of secret helpers, traitors, and illusionary goals.
+   - Includes the dynamics of <mark style="background: #FFF3A3A6;">secret helpers</mark>, <mark style="background: #FFF3A3A6;">traitors</mark>, and <mark style="background: #FFF3A3A6;">illusionary goals</mark>.
 
 7. **Typology Based on Actantial Analysis:**
    - Enables the establishment of typologies and interpretations of literary movements.
-   - Differentiates narratives based on the predominance of secrets or lies in their structure.
+   - Differentiates narratives based on the predominance of <mark style="background: #FFF3A3A6;">secrets</mark> or <mark style="background: #FFF3A3A6;">lies</mark> in their structure.
 
 8. **Combining Actantial Analysis with Other Approaches:**
    - The actantial model can be combined with other analytical methods for a more comprehensive understanding.
    - Offers a nuanced view of narrative structures and their thematic implications.
 
 **Key Idea:**
-In narrative analysis, the actantial model provides a sophisticated framework for understanding the complex interactions of actors within a fabula. This model goes beyond mere character roles, encompassing broader elements like power dynamics, competence, and truth value. It allows for a nuanced exploration of narratives, revealing underlying structures, themes, and typologies that shape the story's progression and impact.
+<mark style="background: #FFF3A3A6;">In narrative analysis, the actantial model provides a sophisticated framework for understanding the complex interactions of actors within a fabula.</mark> <mark style="background: #FFF3A3A6;">This model goes beyond mere character roles, encompassing broader elements like power dynamics, competence, and truth value.</mark> It allows for a nuanced exploration of narratives, revealing underlying structures, themes, and typologies that shape the story's progression and impact.
+
+### Key Terms
+|Term|Definition|
+|---|---|
+|actor competence|In narratology, this refers to the abilities, skills, or knowledge a character possesses, which enable them to perform actions or play roles crucial to the narrative's development.|
+|anti-subject|A character in a narrative who opposes or acts contrary to the goals and actions of the main subject, often creating conflict or serving as an antagonist.|
+|central relationship|The primary and most significant relationship in a narrative, often between key characters, which drives the plot and influences the story's development and themes.|
+|illusionary goal|A goal in a narrative that appears desirable or important to a character but is ultimately misleading, false, or unachievable, influencing the character's journey or decisions.|
+|knowledge|The information, awareness, or understanding that characters in a narrative possess, influencing their decisions, actions, and interactions within the story.|
+|lie|A false statement or deception presented by a character in a narrative, which can create conflict, drive the plot, or reveal character traits and motivations.|
+|main fabula|The central storyline or sequence of events in a narrative, encompassing the primary plot and key character developments.|
+|objective object|A tangible or concrete goal or item in a narrative that characters seek or interact with, driving plot progression and influencing character actions.|
+|power|The ability of characters in a narrative to exert influence, control situations, or assert dominance, often impacting the plot and character dynamics.|
+|secret|Hidden information or undisclosed aspects in a narrative, which can create suspense, intrigue, or dramatic revelations affecting the plot and character relationships.|
+|secret helper|A character in a narrative who discreetly assists or aids the main subject, often without their knowledge, contributing to the story's resolution or the subject's success.|
+|skill|The capabilities or expertise a character in a narrative possesses, which enable them to perform actions, solve problems, or overcome challenges in the story.|
+|subjective object|An abstract, personal, or intangible goal in a narrative, such as a dream, ambition, or desire, which motivates character actions and influences the plot.|
+|subfabula|A secondary or subordinate storyline within a narrative, which may intersect with or complement the main fabula, adding depth and complexity to the story.|
+|traitor|A character in a narrative who betrays or deceives others, often causing conflict, tension, or plot twists that significantly impact the story's progression.|
+|will|The determination, desire, or intention of a character in a narrative, driving their actions, choices, and interactions with other characters and elements of the story.|
 
 
-**Structural Analysis of Time and Relationships in Narrative Fabulas**
+## **Structural Analysis of Time and Relationships in Narrative Fabulas**
 
 1. **Psychological and Ideological Relationships:**
-   - Relationships between characters are often psychological or ideological.
-   - These relationships impact the structure and interpretation of the fabula.
+   - Relationships between characters are often <mark style="background: #FFF3A3A6;">psychological</mark> or <mark style="background: #FFF3A3A6;">ideological</mark>.
+   - <mark style="background: #FFF3A3A6;">These relationships impact the structure and interpretation of the fabula.</mark>
 
 2. **Types of Psychological Relations:**
-   - Includes familial dynamics, power struggles, and personal conflicts.
+   - Includes <mark style="background: #FFF3A3A6;">familial dynamics</mark>, <mark style="background: #FFF3A3A6;">power struggles</mark>, and <mark style="background: #FFF3A3A6;">personal conflicts</mark>.
    - Often crucial in psychoanalytic criticism and shaping character interactions.
 
 3. **Ideological Relations in Narratives:**
-   - Encompass social, cultural, and political oppositions.
+   - Encompass <mark style="background: #FFF3A3A6;">social</mark>, <mark style="background: #FFF3A3A6;">cultural</mark>, and <mark style="background: #FFF3A3A6;">political oppositions</mark>.
    - Examples include class struggles, gender dynamics, and racial tensions.
 
 4. **Other Classifications Based on Various Criteria:**
-   - Can be based on physical appearance, heritage, or lifestyle.
+   - Can be based on <mark style="background: #FFF3A3A6;">physical appearance</mark>, <mark style="background: #FFF3A3A6;">heritage</mark>, or <mark style="background: #FFF3A3A6;">lifestyle</mark>.
    - Often linked to deeper psychological or ideological themes.
 
 5. **Duration and Time Span in Fabulas:**
-   - The duration of events in a fabula varies from brief crises to long developments.
+   - The <mark style="background: #FFF3A3A6;">duration of events</mark> in a fabula varies from <mark style="background: #FFF3A3A6;">brief crises</mark> to <mark style="background: #FFF3A3A6;">long developments</mark>.
    - The choice of duration can reflect the narrative's thematic focus.
 
 6. **Crisis vs. Development in Narrative Structure:**
-   - Crisis-focused narratives compress significant events into a short period.
-   - Development-focused narratives depict a gradual progression over time.
+   - <mark style="background: #FFF3A3A6;">Crisis-focused narratives</mark> compress significant events into a short period.
+   - <mark style="background: #FFF3A3A6;">Development-focused narratives</mark> depict a gradual progression over time.
 
 7. **Implications of Choosing Crisis or Development Forms:**
-   - Crisis forms often require selective presentation and can include asides like recollections.
-   - Development forms may include summarized or skipped parts to maintain narrative flow.
+   - <mark style="background: #FFF3A3A6;">Crisis forms</mark> often require selective presentation and can include asides like <mark style="background: #FFF3A3A6;">recollections</mark>.
+   - <mark style="background: #FFF3A3A6;">Development forms</mark> may include summarized or skipped parts to maintain narrative flow.
 
 8. **Extension and Compression Techniques in Narratives:**
    - Techniques to extend the crisis form include recollections and sub-fabulas.
-   - Development forms may be compressed through selection and summarization.
+   - Development forms may be compressed through <mark style="background: #FFF3A3A6;">selection</mark> and <mark style="background: #FFF3A3A6;">summarization</mark>.
 
 **Key Idea:**
 In narrative analysis, understanding the psychological and ideological relationships between characters is crucial for interpreting the fabula. Additionally, the choice between focusing on a brief crisis or a long development in the narrative structure has significant implications for the story's thematic depth and character dynamics. These structural choices, along with techniques for extending or compressing the narrative timeline, play a pivotal role in shaping the overall narrative experience.
 
 
-**Chronology and Location in Narrative Fabulas**
+### Key Terms
+|Term|Definition|
+|---|---|
+|brief crises|Short, intense periods of conflict or challenge in a narrative, often serving as catalysts for plot progression or character development.|
+|crisis-focused narratives|Stories that are primarily structured around key moments of crisis, with the plot largely driven by these pivotal events and their immediate consequences.|
+|crisis forms|Narrative structures or patterns that focus on the depiction and resolution of crises, shaping the story's tension, climax, and resolution.|
+|cultural|Refers to elements in a narrative related to the customs, beliefs, and practices of specific groups or societies, influencing characters and plot developments.|
+|development-focused narratives|Narratives that emphasize gradual character growth, thematic exploration, or plot progression, often with a focus on long-term developments.|
+|development forms|Narrative structures or patterns that emphasize gradual change, growth, or progression, both in character arcs and plot developments.|
+|duration of events|The length of time over which events unfold in a narrative, influencing the pacing, plot structure, and the portrayal of character development.|
+|familial dynamics|The relationships, interactions, and conflicts within a family unit in a narrative, contributing to character development and thematic exploration.|
+|heritage|The background, culture, or traditions that a character inherits, often influencing their identity, motivations, and actions within the story.|
+|ideological relationship|The connection between characters or elements in a narrative that reflects or explores ideological themes, values, or beliefs.|
+|lifestyle|The way of living or lifestyle of characters in a narrative, which can reflect their personality, social status, or cultural background.|
+|long developments|Extended periods in a narrative where gradual changes or progressions occur, often central to character development or thematic exploration.|
+|personal conflicts|Internal struggles or disputes experienced by characters in a narrative, often driving their development and influencing the plot.|
+|physical appearance|The description of a character's outward look in a narrative, which can influence reader perceptions and character interactions within the story.|
+|political oppositions|Conflicts or rivalries in a narrative that stem from political ideologies or power dynamics, often contributing to the plot's tension and complexity.|
+|power struggles|The conflicts and competitions for control, authority, or dominance among characters or groups within a narrative, often a key driver of the plot.|
+|psychological relationship|The connection between characters in a narrative that is based on psychological factors, such as emotions, traumas, or mental states, impacting character development and interactions.|
+|recollections|Instances in a narrative where characters reflect on past events, contributing to character development, plot depth, and thematic exploration.|
+|selection|The process in narratology of choosing specific events, details, or elements to include in the narrative, shaping the story's focus and impact.|
+|social|Pertaining to the societal or communal aspects in a narrative, including social interactions, hierarchies, and norms that affect characters and plot.|
+|summarization|The narrative technique of condensing or summarizing events or information, often used to convey essential points and maintain pacing in the story.|
+
+
+## **Chronology and Location in Narrative Fabulas**
 
 1. **Chronology: Interruption and Parallelism**
-   - **Ellipsis in Narratives**: Omission of events creates gaps, adding significance and mystery.
-   - **Parallel Fabula Strands**: Multiple events occurring simultaneously can challenge chronological understanding.
-   - **Logical vs. Chronological Sequence**: Differentiating between what logically should happen versus what chronologically does happen.
+   - **<mark style="background: #FFF3A3A6;">Ellipsis</mark> in Narratives**: Omission of events creates gaps, adding significance and mystery.
+   - **<mark style="background: #FFF3A3A6;">Parallel Fabula Strands</mark>**: Multiple events occurring simultaneously can challenge chronological understanding.
+   - **<mark style="background: #FFF3A3A6;">Logical</mark> vs. <mark style="background: #FFF3A3A6;">Chronological</mark> Sequence**: Differentiating between what logically should happen versus what chronologically does happen.
 
 2. **Chronology Techniques**
    - **Recollections and Asides**: Used to extend the time frame in crisis-focused narratives.
@@ -1839,39 +2196,56 @@ In narrative analysis, understanding the psychological and ideological relations
    - **Crisis and Development Forms**: Implications of choosing between a concentrated crisis or an extended development in the narrative.
 
 3. **Location and Its Significance in Fabulas**
-   - **Spatial Elements**: Important in fabulas due to human tendency towards spatial thinking.
+   - **<mark style="background: #FFF3A3A6;">Spatial Elements</mark>**: Important in fabulas due to human tendency towards spatial thinking.
    - **Noting Place of Each Event**: Understanding the connection between event types, actors' identities, and locations.
    - **Interior vs. Exterior Settings**: Symbolizing protection vs. danger, or confinement vs. freedom.
 
 4. **Spatial Oppositions and Their Meanings**
-   - **City vs. Country**: Often representing contrasts such as corruption vs. innocence or wealth vs. poverty.
-   - **High vs. Low Places**: Tied to biblical and mythological representations of heaven and hell.
-   - **Open vs. Closed, Far vs. Near**: Symbolizing accessibility, safety, familiarity, or their opposites.
+   - **<mark style="background: #FFF3A3A6;">City vs. Country</mark>**: Often representing contrasts such as corruption vs. innocence or wealth vs. poverty.
+   - **<mark style="background: #FFF3A3A6;">High vs. Low Places</mark>**: Tied to biblical and mythological representations of heaven and hell.
+   - **<mark style="background: #FFF3A3A6;">Open vs. Closed</mark>, <mark style="background: #FFF3A3A6;">Far vs. Near</mark>**: Symbolizing accessibility, safety, familiarity, or their opposites.
 
 5. **Spatial Dynamics in Narratives**
    - **Public Spaces**: Neutral grounds like pubs can symbolize solidarity or escapism.
    - **Abstract Spatial Oppositions**: High-low, open-closed, and far-near represent complex psychological or moral contrasts.
 
 **Key Idea:**
-In narrative analysis, the manipulation of chronology through techniques like ellipsis, parallelism, and asides plays a crucial role in shaping the story's depth and complexity. Similarly, the use of spatial elements and locations, ranging from interior vs. exterior settings to more abstract spatial oppositions, adds significant layers of meaning and symbolism to the narrative, reflecting complex psychological, ideological, and moral themes. Understanding these elements is key to grasping the full spectrum of a narrative's structure and thematic resonance.
+<mark style="background: #FFF3A3A6;">In narrative analysis, the manipulation of chronology through techniques like ellipsis, parallelism, and asides plays a crucial role in shaping the story's depth and complexity. </mark>Similarly, <mark style="background: #FFF3A3A6;">the use of spatial elements and locations, ranging from interior vs. exterior settings to more abstract spatial oppositions, adds significant layers of meaning and symbolism to the narrative, reflecting complex psychological, ideological, and moral themes.</mark> Understanding these elements is key to grasping the full spectrum of a narrative's structure and thematic resonance.
 
-**Narrative Elements: Events, Actors, Time, and Location**
+### Key Terms
+|Term|Definition|
+|---|---|
+|chronological sequence|The order of events in a narrative as they occur in time, following a linear progression from past to present to future.|
+|city vs country|A spatial opposition in narratives where settings or themes are contrasted between urban (city) environments and rural (country) environments, often symbolizing different lifestyles, values, or conflicts.|
+|ellipsis|A narrative device where certain events are omitted from the story, creating gaps in time or action that the reader must infer or fill in.|
+|far vs near|A spatial opposition in narratives that contrasts distant settings or elements with those that are close, affecting characters' interactions and the story's events.|
+|high vs low|A spatial dichotomy in narratives often used to symbolize power, status, or moral contrasts, with 'high' locations representing superiority or power and 'low' locations representing inferiority or vulnerability.|
+|logical sequence|The arrangement of events in a narrative based on cause and effect, regardless of their chronological order, contributing to the story's coherence and comprehensibility.|
+|open vs closed|A spatial contrast in narratives where 'open' spaces symbolize freedom, possibility, or danger, and 'closed' spaces symbolize confinement, safety, or restriction.|
+|parallel fabula strands|Multiple storylines or sequences of events in a narrative that occur simultaneously or intersect at points, enriching the plot and offering diverse perspectives.|
+|public spaces|Settings in a narrative that are accessible to or shared by the general public, such as streets, parks, or town squares, often used to explore social dynamics or cultural contexts.|
+|spatial dynamics|The way spatial elements within a narrative interact and change over time, influencing the plot, character movement, and the reader's perception of the story's setting.|
+|spatial elements|Components of a narrative that pertain to the physical setting or environment, such as location, distance, and orientation, contributing to the story's atmosphere and context.|
+|spatial opposition|The contrast between different spatial elements or settings in a narrative, such as up vs. down, inside vs. outside, or urban vs. rural, used to enhance thematic depth or character development.|
+
+
+## **Narrative Elements: Events, Actors, Time, and Location**
 
 1. **Spatial Dynamics and Mediators in Narratives**
-   - **Transitory Locations**: Places like shops, vehicles, or borders act as transitional spaces, often hosting significant narrative events.
+   - <mark style="background: #FFF3A3A6;">**Transitory Locations**</mark>: Places like shops, vehicles, or borders act as transitional spaces, often hosting significant narrative events.
    - **Chamoiseau's "Texaco"**: The road "Pénétrante Ouest" serves as a narrative catalyst but its construction is ultimately abandoned, signifying resistance to destructive change.
 
 2. **Spatial Oppositions and Ideological Constructs**
    - **Spatial Oppositions**: High-low, open-closed, far-near convey psychological or moral contrasts.
-   - **Deconstructive Criticism**: Highlights the flawed logic in naturalized binary oppositions, urging readers to confront these with personal beliefs.
+   - **<mark style="background: #FFF3A3A6;">Deconstructive Criticism</mark>**: Highlights the flawed logic in naturalized binary oppositions, urging readers to confront these with personal beliefs.
 
 3. **Classifying Narrative Elements**
-   - **Objects and Processes**: Central to fabula construction, often interrelated with actors.
+   - **<mark style="background: #FFF3A3A6;">Objects and Processes</mark>**: Central to fabula construction, often interrelated with actors.
    - **Criteria for Event Selection**: Ensures relevance and significance in the narrative structure.
    - **Actors and their Functions**: Classified based on their roles and relationships within the fabula.
 
 4. **Time and Location in Narratives**
-   - **Duration and Chronology**: Differentiates between crisis-focused and developmental narratives.
+   - **<mark style="background: #FFF3A3A6;">Duration and Chronology</mark>**: Differentiates between crisis-focused and developmental narratives.
    - **Locations as Narrative Elements**: Specific places contribute to the thematic and symbolic aspects of the narrative.
 
 5. **Structuralist Approach to Narratology**
@@ -1881,3 +2255,22 @@ In narrative analysis, the manipulation of chronology through techniques like el
 
 **Key Idea:**
 In narrative analysis, understanding the interplay of events, actors, time, and location is crucial. Spatial dynamics and mediators, such as transitory locations, play significant roles in narratives, often symbolizing broader ideological constructs. A structuralist approach to narratology, focusing on fixed relationships between phenomena, provides a coherent framework for analyzing these elements, allowing for a deeper understanding of both individual texts and broader narrative trends. This approach, while reductive, can be instrumental in deconstructing and critiquing the ideological underpinnings of narratives.
+
+| Term                     | Definition                                                                                                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| chronology               | The arrangement of events in a narrative according to their temporal sequence, providing a framework for understanding the progression and timing of the story.                       |
+| deconstructive criticism | A method of literary analysis that seeks to understand a text by examining its contradictions, ambiguities, and complex relationships, often challenging traditional interpretations. |
+| duration                 | The length of time over which events or actions occur within a narrative, affecting the pacing of the story and the perception of time by characters and readers.                     |
+| ideological constructs   | Ideas, beliefs, or values embedded within a narrative that reflect and shape its themes, characters, and plot, often reflecting larger cultural or societal ideologies.               |
+| location                 | The physical or conceptual place where events in a narrative occur, contributing to the setting, atmosphere, and context of the story.                                                |
+| narrative elements       | The fundamental components of a story, such as characters, plot, setting, and theme, which work together to create the overall narrative structure.                                   |
+| objects                  | Items or entities within a narrative that play a role in the story, whether as key plot elements, symbols, or part of the setting.                                                    |
+| processes                | The series of actions, changes, or functions that occur within a narrative, contributing to the development of the plot and characters.                                               |
+| spatial mediators        | Elements within a narrative that facilitate the transition or connection between different spatial areas, helping to guide the reader's understanding of the story's setting.         |
+| spatial opposition       | The juxtaposition of contrasting spatial elements in a narrative, such as inside vs. outside or urban vs. rural, used to highlight thematic or character contrasts.                   |
+| time                     | A fundamental narrative element referring to when events occur in the story, influencing the plot's structure, the development of characters, and the narrative pace.                 |
+| transitory locations     | Places within a narrative that serve as temporary settings or stages for events, often marking transitions or shifts in the story's development or character journey.                 |
+|                          |                                                                                                                                                                                       |
+|                          |                                                                                                                                                                                       |
+
+
