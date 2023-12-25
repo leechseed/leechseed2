@@ -12,3 +12,5 @@
 >6. Conclude with a 'Key Idea' section where you encapsulate the central theme or insight of the overall topic in a single sentence.
 >
 > By following this optimized prompt, you will generate an effective summary that encapsulates the essence of the given text in a clear, concise, and reader-friendly manner.
+
+
