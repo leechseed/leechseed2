@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_FABULA/020001_PHILIPS - Dramatica.md",
+                "file": "05_SYUZHET PLOT/05000_SYUZHET PLOT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "494f7e5929ff2f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_FABULA/020001_PHILIPS - Dramatica.md",
+                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_FABULA/020001_PHILIPS - Dramatica.md",
+                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_FABULA/020001_PHILIPS - Dramatica.md"
+                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md"
               }
             }
           },
@@ -178,10 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1e8086e34ab9665",
+  "active": "494f7e5929ff2f07",
   "lastOpenFiles": [
+    "05_SYUZHET PLOT/05000_SYUZHET PLOT.md",
+    "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
+    "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
+    "02_FABULA TIMELINE/020001_PHILIPS - Dramatica.md",
     "desktop.ini",
-    "02_FABULA/020000_FABULA SPACETIME.md",
     "01_THEME/010017_CARDENAS - Logseq Notes.md",
     "01_THEME/0100018_CAMPBELL - The Hero With a Thousand Faces.md",
     "01_THEME/0100019_CAMPBELL - The Inner Reaches of Outer Space.md",
@@ -198,14 +215,11 @@
     "01_THEME/01000_THEME README.md",
     "01_THEME/010015_BLOOM - The Trickster.md",
     "01_THEME/010016_LEITCH - Norton Anthology of Theory and Criticism.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
     "templates/CHAT GPT PROMPTS.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
     "word count.md",
     "templates/template for steps.md",
-    "00_THEORY OF COMPOSITION/00003_EAGLETON - Literary Theory.md",
-    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction",
     "00_THEORY OF COMPOSITION/00006_ARISTOTLE - Poetics",
     "assets/Pasted image 20231217184928.png",
@@ -220,8 +234,8 @@
     "assets/Pasted image 20231217183757.png",
     "test api script.py",
     "00_THEORY OF COMPOSITION/test api script.py",
-    "02_FABULA",
-    "05_SYUHZET PLOT",
+    "02_FABULA TIMELINE",
+    "05_SYUZHET PLOT",
     "10_Post/10001_Real Estate",
     "10_Post",
     "11_ETC"
