@@ -6,6 +6,7 @@
       {
         "id": "b2c509bfbf32c5fb",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "a1e8086e34ab9665",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,6 +37,7 @@
       {
         "id": "943a38dcbca9e2c7",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "57d37ad0ff4a1d55",
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md"
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary.md"
               }
             }
           },
@@ -174,9 +176,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           }
@@ -200,6 +200,7 @@
   },
   "active": "a1e8086e34ab9665",
   "lastOpenFiles": [
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
     "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
     "word count.md",
@@ -209,7 +210,6 @@
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E duplicates log.csv",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary duplicates_log.csv",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary output.csv",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary",
     "templates/CHAT GPT PROMPTS.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
