@@ -3,7 +3,7 @@
 
 02000_FABULA SPACETIME
 
-
+Basically, fabula, will be the 'gardening' portion of my writing. The intuitive aha moments that I am able to continuously write about. Everything will go into fabula. Why? because (assuming) the chronological sequence that occurs in my mind, is the sequence of the events that will occur in the story. 
 
 > [!note] In narratology, the term "fabula" refers to the chronological sequence of events in a story. It includes all the events that are narrated and those inferred by the audience. The fabula is the raw material of a story, and it represents what actually happens in the narrative, regardless of how these events are presented in the plot.
 

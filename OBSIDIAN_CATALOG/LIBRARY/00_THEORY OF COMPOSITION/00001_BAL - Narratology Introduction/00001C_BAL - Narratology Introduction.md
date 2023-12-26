@@ -134,7 +134,7 @@
 - **Key Idea:**
   - Understanding the narrative agent and narrator is crucial in narratology, as it involves distinguishing the function and identity of the narrator from the author, and recognizing the role of focalization and narrative forms in shaping the reader's perception of the story.
 
-#### Key Words
+#### Key Terms
 |Term|Definition|
 |---|---|
 |**Focalization**|The narrator's point of view and its influence on narrative rhetoric and truth.|
@@ -182,7 +182,7 @@
 -  **Key Idea:**
   - In narratology, the narrative agent's role in truth claims, the narrator's function as a witness, and the complexities of focalization and narrative situations highlight the intricate dynamics of storytelling. <mark style="background: #FFF3A3A6;">The challenges and misconceptions of second-person narration underscore the significance of deixis and the reciprocal nature of narrative communication.</mark>
 
-#### Key Words
+#### Key Terms
 |Term|Definition|
 |---|---|
 |character involvement|Refers to the degree to which a character is engaged in the events or actions of the narrative, and how this engagement affects the story's development and the audience's connection to the character.|
@@ -229,8 +229,7 @@
 -  **Key Idea:**
   - In narratology, <mark style="background: #FFF3A3A6;">non-narrative comments and descriptions play critical roles in shaping a narrative's ideological messages and visualizing its world.</mark> These elements, often interwoven with narrative parts, contribute significantly to the reader's interpretation and understanding of the text's broader cultural and ideological contexts.
 
-#### Key Words
-
+#### Key Terms
 |Term|Definition|
 |---|---|
 |description|In narratology, this refers to the detailed portrayal of characters, settings, or events within a narrative, providing sensory details and context to enrich the story.|
@@ -329,7 +328,7 @@
 - **Key Idea:**
   - The excerpt from "Nightwood" exemplifies the <mark style="background: #FFF3A3A6;">intricate role of description</mark> in narrative texts, particularly in modernist literature, where it serves not only to depict scenes but also to <mark style="background: #FFF3A3A6;">convey deeper themes of subjectivity, fate, and the complex relationship between the observer and the observed.</mark>
 
-#### Key Words
+#### Key Terms
 |Term|Definition|
 |---|---|
 |**Descriptive Realistic Framing**|A narratological technique used in realist literature to provide a detailed, lifelike setting and context for the narrative.|

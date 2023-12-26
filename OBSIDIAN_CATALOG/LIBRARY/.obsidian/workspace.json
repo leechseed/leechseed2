@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_SYUZHET PLOT/05000_SYUZHET PLOT.md",
+                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
-                "mode": "source",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_FABULA TIMELINE/020000_FABULA TIMELINE.md"
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md"
               }
             }
           },
@@ -193,10 +193,14 @@
   },
   "active": "494f7e5929ff2f07",
   "lastOpenFiles": [
-    "05_SYUZHET PLOT/05000_SYUZHET PLOT.md",
-    "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001D_BAL - Narratology KEY TERMS",
     "02_FABULA TIMELINE/020000_FABULA TIMELINE.md",
+    "05_SYUZHET PLOT/05000_SYUZHET PLOT.md",
+    "templates/CHAT GPT PROMPTS.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
+    "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
     "02_FABULA TIMELINE/020001_PHILIPS - Dramatica.md",
     "desktop.ini",
     "01_THEME/010017_CARDENAS - Logseq Notes.md",
@@ -215,11 +219,7 @@
     "01_THEME/01000_THEME README.md",
     "01_THEME/010015_BLOOM - The Trickster.md",
     "01_THEME/010016_LEITCH - Norton Anthology of Theory and Criticism.md",
-    "templates/CHAT GPT PROMPTS.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
     "word count.md",
-    "templates/template for steps.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction",
     "00_THEORY OF COMPOSITION/00006_ARISTOTLE - Poetics",
     "assets/Pasted image 20231217184928.png",
@@ -237,7 +237,6 @@
     "02_FABULA TIMELINE",
     "05_SYUZHET PLOT",
     "10_Post/10001_Real Estate",
-    "10_Post",
-    "11_ETC"
+    "10_Post"
   ]
 }

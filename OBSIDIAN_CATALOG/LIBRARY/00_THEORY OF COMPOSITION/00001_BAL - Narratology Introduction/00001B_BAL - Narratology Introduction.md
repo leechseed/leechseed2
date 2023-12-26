@@ -13,7 +13,12 @@
 >
 > By following this optimized prompt, you will generate an effective summary that encapsulates the essence of the given text in a clear, concise, and reader-friendly manner.
 
+>[!idea] 
+> This is an !idea admonition. Whenever these appear in the text it signifies an idea that I had regarding the subject immediately above. Use these insights to elaborate on my own understanding of the topic as well as to develop my own perspective. 
+> These admonitions are highly valuable if well thought out. I can produce my own Narratology commentary and build authority in the field. If they believe me.  
 
+>[!note]
+> This admonition a !note admonition. It is a generic comment associated with the text immediately above. These notes serve as a 'to-do' or 'reminder' or just a catch all of whatever new information is relevant to the reading that doesn't have to do with the development of the data itself. 
 # Introduction
 
 ## **Foundational Concepts in Narratology**
@@ -2269,7 +2274,4 @@ In narrative analysis, understanding the interplay of events, actors, time, and 
 | spatial opposition       | The juxtaposition of contrasting spatial elements in a narrative, such as inside vs. outside or urban vs. rural, used to highlight thematic or character contrasts.                   |
 | time                     | A fundamental narrative element referring to when events occur in the story, influencing the plot's structure, the development of characters, and the narrative pace.                 |
 | transitory locations     | Places within a narrative that serve as temporary settings or stages for events, often marking transitions or shifts in the story's development or character journey.                 |
-|                          |                                                                                                                                                                                       |
-|                          |                                                                                                                                                                                       |
-
 
