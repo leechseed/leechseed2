@@ -20,3 +20,16 @@ can you create a vocabulary list with definitions from the following text. do no
 ```
 
 
+# llm test prompts
+```
+    Describe the cultural significance of Kitesurfing in Hawaii.
+
+    Write a humorous limerick about astronauts exploring Mars.
+
+    Summarize Leonardo da Vinci's "Vitruvian Man" drawing and explain its relevance in art history.
+
+    Design a 3-star Michelin tasting menu consisting of 18 courses for a unique fusion restaurant called Filomex, blending traditional Filipino BBQ flavors with Central Mexican cuisine elements.
+
+    Write a fantasy scene involving a dragon negotiating peace between warring elven factions.
+
+```
