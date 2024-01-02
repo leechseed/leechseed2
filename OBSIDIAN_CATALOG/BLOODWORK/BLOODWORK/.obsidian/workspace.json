@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52300db997b053b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_entry 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f59dcc466f8850d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "d5ac97b98e79ac02",
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_inbox.md",
+                "file": "000_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_inbox.md",
+                "file": "000_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_inbox.md"
+                "file": "000_todo.md"
               }
             }
           }
@@ -185,10 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a01b460fafa3b2d",
+  "active": "9f59dcc466f8850d",
   "lastOpenFiles": [
-    "01_fabula.md",
+    "001_entry 01.md",
+    "000_todo.md",
     "00_inbox.md",
+    "01_fabula.md",
+    "009_assets",
     "Welcome.md"
   ]
 }
