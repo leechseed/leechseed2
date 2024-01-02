@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "a2d2f83d20463e66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "494f7e5929ff2f07",
             "type": "leaf",
             "state": {
@@ -32,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "943a38dcbca9e2c7",
@@ -176,7 +187,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -198,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1e8086e34ab9665",
+  "active": "a2d2f83d20463e66",
   "lastOpenFiles": [
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
