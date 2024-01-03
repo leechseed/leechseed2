@@ -31,7 +31,7 @@
 | subjectivity | The role of personal perspective and interpretation in understanding and analyzing narratives. |
 | three-layer framework | A narrative analysis model consisting of: Text (actual content including dialogue and descriptions), Story (the sequence of events, characters, setting, conflict, and resolution), and Narration (style and perspective of storytelling, narrative voice and stylistic choices). |
 
-
+![[Pasted image 20240103155359.png]]
 
 ## 2 The Narrator 
 ### **Narratology: Understanding the Narrative Agent and Narrator**
