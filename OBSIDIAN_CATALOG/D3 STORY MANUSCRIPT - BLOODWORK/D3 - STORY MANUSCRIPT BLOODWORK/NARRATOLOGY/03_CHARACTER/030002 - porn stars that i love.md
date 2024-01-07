@@ -1,0 +1,100 @@
+# porn stars and egirls who's aesthetic, attitude, performance, and demeanour are inspiring and would like to intertext
+
+# porn stars
+- Ava Taylor
+- Yhivi
+- Nina Hartley
+- lisa ann
+- sensi pearl
+- stoya
+- emily grey
+- bonnie rotten
+- Riley Reid
+- Yhivi*
+- Sensi pearl*
+- Dolly little*
+- Nina Hartley
+- **Aria Alexander**
+- **Ava taylor***
+- **Katrina jade**
+- **Katie morgan **
+- Honey gold
+- Adriana chechik
+- Janice Griffith
+- Jynx maze
+- Elsa jean
+- Deedee lynn
+- Wenona
+- Lucy Doll
+- Charlotte Sartre
+- kimmy granger
+- evelin claire
+- Jessica Drake
+- Leah Gotti
+- Aria ALexander
+- Reagan Foxx
+- Maitland Ward
+- Dolly Little
+- Yhivi
+- Ava Taylor
+- leah gotti
+- little caprise
+- lisa ann
+- stoya
+- emily grey
+- bonnie rotten
+- Riley Reid
+- Yhivi*
+- Sensi pearl*
+- Dolly little*
+- Nina Hartley
+- **Aria Alexander**
+- **Ava taylor***
+- **Katrina jade**
+- **Katie morgan **
+- Honey gold
+- Adriana chechik
+- Janice Griffith
+- Jynx maze
+- Elsa jean
+- Deedee lynn
+- Wenona
+- Lucy Doll
+- Charlotte Sartre
+- kimmy granger
+- evelin claire
+- Leah Gotti
+- Aria ALexander
+- Reagan Foxx
+- Dolly Little
+- Yhivi
+- Ava Taylor
+- leah gotti
+- Harlow Harrison
+- Sadie Pop
+- Skyler Valentine
+
+# e-girls
+- # The Greatest Egirls of All Time
+	- Belle Delphine
+	- Alice Delish
+	- Cherry Crush
+	- Shirogane Sama
+	- Amouranth
+	- Violet Summers
+	- Ari Maj
+	- Helly Valentine
+	- Emiru
+	- Waifu Mia
+	- Emma Langevin
+- ## In somewhat of an order of influence
+	- Belle Delphine
+	- Amouranth
+	- Julia and Lauren Burch (Gloom Egirls)
+	- MyCherryCrush
+	- Alice Delish
+	- Alyri
+	- Hannah OwO
+	- Waifu Mia
+	- Emma Langevin
+	- Emiru.

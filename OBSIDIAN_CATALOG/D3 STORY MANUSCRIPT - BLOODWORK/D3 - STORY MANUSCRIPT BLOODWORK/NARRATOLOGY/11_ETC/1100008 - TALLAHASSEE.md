@@ -1,0 +1,15 @@
+- # Tallahassee/Florida History Notes
+	- [wiki link](https://en.wikipedia.org/wiki/History_of_Tallahassee,_Florida)
+	- **Red Stick Creek** - the High School which used to be known as Red Hills
+	- Red Stick Creek is derived from the Native American history in North Florida
+	- ^^Idea^^
+	- The history of North Florida and the Southern United States is particularly interesting.
+	- It could be an incredible source for inspiration for the basis of the ongoing *forever project* which is the OxO/Sci-fi story.
+	- I believe there are basal story themes and beats that resonate deeply within the history itself.
+	- These themes and tropes are uniquely American which consequently  reverberate through to the global audience.
+	- I don't know where to start, but perhaps the best place could be way before the arrival of the Spanish.
+	- ^^An interesting take for the world origin mythos^^
+	- Combining the ideals of colonialism yet the need for survival, we can create a unique premise.
+	- Taking elements  such as
+	- Sci-fi extinction event
+	

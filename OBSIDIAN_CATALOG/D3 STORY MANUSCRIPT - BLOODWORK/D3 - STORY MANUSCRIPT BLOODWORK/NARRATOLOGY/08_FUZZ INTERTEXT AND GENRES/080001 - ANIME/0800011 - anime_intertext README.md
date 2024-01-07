@@ -1,0 +1,27 @@
+# A list of animes I have a deep connection to and wish to intertextualize those influences
+
+- Evangelion Series
+- Evanglion Remake Films
+- The End of Evangelion
+- Kill la Kill
+- FLCL
+- Haruhi Suzumiya
+- Kanon
+- Shuffle
+- One Punch Man
+- Attack on Titan
+- Space Dandy
+- Blood+
+- Gunslinger Girl
+- Deathnote
+- Eureka Seven
+- Samurai Champloo
+- Beck Mongolion Chop Squad
+- Clannad
+- Azu Manga Daioh
+- Kuro Makrua
+- Noir
+- Gundam: SEED
+- Gundam: Iron Blooded Orphans
+- Mezzo
+- Pokemon Season 1

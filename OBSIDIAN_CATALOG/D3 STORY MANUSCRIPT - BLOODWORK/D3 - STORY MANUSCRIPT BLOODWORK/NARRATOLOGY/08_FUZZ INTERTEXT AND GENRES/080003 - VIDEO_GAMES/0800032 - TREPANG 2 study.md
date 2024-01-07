@@ -1,0 +1,48 @@
+# trepang 2 study
+
+- # Trepang 2 gameplay notes
+	- weapons should be *highlighted* on the ground when dropped by enemies
+		- this goes doubly if low ammo is a feature of the game.
+	- *weapon customization* should keep the principle of *min/max* when outfitting accessories.
+		- there is an enemy that equipped a *laser sight* with a *suppressor*on a pistol.
+			- the *laser sight*
+				- + accuracy
+				- - stealth
+			- the *suppressor*
+				- - accuracy
+				- + stealth
+			- **according to the game's own rules, the accessories cancels each other's buffs**
+		- the simplest way to solve the illogical outfit is to only equip one or the other.
+		- another solution would involve complexifying the weapon accessory system as well as the weapon system. Either thru looter/shooter rarity exception mechanics or otherwise.
+	- The AI in the game feel *overly aggressive* however, this might just play into the whole *bullet time* feature
+		- I feel cyberpunk 2077 does a much better job at doing this
+	- The environment feels like the backrooms
+		- there isn't a clear direction in which to progress in
+		- every area looks like each other area and it makes it difficult to understand if I'm retreading ground
+		- Ultimately, it *affects immersion*
+	- The weapon handling is *very good*
+		- reload times on the weapons feel good
+		- 55.6 takes a lot longer to reload than 9mm, but it makes up for its higher damage output.
+		- The *interactions and handling with each weapon are designed with each one's specialized purpose*
+		- SMGs are fast reloading, high sustained rate of fire, but low accuracy at longer ranges, and runs thru ammo very fast.
+	- The game features melee combat actions and movement that are typically not included in similar FPS titles
+		- a flying kick
+		- a pistol whip or rifle butt movement
+		- a sliding kick
+	- The melee combat and player movement are *underdeveloped*
+		- To sprint, there is a delay to the speed increase, but there is no windup or momentum delay.
+			- Refer to Apex Legends for movement
+			- Even Cyberpunk 2077 kind of does it better.
+		- The kick lacks *punch* or *kinetic feedback* for the player.
+			- the kick feels like I'm floating and just throwing my leg in the air.
+			- Refer to how Cyberpunk animates punches and how it the game transmits impact and sensation thru the FOV
+			- And also, how contact, audio, environmental interactions play into the game feel.
+	- Overall, all of these small details culminate into an overarching issue with the game: The concepts of claustrophobic environment and high level of player movement clash with each each other philosophically.
+		- This phenomenon of design choice mismatch proliferates thru many aspects of the game.
+		- However, this does not take away from how fun it is really.
+		- What it does highlight, is how game design experience highly affects the outcome of a game whether it be a AAA studio or an indie development team.
+		- *Fit and Finish* ultimately are the true signals of expertise in the game industry. Mere understanding of concepts does not signal mastery.
+		- Unfortunately understanding how something works does not equate to elegant assembly of creative ideas found in design mastery.
+	- Music is fucking awesome though.
+	- Loading times are out of this world good
+	- There isn't any *ADS*, I wish there was ADS. It feels standard now for any game

@@ -1,0 +1,19 @@
+  
+- # Gurren Lagann patterns
+	- **Category:** Anime
+	- **Year:** 2007
+	- **Studio:** Studio GAINAX
+	- **Reason for Inclusion:**
+		- Pattern match studio - Studio Gainax
+		- pinnacle series of a studio I admired as a kid
+	-
+---
+	- ## 7 Year Time Skip
+		- ### Plot
+		- Plotting strategy meant to serve as a method of escalating conflict and intrigue
+		- A method of curing the ailment of mid-season slowdown or Act 2 shitshow
+		- The original plot is forwarded to the logical conclusion of each character
+		- Often further than what the audience or writer anticipates
+		- Warriors become leaders, children become teenagers, and starvation turns into prosperity
+		- ![image.png](../assets/image_1686877970240_0.png)
+-
