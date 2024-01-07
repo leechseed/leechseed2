@@ -1,0 +1,65 @@
+- # Prompt
+	- give me a numbered, highly detailed, and extensive procedure pipeline from initial idea to world premiere of a multi-million dollar budget blockbuster feature film created by a highly decorated oscar award winning professional film studio
+	- give me a numbered, highly detailed, and extensive procedure pipeline from initial idea to world release of a multi-million dollar budget AAA action video game created by a highly decorated record breaking award winning critically acclaimed professional video game studio
+- ## Sources of Total Design Pipeline dev
+	- Film
+	- Video Games
+	- Anime
+	- Photography
+	- Music
+	-
+- # Feature Film Pipeline
+	- Creating a multi-million dollar blockbuster involves many steps, from the initial concept to the world premiere. This process often takes years and involves hundreds, if not thousands, of people.
+	- ## 1. Idea Formation
+	- ### 1.1 Concept Development
+	- The process usually starts with a basic idea or concept. This could be an original idea, or it might be based on an existing work, such as a novel, a comic book, or a historical event.
+	- ## 2. Development
+	- ### 2.1 Treatment
+	- A "treatment" is produced. This is a document that outlines the basic concept of the film, often including character descriptions, a brief outline of the plot, and sometimes a breakdown of the scenes.
+	- ### 2.2 Scriptwriting
+	- A screenplay is written based on the treatment. This process can take months or even years and often involves many rewrites.
+	- ### 2.3 Financing
+	- The studio begins looking for financing for the film. This can come from a variety of sources, including the studio itself, outside investors, or pre-sales of the film to foreign distributors.
+	- ## 3. Pre-production
+	- ### 3.1 Hiring the Director
+	- A director is hired to oversee the creative aspects of the film. This person will have a significant impact on the final product.
+	- ### 3.2 Casting
+	- Actors are hired for the various roles in the film. This process can be lengthy and competitive.
+	- ### 3.3 Hiring the Crew
+	- A crew is hired to handle the technical aspects of filming, including cinematography, sound, set design, costume design, makeup, and special effects.
+	- ### 3.4 Location Scouting
+	- Locations for filming are chosen. This may involve traveling to different parts of the world.
+	- ### 3.5 Storyboarding
+	- The director and/or a storyboard artist will create visual representations of the script to guide the filming process.
+	- ### 3.6 Budget Finalizing
+	- A final budget is set based on the script, the cast, the locations, and other factors.
+	- ## 4. Production
+	- ### 4.1 Filming
+	- The actual filming of the movie takes place. This can take anywhere from a few weeks to several months, depending on the complexity of the film.
+	- ### 4.2 Daily Rushes
+	- The director and key production staff review the footage shot each day to ensure that they are satisfied with it.
+	- ## 5. Post-production
+	- ### 5.1 Editing
+	- The footage is edited into a cohesive film. This process can take several months and involves deciding on the best takes, arranging the scenes in the correct order, and ensuring that the film has a good pace and rhythm.
+	- ### 5.2 Visual Effects
+	- Special visual effects are added if necessary. This could involve anything from simple wire removal to creating entire characters or environments digitally.
+	- ### 5.3 Sound Design and Scoring
+	- Sound effects are added, and the musical score is recorded. The film is also dubbed into other languages for international release.
+	- ### 5.4 Test Screenings
+	- The film is screened for select audiences to gather feedback. Changes may be made based on this feedback.
+	- ## 6. Marketing and Distribution
+	- ### 6.1 Trailer and Poster Creation
+	- A trailer and poster for the film are created and released to build anticipation for the film.
+	- ### 6.2 Press Tour
+	- The cast and crew participate in interviews and appearances to promote the film.
+	- ### 6.3 Distribution
+	- The film is distributed to theaters. This involves making and shipping thousands of copies of the film.
+	- ## 7. Premiere and Release
+	- ### 7.1 Premiere
+	- The film has its official premiere. This is often a red-carpet event with the cast, crew, and other celebrities in attendance.
+	- ### 7.2 Wide Release
+	- The film is released in theaters worldwide. Box office performance is closely watched and will influence the future of the film, including potential sequels.
+	- ### 7.3 Home Media and Streaming Release
+	- After a few months, the film is released for home viewing on DVD, Blu-ray, and streaming platforms.
+	- Creating a blockbuster film is a massive undertaking, but with the right team and resources, it can lead to a truly memorable piece of cinema.
+-

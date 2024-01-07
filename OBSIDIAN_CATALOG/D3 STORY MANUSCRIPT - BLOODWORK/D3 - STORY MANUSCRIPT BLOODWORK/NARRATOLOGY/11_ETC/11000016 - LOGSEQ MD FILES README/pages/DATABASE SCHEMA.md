@@ -1,0 +1,1283 @@
+  public:: true
+  
+- [renpy data schema](https://rentry.co/dataschema)
+- *This is a repo for collecting and developing the archetypal database schema for leechseed* progressive logistics
+- # The Narrative Pattern Catalog Schema
+  collapsed:: true
+	- *The highest order of patterns found intertextually in a multitude of mediums. *
+	- ## **The Highest Orders are known as Media Types**
+	- **Kraftwork -** Art mediums that serve as the controlling nodes of inspiration for me.
+	-
+---
+	- # CRAFTWERKS
+	- ## Literature
+	- ## Video
+	- ## Audio
+		- ## Music
+		- ## Sound
+	- ## Image
+		- ## Visual Art
+		- ## Photography
+	- ## Simulation
+		- ## Digital Game Simulation
+		- ## Analog Game Simulation
+	- ## Documentation Schema
+		- ## Screen Deck (Script Breakdown)
+-
+---
+- # Literature/Litcox Schema
+	- ## Tables
+		- 01 THEME
+		- 02 PLOT
+		- 03 CHARACTER
+		- 04 SETTING
+		- 05 EQUIPOSE
+		- 06 OUTBOUND LINGUISTICS
+		- 07 INTRABOUND COMMUNICATIONS
+		- 08 FUZZY CLASSIFIER
+		- Plot
+		- Character
+		- Setting
+		- Theme
+		- Equipoise (Conflict)
+			-
+		- Structure
+		- Outbound Linguistic Systems
+			- Point of View
+			- Expressive Nature (style)
+			- Tone
+			- Narrative Devices
+				- Symbolism
+				- Imagery
+				- Irony
+				- Allusion
+				- Foreshadowing
+		- Intrabound Communications (Dialogue)
+		- Fuzzy Classifier (Genre)
+		-
+---
+		- **Plot**: The plot refers to the sequence of events that occur in a story. It typically includes an exposition (introduction of characters and setting), rising action, climax (turning point or highest point of tension), falling action, and resolution.
+		- **Character**: Characters are the individuals or entities that drive the story. They can be fictional or based on real people, and they possess various traits, motivations, and relationships that shape their actions and development.
+		- **Setting**: The setting encompasses the time, place, and social context in which the story takes place. It helps establish the atmosphere, mood, and background against which the events unfold.
+		- **Theme**: The theme represents the central idea or message explored in a literary work. It often addresses universal concepts, such as love, power, justice, or the human condition, and provides insight into the deeper meaning of the story.
+		- **Point of View**: Point of view refers to the perspective from which the story is told. It can be first person (narrator uses "I"), second person (narrator uses "you"), or third person (narrator uses "he," "she," or "they"). The choice of point of view influences the reader's understanding and interpretation of events.
+		- **Style**: Style encompasses the author's distinctive manner of writing, including the use of language, literary devices, and sentence structure. It contributes to the overall tone, mood, and aesthetic quality of the work.
+		- **Symbolism**: Symbolism involves the use of objects, characters, or events to represent abstract ideas or concepts. Symbols often carry deeper meanings beyond their literal interpretation and can enhance the thematic and emotional depth of a literary work.
+		- **Tone**: Tone refers to the attitude or mood conveyed by the author in their writing. It can be serious, humorous, ironic, melancholic, or any other emotional quality that shapes the reader's response.
+		- **Conflict**: Conflict represents the struggle or tension between opposing forces in a story. It can be internal (within a character's mind) or external (between characters or with the environment) and serves to drive the plot and create dramatic interest.
+		- **Imagery**: Imagery involves the use of vivid and descriptive language to create mental images and sensory experiences for the reader. It appeals to the senses and helps establish a more immersive and evocative reading experience.
+		- **Structure**: Structure refers to the organization and arrangement of a literary work. It includes elements such as chapters, sections, or stanzas, as well as the overall narrative or poetic structure. Examining the structure can offer insights into the author's intentions and the impact on the reader's experience.
+		- **Language and Word Choice**: The specific language used by the author, including vocabulary, syntax, and figurative language, contributes to the style and tone of the work. Word choice can evoke emotions, create imagery, establish atmosphere, and enhance the overall impact of the writing.
+		- **Dialogue**: Dialogue represents the spoken or written conversation between characters. It serves multiple purposes, such as revealing characterization, advancing the plot, conveying information, and providing insight into relationships and conflicts.
+		- **Irony**: Irony involves a contrast between what is expected or intended and what actually occurs. It can take various forms, including situational irony (when the outcome differs from expectations), verbal irony (when words convey a meaning opposite to their literal sense), or dramatic irony (when the audience knows something the characters do not).
+		- **Allusion**: Allusion refers to the indirect or brief reference to a person, place, event, or work of art outside the immediate text. It enriches the meaning of the story by drawing on shared cultural knowledge or inviting the reader to make connections with other literary or historical works.
+		- **Foreshadowing**: Foreshadowing involves the use of hints, clues, or suggestions about future events in the story. It builds anticipation and prepares the reader for what is to come, adding suspense and deeper layers of meaning.
+		- **Tone**: While mentioned earlier, tone deserves further consideration. It encompasses the author's attitude or perspective toward the subject matter or characters. Tone influences the reader's emotional response and can range from serious, humorous, ironic, sarcastic, or sympathetic.
+		- **Genre**: Genre refers to the category or classification of a literary work based on its form, content, and style. Examples of literary genres include poetry, drama, fiction, non-fiction, mystery, romance, science fiction, and many others. Each genre has its own conventions and expectations.
+	- ### Variables
+		- Plot
+			- Exposition: The introduction of the characters, setting, and basic situation.
+			- Rising Action: Events leading up to the climax, where conflict is introduced.
+			- Climax: The turning point of the story, usually the most intense moment.
+			- Falling Action: The events that occur after the climax.
+			- Resolution/Denouement: The conclusion, where all loose ends are tied up.
+		- Character
+			- Protagonist: The main character around whom the story revolves.
+			- Antagonist: The character who opposes the protagonist.
+			- Dynamic Characters: Characters who undergo significant changes throughout the story.
+			- Static Characters: Characters who remain the same throughout the story.
+			- Round Characters: Well-developed characters with multiple traits.
+			- Flat Characters: Characters with only one or two distinguishing characteristics.
+		- Setting
+			- Physical Setting: The actual geographical location, landscape, buildings, etc.
+			- Temporal Setting: The time period in which the story occurs.
+			- Cultural/Social Context: The traditions, societal standards, and cultural aspects of the setting.
+		- Theme
+			- Major Theme: The most significant idea of the story.
+			- Minor Theme: Other less prominent ideas that support the major theme.
+		- Point of View
+			- First Person: The narrator is a character in the story.
+			- Third Person Limited: The narrator is not a character and only knows the thoughts and feelings of one character.
+			- Third Person Omniscient: The narrator knows the thoughts and feelings of all characters.
+		- Style
+			- Diction: Word choice.
+			- Syntax: Sentence structure.
+			- Tone: The author's attitude towards the subject.
+			- Mood: The atmosphere or feeling created by the text.
+		- Symbolism
+			- Conventional Symbols: Symbols that are generally recognized by many people.
+			- Contextual or Authorial Symbols: Symbols that may have a different meaning based on the context of the story.
+		- Tone
+			- Joyful
+			- Sad
+			- Ironic
+			- Pessimistic
+			- Optimistic
+		- Conflict
+			- Internal Conflict: A struggle that occurs within a character.
+			- External Conflict: A struggle that occurs between a character and outside forces.
+		- Imagery
+			- Visual Imagery: Descriptions that create visual images.
+			- Auditory Imagery: Descriptions that create sounds.
+			- Olfactory Imagery: Descriptions that deal with smell.
+			- Tactile Imagery: Descriptions of touch or texture.
+			- Gustatory Imagery: Descriptions relating to taste.
+		- Structure
+			- Linear Structure: Events occur in a chronological order.
+			- Non-linear Structure: Events do not occur in a chronological order.
+			- Framed Structure: A story within a story.
+		- Language and Word Choice
+			- Formal Language: Standard and sophisticated language.
+			- Informal Language: Casual language.
+			- Colloquial Language: Regional or cultural dialect.
+		- Dialogue
+			- Internal Dialogue: Thoughts of a character.
+			- Spoken Dialogue: Conversations between characters.
+			- Indirect Dialogue: Summarized or reported speech.
+		- Irony
+			- Verbal Irony: When the speaker says something contradictory to what they mean.
+			- Situational Irony: When the opposite of what is expected occurs.
+			- Dramatic Irony: When the audience knows something the characters do not.
+		- Allusion
+			- Literary Allusion: Reference to another piece of literature.
+			- Historical Allusion: Reference to a historical event.
+			- Cultural Allusion: Reference to a cultural practice or popular culture.
+		- Foreshadowing
+			- Direct Foreshadowing: Clear hints about what will happen.
+			- Indirect Foreshadowing: Subtle hints about what will happen.
+		- Genre
+			- Fiction: Made-up stories.
+			- Non-fiction: Based on true stories or facts.
+			- Fantasy: Stories involving magic or supernatural elements.
+			- Science Fiction: Stories based on advanced science and technology.
+			- Mystery: Stories involving unsolved crimes or questions.
+			- Horror: Stories intended to scare or unsettle.
+			- Romance: Stories focusing on relationships and love.
+- # Video Schema
+  collapsed:: true
+	- ## Tables
+		- Plot
+		- Characters
+		- Setting
+		- Theme
+		- Cinematography
+		- Editing
+		- Sound and Music
+		- Acting
+		- Directing
+		- Production Design
+		- Genre
+		- Screenplay
+		- Visual Effects (VFX)
+		- Sound Design
+		- Cinematic Language
+		- Symbolism
+		- Narrative Structure
+		- Cultural and Historical Context
+		- Reception and Audience Interpretation
+		-
+---
+		- Plot: The plot of a film refers to the sequence of events that unfold, including the main storyline, subplots, and narrative structure. It encompasses the beginning, middle, and end of the story.
+		- Characters: Characters in film are the individuals or entities that drive the story. They can be portrayed by actors and can possess various traits, motivations, and relationships. Characters bring the story to life and engage the audience emotionally.
+		- Setting: The setting of a film includes the time, place, and environment in which the story takes place. It provides the backdrop for the events, establishes the atmosphere, and contributes to the visual aesthetic of the film.
+		- Theme: The theme of a film represents the underlying message or central idea explored in the story. Themes can be social, moral, political, or philosophical in nature and provide deeper meaning and resonance to the film.
+		- Cinematography: Cinematography encompasses the visual elements of a film, including camera angles, shot composition, lighting, color palette, and overall visual style. It is the art of capturing and framing the images that make up the film.
+		- Editing: Editing involves the process of selecting, arranging, and manipulating the shots and scenes of a film to create a coherent and compelling narrative. It includes the pacing, transitions, and overall structure of the film.
+		- Sound and Music: Sound and music play a crucial role in film. Sound design, including dialogue, ambient sounds, and sound effects, enhances the realism and atmosphere. Music, whether it is a score or licensed tracks, contributes to the emotional impact and sets the tone of the film.
+		- Acting: Acting is the portrayal of characters by actors. It involves the interpretation and embodiment of the characters' personalities, emotions, and motivations. Acting brings depth and authenticity to the film.
+		- Directing: Directing encompasses the overall vision and creative decisions made by the director. The director guides the actors, visualizes the film, and oversees the technical aspects to bring the story to life.
+		- Production Design: Production design involves the creation of the film's visual environment, including the sets, costumes, props, and overall art direction. It contributes to the film's aesthetic and helps convey the story and characters.
+		- Genre: Genre refers to the categorization of films based on their subject matter, style, and conventions. Examples of film genres include drama, comedy, action, romance, science fiction, horror, and many more. Genre provides a framework for audience expectations and influences narrative structures, themes, and visual styles.
+		- Screenplay: The screenplay is the written script that serves as the blueprint for the film. It includes the dialogue, action descriptions, and scene directions. The screenplay guides the production process and serves as the foundation for the final film.
+		- Visual Effects (VFX): Visual effects encompass the use of computer-generated imagery (CGI) and other techniques to create visual elements that cannot be achieved through practical means. VFX enhance the film's visual impact, allowing for the creation of fantastical worlds, creatures, or extraordinary events.
+		- Sound Design: Sound design involves the intentional use and manipulation of sound elements, including dialogue, music, sound effects, and ambient noise, to enhance the narrative, atmosphere, and emotional impact of the film. It encompasses the artistic arrangement of sounds and their relationship to the visuals.
+		- Cinematic Language: Cinematic language refers to the visual and audio techniques used in film to convey meaning and evoke emotions. This includes camera movements, framing, composition, lighting, editing techniques, and the rhythm of shots. Cinematic language shapes the film's style, mood, and storytelling.
+		- Symbolism: Symbolism in film involves the use of visual and narrative elements to represent abstract ideas, themes, or emotions. Symbols can be objects, colors, gestures, or recurring motifs that carry deeper meanings beyond their literal representation, adding layers of interpretation to the film.
+		- Narrative Structure: Narrative structure refers to the organization and arrangement of the film's plot and storytelling elements. This can include linear or non-linear storytelling, multiple timelines, flashbacks, or parallel narratives. The narrative structure shapes the audience's engagement and understanding of the story.
+		- Cultural and Historical Context: Films can reflect and respond to the cultural, social, and historical contexts in which they are produced. They may address specific events, societal issues, or cultural perspectives, providing commentary or capturing a particular era's spirit or values.
+		- Reception and Audience Interpretation: The way a film is received and interpreted by audiences is an essential element of its impact and significance. Audience reactions, interpretations, and critical analyses contribute to the film's cultural relevance and influence.
+	- ### Variables
+		- Plot
+			- Introduction: The initial part of the story where characters and the setting are presented.
+			- Rising Action: The development of conflicts and complications in the story.
+			- Climax: The peak of the story where main conflicts are confronted.
+			- Falling Action: The winding up of the story where conflicts start to resolve.
+			- Conclusion: The final wrapping up of the story, providing a resolution.
+		- Characters
+			- Protagonist: The main character that the story revolves around.
+			- Antagonist: The character or force that opposes the protagonist.
+			- Supporting Characters: Other characters who help move the plot along but are not the main focus.
+			- Character Arcs: The transformation or inner journey of a character over the course of a story.
+		- Setting
+			- Geographical Location: The physical place where the film is set.
+			- Period Setting: The time period in which the film is set.
+			- Socio-Economic Setting: The societal and economic background of the film's setting.
+		- Theme
+			- Central Theme: The main idea or underlying message of the film.
+			- Sub-Theme: Secondary ideas that support and expand the central theme.
+		- Cinematography
+			- Camera Angles: The angle at which the subject is shot, such as low, high, or Dutch angles.
+			- Camera Movement: How the camera moves, such as pans, tilts, tracks, and zooms.
+			- Lighting: How light and shadow is used to create a mood or atmosphere.
+			- Framing: How the subjects and objects are arranged within the frame.
+		- Editing
+			- Continuity Editing: Editing that creates a smooth, coherent narrative flow.
+			- Montage: A sequence of shots edited into a sequence to condense space, time, and information.
+			- Transition: The way one shot changes to the next.
+			- Pace: The speed at which the sequence of shots or scenes progress.
+		- Sound and Music
+			- Diegetic Sound: Sound that originates from the world of the film, such as dialogue or environmental sounds.
+			- Non-Diegetic Sound: Sound that does not come from the film's world, such as score music or a narrator's voice.
+			- Sound Effects: Specific sounds used to represent what's happening onscreen, like footsteps, doors slamming, etc.
+			- Score or Soundtrack: The music that accompanies the film.
+		- Acting
+			- Lead Role: The main characters of the film.
+			- Supporting Role: Characters who support the main characters.
+			- Character Performance: The portrayal of the character's personality and emotions.
+			- Physical Performance: The use of body language, facial expressions, and physical movement.
+		- Directing
+			- Artistic Vision: The unique perspective and style the director brings to the film.
+			- Collaboration: Working with the film's cast and crew to achieve the film's vision.
+			- Staging: The arrangement of actors and scenery in a scene.
+		- Production Design
+			- Sets: The physical environments where the film is shot.
+			- Props: The objects used by actors in the film.
+			- Costumes: The clothes worn by actors in the film.
+			- Makeup and Hairstyling: The looks created for actors to fit their characters.
+		- Genre
+			- Drama: Films that focus on serious, dramatic narratives.
+			- Comedy: Films intended to make the audience laugh.
+			- Horror: Films meant to evoke fear.
+			- Romance: Films that focus on love stories.
+			- Action: Films characterized by exciting sequences and events.
+			- Science Fiction: Films dealing with speculative concepts, futuristic settings, space travel, etc.
+		- Screenplay
+			- Dialogue: The words spoken by characters.
+			- Action: The physical events described in the script.
+			- Structure: The way the script is organized into acts, sequences, and scenes.
+			- Character Development: How characters evolve throughout the script.
+		- Visual Effects (VFX)
+			- CGI: Computer-generated imagery used to create or enhance scenes.
+			- Practical Effects: Physical effects created on set, like explosions or makeup prosthetics.
+			- Compositing: The combination of multiple visual elements into one scene.
+		- Sound Design
+			- Foley: The reproduction of everyday sound effects added in post-production.
+			- ADR: Automated dialogue replacement, used to re-record dialogue in post-production.
+			- Sound Mixing: The process of adjusting and combining the different sound elements.
+		- Cinematic Language
+			- Shot: The basic unit of filmmaking.
+			- Scene: A series of shots that take place in a specific time and place.
+			- Sequence: A series of scenes that form a distinct narrative unit.
+			- Mise-en-scene: The arrangement of everything that appears in the framing.
+		- Symbolism
+			- Motifs: Recurring elements that have symbolic significance.
+			- Metaphors: A thing or idea used to represent something else.
+			- Allegory: A narrative that serves as an extended metaphor.
+		- Narrative Structure
+			- Linear: The story is told in chronological order.
+			- Non-linear: The story is told out of order.
+			- Circular: The story ends where it begins.
+		- Cultural and Historical Context
+			- Period Accuracy: The accuracy of the film's depiction of a certain time period.
+			- Cultural Representation: How cultures are represented in the film.
+			- Social Commentary: The film's commentary on societal issues.
+		- Reception and Audience Interpretation
+			- Critical Reception: How film critics respond to the film.
+			- Box Office Performance: How well the film does financially.
+			- Audience Reviews: What general audiences think about the film.
+			- Awards and Nominations: The formal recognitions the film receives.
+- # Audio Schema
+  collapsed:: true
+	- # Music
+		- ## Tables
+			- Pitch
+			- Melody
+			- Harmony
+			- Rhythm
+			- Timbre
+			- Dynamics
+			- Texture
+			- Form
+			- Scales and Modes
+			- Key and Tonality
+			- Notation
+			- Musical Terms and Symbols
+			- Intervals
+			- Chord Progressions
+			- Cadences
+			- Counterpoint
+			- Ornamentation
+			- Modes
+			- Transposition
+			- Analysis
+			-
+---
+				- **Pitch**: Pitch refers to the perceived highness or lowness of a musical sound. It is determined by the frequency of sound vibrations and is represented by musical notation on a staff.
+				- **Melody**: Melody is a sequence of pitches played or sung in a particular rhythm. It is the main musical idea or theme that carries a tune and is often memorable and expressive.
+				- **Harmony**: Harmony is the combination of multiple pitches played or sung simultaneously, creating chords, chord progressions, and tonal relationships. Harmony provides the vertical aspect of music, supporting the melody and adding depth and richness to the overall sound.
+				- **Rhythm**: Rhythm is the organization of sounds and silences in time. It includes elements such as beat, tempo, meter, and rhythmic patterns, which establish the pulse and groove of the music.
+				- **Timbre**: Timbre refers to the quality or tone color of a sound. It distinguishes one instrument or voice from another and contributes to the overall texture and character of the music.
+				- **Dynamics**: Dynamics refer to the variations in volume or intensity within a piece of music. They include markings such as pianissimo (very soft), forte (loud), crescendo (gradually getting louder), and decrescendo (gradually getting softer).
+				- **Texture**: Texture describes the relationship between different musical parts or voices within a composition. It can be monophonic (single melody line), homophonic (melody with accompanying chords), or polyphonic (multiple independent melodies occurring simultaneously).
+				- **Form**: Form refers to the overall structure or organization of a musical composition. It encompasses elements such as repetition, variation, contrast, and the arrangement of musical sections or movements.
+				- **Scales and Modes**: Scales are sequences of pitches organized in ascending or descending order. They provide the foundation for melodies and harmonies. Modes are specific scale patterns with distinct tonal characteristics.
+				- **Key and Tonality**: Key refers to the tonal center or home pitch of a piece of music. Tonality refers to the organization of music around a specific key, providing a sense of stability and coherence.
+				- **Notation**: Notation is the system of written symbols and musical notation used to represent music on paper. It includes staffs, clefs, notes, rests, time signatures, and other symbols that communicate pitch, duration, and other musical elements.
+				- **Musical Terms and Symbols**: Music theory involves the understanding and interpretation of various musical terms and symbols used to describe and annotate music. This includes markings for dynamics, articulation, tempo, expressions, and other musical instructions.
+				- **Intervals**: Intervals are the distance between two pitches. They are named according to their size, such as a major second, perfect fifth, or minor seventh. Intervals play a role in melodic and harmonic relationships within music.
+				- **Chord Progressions**: Chord progressions are sequences of chords that follow a specific pattern or sequence. They form the harmonic framework of a piece of music and contribute to its mood and tonal stability.
+				- **Cadences**: Cadences are melodic or harmonic patterns that signify the end of a phrase, section, or piece of music. They provide a sense of resolution or closure and can be classified as authentic, plagal, deceptive, or other types.
+				- **Counterpoint**: Counterpoint is the art of combining two or more independent melodic lines that are harmonically interdependent yet rhythmically and melodically distinct. It is particularly studied in the context of contrapuntal compositions.
+				- **Ornamentation**: Ornamentation involves embellishments and decorative elements added to a melody or musical passage. These embellishments include trills, turns, grace notes, and other melodic decorations that enhance the expressiveness and interpretation of the music.
+				- **Modes**: Modes are scales that differ from the standard major and minor scales. They have unique patterns of whole and half steps, resulting in distinct tonal qualities. Examples include the Dorian, Phrygian, and Mixolydian modes.
+				- **Transposition**: Transposition is the process of shifting a piece of music to a different key while maintaining the same relative interval relationships. It allows musicians to perform a piece in a different key without changing the overall structure or relationships between the notes.
+				- **Analysis**: Analysis involves studying and breaking down a piece of music to understand its structure, harmonic progressions, melodic motifs, and other compositional elements. Various analytical techniques, such as chord analysis and formal analysis, are used to dissect and interpret music.
+		- ## Variables
+			- Pitch
+				- Note Frequency: The specific pitch of a note, determined by its frequency.
+				- Note Naming: The system for naming notes (e.g., A, B, C in the English system).
+				- Octaves: The division of the range of pitches into groups of notes with the same name.
+				- Microtones: Intervals smaller than a semitone, found in some non-Western musics and contemporary compositions.
+			- Melody
+				- Motif: A short, memorable melodic fragment.
+				- Phrase: A unit of melody somewhat analogous to a sentence in language.
+				- Sequence: Repetition of a melodic phrase at different pitch levels.
+				- Theme: A central melody that is developed and recurs in a piece of music.
+			- Harmony
+				- Chords: The simultaneous sounding of multiple pitches.
+				- Chord Qualities: The "type" of a chord (major, minor, diminished, etc.)
+				- Consonance and Dissonance: The perceived stability or tension of a group of pitches.
+				- Voice Leading: The ways in which individual voices or lines move from one chord to another.
+			- Rhythm
+				- Beat: The underlying pulse of a piece of music.
+				- Meter: The pattern of beats, usually organized into measures.
+				- Syncopation: Rhythmic figures that emphasize off-beat or weak portions of the meter.
+				- Poly-rhythm: The use of two or more conflicting rhythmic patterns simultaneously.
+			- Timbre
+				- Instrumentation: The use of specific instruments or voices.
+				- Overtones: The secondary pitches that contribute to the color or timbre of a note.
+				- Attack and Decay: How a note begins and ends, which can affect timbre.
+				- Electronic Manipulation: Changes in timbre due to electronic effects or processing.
+			- Dynamics
+				- Volume Levels: The loudness or softness of a note or passage.
+				- Crescendo/Decrescendo: Gradual increases or decreases in volume.
+				- Accent: Emphasizing certain notes with increased volume.
+				- Dynamic Markings: Notations in the score indicating volume (pp, p, mp, mf, f, ff).
+			- Texture
+				- Monophony: Music with a single melodic line.
+				- Polyphony: Music with multiple independent melodic lines.
+				- Homophony: Music with a primary melody and accompaniment.
+				- Heterophony: Multiple performers playing the same melody, but with slight variations.
+			- Form
+				- Binary Form: A form comprised of two contrasting sections, often labeled A and B.
+				- Ternary Form: A form with three sections, often labeled ABA.
+				- Sonata Form: A complex form often used in the first movement of a sonata or symphony.
+				- Theme and Variations: A form that presents a theme and then modifies it in successive statements.
+			- Scales and Modes
+				- Major/Minor Scales: The most common scales in Western music.
+				- Pentatonic Scales: Five-note scales common in many global music traditions.
+				- Modes: Specific scalar patterns with unique tonal characteristics (Dorian, Phrygian, etc.).
+				- Chromatic Scale: The 12-pitch scale encompassing all semitones.
+			- Key and Tonality
+				- Major/Minor Keys: The keys based on the major and minor scales.
+				- Key Signature: The collection of sharps or flats at the beginning of a piece indicating the key.
+				- Modulation: The process of changing from one key to another.
+				- Atonality: Music that avoids a sense of key or tonality.
+			- Notation
+				- Staff: The five lines on which music is written.
+				- Clefs: Symbols at the beginning of a staff indicating the pitch range.
+				- Notes and Rests: Symbols representing musical sounds and silences.
+				- Time Signature: The symbol at the beginning of a piece indicating the meter.
+			- Musical Terms and Symbols
+				- Italian Terms: Many musical terms are in Italian (andante, forte, etc.).
+				- Articulation Marks: Symbols indicating how to perform a note (staccato, legato, etc.).
+				- Repeat Signs: Symbols indicating portions of the music to repeat.
+				- Ornamentation Symbols: Indications for trills, turns, and other embellishments.
+			- Intervals
+				- Naming: The system for identifying intervals (unison, second, third, etc.).
+				- Quality: The "type" of an interval (major, minor, perfect, etc.).
+				- Inversion: Flipping the order of notes in an interval.
+				- Enharmonic Equivalents: Intervals that sound the same but are written differently.
+			- Chord Progressions
+				- Standard Progressions: Common sequences of chords (like ii-V-I).
+				- Modulation: Changes in key achieved through chord progressions.
+				- Cadences: Chord progressions that give a sense of resolution.
+				- Harmonic Rhythm: The pace at which the harmony or chords change.
+			- Cadences
+				- Authentic Cadence: A cadence from V to I (or vii° to I, or V to i, etc.).
+				- Plagal Cadence: A cadence from IV to I.
+				- Deceptive Cadence: A cadence from V to a chord other than I (often vi).
+				- Half Cadence: A cadence ending on the V chord.
+			- Counterpoint
+				- Voice Independence: The individuality of each voice in a polyphonic texture.
+				- Contrapuntal Motion: The ways in which two voices can move relative to each other.
+				- Fugue: A complex form of counterpoint involving a theme stated in multiple voices.
+				- Canon: A form of counterpoint in which one voice exactly imitates another.
+			- Ornamentation
+				- Trills: Rapid alternation between a note and the note above.
+				- Mordents: Rapid alternation between a note and the note below.
+				- Turns: A figure that surrounds a note with the notes above and below.
+				- Grace Notes: Extra notes added as embellishment, not essential to the melody.
+			- Modes
+				- Church Modes: The medieval modes (Dorian, Phrygian, etc.).
+				- Modal Jazz: Jazz that uses modes instead of chord progressions for improvisation.
+				- Modal Mixture: The use of modes to "color" music in a major or minor key.
+				- Non-Western Modes: The use of modes in non-Western music traditions.
+			- Transposition
+				- By Octave: Moving a piece up or down in pitch by one or more octaves.
+				- By Key: Changing the key of a piece.
+				- Instrument Transposition: Some instruments (like Bb clarinet) automatically transpose music.
+				- Enharmonic Transposition: Changing the spelling of notes without changing their sound.
+			- Analysis
+				- Form Analysis: Understanding the structural layout of a piece.
+				- Harmonic Analysis: Identifying chords and key centers.
+				- Rhythmic Analysis: Looking at the rhythmic structure and patterns.
+				- Stylistic Analysis: Looking at how a piece fits into the context of its time and place.
+	- # Sound
+		- ## Tables
+			- Source
+			- Recording or Synthesis
+			- Editing
+			- Timing and Sync
+			- Manipulation and Processing
+			- Context and Association
+			- Layering and Mixing
+			- Integration and Implementation
+			- Spatial Placement
+			- Organization and Cataloging
+			- Foley
+			- Variation and Layering
+			- Emotional Impact
+			- Impact and Impulse
+			- Foley Props and Recording Techniques
+			- Ambience and Background Sounds
+			- Genre and Style Considerations
+			- Interactivity and Dynamic Sound Effects
+			- Compression and Equalization
+			- Licensing and Copyright
+			-
+---
+			- **Source**: The source refers to the object, event, or action that produces the sound effect. It could be a real-world object, such as a door slamming, or a fictional element, like a laser beam.
+			- **Recording or Synthesis**: Sound effects can be created through either recording real-world sounds or synthesizing them using software or electronic means. Recording involves capturing sounds using microphones, while synthesis involves generating sounds using sound design tools and techniques.
+			- **Editing**: Sound effects often undergo editing processes to refine and manipulate the recorded or synthesized audio. Editing may involve cutting, rearranging, layering, and modifying the sound files to achieve the desired effect.
+			- **Timing and Sync**: Sound effects are precisely timed and synchronized to match the visual or narrative elements they are enhancing. This ensures that the sound effect aligns seamlessly with the action or event on-screen or in the media.
+			- **Manipulation and Processing**: Sound effects can undergo various manipulations and processing techniques to alter their characteristics. This can include adjusting the pitch, volume, duration, and spatial positioning of the sound, as well as applying effects like reverberation, distortion, filtering, and modulation.
+			- **Context and Association:** Sound effects are designed to evoke specific emotions, set the atmosphere, or create a sense of realism or fantasy within a particular context. They are carefully crafted to match the intended association or perception in the audience's mind.
+			- **Layering and Mixing:** Multiple sound effects can be layered together and mixed with other audio elements, such as dialogue, music, and background ambience. Layering and mixing help create a cohesive soundscape and blend the sound effects seamlessly into the overall audio mix.
+			- **Integration and Implementation**: Sound effects are integrated and implemented into the media or interactive medium in which they will be heard. This involves incorporating the sound effects into the audio engine or software, synchronizing them with the visual elements, and ensuring they function as intended within the overall audio system.
+			- **Spatial Placement**: Sound effects can be positioned in the stereo or surround sound field to create a sense of directionality and spatial awareness. This helps enhance the immersion and realism of the audio experience, particularly in multimedia productions or interactive media.
+			- **Organization and Cataloging**: Sound effects libraries are curated and organized collections of categorized and tagged sound effects. Cataloging helps sound designers and editors quickly locate and access the appropriate sound effect for a given project or scene.
+			- **Foley**: Foley is the art of recording and creating sound effects through the physical actions of performing various movements and interactions with objects. Foley artists use props and surfaces to replicate sounds that enhance the realism of the visuals.
+			- **Variation and Layering**: Sound effects can be varied and layered to create depth, realism, and complexity. Multiple variations of a sound effect may be recorded or synthesized, allowing for different intensities, perspectives, or variations to be utilized based on the context or desired effect.
+			- **Emotional Impact**: Sound effects are designed to evoke emotional responses in the audience. By selecting or creating sounds that convey specific emotions, such as fear, excitement, sadness, or joy, sound effects enhance the narrative and overall impact of the media.
+			- **Impact and Impulse**: Sound effects often feature impactful moments or impulses that emphasize significant actions or events. These include explosions, crashes, punches, or other sudden and intense sounds that grab the audience's attention and add emphasis to the visual or narrative elements.
+			- **Foley Props and Recording Techniques**: Foley relies on various props and specialized recording techniques to capture specific sounds. These may include using different types of shoes for footsteps, manipulating objects to create unique sounds, or employing specific microphones and recording setups to capture desired qualities.
+			- **Ambience and Background Sounds**: Ambience and background sounds help establish the acoustic environment and mood of a scene. They include elements such as room tone, nature sounds, crowd noises, or specific environmental sounds that immerse the audience and enhance the realism of the setting.
+			- **Genre and Style Considerations**: Sound effects can vary depending on the genre or style of the media. Different genres may require specific sound design choices and approaches to suit the thematic elements and audience expectations.
+			- **Interactivity and Dynamic Sound Effects**: In interactive media, sound effects can respond to user actions or changes in the environment. Dynamic sound effects adapt and change based on gameplay events or user input, adding an interactive and responsive element to the audio experience.
+			- **Compression and Equalization**: Sound effects may undergo compression and equalization during the mixing and mastering process. These techniques help balance the levels, shape the frequency response, and ensure the sound effects sit well within the overall audio mix.
+			- **Licensing and Copyright**: Sound effects may be subject to licensing and copyright regulations. Proper attribution and usage rights must be considered when incorporating sound effects into commercial projects, ensuring compliance with legal and ethical considerations.
+		- ## Variables
+			- Source
+				- Acoustic Sources: Natural sounds captured by microphones.
+				- Electronic Sources: Sounds generated by electronic devices.
+				- Synthetic Sources: Sounds created through digital synthesis.
+				- Sampled Sources: Pre-recorded sounds used as source material.
+			- Recording or Synthesis
+				- Field Recording: Capturing sounds in their natural environment.
+				- Studio Recording: Recording sounds in a controlled environment.
+				- Analog Synthesis: Creating sounds using analog electronic devices.
+				- Digital Synthesis: Creating sounds using computer algorithms.
+			- Editing
+				- Trimming: Removing unwanted parts of a sound recording.
+				- Arranging: Positioning sound clips in time.
+				- Time Stretching: Changing the duration of a sound without changing its pitch.
+				- Pitch Shifting: Changing the pitch of a sound without changing its duration.
+			- Timing and Sync
+				- Beat Synchronization: Aligning sounds to a rhythmic grid.
+				- Sync to Picture: Aligning sounds to visual elements in film or video.
+				- Temporal Effects: Delays, echoes, and other time-based effects.
+				- Timecode: A system for synchronizing multiple audio and video devices.
+			- Manipulation and Processing
+				- Filtering: Altering the frequency content of a sound.
+				- Dynamics Processing: Changing the volume levels of a sound (compression, limiting).
+				- Distortion: Intentionally degrading the quality of a sound for an effect.
+				- Modulation: Changing a sound over time using LFOs, envelopes, and other modulators.
+			- Context and Association
+				- Diegetic Sounds: Sounds that are logically heard within the scene's environment.
+				- Non-diegetic Sounds: Sounds added for the audience's benefit that do not exist within the scene's environment.
+				- Semiotics of Sound: The cultural or narrative meanings associated with certain sounds.
+				- Sound Symbolism: The use of sound to suggest meaning or evoke emotion.
+			- Layering and Mixing
+				- Balancing: Adjusting the volume levels of multiple sounds.
+				- Panning: Positioning sounds in the stereo or surround field.
+				- EQ: Adjusting the tonal balance of a sound.
+				- Automation: Changing parameters over time during the mixing process.
+			- Integration and Implementation
+				- Game Audio Middleware: Tools for integrating sound into video games (e.g., Wwise, FMOD).
+				- DAW Integration: Using plugins and other tools within a digital audio workstation.
+				- Hardware Integration: Working with hardware devices such as mixers or sound interfaces.
+				- Format Conversion: Changing file formats to suit different platforms or uses.
+			- Spatial Placement
+				- Stereo Imaging: Positioning sounds in a two-channel stereo field.
+				- Surround Sound: Positioning sounds in a multi-channel surround field.
+				- Binaural Audio: Creating a 3D sound field over headphones.
+				- Ambisonics: A technique for full-sphere surround sound, including above and below.
+			- Organization and Cataloging
+				- Metadata: Information about sound files (source, location, etc.).
+				- File Naming Conventions: Standardized ways of naming files.
+				- Sound Libraries: Collections of pre-recorded sounds.
+				- Tags and Keywords: Words or phrases used to categorize and locate sounds.
+			- Foley
+				- Footsteps: Sounds of characters walking or running.
+				- Props: Sounds made by objects that characters interact with.
+				- Clothing: Sounds of characters' clothing as they move.
+				- Specific Actions: Unique sounds tied to specific on-screen actions.
+			- Variation and Layering
+				- Sound Variants: Slightly different versions of a sound to avoid repetitiveness.
+				- Stacking: Layering multiple sounds to create a new, complex sound.
+				- Juxtaposition: Placing contrasting sounds next to each other.
+				- Transitions: Smooth or abrupt changes from one sound to another.
+			- Emotional Impact
+				- Sound Design for Horror: Sounds that evoke fear or suspense.
+				- Sound Design for Comedy: Sounds that enhance humor or timing.
+				- Sound Design for Drama: Sounds that underline emotional or dramatic moments.
+				- Sound Motifs: Recurring sounds associated with specific characters or themes.
+			- Impact and Impulse
+				- Explosions: Loud, impactful sounds associated with damage or destruction.
+				- Gunshots: Sounds associated with firearms.
+				- Hits and Punches: Sounds associated with physical contact or combat.
+				- Whooshes: Sounds associated with fast movement or transitions.
+			- Foley Props and Recording Techniques
+				- Everyday Objects: Using common objects to create unexpected sounds.
+				- Specialized Props: Objects built or modified specifically for Foley.
+				- Microphone Techniques: How and where to place microphones for Foley recording.
+				- Performance Techniques: How to perform actions to produce desired sounds.
+			- Ambience and Background Sounds
+				- Room Tone: The subtle sound present in a space when it is seemingly silent.
+				- Environmental Ambience: Sounds that establish the setting (forest, city, etc.).
+				- Walla: Indistinct background voices in a crowd scene.
+				- Weather Sounds: Rain, wind, thunder, etc.
+			- Genre and Style Considerations
+				- Realism vs. Stylization: Choosing how realistic or exaggerated sounds should be.
+				- Genre Conventions: Typical sound choices in different film or game genres.
+				- Historical Period: Creating sounds that are appropriate for a story's time period.
+				- Cultural Context: Considering the cultural background of the story or audience.
+			- Interactivity and Dynamic Sound Effects
+				- Adaptive Audio: Sound that changes based on game state or player actions.
+				- Interactive Music: Music that changes in response to narrative or gameplay.
+				- Player Feedback: Sounds that provide information to the player.
+				- Procedural Audio: Sounds generated in real time based on game physics or other factors.
+			- Compression and Equalization
+				- Dynamic Compression: Reducing the volume range of a sound or mix.
+				- Multiband Compression: Compression that affects different frequency ranges differently.
+				- Equalization (EQ): Adjusting the balance of different frequency ranges.
+				- Mastering: Final EQ, compression, and limiting processes to prepare a mix for distribution.
+			- Licensing and Copyright
+				- Royalty-Free Libraries: Collections of sounds that can be used without ongoing royalties.
+				- Creative Commons: A type of license that allows free use with certain restrictions.
+				- Copyright Infringement: The illegal use of copyrighted sounds.
+				- Soundalikes: Sounds that are similar to copyrighted sounds but legally distinct.
+- # Image Schema
+  collapsed:: true
+	- # Visual Art
+		- ## Tables
+			- Form
+			- Composition
+			- Color
+			- Line
+			- Shape
+			- Space
+			- Texture
+			- Value
+			- Balance
+			- Contrast
+			- Movement
+			- Unity
+			- Proportion
+			- Emphasis
+			- Conceptual Depth
+			- Pattern
+			- Narrative
+			- Symbolism
+			- Abstraction
+			- Conceptual Art
+			- Materiality
+			- Cultural and Social Context
+			- Intention and Interpretation
+			- Collaboration and Community Engagement
+			- Experimentation and Innovation
+			- Emotion and Expression
+			- Intuition and Spontaneity
+			- Conceptual Frameworks
+			- Intertextuality
+			- Reflection and Self-Exploration
+			- Environmental and Social Awareness
+			- Transience and Impermanence
+			- Multi-sensory Experience
+			- Contextual Reinterpretation
+			- Authenticity and Originality
+		- ## Variables
+			- Form
+				- Geometric: Forms that resemble geometric shapes.
+				- Organic: Forms that are free-form or representational.
+				- Static: Stable and unchanging forms.
+				- Dynamic: Forms that suggest movement or activity.
+			- Composition
+				- Rule of Thirds: Placing elements on or near imaginary grid lines that divide the artwork into thirds.
+				- Symmetry: Balanced, mirrored elements in an artwork.
+				- Asymmetry: Elements that are not mirrored but still balanced.
+				- Focal Point: The point in the artwork that draws the viewer's eye.
+			- Color
+				- Hue: The attribute of a color that distinguishes it from other colors.
+				- Saturation: The intensity or purity of a color.
+				- Value: The lightness or darkness of a color.
+				- Color Harmony: The arrangement of colors in a visually pleasing manner.
+			- Line
+				- Straight: Direct and unambiguous.
+				- Curved: Soft, flowing, and often more ambiguous.
+				- Contour: Outlines that define the form of an object.
+				- Implied: Suggested by the arrangement of other elements.
+			- Shape
+				- Geometric: Circles, squares, rectangles, etc.
+				- Organic: Irregular, often curvilinear shapes.
+				- Positive: Shapes representing solid objects.
+				- Negative: Empty space around the positive shapes.
+			- Space
+				- Positive: The main focus of a picture.
+				- Negative: The background or areas around and between the objects of interest.
+				- Two-Dimensional: The height and width of a piece.
+				- Three-Dimensional: The depth, or illusion of depth, in a piece.
+			- Texture
+				- Actual: The physical texture of an artwork.
+				- Implied: The visual impression of texture.
+				- Rough: Uneven surfaces.
+				- Smooth: Even, polished surfaces.
+			- Value
+				- Tints: Light values.
+				- Shades: Dark values.
+				- High-Key: Artworks that are overall light.
+				- Low-Key: Artworks that are overall dark.
+			- Balance
+				- Symmetrical: Elements are arranged evenly.
+				- Asymmetrical: Balance is achieved with dissimilar elements.
+				- Radial: Elements radiate from a central point.
+				- Crystallographic: Balance with equal emphasis over the whole artwork.
+			- Contrast
+				- Light vs. Dark: Differences in value.
+				- Warm vs. Cool: Differences in temperature.
+				- Complementary: Colors that are opposite on the color wheel.
+				- Big vs. Small: Differences in scale.
+			- Movement
+				- Actual: Physical movement in kinetic art.
+				- Implied: The suggestion of action.
+				- Optical: Movement created by visual illusion.
+				- Rhythmic: Regular repetition of elements to produce the look and feel of movement.
+			- Unity
+				- Harmony: The agreement of elements.
+				- Variety: Differences that provide interest and contrast.
+				- Proximity: Elements that are close together seem to be grouped together.
+				- Continuation: The eye is led from one element to another.
+			- Proportion
+				- Scale: The size of one object compared to another.
+				- Ratio: The relationship between the sizes of different parts of an artwork.
+				- Distortion: Changes to proportion for expressive effect.
+				- Hieratic Scaling: The use of size to signify importance.
+			- Emphasis
+				- Focal Point: The area of an artwork that attracts the eye.
+				- Contrast: Using differences in elements to create emphasis.
+				- Isolation: Separating an element from others to emphasize it.
+				- Placement: Positioning an element in a prominent location.
+			- Conceptual Depth
+				- Interpretation: The personal meaning that viewers bring to an artwork.
+				- Intention: The artist's planned idea or goal.
+				- Context: The circumstances surrounding the creation of an artwork.
+				- Symbolism: The use of symbols to represent ideas.
+			- Pattern
+				- Regular: The repetition of an element in a consistent manner.
+				- Random: Unpredictable repetition of an element.
+				- Flowing: The use of wavy lines to create a pattern.
+				- Alternating: The use of alternating elements to create a pattern.
+			- Narrative
+				- Linear: A story told in chronological order.
+				- Nonlinear: A story told out of order.
+				- Symbolic: A story told through symbols.
+				- Wordless: A story told without text.
+			- Symbolism
+				- Cultural: Symbols that are recognized by a particular culture.
+				- Universal: Symbols that are recognized universally.
+				- Personal: Symbols that have personal meaning to the artist.
+				- Abstract: Symbols that represent abstract ideas.
+			- Abstraction
+				- Non-Objective: Art that does not represent anything.
+				- Stylization: Simplification or exaggeration of forms.
+				- Distortion: Alteration of the true appearance of forms.
+				- Transformation: Changing forms in a radical manner.
+			- Conceptual Art
+				- Process: Emphasis on the process of creating art.
+				- Performance: Art that involves a performance by the artist.
+				- Interactive: Art that requires participation from the viewer.
+				- Installation: Art that modifies a space in some way.
+			- Materiality
+				- Medium: The physical materials used to create an artwork.
+				- Mixed Media: The use of multiple mediums in a single artwork.
+				- Found Objects: The use of objects that weren't intended for art making.
+				- Non-Traditional Materials: The use of unexpected materials in an artwork.
+			- Cultural and Social Context
+				- Historical: The time period when an artwork was created.
+				- Cultural: The cultural background of the artist or audience.
+				- Political: The political context of an artwork.
+				- Social: The societal issues that an artwork addresses.
+			- Intention and Interpretation
+				- Artist's Intent: What the artist intended to communicate.
+				- Viewer's Interpretation: How a viewer understands an artwork.
+				- Critical Analysis: The evaluation of an artwork by critics.
+				- Contextual Analysis: Understanding an artwork based on its context.
+			- Collaboration and Community Engagement
+				- Co-Creation: The act of creating an artwork with others.
+				- Community Art: Art that is created by or for a community.
+				- Public Art: Art that is located in public spaces.
+				- Social Practice: Art that is engaged with social issues.
+			- Experimentation and Innovation
+				- New Media: The use of new technologies in art making.
+				- Cross-Disciplinary: Combining different disciplines in an artwork.
+				- Innovative Techniques: The use of new or unique techniques.
+				- Experimental Materials: The use of unconventional materials.
+			- Emotion and Expression
+				- Mood: The emotional tone of an artwork.
+				- Gesture: The use of lines or forms to express emotion.
+				- Color Psychology: The use of color to evoke certain emotions.
+				- Symbolic Expression: The use of symbols to express emotion.
+			- Intuition and Spontaneity
+				- Automatic Drawing: Drawing without conscious thought.
+				- Action Painting: Applying paint in a spontaneous and physical manner.
+				- Improvisation: Creating without pre-planning.
+				- Intuitive Color: Using color based on personal intuition.
+			- Conceptual Frameworks
+				- Artistic Conventions: Established practices or rules in art.
+				- Art Movements: Groups of artists with a shared style or philosophy.
+				- Artistic Influence: The influence of one artist or work on another.
+				- Theoretical Constructs: Ideas or theories that guide the creation of art.
+			- Intertextuality
+				- Quotation: Directly referencing another artwork.
+				- Parody: Humorous or satirical reference to another artwork.
+				- Homage: Respectful reference to another artwork.
+				- Appropriation: The use of pre-existing objects or images in an artwork.
+			- Reflection and Self-Exploration
+				- Self-Portrait: An artwork that represents the artist.
+				- Autobiographical Art: Art that tells the story of the artist's life.
+				- Art Therapy: Art as a means of healing or self-understanding.
+				- Introspective Art: Art that explores the inner self.
+			- Environmental and Social Awareness
+				- Eco-Art: Art that addresses environmental issues.
+				- Activist Art: Art that promotes social change.
+				- Community-Based Art: Art that involves and serves a community.
+				- Public Intervention: Art that intervenes in public spaces.
+			- Transience and Impermanence
+				- Ephemeral Art: Art that is temporary or fleeting.
+				- Performance Art: Art that occurs over a period of time.
+				- Installation Art: Art that is site-specific and temporary.
+				- Time-Based Media: Art that includes video, film, slide, audio, or computer technologies.
+			- Multi-sensory Experience
+				- Interactive Art: Art that requires viewer participation.
+				- Installation Art: Art that creates an environment to be experienced.
+				- Virtual Reality: Art that uses virtual reality technology.
+				- Sound Art: Art that uses sound as a primary element.
+			- Contextual Reinterpretation
+				- Site-Specific Art: Art that is designed for a specific location.
+				- Appropriation: Art that recontextualizes pre-existing objects or images.
+				- Remix: Art that recombines existing works to create something new.
+				- Cultural Jamming: Art that subverts popular cultural symbols or messages.
+			- Authenticity and Originality
+				- Original Work: Art that is unique and not a copy of another work.
+				- Signature Style: A distinctive style that identifies a particular artist.
+				- Innovation: Art that introduces new ideas or techniques.
+				- Authenticity: Art that is genuine and not a forgery.
+	- # Photography
+		- ## Tables
+			- Composition
+			- Lighting
+			- Exposure
+			- Focus
+			- Perspective and Angle
+			- Color
+			- Subject and Point of Interest
+			- Depth and Perspective
+			- Timing and Moment
+			- Post-Processing and Editing
+			- Depth of Field
+			- White Balance
+			- Texture
+			- Lines and Shapes
+			- Negative Space
+			- Motion and Blur
+			- Patterns and Repetition
+			- Perspective Distortion
+			- Storytelling
+			- Personal Vision and Style
+			-
+---
+			- **Composition**: Composition refers to the arrangement and placement of visual elements within the frame. It involves considering factors such as balance, rule of thirds, symmetry, leading lines, framing, and the overall visual harmony of the image.
+			- **Lighting**: Lighting plays a crucial role in photography, affecting the mood, atmosphere, and visibility of the subject. It involves understanding and utilizing natural light, artificial light sources, and their direction, intensity, and quality to create desired effects.
+			- **Exposure**: Exposure determines how light is captured by the camera's sensor or film. It involves controlling the balance between the aperture (size of the lens opening), shutter speed (duration of exposure), and ISO sensitivity (sensor's or film's light sensitivity) to achieve a desired level of brightness and clarity.
+			- **Focus**: Focus refers to the sharpness and clarity of the subject within the image. It involves selecting the appropriate focus point or area, controlling depth of field (the range of sharpness), and ensuring the subject is in focus while maintaining desired background blur or sharpness.
+			- **Perspective and Angle**: Perspective and angle influence the viewer's perception and engagement with the image. It involves choosing the camera's position and height in relation to the subject, which can create different viewpoints, lines of sight, and visual impact.
+			- **Color**: Color choices impact the mood, tone, and visual impact of an image. It involves understanding color theory, utilizing color palettes, and effectively managing color balance, contrast, saturation, and tonal range to evoke specific emotions or convey a desired atmosphere.
+			- **Subject and Point of Interest**: The subject is the main focal point or primary element of the photograph. It involves selecting and framing the subject in a way that draws attention and captures its essence, character, or significance. The point of interest guides the viewer's focus and establishes the narrative or visual story within the image.
+			- **Depth and Perspective**: Depth and perspective help create a three-dimensional sense within a two-dimensional photograph. It involves utilizing techniques such as foreground/background relationships, leading lines, and layering to enhance depth and provide a sense of scale and dimension.
+			- **Timing and Moment**: Timing and capturing the decisive moment are crucial in photography. It involves anticipating and capturing the most opportune moment that conveys a story, emotion, or action, often requiring patience, anticipation, and awareness of the subject.
+			- **Post-Processing and Editing:** Post-processing and editing refer to the adjustments and enhancements made to the image after it has been captured. It involves techniques such as cropping, color correction, contrast adjustments, sharpening, and creative effects to refine and enhance the final image.
+			- **Depth of Field**: Depth of field refers to the range of distances within an image that appears acceptably sharp. It can be controlled through the aperture setting, allowing photographers to emphasize the subject by selectively blurring the foreground or background.
+			- **White Balance**: White balance is the adjustment of colors in an image to accurately represent the true colors of the scene. It ensures that whites appear neutral, regardless of the lighting conditions, and can be adjusted manually or using camera presets.
+			- **Texture**: Texture refers to the visual and tactile quality of surfaces within an image. It can be emphasized through lighting and composition, allowing photographers to capture and highlight the intricate details and patterns of various textures.
+			- **Lines and Shapes**: Lines and shapes are compositional elements that can guide the viewer's eye and create visual interest. Diagonal lines, curves, triangles, circles, and other geometric shapes can add dynamic energy or visual harmony to an image.
+			- **Negative Space**: Negative space refers to the empty or unoccupied areas surrounding the main subject. It provides breathing room, emphasizes the subject, and adds visual balance and simplicity to the composition.
+			- **Motion and Blur**: Motion and blur can be used creatively to convey a sense of movement, energy, or time passing. Techniques such as panning, long exposure, or intentional camera movement can be employed to capture motion blur or create artistic effects.
+			- **Patterns and Repetition**: Patterns and repetition can add visual interest and rhythm to an image. Capturing repetitive elements or identifying patterns in the subject matter can create a sense of order, symmetry, or abstraction.
+			- **Perspective Distortion**: Perspective distortion occurs when the relative size and positioning of objects change based on the camera's angle or focal length. It can be used creatively to exaggerate or manipulate the perception of depth and proportions within the image.
+			- **Storytelling**: Photography can be a powerful storytelling medium. Photographers can capture moments, emotions, or events that convey narratives, evoke empathy, or inspire imagination, allowing viewers to connect with the image on a deeper level.
+			- **Personal Vision and Style**: Every photographer brings their unique vision and style to their work. Personal vision encompasses the individual's artistic interpretation, subject preferences, shooting techniques, and overall aesthetic choices that give their photographs a distinct identity.
+		- ## Variables
+			- Composition
+				- Rule of Thirds: Aligning a subject with guide lines and their intersection points.
+				- Symmetry and Patterns: Using balanced elements to create an interesting photo.
+				- Framing: Using environmental elements to encase the focal point.
+				- Leading Lines: Using lines to guide the viewer's eye towards the subject.
+			- Lighting
+				- Directional Lighting: The direction from which the light source comes.
+				- Quality of Light: The hardness or softness of shadows.
+				- Color Temperature: The warm or cool tone of light.
+				- Natural vs. Artificial: Outdoor lighting versus indoor or studio lighting.
+			- Exposure
+				- Shutter Speed: Time duration the camera sensor is exposed to light.
+				- Aperture: Size of the lens opening when a picture is taken.
+				- ISO: The sensitivity of the camera sensor to light.
+				- Exposure Compensation: Manual adjustments to the camera's suggested settings.
+			- Focus
+				- Manual Focus: The photographer adjusts focus by hand.
+				- Autofocus: The camera automatically focuses on a selected part of the frame.
+				- Focus Peaking: A feature highlighting the edges of the subject which are in focus.
+				- Hyperfocal Distance: The closest distance at which a lens can be focused while keeping objects at infinity acceptably sharp.
+			- Perspective and Angle
+				- Bird's Eye View: High angle looking down on the subject.
+				- Eye Level: Shooting the subject from normal human eye level.
+				- Worm's Eye View: Low angle looking up at the subject.
+				- Dutch Angle: Tilting the camera to create a sense of disorientation.
+			- Color
+				- Saturation: Intensity of color.
+				- Vibrance: Enhances the intensity of muted colors.
+				- Color Grading: Altering or enhancing the color of an image.
+				- Color Harmony: Arrangement or combination of colors that are pleasing to the eye.
+			- Subject and Point of Interest
+				- Portraits: Focus on a person or group of people.
+				- Landscape: Broad views of nature or urban scenes.
+				- Macro: Close-up photography, often of very small subjects.
+				- Still Life: Inanimate subject matter.
+			- Depth and Perspective
+				- Foreground: The part of a view that is nearest to the observer.
+				- Middle Ground: The area in an image between the foreground and the background.
+				- Background: The part of a scene furthest from the viewer.
+				- Layering: Creating a sense of depth by including elements at various distances.
+			- Timing and Moment
+				- Decisive Moment: Capturing an event at its most significant time.
+				- Long Exposure: Leaving the shutter open for a prolonged period.
+				- High-Speed Photography: Capturing fast-moving subjects.
+				- Time-Lapse Photography: Sequence of images to show changes over time.
+			- Post-Processing and Editing
+				- Cropping: Cutting out parts of an image to improve framing.
+				- Retouching: Correcting imperfections in the image.
+				- Color Correction: Adjusting the color balance in an image.
+				- Filters and Effects: Applying effects to alter the look of an image.
+			- Depth of Field
+				- Shallow: A small area in focus.
+				- Deep: A large area in focus.
+				- Bokeh: The aesthetic quality of out-of-focus areas.
+				- Subject Separation: Using shallow depth of field to separate the subject from the background.
+			- White Balance
+				- Auto: The camera makes a best guess on a shot by shot basis for white balance.
+				- Presets: Specific settings for conditions such as daylight, shade, tungsten, etc.
+				- Manual: User sets a custom white balance.
+				- Post-processing adjustment: Adjusting white balance during image editing.
+			- Texture
+				- Tactile Texture: Capturing the feel of a surface.
+				- Visual Texture: The illusion of a 3-D surface.
+				- Patterned Texture: Repeated, consistent elements.
+				- Random Texture: Irregular, disordered elements.
+			- Lines and Shapes
+				- Leading Lines: Lines that lead the eye to the point of interest.
+					- Diagonal Lines: Lines that suggest movement and action.
+					- Shapes: Use of geometric or organic shapes to frame and isolate subjects.
+					- Abstract Shapes: Using elements of the scene to create interesting shapes.
+			- Negative Space
+				- Balance: Using negative space to balance the weight of the subject.
+				- Emphasis: Using negative space to emphasize the subject.
+				- Minimalism: Reducing the image to its bare essentials.
+				- Simplicity: Using negative space to simplify the image.
+			- Motion and Blur
+				- Panning: Moving the camera to follow a moving subject.
+				- Long Exposure: Creating intentional blur by leaving the shutter open.
+				- Freeze Action: Using a fast shutter speed to capture motion sharply.
+				- Motion Blur: Allowing a moving subject to blur by using a slow shutter speed.
+			- Patterns and Repetition
+				- Natural Patterns: Patterns occurring in nature.
+				- Architectural Patterns: Patterns found in buildings and other structures.
+				- Color Patterns: Patterns formed by the color scheme.
+				- Shape Patterns: Patterns formed by shapes and lines.
+			- Perspective Distortion
+				- Wide Angle Distortion: Exaggeration of depth and relative size.
+				- Telephoto Compression: Flattening and reduction of depth.
+				- Tilt-Shift Miniature Effect: Making the scene appear like a miniature model.
+				- Fisheye Effect: Extreme wide-angle view creating a spherical image.
+			- Storytelling
+				- Photojournalism: Telling a news story through images.
+				- Documentary Photography: Chronicling significant and historical events.
+				- Conceptual/Fine Art: Creating images that illustrate an idea.
+				- Sequential Series: A series of images that tell a story.
+			- Personal Vision and Style
+				- Signature Look: A unique look that distinguishes a photographer's work.
+				- Subject Preference: The type of subject a photographer prefers to shoot.
+				- Technique Preference: The technique or style a photographer excels at.
+				- Theme or Concept: An underlying message or idea in a photographer's work.
+- # Simulation
+  collapsed:: true
+	- # Digital Game Simulation
+	  collapsed:: true
+		- ## Tables
+			- Gameplay Mechanics
+			- Story and Narrative
+			- Visual Design and Graphics
+			- Audio Design and Music
+			- Level and Environment Design
+			- Game Progression and Pacing
+			- User Interface (UI) and User Experience (UX)
+			- Multiplayer and Online Features
+			- Technical Performance
+			- Game Balancing and Progression Systems
+			- Game Design Innovation
+			- Open World Design
+			- Character Customization
+			- Artificial Intelligence (AI)
+			- Multiplatform Availability
+			- Online Connectivity and Social Features
+			- Downloadable Content (DLC) and Expansion Packs
+			- Real-Time Physics and Simulation
+			- Accessibility Features
+			- Marketing and Promotion
+			-
+---
+			- **Gameplay Mechanics**: Gameplay mechanics encompass the rules, systems, and interactions that define how the game is played. This includes elements such as movement, combat, puzzle-solving, exploration, and other core gameplay loops.
+			- **Story and Narrative**: Many AAA games feature elaborate storylines and narratives. These elements involve the plot, characters, dialogue, and world-building that provide context and motivation for the player's actions within the game.
+			- **Visual Design and Graphics**: AAA games often prioritize high-quality visuals and graphical fidelity. This includes realistic or stylized art direction, detailed environments, character models, special effects, and overall visual polish.
+			- **Audio Design and Music**: Sound design and music contribute to the immersion and atmosphere of AAA games. This includes background music, ambient sounds, voice acting, sound effects, and spatial audio to enhance the player's experience.
+			- **Level and Environment Design**: AAA games typically have meticulously crafted levels and environments. These include the layout, structures, and terrain of the game world, as well as interactive elements, hidden secrets, and level progression.
+			- **Game Progression and Pacing**: AAA games often employ structured progression and pacing to guide players through the experience. This can include a combination of linear or non-linear level design, player upgrades, checkpoints, difficulty scaling, and a balanced sense of challenge and reward.
+			- **User Interface (UI) and User Experience (UX)**: AAA games feature intuitive and visually appealing user interfaces that provide players with necessary information and easy navigation. The UI/UX design includes menus, heads-up displays, interactive prompts, and other interface elements.
+			- **Multiplayer and Online Features**: Many AAA games include multiplayer modes or online features, allowing players to engage with others in cooperative or competitive gameplay. This includes online matchmaking, social features, leaderboards, and community interactions.
+			- **Technical Performance**: AAA games strive for technical excellence to deliver smooth gameplay experiences. This includes optimization for various platforms, stability, frame rates, loading times, and minimizing technical issues or glitches.
+			- **Game Balancing and Progression Systems**: AAA games often employ balancing mechanisms and progression systems to ensure fair and engaging gameplay. This can involve character development, skill trees, leveling systems, item management, and rewards for player progression.
+			- **Game Design Innovation**: AAA games often push the boundaries of game design, introducing innovative mechanics, features, or gameplay concepts to offer unique experiences and captivate players.
+			- **Open World Design**: Many AAA games feature expansive open-world environments that allow players to freely explore and interact with the game world. These open worlds often include side quests, dynamic events, hidden treasures, and a sense of player agency and freedom.
+			- **Character Customization**: AAA games often provide extensive options for character customization, allowing players to personalize the appearance, abilities, and playstyle of their in-game characters. This can include selecting different outfits, gear, weapons, skills, and abilities.
+			- **Artificial Intelligence (AI)**: AAA games incorporate advanced AI systems to create realistic and challenging enemy behavior, non-player character (NPC) interactions, and dynamic responses to player actions. AI-controlled characters can exhibit complex decision-making, combat strategies, and environmental interactions.
+			- **Multiplatform Availability**: AAA games are typically developed for multiple platforms, including consoles, PC, and sometimes even mobile devices. They are optimized to run on different hardware configurations and take advantage of specific platform features and capabilities.
+			- **Online Connectivity and Social Features**: AAA games often integrate online connectivity features, such as multiplayer modes, cooperative gameplay, leaderboards, and social integration. This allows players to connect and engage with friends or a larger gaming community.
+			- **Downloadable Content (DLC) and Expansion Packs**: Many AAA games extend their lifespan through post-launch content updates, including DLC and expansion packs. These additional content offerings introduce new storylines, gameplay areas, characters, or game modes, providing ongoing value and extending the player experience.
+			- **Real-Time Physics and Simulation**: AAA games utilize advanced physics and simulation systems to create realistic and interactive environments. This can include realistic object interactions, destructible environments, fluid dynamics, and dynamic weather systems.
+			- **Accessibility Features**: Modern AAA games are increasingly incorporating accessibility features to ensure a wider range of players can enjoy the game. These can include options for adjustable difficulty levels, subtitles, colorblind modes, customizable controls, and other accessibility settings.
+			- **Marketing and Promotion**: AAA games often receive significant marketing and promotional campaigns to generate awareness and build anticipation among players. This can include trailers, gameplay showcases, demos, influencer collaborations, and other marketing strategies.
+		- ## Variables
+			- Gameplay Mechanics
+				- Player Control: How the player interacts with the game world.
+				- Combat System: The rules and methods by which conflicts are resolved.
+				- Puzzle Design: The structure and logic of puzzles in the game.
+				- Exploration: How players are encouraged to explore the game world.
+			- Story and Narrative
+				- Main Plot: The central storyline that drives the game.
+				- Subplots: Secondary storylines that enrich the main plot.
+				- Character Development: The growth and change in characters over time.
+				- World Lore: The history and background of the game's world.
+			- Visual Design and Graphics
+				- Art Style: The visual aesthetics of the game.
+				- Character Design: The appearance and style of characters.
+				- Animation Quality: The smoothness and realism of movements.
+				- Environment and Object Detail: The richness and detail of the game world.
+			- Audio Design and Music
+				- Sound Effects: The sounds that accompany actions in the game.
+				- Ambient Sound: Background sounds that create an atmosphere.
+				- Music: The soundtrack that enhances the gaming experience.
+				- Voice Acting: The quality of spoken dialogue.
+			- Level and Environment Design
+				- Layout: The physical arrangement of levels or areas.
+				- Aesthetic Consistency: The unified look and feel across different areas.
+				- Interactivity: How much players can interact with the environment.
+				- Exploration Rewards: Incentives for exploring the environment.
+			- Game Progression and Pacing
+				- Difficulty Curve: How the challenge level changes over time.
+				- Pacing: The speed at which players progress through the game.
+				- Save System: How players save their progress.
+				- Checkpoints: Points in the game where progress is saved automatically.
+			- User Interface (UI) and User Experience (UX)
+				- HUD: The heads-up display showing information to the player.
+				- Controls: The buttons or keys used to control the game.
+				- Menus: The design and usability of game menus.
+				- Feedback: How the game communicates information to the player.
+			- Multiplayer and Online Features
+				- Co-op Play: Features allowing players to play together cooperatively.
+				- Competitive Play: Features allowing players to compete against each other.
+				- Matchmaking: How the game pairs players together for multiplayer.
+				- Social Features: Tools for communication and interaction between players.
+			- Technical Performance
+				- Frame Rate: The smoothness of the game's motion.
+				- Load Times: The speed at which the game loads data.
+				- Bug and Glitch Frequency: The occurrence of software errors.
+				- Stability: How well the game runs without crashing or freezing.
+			- Game Balancing and Progression Systems
+				- Leveling System: The mechanics of character advancement.
+				- Loot System: The rules for acquiring new equipment or abilities.
+				- Difficulty Balancing: How well the game's difficulty is balanced.
+				- Economy System: The rules for acquiring and spending in-game currency.
+			- Game Design Innovation
+				- Novel Mechanics: New or unusual gameplay elements.
+				- Unique Features: Aspects of the game that set it apart from others.
+				- Creative Storytelling: Innovative use of narrative in the game.
+				- Immersive Experiences: Ways the game draws players into its world.
+			- Open World Design
+				- World Size: The physical size of the game's world.
+				- Exploration: How the game encourages and rewards exploration.
+				- Non-Linear Progression: How the game allows players to choose their own path.
+				- Dynamic Environments: How the game world changes over time.
+			- Character Customization
+				- Appearance Customization: How players can change their character's look.
+				- Skill Customization: How players can customize their character's abilities.
+				- Equipment Customization: How players can customize their character's gear.
+				- Role-Playing Options: How the game allows players to create their own character identity.
+			- Artificial Intelligence (AI)
+				- Enemy AI: The behavior of computer-controlled opponents.
+				- Ally AI: The behavior of computer-controlled allies.
+				- Non-Player Character (NPC) Behavior: The behavior of other characters in the game world.
+				- Dynamic AI: How AI adapts to player actions.
+			- Multiplatform Availability
+				- Console Support: The game's availability on different game consoles.
+				- PC Support: The game's availability and optimization for PC.
+				- Mobile Support: The game's availability and optimization for mobile devices.
+				- Cross-Platform Play: Whether players on different platforms can play together.
+			- Online Connectivity and Social Features
+				- Online Services: Features that require an internet connection, like leaderboards or cloud saves.
+				- Social Integration: Features that integrate with social media platforms.
+				- Community Support: Features that support a player community, like forums or clans.
+				- Content Sharing: Features that let players share their gameplay or creations.
+			- Downloadable Content (DLC) and Expansion Packs
+				- Additional Story Content: Extra story or campaign content.
+				- Additional Gameplay Content: New gameplay mechanics or modes.
+				- Cosmetic Content: New looks for characters or equipment.
+				- Pricing and Value: The cost of the content and whether it offers a good value.
+			- Real-Time Physics and Simulation
+				- Physics Accuracy: The realism of the game's physical simulations.
+				- Environmental Interactions: How the game simulates interactions with the environment.
+				- Character Movements: The realism of character movements.
+				- Object Behaviors: The behavior of objects in the game.
+			- Accessibility Features
+				- Difficulty Settings: Options to adjust the game's difficulty.
+				- Control Customization: Options to change the game's controls.
+				- Visual Accessibility: Features for players with visual impairments.
+				- Audio Accessibility: Features for players with hearing impairments.
+			- Marketing and Promotion
+				- Advertising: How the game is advertised to potential players.
+				- Public Relations: How the game company communicates with the public.
+				- Community Engagement: How the company interacts with the player community.
+				- Release Strategy: The plan for releasing the game and any additional content.
+	- # Analog Game Simulation
+	  collapsed:: true
+		- ## Tables
+			- Game Master (GM) or Dungeon Master (DM)
+			- Players and Player Characters (PCs)
+			- Rule System
+			- Game World and Setting
+			- Storytelling and Narrative
+			- Character Creation
+			- Adventure Modules or Campaigns
+			- Encounters and Combat
+			- Exploration and Interaction
+			- Dice Rolling and Chance
+			- Character Progression and Advancement
+			- Roleplaying and Character Interaction
+			- Game Mechanics
+			- Alignment
+			- Non-Player Characters (NPCs)
+			- Loot and Treasure
+			- Magic and Spellcasting
+			- Time and Calendar System
+			- Homebrew Content
+			- Campaign Management
+			-
+---
+			- **Game Master (GM) or Dungeon Master (DM)**: The GM or DM serves as the game's facilitator, storyteller, and rule arbiter. They create and describe the game world, control non-player characters (NPCs), and guide the narrative.
+			- **Players and Player Characters (PCs)**: Players assume the roles of characters within the game, known as player characters (PCs). Each player controls their PC's actions, decisions, and interactions with the game world.
+			- **Rule System**: Tabletop RPGs, including D&D, have a rule system that governs the mechanics of the game. This system provides guidelines for character creation, skill checks, combat resolution, spellcasting, and other aspects of gameplay.
+			- **Game World and Setting**: The game world is the fictional universe in which the game takes place. It includes the geography, history, cultures, creatures, and lore of the setting. The GM and players collectively contribute to the world-building and exploration within the game.
+			- **Storytelling and Narrative**: Tabletop RPGs revolve around collaborative storytelling and narrative. The GM sets up the initial story or scenario, and the players' actions and decisions shape the ongoing narrative. The game progresses through shared storytelling and improvisation.
+			- **Character Creation**: Players create unique characters within the game world. This involves selecting or rolling attributes, abilities, races, classes, and personalizing their character's backstory, appearance, and motivations.
+			- **Adventure Modules or Campaigns**: Adventure modules or campaigns provide pre-designed or pre-written stories and quests for the GM and players to follow. These modules offer a structured framework of interconnected scenarios, quests, and encounters that guide gameplay.
+			- **Encounters and Combat**: Tabletop RPGs often feature combat encounters where PCs engage in battles with NPCs or creatures. Combat involves using the game's rule system to simulate combat actions, including attacking, defending, spellcasting, and resolving outcomes based on dice rolls and character abilities.
+			- **Exploration and Interaction**: Tabletop RPGs emphasize exploration and interaction within the game world. Players can explore new locations, interact with NPCs, gather information, solve puzzles, negotiate, and make choices that impact the story.
+			- **Dice Rolling and Chance**: Dice rolling is a central mechanic in tabletop RPGs. Players and the GM use dice rolls to determine the outcomes of actions, skill checks, combat, and other events within the game. Chance adds an element of unpredictability and excitement to the gameplay.
+			- **Character Progression and Advancement**: PCs gain experience points (XP) as they overcome challenges and obstacles, allowing them to level up and acquire new abilities, spells, and equipment. Character progression reflects the growth and development of the PCs within the game world.
+			- **Roleplaying and Character Interaction**: Tabletop RPGs encourage players to engage in roleplaying, embodying their characters' personalities, motivations, and quirks. Players interact with NPCs, engage in dialogue, make decisions, and explore the social dynamics of the game world.
+			- **Game Mechanics**: Tabletop RPGs have specific game mechanics and rules that govern how various actions, skills, spells, and abilities are resolved. These mechanics include dice rolls, modifiers, character statistics (such as strength, dexterity, and intelligence), and combat mechanics.
+			- **Alignment**: Alignment is a system used in many tabletop RPGs, including D&D, to define a character's moral and ethical outlook. It often involves a spectrum ranging from good to evil and lawful to chaotic, helping players shape their character's behaviors and decision-making.
+			- **Non-Player Characters (NPCs)**: NPCs are characters controlled by the GM that interact with the player characters. NPCs can be allies, quest-givers, enemies, or supporting characters that add depth and complexity to the game world.
+			- **Loot and Treasure**: Tabletop RPGs often include the acquisition of loot, treasure, and valuable items. These rewards can be obtained through completing quests, defeating enemies, or discovering hidden locations. Loot provides incentives and progression rewards for the player characters.
+			- **Magic and Spellcasting**: Many tabletop RPGs, including D&D, feature magic and spellcasting as an integral part of the game. Players can choose characters with spellcasting abilities, learn spells, and use magical powers to influence the game world and overcome challenges.
+			- **Time and Calendar System**: Some tabletop RPGs incorporate a time and calendar system to track the passage of time within the game world. This helps establish a sense of continuity, plan events, and handle time-dependent events such as seasons or celestial occurrences.
+			- **Homebrew Content**: Tabletop RPGs often allow for homebrew content, which refers to custom rules, settings, characters, or adventures created by the GM or players. Homebrew content adds personalization, creativity, and customization to the game experience.
+			- **Campaign Management**: In longer-term tabletop RPGs, campaign management becomes important. This involves keeping track of character progress, storylines, world-building, session planning, and continuity across multiple gaming sessions.
+		- ### Variables
+			- Game Master (GM) or Dungeon Master (DM)
+				- Narrative Control: The GM's role in guiding the story.
+				- Rule Interpretation: The GM's role in interpreting and enforcing game rules.
+				- Encounter Design: The creation of challenges for the players.
+				- NPC Management: The control and portrayal of non-player characters.
+			- Players and Player Characters (PCs)
+				- Player Participation: The involvement of players in the game.
+				- Character Role: The function of the character within the group.
+				- Character Backstory: The history and background of a character.
+				- Player Knowledge vs Character Knowledge: Differentiating what the player knows from what the character knows.
+			- Rule System
+				- Core Mechanics: The main rules for how actions are resolved.
+				- Combat System: The rules for resolving conflicts.
+				- Magic System: The rules for using magic or supernatural abilities.
+				- Skills and Abilities: The rules for using and advancing character skills.
+			- Game World and Setting
+				- World Building: The creation of the game's universe, including geography, history, and cultures.
+				- Setting Atmosphere: The mood and style of the setting.
+				- Consistency: Keeping the world's elements and lore consistent.
+				- Adaptability: The world's ability to adapt to player actions.
+			- Storytelling and Narrative
+				- Plot Structure: The structure of the game's main storyline.
+				- Pacing: The speed at which the story progresses.
+				- Theme: The underlying ideas or concepts in the story.
+				- Player Influence: How player actions influence the narrative.
+			- Character Creation
+				- Character Customization: The options available for creating unique characters.
+				- Character Balance: Ensuring characters are equally powerful and useful.
+				- Background Options: Choices for a character's history and personal background.
+				- Class and Race Selection: Options for a character's species and profession.
+			- Adventure Modules or Campaigns
+				- Pre-written Scenarios: Adventure modules created by the game publisher or other sources.
+				- Custom Campaigns: Adventures created by the GM.
+				- Long-Term Campaigns: Long, ongoing adventures with the same characters.
+				- One-Shot Adventures: Single-session games with a self-contained story.
+			- Encounters and Combat
+				- Combat Mechanics: Rules and strategies for fighting in the game.
+				- Encounter Design: The creation of challenging and engaging encounters.
+				- Tactical Options: Choices players have during combat.
+				- Non-Combat Encounters: Challenges that don't involve fighting.
+			- Exploration and Interaction
+				- Exploration Mechanics: Rules for exploring the game world.
+				- Social Interaction: Rules and opportunities for interacting with NPCs.
+				- Puzzle Solving: Challenges that require players to solve puzzles or riddles.
+				- Environmental Interaction: Ways players can interact with the game environment.
+			- Dice Rolling and Chance
+				- Random Outcome Determination: Using dice to decide the results of actions.
+				- Dice Types: The different types of dice used in the game.
+				- Probability Management: Understanding the probabilities involved with dice rolls.
+				- Critical Success/Failure: The effects of exceptionally good or bad rolls.
+			- Character Progression and Advancement
+				- Leveling System: The rules for gaining levels and becoming more powerful.
+				- Skill Advancement: How characters learn and improve skills.
+				- Equipment Progression: How characters acquire better equipment.
+				- Character Arcs: The development of characters over time.
+			- Roleplaying and Character Interaction
+				- In-Character Decision Making: Making decisions based on character personality and goals.
+				- Inter-Character Relationships: The relationships between player characters.
+				- Performance and Acting: Players acting out their character's actions and speech.
+					- Immersion: Becoming absorbed in the character and the game world.
+			- Game Mechanics
+				- Core Rule Mechanics: The fundamental rules of the game.
+				- Supplemental Mechanics: Additional optional rules.
+				- House Rules: Modifications made by the GM or players to the game rules.
+				- Rule Complexity: The level of detail and complexity in the game rules.
+			- Alignment
+				- Alignment System: The system for defining a character's moral and ethical compass.
+				- Alignment Roleplay: Playing a character in a way that matches their alignment.
+				- Alignment Shifts: Changes in a character's alignment due to their actions.
+				- Alignment Restrictions: Limitations imposed by a character's alignment.
+			- Non-Player Characters (NPCs)
+				- NPC Creation: The process of creating non-player characters.
+				- NPC Role: The function of the NPC in the game world.
+				- NPC Interaction: How players can interact with NPCs.
+				- NPC Development: How NPCs change over time.
+			- Loot and Treasure
+				- Loot Distribution: How loot is shared among the characters.
+				- Treasure Types: The different kinds of treasure characters can find.
+				- Magic Items: Special items with magical properties.
+				- Economy: The system of wealth and trade in the game world.
+			- Magic and Spellcasting
+				- Magic System: The rules for using magic in the game.
+				- Spell Lists: The different spells characters can learn.
+				- Magic Resources: The resources used to cast spells (like mana or spell slots).
+				- Magic Items: Items with magical properties or abilities.
+			- Time and Calendar System
+				- Game Time: The passage of time within the game.
+				- In-Game Calendar: The calendar system used in the game world.
+				- Time Management: Balancing the pace of real time and game time.
+				- Seasonal and Time-Based Events: Events in the game world that happen at certain times.
+			- Homebrew Content
+				- Custom Rules: New rules created by the GM or players.
+				- Custom Classes/Races: New options for character creation.
+				- Custom Adventures: Adventures created by the GM or players.
+				- Custom World Building: Creating new settings or expanding on the existing game world.
+			- Campaign Management
+				- Session Planning: The process of preparing for each game session.
+				- Long-Term Planning: Planning the overall arc of a campaign.
+				- Record Keeping: Keeping track of events, characters, and decisions from previous sessions.
+				- Player Management: Ensuring all players are involved and enjoying the game.
+- # Documentation Schema
+  collapsed:: true
+	- # Screen Deck (Script Breakdown)
+		- Locations
+		- Camera Shots
+		- Cast Members
+		- Extras
+		- Stunts
+		- Vehicles
+		- Props
+		- Special Effects
+		- Costumes
+		- Makeup
+		- Sound
+		- Set Dressing
+		- Greenery
+		- Livestock
+		- Animal Handler
+		- Music
+		- Special Equipment
+		- Additional Labor
+		- Optical FX
+		- Mechanical FX
+		- VFX/CGI
+		-
+---
+		- Locations: Refers to the specific places where scenes will be shot, such as outdoor locations, interiors of buildings, or specific landmarks.
+		- Camera Shots: Describes the various angles and perspectives that the camera will capture during a scene, such as close-up, medium shot, wide shot, or specific camera movements like panning or tracking.
+		- Cast Members: Refers to the actors who have been assigned roles in the film, including the main characters, supporting actors, and any other individuals involved in the performance.
+		- Extras: Non-speaking roles in a scene, often hired to fill out a crowd or create a specific atmosphere. They are background characters who add realism to the scene.
+		- Stunts: Refers to any planned action sequences or physically demanding performances that require trained professionals to execute, such as fights, car chases, or other dangerous activities.
+		- Vehicles: Includes any automobiles, motorcycles, boats, aircraft, or other transportation devices needed for the film.
+		- Props: Objects or items used by actors during a scene to enhance the story or create a specific setting, such as weapons, tools, furniture, or any other physical objects.
+		- Special Effects: Techniques used to create visual or practical illusions that cannot be achieved through conventional means, such as explosions, pyrotechnics, or other visual enhancements.
+		- Costumes: The clothing and attire worn by the cast members to portray their characters accurately and fit the film's time period, setting, or overall style.
+		- Makeup: The application of cosmetics or prosthetics to the actors' faces and bodies to enhance their appearance, create specific looks, or simulate injuries or other physical characteristics.
+		- Sound: Refers to all aspects of audio recording, including dialogue, background noise, sound effects, and musical score.
+		- Set Dressing: The decoration and arrangement of the physical sets or locations to enhance the visual appeal and realism of the scene, including furniture, artwork, and other objects.
+		- Greenery: Refers to any plants, trees, or foliage required for the scenes, either natural or artificial.
+		- Livestock: Refers to animals specifically included in the script or required for the production, such as horses, cows, dogs, or any other domesticated or farm animals.
+		- Animal Handler: A trained professional responsible for the care and handling of animals on set, ensuring their safety and well-being during filming.
+		- Music: The original score or pre-existing songs used in the film to enhance the mood, evoke emotions, or set the tone for specific scenes.
+		- Special Equipment: Any additional equipment required for filming, such as cranes, drones, dollies, or specialized cameras.
+		- Additional Labor: Refers to any extra personnel needed on set, such as technicians, production assistants, or other crew members to support the production process.
+		- Optical FX: Traditional visual effects achieved through optical methods, such as using matte paintings, miniatures, or other practical techniques.
+		- Mechanical FX: Physical effects created using mechanical devices, such as animatronics, puppetry, or any other mechanical contraptions.
+		- VFX/CGI: Stands for Visual Effects/Computer-Generated Imagery, which involves using digital techniques and software to create or enhance visual elements in a scene that cannot be achieved practically.
+-
+---

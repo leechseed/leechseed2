@@ -1,0 +1,382 @@
+  public:: true
+  banner:: "https://i.redd.it/zkcjl767b7r91.jpg"
+  
+-
+- # Phase 1 Rudimentary Research
+	- # Bloom's Taxonomy
+		- ## Use Bloom's Taxonomy to create a Mental Model of Understanding
+		- ![image.png](../assets/image_1671522413403_0.png)
+		- ![image.png](../assets/image_1671522464672_0.png)
+		-
+	- # Bloom's Reading Comp + Blueprint Format
+	  collapsed:: true
+		- Here we try to correlate reading comprehension with bloom's taxonomy of learning.
+		- ## Bloomlist - Create a Reading Comprehension Knowledgebook
+			- Consolidate all models to use
+			- create a process model
+			- try it
+		- ## Bloom's Revised Taxonomy Notes
+			- the model best represents how information is digested and refined.
+			- At first, there is a large volume of information.
+			- As you progress through the model, the less information but the quality and value increases based on the principles within each step
+			- however, what is not demonstrated well is how, through time, each one of these steps is a process within the practice of research itself.
+			- ![image.png](../assets/image_1671609075735_0.png)
+			- Create another model that demonstrates the flow of time from remember to create
+			- ![image.png](../assets/image_1671609562038_0.png)
+			- there are effectively too many steps in the model.
+			- consolidate them into three.
+			- ![image.png](../assets/image_1671610103630_0.png)
+			- visualized in a different model, a few of the the original taxonomy do not really fit in a flow style process.
+			- ![image.png](../assets/image_1671610248145_0.png)
+			- Analyze and Evaluation should occur throughout the entire process.
+			- ![image.png](../assets/image_1671610365669_0.png)
+			- Format it to more formalized state
+			- ![image.png](../assets/image_1671610453837_0.png)
+		- ## The Blueprint Notes
+			- This model needs to be reformatted to fit within Bloom's revised taxonomy
+			- Its also a breakdown into smaller digestible parts
+			- ![image.png](../assets/image_1671612031965_0.png)
+			- ![image.png](../assets/image_1671612046690_0.png)
+			- ![image.png](../assets/image_1671612058995_0.png)
+			- ![image.png](../assets/image_1671612065882_0.png)
+			- ![image.png](../assets/image_1671612180674_0.png)
+			- Use this new model to create forms/worksheets/knowledgebase assets
+		- ## The Periodic Table of Bloom's Digital Taxonomy ACTIVITES Notes
+			- this model has way too many verbs that are similar
+			- reduce the amount of fucking bullshit
+			- ![image.png](../assets/image_1671612399332_0.png)
+			- ![image.png](../assets/image_1671613256460_0.png)
+			- ![image.png](../assets/image_1671613271439_0.png)
+			- ![image.png](../assets/image_1671613275368_0.png)
+			- ![image.png](../assets/image_1671613292672_0.png)
+			- ![image.png](../assets/image_1671613300448_0.png)
+			- ![image.png](../assets/image_1671613305688_0.png)
+			- ![image.png](../assets/image_1671613310200_0.png)
+			- Reformatting
+			- ![image.png](../assets/image_1671613512792_0.png)
+			- ![image.png](../assets/image_1671613759864_0.png)
+			- Using this model and the Blueprint/Bloom's Revised Process Flow Reduction create forms/etc.
+			- ![image.png](../assets/image_1671613960784_0.png)
+	- # Rudimentary Research Checklist
+	  collapsed:: true
+		- Select Text
+		- Identify Author's Intent for Critical Understanding
+		- Identify My Intent for Critical Understanding
+		- Do an initial Recon pass which includes
+			- Identifying Chapters
+			- Identifying Pictures
+			- Identifying Models
+		- How does the information gathered in recon relate to the author's intent
+		- How does the information gathered in recon relate to my intent
+		- Using the information in recon, what are some new ways I can apply what I'm learning to established background knowledge
+		- 1st Pass - Highlight all relevant data
+		- 2nd Pass - Enter all highlighted data into logseq
+		- 3rd Pass - Identify and Define Key Vocabulary words necessary for critical understanding
+		- 4th Pass - Summarize information based on the smallest knowledge structure
+		- 5th Pass - Using 3rd and 4th Pass, analyze the effectiveness regarding my and author's intent.
+		- 6th Pass - How has this new knowledge affect my background knowledge.
+		- 7th Pass - What are possible changes/new steps forward
+		- 8th - Compile 1-7 and Post.
+- # LEARNING HOW TO LEARN - How to Succeed in School Without Spending All your Time Studying *by Barbra Oakley, PhD, and Terrence Sejnowski, PhD with Alistair McConville* - 0143132547
+	- ![image.png](../assets/image_1663291929932_0.png)
+	- ![image.png](../assets/image_1663291944930_0.png)
+	- ### There are two modes of thinking: FOCUS mode and DIFFUSE mode.
+		- ![image.png](../assets/image_1663292037668_0.png) ![image.png](../assets/image_1663292043845_0.png)
+		- *FOCUS MODE* - The activity of the mind paying close attention to something.
+		- *DIFFUSE MODE* - The activity of the mind freely wandering.
+		- One can say Focus and Diffuse are synonyms of *Fast* and *Slow* thinking.
+		- ![image.png](../assets/image_1663292062040_0.png) *kill me*
+	- ### Troubleshooting:
+		- One has either
+			- focused too hard and needs to take a break or
+			- haven't focused hard enough.
+	- This theory is analogous to R-Brain and L-Brain thinking.
+		- EG: Creative thinking vs Analytical thinking.
+	- A way to jog the creative mind is to **think primarily with questions, abstractions, and possibilities. (McKee Square)** *Like improv.*
+	- A way to jog the analytical mind is to **think primarily in actions, activities, and decisions.**
+	- ![image.png](../assets/image_1663292101380_0.png)
+	-
+	- ## Procrastination is delaying or postponing activities and actions that must be completed.
+		- ![image.png](../assets/image_1663291986257_0.png) *wtf?*
+		- *Energy is spent worrying instead of execution.*
+		- Stress manifests in the brain specifically the *insular cortex.*
+			- EG: Pain.
+		- Of course this is all in one's head. One must adjust their way of thinking.
+		- To remove the pain, one can think of something pleasurable or rewarding.
+			- *However, this seems like a shit trick, cause you can do the same thing with working a job.*
+			- *Finding meaningfullness and purpose is perhaps the best way to move through the pain.*
+				- Use Creative thinking to prime.
+					- Why do I need to do this?
+						- Do not answer, but continue to question and let the mind wander.
+				- Use Anal thinking to lubricate the activity.
+					- Remove all friction as slowly as you need.
+		- *Active Recall* - is testing the quality of one's study period. The ability to remember key information without reference to books or notes is passing the active recall test.
+	- ## When you learn something new, the neural pathways between neurons in the brain  become "stronger."
+		- ![image.png](../assets/image_1663292126930_0.png) *its supposed to at least*
+		- Stronger neurons result in more efficient electrical explosions, thus one becomes smarter and more creative.
+	- ## Sleep is an important factor when learning.
+		-
+		- Sleep is a key process in the development of **dendritic splines**
+		- ![image.png](../assets/image_1663292185679_0.png)
+		- **Dendritic splines** - the tendrils that grow from neurons as a result of learning. These tendrils form synapses (connections) to other neurons resulting in a more efficient brain.
+			- Dendritic splines emerge during the active process of studying and learning. However, they are not permanent and can often turn into dead end roads.
+				- Cramming is the activity one needs to study immediately before a test.
+					- Cramming is effective, but it is only temporary. The dendritic splines are active during the process of learning and remain active immediately after while taking the test.
+					- However, once the test is over and the learning is not reinforced, the splines remain dormant and the information is lost.
+				- Sleep is the most efficient way of growing and reinforcing dendrites.
+				- ![image.png](../assets/image_1663292369228_0.png)
+			- **Robust dendrites are required to achieve the full potential of learning something new**
+				- The more neural pathways that are connected, the easier it is to think and actively recall. Thus you become *smarter* in whatever you're studying and sleeping.
+				- ![image.png](../assets/image_1663292218310_0.png)
+				- *__IS IT PEAS OR IS IT INTELLIGENT, DAMMIT, DOCTOR ITS URGENT.__*
+	- ## Spaced learning is a method of study that considers the growth of dendritic splines and active recall.
+		- ![image.png](../assets/image_1663292409094_0.png)
+		- By spacing out the learning of a subject, one can efficiently learn and remember complex topics.
+			- Active focus creates dendritic splines.
+			- Sleep grows those dendritic splines into dendrites
+			- Active recall and reviewing studied topics reinforces those dendritic splines and creates robust neural pathways.
+	- ## FIVE STUDY/MEMORY TIPS
+		- ### 1) FOCUS
+		- ### 2) PRACTICE
+		- ### 3) PICTURE
+		- ### 4) STORE
+		- ### 5) RECALL
+	- # **Facts are hard to remember. But Pictures and Memories live forever.**
+	- # Whenever starting to study or to learn something new, do a *picture run*
+		- Picture Run - Going through the whole book and looking at the pictures. Going through the whole book looking at the chapter titles.
+			- It is important to do recon on the activity so it primes your brain to prepare itself to learn.
+	- ### Working Memory
+		- Only is capable of remembering 4 things at a time in the present moment. It is why we use heuristics, mnemonics, and other methods to hold on to key information relevant in the near future.
+			- *When you are not focused, you cannot remember things.*
+			- *Focus on the information, and you can remember it.*
+		- The brain is capable of effortlessly holding information for about *15 seconds* unless you focus on the information and concentrate on remembering the info.
+		- If information needs to be remembered for a longer amount of time, it needs to be coded into long-term memory.
+		- I like to think of working memory like *RAM* in a PC.
+		- I mean honestly its a pretty 1-to-1 metaphor.
+	- ### Long-Term Memory
+		- Metaphor used here: A toothpaste toob in a school locker.
+			- Toob is like....facts, digits, and database info. *Useless.*
+				- It is nearly impossible to remember shit like this, but it is easy to spit out.
+			- The school locker is a better representation of how to train long-term memory.
+				- Pictures, poems, sayings, heuristics, symbols, models, etc.
+				- The brain is able to remember things that are easy to recall and *focus* on.
+			- *Long-term memory in regards to storing information works like links in a chain. Information is rememebered as long as it is contextualized to other information, EG: a link in the chain is info, to remember that info, it must be linked to other information.*
+				- *Building these chains of information are the basis of long term knowledge and the ability to perform optimally in a complex field. EG: Mastery or Brinksmanship in a chosen field.*
+		- ### 5 tips for storing information in Long-term memory
+			- *Focus*
+			- *Practice*
+			- *Picture*
+			- *Anchor* - *Attach new info to related ideas already stored in the brain.*
+			- *Recall*
+			- ## F.P.P.A.R. - *FAPPR* [phonetically]
+	- ### RUBBER DUCKY RECALL
+		- Explain new concepts to a rubber ducky.
+-
+- # EFFECTIVE NOTE-TAKING *by Fiona McPherson* - 1927166527
+	- ### Note-taking is effectively paraphrasing, organizing, and making sense of information
+		- Pimarily a tool to encode information in your memmory.
+		- More information can be held by forming information into chunks using verbal and non-vermal memory systems.
+		- The amount of information held is dependent by the ability to ignore irrelevant information.
+	- ### Selecting proper information can be done with three different methods:
+		- highlighting
+		- headings
+		- summaries
+	- ## Highlighting Strategies
+		- Do not highlight information you already know
+		- Highlighting should be simple. Only *one* color
+		- *__Highlighting directs attention, it does not improve recall__*
+		- ### Highlighting Selection
+			- Highlighting should only be 10% of the text.
+			- Select details you want to remember and don't think you will.
+			- With dense information, use highlighting as a part of a more robust note taking strategy.
+			- *Highlighting should only be used if time is not of  concern*
+			- Highlighting is a *directional* signal
+	- ## Heading Strategies
+		- Headings are a *organizational* signal.
+			- Headings emphasize the topics of a text and how they are organized.
+			- Headings enable recall of topics.
+			- They help readers remember more topics but less about each topic.
+	- ## Topic Structure Strategy
+		- There are six types of text structures organized in books and other forms of information.
+			- *DESCRIPTION* - Clarification of main ideas through examples.
+			- *COLLECTION* - A list of acts or elements.
+			- *CLASSIFICATION* - Items are Grouped in Classes
+			- *SEQUENCE* - A connecting series of events or steps, possibly causally related.
+			- *COMPARISON* - Two or more things are compared or contrasted.
+			- *PROBLEM* - Discussion of a problem and its solution. A question then the appropriate answer.
+			-
+		- ### Topic Text Structure
+			- Cues you to what is important
+			- Helps you ask the right questions
+			- signals how the ideas in the text are related
+			- provides a structure for notes
+			- cues you to the best format for notes.
+	- ## Summaries
+		- **Topical Summary** - straightforward string of factual statements.
+			- Summarize the main points without adding any new information or perspective
+		- **Overview** - A topical summary that precedes the text.
+		- **Advance Organizer** - Big picture overview that primes the brain to consume the following information.
+			- Helps connect new ideas and facts with information already known.
+		- ### A good summary is
+			- short
+			- only the most important information
+			- is in your own words.
+		- ## Good Summary Checklist
+			- What is the main idea of the passage?
+			- What is all the important information?
+			- Is any of that information not important?
+			- Can you write it all down in your own words?
+		- ## Effective Summarizing
+			- 1) Preview and reflect
+			- 2) Read
+			- 3) Identify the main idea
+			- 4) Restate the main idea in your own words
+			- 5) Identify important supporting ideas
+			- 6) Restate important supporting ideas in your own words.
+	- ## Outlines and Graphic Organizers
+		- ### Graphic Oragnizers
+			- Require a lot of processing time compared to outlines
+			- If the text is short and simple, fuckin useless.
+			- Helpful in organizing clusters of information into super-clusters
+			- Helpful for showing relationships between clusters
+		- ### Outlines
+			- Easier and quicker to process than graphic organizers
+			- Best for short and simple texts
+			- Effective for rote-learning (repetition) facts
+			- Useful for showing hierarchical information and relationships between clusters, but not for displaying relationships between clusters.
+		- ### Constructing Graphic Organizers
+			- Identify the text structure. If it is hierarchical, create an outline not a graphic organizer.
+			- What type of graphic organizing format does the information fit in?
+				- tree?
+				- matrix?
+				- flowchart?
+				- big cock?
+	- ## Multimedia Summaries
+		- Multimedia summaries help process information that is both text and image, integrating the two.
+		- To perform both text and image processing, we must perform one at a time.
+		- ### Text processing:
+			- *If I have...* opened a new page, then I will carefully study the title first.
+			- *If I have...* finished reading the page, then I will carefully re-read every paragraph.
+			- *If I have...* read a paragraph, then I will search for references to previous paragraphs.
+		- ### Image Processing:
+			- *If I have...* opened a new page, I will carefully study the picture first.
+			- *If I am...* looking at a picture, I will search for its central elements with regard to content.
+			- *If I have...* looked at a picture, then I will put its central elements into context with each other.
+		- ### Text/Image Integration:
+			- *If I have read a paragraph...* I will search the picture for the contents described therein.
+			- *If I have looked at a picture...* I will search the text for explanations of the examined picture elements.
+			- *If I want to move to the next page* then I will carefully study the picture to verify my understanding of the text.
+		- ### It is highly probably that there are bad multimedia summaries. It is best to fix them rather than make your own.
+		- ### Rules for effective multimedia summaries
+			- Be very concise
+			- Use minimum text
+			- Coordinate words and images.
+	- ## THE USEFULNESS OF NOTES
+		- Provides a record
+		- Focuses Attention
+		- Reduces Cognitive Load
+		- Organizes Information
+		- Helps select what is important
+		- Helps one make connections
+		- Helps one to review
+	- ## Cognitive Style
+		- ### Identifying Motivation through 3 approaches to learning
+			- Surface
+			- Achieving
+			- Deep
+		- ### Surface level learning
+			- One focuses on understanding an author's written words rather than conceiving the author's meaning or purpose.
+		- ### Surface level learning requires processing material through several passes, with each pass going deeper every time.
+			- 1) Understand and feel comfortable with the words
+			- 2) Re-read and look for small units of meaning.
+			- 3) Re-read and look for larger macro-chunks of meaning.
+		- ### The two fundamental dimensions of cognitive style
+			- **Wholist-analytic** - organizing information in wholes or parts
+			- **Verbal-Imagery** - representing information in your thoughts verbally or in pictures
+		- ## Cognitive Style Classifications
+			- ### Wholists
+				- Good at seeing things in context
+				- may miss important details
+				- trouble selecting what is imortant
+				- may get confused by a step-by-step approach, particularly when the steps are large
+				- need an overview
+				- less affected by working memory capacity
+			- ### Analytics:
+				- good at detail
+				- good at seeing similarities and differences
+				- Focus on one or two aspects to the exclusion of the other, equally important aspects
+				- need help with big picture
+				- like a step-by-step approach
+				- may find overviews confusing
+				- more affected by working memory and capacity
+			- ### Imagers:
+				- learn best from pictorial presentations.
+				- remember visuall descriptive text better than acoustically complex and unfamiliar text
+				- recall illustrations more accurately
+				- with little knowledge benefit most from seeing text only
+				- less affected by working memory capacity
+			- ### Verbalizers
+				- learn best from text
+				- remember complex and unfamiliar text better than visually descriptive text
+				- regardless of their amount of knowledge, benefit more from seeing graphics as well as the text
+				- more affected by working memory capacity
+				-
+		- # I believe I am inherently a WHOLIST - VERBALIZER
+		- ### Dunn and Dunn Learning Style Model
+		- ![image.png](../assets/image_1662430571171_0.png)
+		- Dunn and Dunn state only about 6 to 15 of the elements are influential.
+		- ### Learning Style Model Components I am affected by
+			- ### Environmental Elements
+				- Some Sound
+				- Cool Temperature
+				- Informal Setting
+			- ### Emotional Elements
+				- Persistent focus
+				- Low academic motivation
+				- nonconformity
+				- internally-imposed structure
+			- ### Sociological Preferences
+				- Working Alone
+				- Learning in a Variety of Ways
+			- ### Physiological Elements
+				- Perceptual Preferences
+				- Mobility while Learning
+	- ## Choosing the Right Strategy for Learning
+		- ### 1) Evaluating the Text
+		- ### 2) Articulating Your Goal
+		- ### 3) Defining the Retrieval Context
+	- ### 1) Evaluating the Text
+		- ### Classify the text according to its structure and density:
+			- ### Simple
+			- ### Complex
+			- ### Difficult
+		- ![image.png](../assets/image_1662431123444_0.png)
+		- ![image.png](../assets/image_1662431140941_0.png)
+	- ## Strategies appropriate for text difficulty:
+		- ![image.png](../assets/image_1662431181987_0.png)
+	- ## Strategies appropriate for Text Structure:
+		- ![image.png](../assets/image_1662431226310_0.png)
+	- ### 2) Articulating the Goal
+		- ![image.png](../assets/image_1662431304136_0.png)
+		- ![image.png](../assets/image_1666154790560_0.png)
+	- ### 3) Defining Retrieval Strategy
+		- ![image.png](../assets/image_1662431411545_0.png)
+		-
+		-
+- # Tiago Forte's Building a Second Brain
+	- Using Tiago Forte's method of notetaking/making
+		- Notes -> Bold -> Highlight
+	- Here's Tiago Forte's [Website](https://fortelabs.com/blog/how-to-build-your-personal-productivity-stack/)
+	-
+-
+- # INFORMATIONAL TEXT STRUCTURES
+	- [source NSTA](https://www.nsta.org/teaching-nonfiction-text-structure)
+	  collapsed:: true
+		- ![image.png](../assets/image_1670130806588_0.png){:height 196, :width 140}
+	- [[INFORMATIONAL TEXT STRUCTURES EXPANDED]]
+-
+- # [[THE READING COMPREHENSION BLUEPRINT HELPING STUDENTS MAKE MEANING FROM TEXT *by Nancy Hennessy* - 9781681254036]]
+-
+- ## [[97816812540 - VOCAB - THE READING COMPREHENSION BLUEPRINT HELPING STUDENTS MAKE MEANING FROM TEXT *by Nancy Hennessy*]]
+-
+-

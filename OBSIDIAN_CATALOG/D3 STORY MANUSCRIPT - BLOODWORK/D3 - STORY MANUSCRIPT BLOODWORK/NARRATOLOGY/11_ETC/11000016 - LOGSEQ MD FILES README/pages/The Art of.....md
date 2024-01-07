@@ -1,0 +1,150 @@
+  title:: The Art of....
+  public:: true
+  
+- # instascript
+	- ![image.png](../assets/image_1685607353054_0.png)
+	- Right button pressed at (915, 345)
+	  Right button pressed at (868, 428)  
+	- Left button pressed at (887, 258)
+	  Left button pressed at (863, 162)  
+	-
+- # The Art of Metal Gear Solid V - Breakdown
+	- Promotional Art
+	- Characters
+	- Locations
+	- Machines
+	- Weapons
+	- Items & Resources
+	- Iconography
+- # The Art of Ghost in the Shell
+	- Foreword by Richard Taylor
+	- Introduction
+	- The Heart of the Story
+	- World-Building
+		- Concepting
+	- Characters
+		- Major Mira Killian
+		- Section 9
+			- Batou
+			- Aramaki Daisuki
+			- Togusa
+			- Ladriya
+			- Ishikawa
+			- Boma
+			- Saito
+		- Kuze
+		- Dr. Duelet
+		- Cutter
+		- Skinny Man
+	- Constructing the Future
+		- Shelling
+		- Costumes
+			- Robot Geishas
+			- Maciej Hotel
+			- Thermoptic Suit
+		- Storyboards and Previz
+		- Prostehtic Makeup
+	- Wellingkong
+		- Solograms
+	- Cinematography
+	- Action!
+		- Yakuzas Bar
+		- Skinny Man Attack
+		- Tank Battle
+	- Conclusion
+	- Acknowledgements
+- # The Art of Fallout 4
+	- Foreword
+	- 1 Preproduction
+	- 2 World
+	- 3 Characters
+	- 4 Creatures
+	- 5 Weapons
+	- 6 Vehicles
+	- 7 Set Dressing
+	- 8 Illustration
+- # The Art of Mass Effect Andromeda
+	- Foreword
+	- 1 Explorers - The Andromeda Initiative (Characters)
+		- Cora Harper
+		- Liam Kosta
+		- Nakmor Drack
+		- Races
+			- Human
+			- Krogan
+			- Asari
+			- Turian
+			- Salarian
+		- Nexus and Arks
+	- 2 Equipment - The Tools of the Trade (Weapons)
+		- Weapons
+		- Armor
+		- The Tempest
+		- Nomad ND1
+		- JB - The Mining Drone
+	- 3 Andromeda - First Contact Protocol
+		- Creatures
+		- Sentient Creatures
+			- Angara
+			- Kett
+			- The Archon
+	- 4 Worlds and Installations - Home and Away (Locations)
+		- Space
+		- Eos
+		- Aya
+		- Voeld
+- # The Art of Death Stranding
+	- Sam Bridges
+	- Sam's Equipment
+	- Amelie
+	- Die-Hardman
+	- Deadman
+	- Heartman
+	- Mama
+	- Fragile
+	- Higgs
+	- Clifford Unger
+	- Warriors WWII
+	- BT
+	- Vehicles
+	- Weapons
+	- Structures & Mechs
+	- Capitol Knot
+	- Edge Knot
+	- Bridges Center
+	- Mama's Lab
+	- Heartman's Lab
+	- MULE Camps
+	- Waystations
+	- Private Room
+- # Awakening The Art of Halo 4
+	- 01 Environments
+		- Dawn
+		- Requiem
+		- Forerunner
+		- Infinity
+		- Reclaimer
+		- Shutdown
+		- Composer
+		- Midnight
+		- Pre-Production
+	- 02 UNSC
+		- The Master Chier
+		- Cortana
+		- Spartans
+		- Troops
+		- Weapons
+		- Vehicles
+	- 03 Covenant
+		- Characters
+		- Weapons
+		- Vehicles
+	- 04 Forerunner
+		- Characters
+		- Cryptum
+		- Weapons
+	- 05 War Games
+		- Environments
+		- Armor Variants
+	- Acknowledgements
+	-

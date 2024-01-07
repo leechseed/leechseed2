@@ -1,0 +1,99 @@
+  public:: true
+  
+- ## A repo for my quest to be a permaculture/aquaponics farmer
+- ## Blue Sky Ideation
+	- Base farming off of comfort foods of the south
+		- Southern comfort foods
+		- BBQ
+		- Cajun cooking
+		-
+- ### What does Angalo Mean?
+	- [link](https://en.wikipedia.org/wiki/Angalo)
+- ## Farm Literature
+- ### You Can Farm - *The Entrepreneur's Guide to Start and Succeed in a Farm Enterprise by Joel Salatin*
+	- #### Developing Your Dreams
+		- *As your vision becomes your passion, dreams will give place to reality. My prayer is that together we can help this happen for you.*
+		- What is my vision?
+			- I want to write, work, and study sustainably.
+			- I want to build a lifestyle that of someone like a modern day Shakespeare or Da Vinci.
+			- I write for myself, and I feed my community.
+			- I want to live in the image of *Angalo*. Honor and spread the good values of my ancestors.
+			- My mind explores freely without boundaries and creativity. A personal quest for knowledge and enlightenment.
+			- My body is disciplined, bound by earth and flesh. A selfless mission to nourish and provide.
+			- *100%. Send it.*
+			-
+			  > *To Build a Place in the Image of Angalo; Farmland that Nourishes, Empowers, and Sustains.* - The Angalo Farmland Vision  
+	- #### The Polyface Story
+		- *'Dad's father then, was a master gardener, inventor, marketer and tinkerer.'*
+		- *'After only one year he realized that the farm could pay a mortgage or a salary but not both.'*
+		-
+		  > *To develop emotionally, economically and environmentally enhancing agricultural enterprises, and facilitate their duplication throughout the world.* - The Polyface Vision  
+	- #### The Right Philosophy
+		- **Environmentally Enhancing Agriculture**
+			- *There is simply no excuse for any type of agriculture that degrades the environment.*
+			- *What we want are farming models that actually leave the environment better than it was before we came.*
+			- *We want the soil more fertile, the landscape more diverse, the forest healthier and the wildlife more prolific.'*
+		- **Bioregional Food Sufficiency**
+			- *The average T-bone steak in America has been in more states than the farmer that grew the beef.'*
+			- *Keeping our production, processing and marketing within the same locale stimulates the economy by keeping all the value-added dollars home.*
+		- **Seasonal Production Cycles**
+			- *This goes hand in glove with bioregional food sufficiency, because it speaks to disciplining our desires to be compatible with nature.'*
+		- **Decentralized Food Systems**
+			- *We need an agriculture that stimulates 'spread out' modeling rather than centralized production and processing.*
+		- **Entrepreneurial Private Sector Small Business**
+			- *If we entrepreneurs can 'have at 'em' in the marketplace, and present food that's really nutritional, that really satisfies, that really tastes good, that really keeps them out of the doctor's office and gives them roots of the land, we'll smoke those big boys.'*
+		- **Humane Animal Husbandry**
+			- *A chicken should be allowed to be a chicken; a cow a cow; a pig a pig.'*
+		- **Relationships Between Rural and Urban Areas**
+			- *Consumers who care about their food need to understand that security does not come from bureaucrats or labels; the best way to know the quality and safety of your food is to see the source and visit the farmer.*
+		- **Rural Non-Industrial Development**
+			- *The industrial expansion brings more house-and-lot folks, which requires more schools, police and utilities.*
+		- **Biodiversity and Soil Building**
+			- *We're in the business of producing soil and diversifying the landscape*
+		- **Family-friendly Agriculture**
+			- *Our models must allow us to incorporate the whole family into the enterprise for mutual benefit.* AKA - safety
+		- **Home Cooking Instead of Processed Food**
+			- *Surveys show Americans are increasingly concerned about the safety of the food, while simultaneously entrusting multi-million dollar businesses to prepare and produce the food.*
+		- **Clean, Nutritious, Personally-inspected Food**
+			- *People's personal involvement with their food needs to be encouraged.*
+		- **Non-embarrassing Farm Incomes**
+			- *'You might as well do nothing for nothing as something for nothing.'*
+				- If you aren't getting a return, why do it?
+	- #### Do It Now
+		- How do you get started? *What are you doing NOW?*
+		- *Quit mowing the lawn and turn it into a backyard market garden.*
+		- *Raise a few rabbits to harvest for meat*
+		- *Grow several batches of broilers in your garage and dress them there too*
+		- **Land ownership is not the place to start; often it is the worst place to start.**
+		- *We are responsible for what we have, not for what we don't have.*
+		- *The most salient requirement for farming, as I see it, is experience.*
+	- #### Surveying Your Situation
+		- *Your circumstances help dictate how you will pursue your farming opportunities.*
+		- *Age is perhaps one of the most important factors in how you pursue a farming enterprise. As age increases, the following things happen:*
+			- Physical Stamina Lessens
+			- Emotional Stamina Lessens
+			- Wisdom and Experience Increase
+			- Responsibilities Increase
+		- *Men tend to begin running out of steam in their late 40s and early 50s*
+		- *Assess your finances*
+		- *Asses your knowledge and experiences*
+		- *Backyard Market Gardening* - A back yard is a wonderful first farm
+		- *Assess the people in your life. What can they provide?*
+	- **Good Enough**
+		- *There must be a balance between doing things perfectly and doing things at all.*
+		- *Too often people get so bogged down in appearance and having everything just right that they never get the basic project underway.*
+		- *Certainly nature does not require perfection. All nature requires is performance.*
+		- *Be encouraged; don't be paralyzed. Just go do it, and don't worry about what the neighbors will think.*
+	- **For Beginning and Profiting...Lessons from the Lemonade Stand**
+		- *One of the biggest needs of farms--indeed of all businesses--is a model that allows beginners to make a profit on a small scale.*
+			- Do Something You Enjoy
+			- Intimate Experience
+			- Find a Niche
+			- Production/Promotion
+			- Retail Prices
+			- Partnering Resources
+			- Value Adding
+			- Diversify the Portfolio
+			- Enjoy People
+			- Brainstorming
+		-

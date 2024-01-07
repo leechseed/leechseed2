@@ -1,0 +1,391 @@
+  public:: true
+  banner:: "https://i.imgur.com/j1i1F29.jpg"
+  
+- # 97816812540 - VOCAB - THE READING COMPREHENSION BLUEPRINT HELPING STUDENTS MAKE MEANING FROM TEXT *by Nancy Hennessy*
+	- # SECTION I The Nature of Reading Comprehension
+		- ## CHAPTER 1: Dimensions of Skilled Reading: Connecting to Educators' Critical Background Knowledge
+			- ### THE BLUEPRINT INVENTORY OF READING COMPREHENSION KNOWLEDGE
+				- ### Student Performance and Proficiency
+					- **Reading Proficiency** - The ability to read words and make meaning
+			- ### BUILDING CRITICAL KNOWLEDGE: PRIFICIENT READING
+				- ### The Simple View
+					- **The Simple View of Reading** - A theoretical model that provides insights into the acquisition of skilled proficient reading (*this model is antiquated and is simply used as context to build the next model.*)
+				- ### The Reading Rope
+					- **Hollis Scarborough** - created the Reading Rope Model
+					- **The Reading Rope Model** - a model by Hollis Scarborough that illustrates the development of skilled reading that expands on the Simple View. The foundation for a blueprint for reading comprehension.
+					- **Skilled Reading** - the fluent execution and coordination of word recognition and text comprehension
+					- #### ROPE MODEL
+						- **Word Recognition Strands** -  3 strands - Phonological Awareness, Decoding, Sight Word Recognition
+							- **Phonological Awareness** - Phonological awareness, phonemic awareness
+							- **Decoding** - Alphabet, Alphabetic principle, basic and advanced phonics
+							- **Sight Word Recognition** - Fluency
+						- **Language Comprehension Strands** - Background knowledge, vocabulary, language structures, verbal reasoning
+							- **Background Knowledge** - Background knowledge
+							- **Vocabulary** - Vocabulary
+							- **Language Structures**- Sentence comprehension
+							- **Verbal Reasoning** - Levels of Understanding (eg - inference)
+				- ### Language and Literacy
+					- #### LANGAUGE SYSTEMS
+						- **Phonology** - Sounds of our language and rules that govern how sounds are combined.
+						- **Morphonology** - Internal structure of meaningful units, word formation patterns within words
+						- **Semantics** - Knowledge of word meanings, phrases, and sentences and their relationships.
+						- **Syntax** - Order and organization of words, phrases, and clauses that convey meaning through different types of sentences
+						- **Pragmatics** - Set of rules that govern use of language for communication and conversation in varied social contexts.
+						- **Discourse** - Units of language larger than a single sentence
+						- **Orthography** - Print or written language system
+		- ## CHAPTER 2: Viewpoints on Reading Comprehension
+			- **The Ultimate Goal of Reading Comprehension** - for the reader to reconstruct the mental world of the writer.
+			- ### CONNECTING READING COMPREHENSION RESEARCH TO THE CLASSROOM
+			- ### READING COMPREHENSION DEFINED; PROCESSES AND PRODUCTS
+				- **Comprehension** - a process, a series of actions, or operations that are necessary to complete to construct meaning.
+			- ### COMPREHENSION PROCESS
+				- ### Language Process
+					- **The Process of Reading Comprehension** - involves two processes: the language process and the cognitive process.
+					- **Language Process** - a multi-level process that involves the word level, the sentence level, and the background knowledge level.
+					- **Language Process Word Level** - The process in which a reader must decode individual words to access their meaning.
+					- **Language Process Sentence Level** - The process in which the reader needs to work out the syntactic structure and sense of each sentence.
+				- ### Cognitive Process
+					- **Microstructure and Macrostructure** - two basic levels of cognitive processing involved in how readers construct and integrate meaning.
+					- **Microstructure** - the surface code of the text; the exact words and sentences (syntax) chosen by the author to convey meaning.
+					- **Word Meanings** - words and their meanings combined to create 'idea units' within the text.
+					- **Idea Units** - words and their meanings connected at the sentence level through semantic and syntactic relationships.
+					- **Macrostructure** - a hierarchy of idea units that contribute to the overall structure of the text.
+					- **The Textbase** - connected sentences and paragraphs coupled with the underlying meanings of the text, which add up to the topic or theme of the text.
+					- **Proficient Readers** - a type of reader that can construct an integrated meaning rather than an exact record of specific words, syntax, or structure.
+					- **Irwin's Model** - a model that describes five basic cognitive subprocesses that work simultaneously and complement one another as the reader constructs a mental model.
+						- **Irwin's Microprocesses** - Identifying and making meaning of idea units
+						- **Integrative Processes** - Integrating ideas between sentences
+						- **Metacognitive Processes** - Monitoring understanding
+						- **Elaborative Processes** - integrating prior knowledge and inferencing
+						- **Macroprocesses** - Organizing overall understanding
+			- ### THE ROLE OF THE READER, THE TEXT, THE TASK, AND THE CONTEXT
+				- **Making of Meaning** - Occurs as the reader proceeds through the text within the conditions set by the text and the context
+				- **Catherine Snow's Model** - Characterizes successful comprehension as what occurs when the demands of the text, the challenges of the task, and the skills and proclivities of the reader are well aligned.
+				- ### The Reader
+					- **The Reader** - brings his or her strengths and weaknesses to the assigned text and task.
+					- **The Reader Works with the Text** - the reader needs a breadth and depth of vocabulary knowledge as well as knowledge of how to use context and morphology to determine word meaning.
+					- **Discourse Structures** - to anticipate, organize, and store information, based on the text.
+				- ### The Text
+					- **Academic Language** - words and syntactic structures that readers are not likely to encounter in everyday, spoken English.
+					- **Text Difficulty** - A level that is observed based on the function of vocabulary load, coherence, linguistic structure, discourse style, and genre.
+					- **Coh-Matrix** - An automated measure of cohesion that is designed to analyze texts on multiple levels to ultimately create a level of relative text difficulty.
+				- ### The Task
+					- **Reader's Motivation** - The reader reads for one of three reasons: entertainment, knowledge, or application.
+				- ### The Context
+					- **The Broad Context of Reading** - involves sociocultural factors, school experience, neighborhood surroundings, etc.
+				-
+	- # SECTION II The Blueprint
+		- ## CHAPTER 3: The Blueprint for Reading Comprehension Instruction
+			- ### THE BLUEPRINT
+				- **Blueprint** - a detailed plan of how to do something; a master plan or a guide for action
+				- ### The Blueprint Components
+			- ### UNPACKING THE BLUEPRINT COMPONENTS
+				- ### Preparing for Instruction
+				- **Critical Understandings** - The Concepts and Knowledge needed to demonstrate competence
+				- **Purpose for Reading** - Entertainment, Comprehension, Knowledge; determined by the reader and/or teacher
+				- **Comprehension** - the interaction among the reader, text, task, and context
+				- ### Other Instructional Considerations
+				- ### Text Reading Components and Evidence-Based Practices
+					- **Text Comprehension Components** - Vocabulary, Sentence Comprehension, Text Structures, Background Knowledge, Levels of Understanding, and Inference
+					- **Expressions of Understanding** - Activities that demonstrate comprehension of the text
+			- ### SUMMARY: AN INSTRUCTIONAL FRAMEWORK
+		- ## CHAPTER 4: The Blueprint for Vocabulary
+			- ### CONNECTING VOCABULARY INSTRUCTION TO THE CLASSROOM
+			- ### VOCABULARY DEFINED
+				- **Vocabulary** - the words in a language used to understand and communicate thought; an individual's lexicon or mental dictionary of words that serve multiple purposes
+				- **Individual's Level of Understanding of Vocabulary** - Breadth, Depth, and Fluency
+				- **Breadth** - the size of an individual's mental lexicon
+				- **Depth** - the richness of word knowledge the individual possess about known words; it is a measure of how well an individual knows a word
+				- **Fluency** - the rate at which the individual gains access to the meaning of a word
+				- **The Process of Vocabulary Knowledge Learning** - Incremental, Interrelated, Multidimensional; understanding the meaning of words changes over time; we learn the meaning of words in bits and pieces
+				- **Academic Language** - the language of school
+				- **Academic Vocabulary** - the language of texts, words that are found across disciplines; often nuanced or abstract; derived from Latin roots
+			- ### CONNECTIONS TO READING COMPREHENSION
+				- **Vocabulary Bridge** - the connection between word level processes and the cognitive process of comprehension
+			- ### DESIGNING AND DELIVERING COMPREHENSIVE INSTRUCTION
+				- **Vocabulary Instruction Framework** - Providing rich and varied language experiences, teaching individual words, teaching word learning strategies, fostering word consciousness
+				- **Intentional Instruction** - Direct, explicit systemic teaching of targeted words
+				- **Incidental Instruction** - Indirect, purposeful teaching of targeted words
+				- **Intentional Word Learning Strategy Instruction** - direct, explicit teaching of strategies for unlocking word meanings independently
+				- **Word Conscious Instruction** - Direct and indirect inclusion of varied activities intended to develop an interest and awareness of the importance of word meaning
+				- **Tier One Words** - Common basic words used in every day conversation that most children know
+				- **Tier Two Words** - more sophisticated words often used by mature language users in speech and writing; found across a variety of texts and domains
+				- **Tier Three Words** - words with more narrow and specific roles in language, not necessarily familiar to mature language users
+				- ### Independent Word Learning Strategies
+					- **Dictionaries** - texts designed to teach vocabulary in specified fields
+					- **Context Clues** - A method of word learning strategy
+					- **Morphology** - Analysis of word parts or 'morphemes' to determine meaning of vocabulary
+				- ### Word Consciousness
+					- **Word consciousness** - a developed awareness of words as the building blocks of langauge
+				- ### Assessing Students' Word Knowledge: Classroom-Based Assessment
+					- **Definition** - the syntax definition of a word
+					- **Context** - the syntax definition within the microtext
+					- **Semantic Network** - a web of related words relative to a selected vocabulary word
+		- ## CHAPTER 5: The Blueprint for Syntax and Sentence Comprehension
+			- ### CONNECTING SENTENCE COMPREHENSION TO THE CLASSROOM
+			- ### SYNTAX AND SENTENCE COMPREHENSION
+				- **Syntax** - the system that is responsible for and directs the production and comprehension of sentences, the arrangement of words into sentences and phrases
+			- ### CONNECTIONS TO READING COMPREHENSION
+				- **Syntax** - places the word within the structure necessary to fully communicate its meaning
+				- ### Sentences Defined
+					- **The Sentence** - defined a complete thought
+					- **The Grammatic Sentence** - A set of words that is complete in itself, typically containing a subject, predicate, main clause, and sometimes one or more subordinate clauses
+					- **The Structural Sentence** - Sentences identified based on their architecture (eg simple, compound, complex, compound-complex), which is related to the number and type of clauses
+				- ### The Building Blocks of Sentences
+					- **The Sentence** - the unit of language strategically positioned between individual words and text
+					- **The Words** - a clue to meaning
+					- **Phrases** - a group of words that work together but do not constitute a sentence by themselves
+					- **Clauses** - a group or cluster of words that work together and contain both a *who*, *what*, (subject) and an *is/was doing*  (predicate)
+					- **Independent Clause** - a clause that stands on its own and constitutes a simple or kernel sentence
+					- **Coordinating Conjugations** - a part of speech serving to connect the clauses
+					- **FANBOYS** - coordinating conjugations (for, and, nor, but, or, yet, so)
+					- **Dependent Clause** - a clause that does not stand alone, found at the beginning or end of the sentence or embedded within it and, in combination with an independent clause
+					- *__Simple, Compound, and Complex Sentences__*
+						- **Simple Sentence** - an independent clause that conveys one idea unit
+						- **Compound Sentence** - represents two ideas independent of each other that are related in some way
+						- **Complex Sentence** - at least one dependent clause and independent clause
+						- **The Text** - information from different sentences combined
+						- **Surface Code** - words and syntax used by the author
+						- **Cohesive Devices** - implements that bridge ideas within and between sentences (cohesive ties and connectives)
+						- **Syntactical Anomaly**- academic text that is complicated and troublesome often due to its length, dependency, density, and word order
+						-
+			- ### DESIGNING AND DELIVERING COMPREHENSIVE INSTRUCTION
+				- ### Questioning
+					- *__Grammar-Based Deconstruction Activities__*
+					- *__Sentence-Based Activities__*
+					- *__Diagramming Sentences__*
+						- **Sentence Diagram** - an activity that provides the slots into which words fit and communicate the relationship among other words
+						-
+		- ## CHAPTER 6: The Blueprint for Text Structures
+			- ### CONNECTING TO THE CLASSROOM
+			- ### LITERACY KNOWLEDGE AND TEXT STRUCTURES
+			- ### CONNECTIONS TO READING COMPREHENSION
+			- ### UNDERSTANDING TEXT STRUCTURES
+				- **Narrative Text** - tells a story; may be fiction or nonfiction
+				- **Informational Text** - informs or instructs readers about a topic
+				- ### Narrative Text: Purpose and Story Elements
+					- **Narratives** - a story or sequence of related events fictional or non-fictional, primary purpose is to entertain while providing an account of a problem or conflict with a series of events leading to a resolution
+					- **The Narrative Prime Directive** - to entertain
+					- **Narrative Structure** - events sequenced *temporally or causally* and occur in specific settings described by the narrator; events are also described through the portrayal of characters and their interactions with one another
+					- **The Primary Elements of Narrative** - story grammar,  or narrative design, a set of rules that serve to organize the important elements of story into logical structure, which provides the schema necessary for the reader to work through the text (eg setting, characters, problem, initiating event, responses, climax, resolution)
+					- **The Rudimentary Narrative Structure** - a beginning, middle, and end; with transitions between acts using signal words (eg once upon a time, after a while, finally)
+				- ### Informational Text: Purpose and Structure
+					- **Expository Text** - requires students to move beyond the familiar story structure and work with less familiar and more complex structures
+					- **Expository Text Anomaly**- specialized vocabulary, density of details, unfamiliarity of content, and less explicit organization
+					- **The Expository Prime Directive** - inform or instruct by describing, persuading, explaining, or reporting
+					- **The Primary Elements of Expository Text Structures** - Compare and contrast (comparison), problem and solution, cause and effect (causation), sequence (chronology), description (categorization, generalization)
+					- **Text Structure** - organizational scheme and purpose
+					-
+			- ### DESIGNING AND DELIVERING COMPREHENSIVE INSTRUCTION
+				- ### Crafting Informed, Explicit Instruction
+				- ### Teaching Narrative Text
+					- *__Teach Story Structure and Elements__*
+						- **Story Structure (grammar)** - elements related to a problem that the main character encounters and attempts to resolve
+						- **Main Story Structure** - character(s) attempts or actions, which focus on solving a problem
+						- **Elements of Story Structure** - Setting, Characters, Problem or Conflict, Sequence of Events (plot), Outcome or Resolution, THemes
+						- **Setting** - Location and timing of events and environment
+						- **Characters** - Person, Animal, Thing, (Identity Agents), that carry out actions and speaks the dialogue
+						- **Problem or Conflict** - A challenge that inhibits the main character from achieving their goal
+						- **Sequence of Events (plot)** - The strategic and chronological organization of events
+						- **Outcome or Resolution** - The solution of the challenge
+						- **Themes** - Death and Immorality
+						- **Story Gloves** - symbol in form of a hand where each finger represents elements of story
+						- **Rudimentary Literary Devices** - Theme, Point of View, Symbolism, Foreshadowing, Metaphors, Alliteration, Hyperbole, and Imagery
+						- **Story Maps** - Graphic organizer than can be used to teach the elements and features of narrative text or use of literary devices
+						- **Storyboards** - visual representation that consists of drawings that are similar to a cartoon strip and represent the sequence of events within a story; usually consists of five to six frames
+						- **Story Frames** - graphic representations of text that can be used to support student understanding of how the content of the story fits into a narrative structure
+						- **Signal Words or Signal Phrases** - cues that support understanding of structure and relationship between the parts of a narrative text
+						- **Paragraph Structure Design** - an author's strategy of constructing meaning at a macro-text level; describing, comparing, linking causes and effects, problems and solutions, or sequencing steps or events
+						- **Basic Paragraph Structure** - the foundation for working with informational text structures
+						- **Topic Sentence** - a group of words that conveys the main idea
+						- **Supporting Sentences** - idea units that supply evidence and details of the main idea
+						- **Closing or Concluding Sentence** - an idea unit that reiterates the the main idea, introduces new information, or a new action in which adjusts the character's circumstances in a positive or negative charge
+						- **R.A.P.** - paraphrasing strategy that taps into how a paragraph conveys meaning in print; 1) read a paragraph, 2) Ask yourself about the main idea and details in this paragraph, 3) put the main idea and details in your own words
+				- ### Signaling Devices: Signal Words and Text Features
+					- **Expository Paragraph and Text Types** - Description, Chronological Sequence, Compare and Contrast, Problem and Solution, Cause and Effect
+					- **Description** - Describes the attributes/features of a person, thing, or topic
+					- **Chronological Sequence** - Provides the order or timing of events/steps in a process
+					- **Compare and Contrast** - Indicates two or more things are alike {compare} or different {contrast}
+					- **Problem and Solution** - Identifies what is wrong {problem} and how to fix it {solution}
+					- **Cause and Effect** - Tells h ow or why an event happened {cause} and what resulted from the event {effect}
+					- **Signal Words or Signal Phrases** - Cue the reader to text types and their purpose
+					- **Text Features**- title, heading, and diagrams, focuses reader's attention on the text supporting understanding of organization and context of the text
+					- **Title** - identifies the major topic of the text; is a mini-summary for the reader. Succinct and designed set of words that exemplify the author's intent through surface, subtext, and inference in mind
+					- **Table of Contents** - Introduces the reader to the organization and content of the text
+					- **Chapter Titles** - Introduces the reader to the main topic for this section of the book
+					- **Headings/Subheadings** - Guides the reader through topics and related main ideas
+					- **Charts, Diagrams, Pictures**- Provides the reader with visual explanations of information in the text
+					- **Sidebars** - Gives the reader additional information or another point of view
+					- **Bold Print**- Emphasizes important words or concepts for the reader
+					- **Index** - Tells the reader where topics can be found in the text
+					- **Glossary** - Serves as a dictionary for the reader by providing definitions of important vocabulary words and terms
+					-
+		- ## CHAPTER 7: The Blueprint for Background Knowledge
+			- ### CONNECTING BACKGROUND KNOWLEDGE TO THE CLASSROOM
+			- ### A PERSPECTIVE ON KNOWLEDGE
+				- ### The Difference Between Prior and Background Knowledge
+					- **Prior Knowledge** - The knowledge, skills, and abilities the reader brings to the reading process;  a general collection of facts, concepts, and experiences
+				- ### Perspective on Curriculum Knowledge Gaps
+					- **Exceptional American Knowledge Rights** - knowledge commonly possessed by successful citizens; key concepts, facts, disciplinary principles, and cultural touchstones related to literature, the arts, science, math, history, social studies, and civics
+			- ### CONNECTIONS TO READING COMPREHENSION
+				- **Text Comprehension** - A reader's understanding of the textbase; requiring the reader to apply lexical, syntactic, semantic knowledge, domain knowledge, and personal experience
+			- ### DESIGNING AND DELIVERING COMPREHENSIVE INSTRUCTION
+				- ### General Perspective
+				- ### The Blueprint
+					- **Word Level Decoding** - The process of understanding the meaning of individual words they hear or read
+					- **Sentence Level Decoding** - The process of understanding the syntactic structure and sense of each sentence
+					-
+		- ## CHAPTER 8: The Blueprint for Levels of Understanding and Inference
+			- ### LEVELS OF UNDERSTANDING
+				- **Levels of Understanding** - the relationship among the following; language and cognitive processes and skills, the surface code of the text, the underlying textbase, and the construction of a mental situation model
+				- ### Three Levels of Understanding
+					- **Three Levels of Understanding** - 1) the surface code of the text, 2) the textbase, and 3) the construction of a mental model
+					- **Level 1: The Surface Code** - the level represented by the exact words and syntax of the text used by the author, which is what readers immediately recall.
+					- **Level 2: Making Meaning from the Textbase** - the level represented by recalling what is on the page via understanding the author's intended meaning
+					- **Textbase Construction Process** - 1) how word meanings combine into idea units or propositions at the surface level; 2) how these units of meaning work in combination with each other to communicate the underlying meaning of the text
+					- **Level 3: Constructing a Situation or Mental Model of the Text**- the level represented by using language and cognitive processes, including the use of inferences, to integrate successive units of meaning at the surface and textbase levels
+					- **Mental Model** - the reader's overall understanding of the situation expressed in the text
+				- ### The Role of Inference
+			- ### CONNECTIONS TO READING COMPREHENSION
+				- **Comprehension** - a complex, integrative, and constructive process.
+				- **Construction of Meaning** - the reader's aggregating units of meaning that include textual information and related background knowledge
+				- **Syntactic** - a reader's knowledge of word meaning and syntax
+				- **Semantic** - relevant background knowledge the reader has determined has a relationship with word meaning
+			- ### INFERENCE DEFINED
+				- **Inference** - the identification of meaningful relations between the various parts of the text, and between those parts and the reader's background knowledge
+			- ### NECESSARY INFERENCES: LOCAL AND GLOBAL COHERENCE
+				- **Local Coherence Inferences** - integrating information from adjacent pieces of text
+				- **Global Coherence Inferences** - a globally coherent representation of text meaning, for example inferences about themes, morals, and settings
+				- **Textual Cohesiveness** - the measure of the reader's understanding how the ideas and relationships presented within the text work together and contribute to understanding
+				- ### Local Coherence Inferences
+					- **Syntactic Structure** -  a model which the reader integrates information from different sentences to build meaning; a requirement for local coherence inference
+					- *__Cohesive Ties__*
+						- **Cohesive Ties** - anaphoric devices, words or phrases that take their meaning from another part of the sentence or sentences (eg pronouns, repetition of a noun or phrase, substitution or synonym, ellipsis)
+						- **Lexical Cohesion** - repetition of a noun or phrase or the use of substitution or synonyms
+						- **Ellipsis**- anaphoric device that ties up the meaning of sentences, making the larger sections of text understandable
+					- **Connectiveness**
+						- **Connectives** - conjunctions and adverbs; words or phrases that signal logical relationships between parts of sentences; cuing specific types of relationships between events (causal, temporal)
+						- **Additive Connectives** - indicates inclusive relationships expressing a condition of aggregation or emphasis of meaning by way of multiple idea units
+						- **Temporal Connectives** - indicate sequence in time and include words such as *before, after, and while*
+						- **Causal Connectives** - indicate cause-and-effect relationships, and adversatives
+						- **Adversative Connectives** - indicates the expression of contrast in condition or a form of opposition
+						- **Conditional Connectives** - indicates a logic gate where a relationship must meet certain conditions if not met results in a non-relationship (null status)
+				- ### Global Coherence Inferences
+					- **Global Coherence Inferences** - the reader's ability to gain access to active semantic knowledge networks
+					- **Knowledge** - memory based meaningful connections organized  in a systemic manner among concepts, facts, ideas, and beliefs
+					- **Motivated Inference** - reader's response to demands of the text and perceived task among several reasons: Understanding the cause of events, predicting future actions, identifying setting, identifying character's motives, beliefs, and traits, understanding character relationships, drawing conclusions, understanding author's view and/or biases
+				- ### Facilitating Factors
+					- *__Vocabulary and Knowledge__*
+					- **Standards of Coherence**
+						- **Coherence** - the way which text elements, including words, phrases, sentences, and the paragraph or passage as a whole, work together and contribute to constructing meaning
+						- **Motivated Standards for Comprehension** - the reader sets his or her own goals for understanding (implicitly or explicitly) depending on the reading situation, which includes the reader's perception of the task, the demands of the text, and his or her abilities and attitudes
+						- **Degree of Understanding** - a reader's minimum viable measure of comprehension to establish comprehension
+						- *__Memory__*
+							- **Long-Term Memory** - provides the reader with a storehouse of language-based information that can hopefully be easily accessed
+							- **Short-Term Memory** - holds information just long enough so the reader can decide what is more relevant to the task
+							- **Working-Memory**- preserving information a bit longer so the reader can engage in necessary processes, (knowledge, comprehension, coherence)
+							- **Bridging Inferences**- idea units  (words, phrase, clauses) that reader must hold in memory to identify relationships within the immediate text structure
+							- **Gap-Filling Inferences** - the reader's ability to easily gain access to background knowledge and integrating this information with the words and sentences presented by the author
+							- **Working-Memory Capacity**- the measure of a reader's ability to meet the author's requirements of inferential understanding; the more literal the text, the less capacity is required; the more abstract the text, the more demanding for capacity
+							-
+	- # SECTION III Implementation
+		- *Section III content does not apply to the context of my requirements*
+		-
+	- # APPENDIX
+		- ## Blueprint Unit and Lesson Organizers
+		  collapsed:: true
+			- ![image.png](../assets/image_1671530764050_0.png)
+			- ![image.png](../assets/image_1671530772513_0.png)
+			- ![image.png](../assets/image_1671530779585_0.png)
+			- ![image.png](../assets/image_1671530786633_0.png)
+		- ## Blueprint Unit and Lesson Organizers Examples
+		  collapsed:: true
+			- ![image.png](../assets/image_1671530903690_0.png)
+			- ![image.png](../assets/image_1671530910561_0.png)
+			- ![image.png](../assets/image_1671530931841_0.png)
+			- ![image.png](../assets/image_1671530970090_0.png)
+			- ![image.png](../assets/image_1671530976337_0.png)
+			- ![image.png](../assets/image_1671530983648_0.png)
+			-
+			- ![image.png](../assets/image_1671531093308_0.png)
+			- ![image.png](../assets/image_1671531132730_0.png)
+			- ![image.png](../assets/image_1671531140104_0.png)
+			- ![image.png](../assets/image_1671531147600_0.png)
+			-
+			-
+		- ## Interactive Book Study Questions
+		  collapsed:: true
+			- ### CHAPTER 1
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531300096_0.png)
+				- ![image.png](../assets/image_1671531313537_0.png)
+				- ![image.png](../assets/image_1671531321112_0.png)
+				-
+			- ### CHAPTER 2
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531375009_0.png)
+				- ![image.png](../assets/image_1671531381336_0.png)
+				-
+			- ### CHAPTER 3
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531402247_0.png)
+				- ![image.png](../assets/image_1671531413440_0.png)
+				- ![image.png](../assets/image_1671531421096_0.png)
+				-
+			- ### CHAPTER 4
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531447193_0.png)
+				- ![image.png](../assets/image_1671531456640_0.png)
+				- ![image.png](../assets/image_1671531465560_0.png)
+				- ![image.png](../assets/image_1671531474248_0.png)
+				-
+			- ### CHAPTER 5
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531501664_0.png)
+				- ![image.png](../assets/image_1671531513776_0.png)
+				- ![image.png](../assets/image_1671531522256_0.png)
+				- ![image.png](../assets/image_1671531532168_0.png)
+				- ![image.png](../assets/image_1671531539095_0.png)
+				-
+			- ### CHAPTER 6
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531561663_0.png)
+				- ![image.png](../assets/image_1671531571311_0.png)
+				- ![image.png](../assets/image_1671531580879_0.png)
+				- ![image.png](../assets/image_1671531589256_0.png)
+				- ![image.png](../assets/image_1671531600640_0.png)
+				-
+			- ### CHAPTER 7
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531623399_0.png)
+				- ![image.png](../assets/image_1671531634623_0.png)
+				- ![image.png](../assets/image_1671531643407_0.png)
+				-
+			- ### CHAPTER 8
+			  collapsed:: true
+				- ![image.png](../assets/image_1671531701048_0.png)
+				- ![image.png](../assets/image_1671531711807_0.png)
+				- ![image.png](../assets/image_1671531717345_0.png)
+				- ![image.png](../assets/image_1671531725607_0.png)
+				- ![image.png](../assets/image_1671531733439_0.png)
+				-
+		- ### Instructional Tools and Templates
+			- ![image.png](../assets/image_1671531797984_0.png)
+			- ![image.png](../assets/image_1671531809553_0.png)
+			- ![image.png](../assets/image_1671531817704_0.png)
+			- ![image.png](../assets/image_1671531825144_0.png)
+			- ![image.png](../assets/image_1671531842809_0.png)
+			- ![image.png](../assets/image_1671531871518_0.png)
+			- ![image.png](../assets/image_1671531899927_0.png)
+			- ![image.png](../assets/image_1671531907159_0.png)
+			- ![image.png](../assets/image_1671531912975_0.png)
+			- ![image.png](../assets/image_1671531953927_0.png)
+			- ![image.png](../assets/image_1671531963111_0.png)
+			- An Instructional Map for Text Structure
+				- ![image.png](../assets/image_1671532020952_0.png)
+			- ![image.png](../assets/image_1671532052319_0.png)
+			- ![image.png](../assets/image_1671532061062_0.png)
+			- ![image.png](../assets/image_1671532067886_0.png)
+			-
+	- ### [[97816812540 - TEXT - THE READING COMPREHENSION BLUEPRINT HELPING STUDENTS MAKE MEANING FROM TEXT *by Nancy Hennessy*]]
+	- ### [[97816812540 - ANALYSIS - THE READING COMPREHENSION BLUEPRINT HELPING STUDENTS MAKE MEANING FROM TEXT *by Nancy Hennessy*]]

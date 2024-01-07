@@ -1,0 +1,27 @@
+- # KDA POP STARS
+- L DGA
+- R G F# A# C
+- ## intro
+	- ![image.png](../assets/image_1653038264973_0.png)
+- ## pre-chorus
+	- ![image.png](../assets/image_1653038312468_0.png)
+	- ![image.png](../assets/image_1653038395445_0.png)
+	- ![image.png](../assets/image_1653038447572_0.png)
+	- ![image.png](../assets/image_1653038460308_0.png)
+	-
+	- ![image.png](../assets/image_1653038477948_0.png)
+	- ![image.png](../assets/image_1653038493259_0.png)
+	- ![image.png](../assets/image_1653038503492_0.png)
+- ## chorus 1
+	- ![image.png](../assets/image_1653038518323_0.png)
+	- ![image.png](../assets/image_1653038530668_0.png)
+	- ![image.png](../assets/image_1653038539012_0.png)
+	- ![image.png](../assets/image_1653038600500_0.png)
+	- ![image.png](../assets/image_1653038611700_0.png)
+- ## chorus 2
+	- ![image.png](../assets/image_1653038707971_0.png)
+	- ![image.png](../assets/image_1653038716692_0.png)
+	- ![image.png](../assets/image_1653038725820_0.png)
+	- ![image.png](../assets/image_1653038734300_0.png)
+	-
+-

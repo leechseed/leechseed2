@@ -1,0 +1,87 @@
+  public:: true
+  
+- [[Sculpting Research Workbook]]
+- # SCULPTING FOR BEGINNERS
+- # Starting the course with YanSculpts
+	- ## Other Shortcuts
+		- ## *CRTL* + *TAB* = sculpt mode
+	- ## Brushes he uses and the hotkeys associated
+		- ### *CLAY STRIPS* - NUMPAD 1
+		- ### *CREASE* - NUMPAD 2
+		- ### *GRAB* - NUMPAD 3
+		- ### *INFLATE* - NUMPAD 4
+		- ### *MASK* - NUMPAD 5
+		- ### *PINCH* - NUMPAD 6
+		- ### *SCRAPE* - NUMPAD 7
+		- ### *DRAW* - NUMPAD 8
+	- ## SHORTCUTS USED ALONG BRUSHES
+		- ### *SHIFT* + *BRUSH* = SMOOTH THINGS OUT
+		- ### *CTRL* + *I* = INVERT MASK
+		- ### *ALT* + *M* = REMOVE MASK
+		- ### *H* = BINDING BOX
+			- A more efficient mask in the shape of a box. It hides the whatever is in the box. Prevents it from being edited
+		- ### *SHIFT* + *H* = REVEAL BINDING BOX
+			- Draw a square to reveal part of the sculpt that was previously binding box'd.
+		- ### *ALT* + *H* = REMOVE BINDING BOX
+	- ## DEFAULT BRUSH STRENGTHS
+		- ### *GRAB BRUSH* SET TO *0.1*
+		- ### *SCRAPE* > *FALLOFF* SET TO *CONSTANT*
+- ## CREATING AN EAR
+	- 1) START FROM SCULPTING SCRACTCH PAGE
+	- 2) GO TO EDIT PAGE
+		- SUBDIVIDE SMOOTH ONCE
+	- 3) RETURN TO SCULPT
+		- ACTIVATE DYNAMPIC TOPOLOGY
+			- SET TO 8
+		-
+- # BOOLEAN
+	- ## Use boolean whenever you want to take multiple objects and splice them together
+		- ### have at least 2 objects
+			- select the original object
+				- click the *wrench* in the modifier pane
+				- click boolean
+					- ### *UNION* merges both objects together
+					- ### *INTERSECT* merges only the parts that are touching
+					- ### *DIFFERENCE* removes the parts that are merged.
+				- Make sure to click *APPLY*
+				- then *REMOVE* the original object you chose to boolean.
+		- ### If having issues refer to the *boolean_tool_warnings* in the course videos
+		-
+	-
+- # SUBDIVISON (SUBDIV)
+	- ## Subdivision is a modifier used heavily by YanSculpts
+		- ### To add it use the *modifier pane* and click on *Subdivision*
+		- ### Subdiv is a tool used to dividie the faces of a model into smaller faces.
+			- It creates a smoother surface using less vertexes.
+				- This allows the computer to use less resources and thus function more efficiently
+	-
+- # Decimate
+	- ## Decimate is a modifier used to reduce the amount of faces in a sculpt
+		- Use this when blender starts to lag or when making larger projects.
+- # Enabling Ambient Occlusion
+	- ![image.png](../assets/image_1652071379820_0.png)
+- # Creating a Startup file
+	- ## *FILE* > *DEFAULTS* > *STARTUP FILE*
+		- ### *CTRL* + *U* IS THE SHORTCUT
+		-
+- # SCULPTING THE BLENDER WAY
+- # CHAPTER 1 NOTES
+- ## IMPORTANT KEYS
+	- ## *T* OPENS THE TOOLBAR
+	- ## *N* OPENS THE SIDEBAR
+	- ## *MMB* + *MOVE MOUSE* ORBITS
+	- ## *MMB* + *ALT* + *MOVE MOUSE* ORBIT LOCKS TO CLOSEST AXIS
+	- ## *MMB* + *CTRL* + *DRAG MOUSE DOWN* ZOOM +/-
+	- ## *F* + *DRAG MOUSE LEFT/RIGHT* BRUSH RADIUS
+	- ## *SHIFT* + *F* + *DRAG MOUSE* LEFT/RIGHT BRUSH STRENGTH
+	- ## *SHIFT* + *R* + *DRAG MOUSE* CHANGE VOXEL SIZE
+	- ## *CRTL* + *R* RUN VOXEL REMESHER
+	-
+	- ## *G* GRAB KEY
+	-
+	-
+	-
+	-
+	-
+-
+-

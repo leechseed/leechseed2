@@ -1,0 +1,24 @@
+- # Regarding the Sticker Project
+  id:: 62674929-447d-4ac8-bea2-67acceed32e1
+	- I want to use SCRUM to take on this project.
+		- The value delivery process is relatively simple enough.
+			- Design Sticker -> Print Sticker -> Deliver Sticker
+	-
+	  > The only, yet rather massive concern I have is mission drift.  
+	- I have run scrum many a time, but I end up going down a path of bullshit only to end out the other end signing up for culinary school.
+	- Several components that I will add to the sticker project from PMP are
+		- Project Charter
+		- Scope Management
+	- The following PMP/SCRUM components will trigger once it is indicated once the Project Charter and Scope Management components are completed.
+	- # 1 - I need to first model the value delivery/creation model.
+		- After that I can start attaching major start up costs and roughly estimate **how long I can run with the remaining capital I have.**
+			- The second step would be to validate the market through a short business analysis type thing.
+				- **Output Indicators:**
+					- End to End Value Cycle
+					- Project Charter and all associated documentation
+					- Scope Management and all other Documentation.
+	-
+- # 1.1 - Using scrum to manage the development of the Sticker Project
+	- I'll basically put all documentation here in this specific logseq graph.
+	- Syntax will be relatively simple. Any important *baseline* documentation will be marked with a COCK emoji. #
+	-

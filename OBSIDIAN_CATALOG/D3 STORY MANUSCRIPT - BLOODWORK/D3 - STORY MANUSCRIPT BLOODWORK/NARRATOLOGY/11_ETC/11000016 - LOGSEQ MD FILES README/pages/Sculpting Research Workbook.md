@@ -1,0 +1,21 @@
+  public:: true
+  
+- # HEAD STUDY 2
+- ![image.png](../assets/image_1652270117265_0.png)
+	- Watching the guy do his sculpting helped me considerably when sculpting the head.
+	- From the day before, I was able to sculpt a relatively feminie looking head.
+	- I also do like using dynotopology.
+		- While I have heard a lot of pushback regarding how it fucks with you.
+			- The polygon count gets too high to port to lets say Unreal.
+			- However, right now I'm simply learning to sculpt.
+			- I'll continue to use it once I've actually mastered sculpting.
+	- The next study I plan to do is lips.
+- # Head Study
+- ![image.png](../assets/image_1652168434496_0.png)
+	- I started with an elongated 'egg' shape with this model. I'll start with a general sphere for my next run.
+		- What is important is to note the ratios of the head.
+	- Unfortunately, I used object mode in this run. This is an issue because when creating shapes in object mode, the shapes are not solid. So, in essence, they aren't sculpt able.
+- ![image.png](../assets/image_1652168550519_0.png)
+	- The X axis perspective actually doesn't look so bad. Anotomically it looks like a real skull.
+		- However, I should be going for more of a stylized look.
+	- I believe this head study was good for understanding the ratios and intersecting axis' of the human head.

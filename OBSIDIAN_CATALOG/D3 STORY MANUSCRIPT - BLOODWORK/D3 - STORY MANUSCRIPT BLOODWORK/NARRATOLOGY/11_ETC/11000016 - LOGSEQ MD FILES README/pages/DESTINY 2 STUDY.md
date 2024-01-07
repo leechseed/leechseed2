@@ -1,0 +1,474 @@
+  public:: true
+  
+- # Weapons in Destiny
+	- ## Weapon Classes
+		- Hand Canon
+		- Pulse Rifle
+		- Bow
+		- Sidearm
+		- SMG
+		- Scout Rifle
+		- Fusion Rifle
+		- Auto Rifle
+		- **Grenade Launcher**
+		- Sniper Rifle
+		- **Rocket Launcher**
+		- Shotgun
+		- Trace Rifle
+		- Glaives
+		- **Linear Fusion Rifle**
+		- **Machine Guns**
+	- ## Damage Type/Class
+		- ### Kinetic/Primary
+		- ### Energy/Primary
+			- #### Solar
+			- #### Void
+			- #### Striker
+			- #### Gumby
+		- ### Energy/Power
+			- #### Solar
+			- #### Void
+			- #### Striker
+	- ## Damage Range Type
+		- **Close**
+		- Close/Medium
+		- **Medium**
+		- Medium/Far
+		- **Far**
+	- ## Rate of Fire
+		- High
+		- Medium
+		- Low
+	- ## Rarity Tiers
+		- #### Purple
+		- #### Gold
+- # Shadowkeep Combat System
+	- ## Shadow Keep Boss Types
+		- ### Barrier
+		- ### Unstoppable
+		- ### Overload
+	- ### Shadowkeep Boss Types/Weapon Mod Vulnerabilities
+		- ### Barrier - Pulse Rifles; Bows
+		- ### Unstoppable - Hand Canon
+		- ### Overload - Scout Rifle; Auto Rifle, Submachine Gun
+- # Armory Theory
+	- A god-tier weapon roll for every variation.
+	- ## Agile and Actionable Setup
+		- 1) Primary Weapons - god-tier roll of each weapon class
+		- 2) Energy Weapons -  god-tier roll for every energy type
+		- 3) Power Weapons - god-tier roll for every
+		- 4) Dark Rise Priority - rolls that fill **shadow type/energy type**
+			- Primary Weapon
+				- Initial Goal - *a weapon that fulfills damage at every range type with consideration for CCR*
+					- Close/na
+					- Medium/Medium
+					- Far/na
+			- Energy Type
+				- Initial Goal - *a weapon that fulfills each energy/shadow type*
+				- Secondary Goal - *a weapon that fulfills each damage type at purple level*
+				- **Solar**
+				- **Void**
+				- **Striker**
+			- Shadow type
+				- Pulse Rifles; Bows
+				- Hand Canon
+				- Scout Rifle; Auto Rifle, Submachine Gun
+- # Loadout Theory
+	- ### Crowd Control Rating
+		- Range is the distance of a weapon's effectiveness.
+		- *__Crowd Control Rating__*  - A rating of efficiency based on a weapon's ability to crowd control. Rating determined by sentimental analysis and *crowd control ratio*
+		- *__Crowd Control Ratio__* - a ratio considering range/fire rate with emphasis on sentimental analysis
+		- **Sentimental Analysis** - how a weapon feels according to the user. Meant to substitute several other weapon attributes in exchange for decision efficiency.
+		- **Rating Spread**
+			- A-tier
+			- Meh-tier
+			- Sucks-tier
+	- ## CCR methodology
+		- For your loadout, one must consider crowd control in Destiny 2.
+		- Mobs consist of a majority of the enemy class type in any given situation.
+		- Bosses and Mini-Bosses are considered extremely dangerous however, and should be targeted for elimination.
+		- Thus the dilemma.
+		- How does one equip their loadout to effectively eliminate mobs at a rate which allows the guardian to focus the *initial target* which are the bosses?
+		- **For now we'll stick to this paradigm** - *A1 Always....*
+		- *__A1 Always__* - you always want an A tier CCR  especially in encounters that you first meet.
+	- # Loadout Methodology
+		- #### Kinetic/Primary
+			- **Initial**- **Chosen weapon must be balanced against the Energy Weapon's CCR**
+				- IE: if Energy weapon's CCR is shit-tier, Kinetic's must be A-tier
+			- **Secondary**- **Chosen weapon must compensate against Energy Weapon's Shadow coverage**
+			  id:: 63fb0973-235e-462c-8369-5101aff68433
+		-
+- # Current Inventory
+	- ## Current Initial Priority Goals
+		- ### Kinetic weapon inventory must account for shadow coverage/purple rarity coverage
+			- Due to energy weapons primarily focusing energy type/shadow coverage, kinetic weapons must compensate for weaknesses.  An inventory that consists of full shadow coverage enables agility decision making.
+	- ## Energy Weapons - Initial
+		- Void Pulse Rifle - *Graviton Lance*
+		- Solar Hand Canon - Sunshot
+		- Striker Submachine Gun - *Riskrunner*
+		- #### Energy Weapons - Secondary
+	- ## Kinetic Weapons - Initial
+		- ### Shadow/Purple Coverage
+			- Auto Rifle - *Krait*
+			- Hand Canon - *Survivor's Epitaph*
+			- Scout Rifle - *PERSES-D*
+- # Current Loadout
+	- ## Kinetic Primary
+- # Questing
+	- **Bounties**- the objective with bounties is to efficiently complete them which means to work on multiple bounties that overlap objectives
+		- max bounties is 7
+	- **Hive Knights** - are on the moon
+	- triumphs
+	- seasonal rewards
+- # Best practices
+	- efficiency
+		- when choosing an activity, maximize the return by leveraging **bounties**, **triumphs**, and **seasonal rewards**
+	- strategy
+		- before embarking, create a plan for the next two activites at least
+		- have a grand plan in place, at least the next two activities planned, the next two actives with loadouts? mapped?
+	- travelling
+		- when moving from planet to planet, better yet if possible break it down into the most efficient form, a list of directions
+	- other
+		- its much easier to use controller when taking notes. more efficient that is
+		- wait till you complete the entire activity plan before looking at inventory. it wastes time
+		-
+- # the final run - seraph
+	- ## INITIAL GOAL - COMPLETE ALL SERAPH CHALLANGES
+		- [[#green]]^^### Seasonal Shaping I - Unlock IKELOS SMG^^
+			- Use Resonance Stems to Find Red boarder Hidden areas where IKELOS weapons are, Find a youtube
+		- [[#green]]^^### HBIV^^
+		- [[#green]]^^### Quick Heists - Complete a Heist Battleground in under 12 minutes^^
+		- ### Umbral Focusing II  - Focus Season of the Seraph weapon or armor engrams at the Exo Frame in the H.E.L.M
+		  collapsed:: true
+			- Use the resonance stem border to grind an Ikelos gun for the umbral focus
+			-
+		- ### Seraph's Secrets - Open Hidden chests in the Exotic Mission  Operation : Seraph's Shield
+		  id:: 63fb69a3-b435-491c-acb7-e7ba36c1580d
+			- #### just gotta find one chest
+				- two possible drone positions
+					- 1 - the room immediately following the trip up the elevators
+						- ![image.png](../assets/image_1677413769506_0.png)
+						- ![image.png](../assets/image_1677413789218_0.png)
+						- its big and orange. shoot the glowing drones in the air. there should be 4? a message will appear at the bottom confirming the trigger
+					- 2- if not at the engineering sector then check here: the vaulted tube filled with those turrets, shoot the 4 drones as they glow, wait for confirmation then move on
+						- ![image.png](../assets/image_1677413935117_0.png)
+					- 3 - the chest will be available in the room after the boss
+						- either at the door to the left with a shootable drone
+						- or behind lasers in the same room with the shootable security drone
+						- ![image.png](../assets/image_1677414028522_0.png)
+						-
+		- ### Apex Armorer - Masterwork a Piece of Armor
+		- Crucible Ornament - Acquire Crucible Ornament for Velas-X
+		- Legendary Heist
+		- Down to Size - Defeat Targets with Linear Fusion Rifles, Trace Rifles, and Glaives in Gambit
+		- Grandmaster - Beat Grandmaster Nightfall
+		- ### Seasonal Shaping II - Earn levels with Shaped Seasonal or IKELOS
+		- [[#green]]^^### Flawless Heists - Complete Heist Battlegrounds without dying 2/3^^
+		- Gambit Ornament - Acquire ornament for Veles-X
+		- Trial by Firing Squad - Win multiple rounds in Trials of Osiris 0/20
+		- Legend Heist Battlegrounds II - Complete each Heist Battleground on Legend Difficulty
+		- ### Seraph Shield IV - Locate all Warmind nodes and destroy all security drones in Seraph Shield - Warmind nodes 1/4
+		  id:: 63fb4451-c2e1-44a1-8b6d-b7a1324c042a
+		  collapsed:: true
+			- **Initial** - Run down the next 3 enhanced resonance amps
+				- trigger - the title in the resonance amp will say ORBITAL
+				- I may need to run *multiple* seraphs, but it does say I already have one
+				- 1 - **trigger** - second scanner buff obtained, in the very tall tube, above the door is the first one, there's a mod flipper in there as well. i've seen it before
+				  collapsed:: true
+					- ![image.png](../assets/image_1677414717027_0.png)
+				- 2 - **trigger**- directly after the first operator buff on the left in one of the red rooms
+					- ![image.png](../assets/image_1677414811416_0.png)
+				- 3 - **trigger** - after return from space walk and defeating hive knight boss, big orange room to small white room, behind lazers
+					- ![image.png](../assets/image_1677414950831_0.png)
+				- 4 - **trigger** - final boss room left mid wall
+					- ![image.png](../assets/image_1677414931830_0.png)
+				-
+			-
+		- ### EDZ Activities - In EDZ earn progress by doing Lost Sectors etc 44%
+			- **Initial** - prioritize Lost Sectors, then public events, then patrols
+		-
+	- ## INITIAL GOAL - SERAPH TITLE
+		- ## TITLE CHALLANGES
+			- ### Frame Reboot - Reset Rank with Exo
+			  collapsed:: true
+				- Collect 3 Exo frame modules
+					- Complete all 3 Heist Battleground Challenges
+						- HBIV - Complete Heists 22/25
+						- HBV - Open Seraph Chests 21/30
+						- HBVI - Complete Heists 22/35 - Combatants 62%
+						- 13 Heists  + 9 Seraph Chests Needed
+						- I only need to open 9 Seraph chests
+						- 500 keycodes needed to open one chest
+						- 4,500 needed to open chest.
+						- I need 500 more to complete the middle heist.
+						- 4,000 max inventory
+						- Each Battlegrounds grants
+						- *check when keycodes are at 1k. once there look to run*
+						  collapsed:: true
+							- **The WItchqueen  Campaign**
+								- The Ghost
+								- The Investigation
+								-
+					- [[#green]]^^13 Heists^^  + [[#green]]^^9 Seraph^^ Chests Needed be aware to mark 1k keycodes are a trigger
+				- Find and equip a seraph piece of armor with the perk 'Seraph Sensory Array'
+				- Guide
+					- https://youtu.be/5vy1qPozoE4
+			- ### Silence the Alarm - Defeat Deathtongue Choisters before they begin the Battlesong in the Heist Battlegrounds playlist - 7/10
+			  id:: 63fb28c2-776b-4434-a4bd-583365c807bc
+			  collapsed:: true
+				- Deathtongue Choristers are a special variation of the unit *Hive Acolyte* that spawns on Battlegrounds. Its a special Seraph unit.
+				- They spawn and run to a certain point in the map where a totem exists. Once there, it emits *Battlesong*, a spell that prevents Guardians from using their shit.
+				- **Look out for the triggers**
+					- **A Deathtongue moves to channel Battlesong**
+					- **Mara Sov messages you**
+				- **Once those triggers are announced, 10 seconds to destroy the Cloister**
+				- **Assumed 2 will spawn per Battlegrounds**
+			- ### Gadgets Galore - Unlock all upgrades at the Exoframe
+				- **Final 2 gadgets requires level 16** - total sync with *Frame Reboot*
+				- ^^secure bounties and finish all of them^^
+			- ### Authorized Users - Defeat targets with Season of Seraph or IKELOS weapons - 466/600
+			  collapsed:: true
+				- Use IKELOS SMG on Battlegrounds. Should be enough. Hopefully.
+			- ### Drones Destroyed - Destroy all security drones with Revision Zero across system
+			  collapsed:: true
+				- Europa - 3/10
+				- Heist Battleground: Europa - 0/6
+				- Moon - 0/10
+				- Heist Battleground: Moon - 0/6
+				- Heist Battleground: Mars - 1/6
+				- Seraph Station - 1/12
+				- Find, Review, and Create Directions to Security Drones for every Heist Battleground
+					- ### HB: Europe https://youtu.be/7JXwfX0Kvgs?t=10
+					  id:: 63fb3158-8933-4478-b83c-3a582b714279
+					  collapsed:: true
+						- Drone 1 https://youtu.be/7JXwfX0Kvgs?t=10
+							- Location
+								- ![image.png](../assets/image_1677406646233_0.png)
+							- Surroundings - Cadmus Ridge
+								- Spawn - Go straight till you see a platform on righ
+									- ![image.png](../assets/image_1677406752355_0.png)
+								- Step 2 - that big silo is your marker
+									- ![image.png](../assets/image_1677407341591_0.png)
+								- Step 3 - Underneath the edge of the platform facing away from you, (north) its located there
+									- ![image.png](../assets/image_1677407455143_0.png)
+						- Drone 2 https://youtu.be/7JXwfX0Kvgs?t=23
+						  collapsed:: true
+							- Location - its like up and to the left
+								- ![image.png](../assets/image_1677406798696_0.png)
+							- Surroundings - Bray Exosience
+								- ![image.png](../assets/image_1677406897248_0.png)
+						- Drone 3
+							- Surroundings - Bray Exoscience
+								- Step 1 - assuming its the path he takes to go to the next objective, its up the stairs and to the right from back of the room
+								- ![image.png](../assets/image_1677406998479_0.png)
+								- Step 2 - hops through this door and turns right
+									- ![image.png](../assets/image_1677407081039_0.png)
+								- Step 3 - then its another door on the right
+									- ![image.png](../assets/image_1677407143089_0.png)
+								- Step 4 - then its a right down long hallway with smoke and red alarm light reflecting against smoke
+									- ![image.png](../assets/image_1677407188931_0.png)
+									-
+						- Drone 4
+							- Location
+								- ![image.png](../assets/image_1677407547647_0.png)
+							- Surroundings - Creation
+								- Its taking tooo long to do this so I'm just gonna paraphrase
+								- Its down the hall to the left in the 3rd glass case underneath the stairs
+						- Drone 5
+							- Location - I believe its above the last drop in this chapter. Look carefully down and to the left
+							- ![image.png](../assets/image_1677407735325_0.png)
+						- Drone 6
+							- Location - Final room with giant exo, very back of room to the left
+								- ![image.png](../assets/image_1677407775391_0.png)
+							-
+					- ### HB: Moon - https://youtu.be/Bk3MnmOihPc
+						- Drone 1 - The first battle area, up high and to the right by the yellow buildigs
+							- ![image.png](../assets/image_1677407855854_0.png)
+						- Drone 2 - after the first big drop, turn around and its above the tube you just dropped out of
+							- ![image.png](../assets/image_1677407955484_0.png)
+						- Drone 3 - in the bright white blue room its all the way to the right where the special ammo is (not really)
+							- ![image.png](../assets/image_1677408021219_0.png)
+						- Drone 4 - orange hallway tapers into low green hallway into orange hallway, right orange hallway, when room go down, go to area right in the dropped area
+							- ![image.png](../assets/image_1677408103757_0.png)
+						- Drone 5 - from the drop room it do go down a long hallway then it opens up into big room check right high
+							- ![image.png](../assets/image_1677408245734_0.png)
+						- Drone 5- Big necklace room, don't move just look med low left in the dark should be against the wall big room
+							- ![image.png](../assets/image_1677408296790_0.png)
+							-
+					- ### HB: Mars https://youtu.be/u6Y8Px8BFmk
+					  id:: 63fb315e-4979-424c-bf2c-f6a391520967
+					  collapsed:: true
+						- Drone 1 - on point B, the platform they jump off of, follow the road towards point c, then turn left all the way to end
+						  collapsed:: true
+							- ![image.png](../assets/image_1677408401813_0.png)
+						- Drone 2 - point A behind the eye of souron
+						  collapsed:: true
+							- ![image.png](../assets/image_1677408440944_0.png)
+						- Drone 3 - bust the walls in the big green room loook  up into atrium you'll see the boi hanging there
+							- ![image.png](../assets/image_1677408483230_0.png)
+						- Drone 4 - I already got it
+						- Drone 5 - after the big jump and before you climb back up look high left
+							- ![image.png](../assets/image_1677408589774_0.png)
+						- Drone 6 - Big Diamond room, when the floor moves up and tapers to an entry area, look high right and back where entry area meets Mars
+							- ![image.png](../assets/image_1677408677476_0.png)
+							-
+					- ### Seraph Station https://youtu.be/fY8GDsvahMM
+					  id:: 63fb3f3d-045e-43c4-836e-75dc4c0bf950
+					  collapsed:: true
+						- Drone 1 - careful, before you enter the facility lok for a glowing symbol and find the pad that matches it in the same room
+							- ![image.png](../assets/image_1677408898483_0.png)
+						- Drone 2 - Its in the lazer room up above the door
+							- ![image.png](../assets/image_1677408980202_0.png)
+						- Drone 3 in that big area where there's a bunch of doors, look for that one close right. there are symbols on it that you can shoot behind you on one of the pillars, the door opens
+							- ![image.png](../assets/image_1677409073237_0.png)
+						- Drone 4 - before you enter the fire trap room, the one with all the lazers, go to the second floor firetrap, the scaffold on the left underneath is some trash where you'll see the drone
+							- ![image.png](../assets/image_1677409173328_0.png)
+						- Drone 5 - in the operator buff room, you'll see an operator pad, activate it and shoot the corresponding symbols upon the pillars
+							- ![image.png](../assets/image_1677409299293_0.png)
+						- Drone 6 - remember that room with the red rooms on the left? follow the long room to the end of the hall where there are lazers. go thru then left then all the way down - this *might* be the one i already have
+							- ![image.png](../assets/image_1677409387562_0.png)
+						- Drone 7 - in the operator room before first encounter with boss there is a low vent to do the operator mini game again
+							- ![image.png](../assets/image_1677409498925_0.png)
+						- Drone 8 - a door will be on the wall facing the room you just came out of. operator mini game, shoot the symbols which are located in the immediate area of the door
+							- ![image.png](../assets/image_1677409567106_0.png)
+						- Drone 9 immedately after the space walk there's a laser room to the left if you're facing the hallway to the next obj
+							- ![image.png](../assets/image_1677409656913_0.png)
+						- Drone 10 - after the first operator room and before the final boss there is a door to your left with the same operator game. one shot plate is against the wall, the other on a pillar at an odd angle, two others are against white walls above doors high
+							- ![image.png](../assets/image_1677409755555_0.png)
+						- Drone 11 - after the final boss, door to the right, operator mini game, plates are on two pillars middle of room and wall opposite from where you enter
+							- ![image.png](../assets/image_1677409889626_0.png)
+						- Drone 12 - after final boss same room thru lasers to the right
+							- ![image.png](../assets/image_1677409998644_0.png)
+							-
+					- ### Seraph Station Exotic Mission https://youtu.be/qHVsh5whGWw
+				- **Find a Youtube guide for all the other planets. Follow them.**
+					- Europa https://youtu.be/nouyPnx1dR0
+					- Moon https://youtu.be/5S-UNd88s5E
+			- ### Production Model - Earn the Veles-X Pulse Rifle
+			  collapsed:: true
+				- [[#blue]]^^Max Rank Vanguard I'm at level 14^^
+					- Grab those bounties
+					-
+- [[$green]]^^# organizing data for analysis^^
+	- [[$green]]^^## objectives for Seraph^^
+		- [[$blue]]^^13 Heists^^
+		- [[$red]]^^9 Seraph Chests^^
+		- [[$blue]]^^Securing Bounties before every round of Battlegrounds^^
+		- [[$blue]]^^Max Rank Vanguard^^
+		- [[$blue]]^^Moon Bots^^
+		- [[$blue]]^^Mars Bots^^
+		- [[$blue]]^^Europa Bots^^
+		- [[$blue]]^^Get 134 kills with IKELOS SMG^^
+	- [[$green]]^^## objectives for challenges^^
+	  collapsed:: true
+		- [[$blue]]^^use resonance stems to find red boarder guns - 3 remaining, use youtube to find locations between^^
+		  collapsed:: true
+			- 1 - LUNA
+		- [[$blue]]^^complete heist under 12 minutes^^
+		- [[$blue]]^^open hidden chests in seraph^^
+		- [[$blue]]^^masterwork a piece of armor^^
+		- [[$blue]]^^earn levels with ikelos smg^^
+		- [[$blue]]^^complete heist battleground without dying^^
+		- [[$blue]]^^EDZ Activities^^
+	- ## Heists Organized by pattern
+		- [[$green]]^^### Location^^
+			- [[$green]]^^#### Moon^^
+				- [[$green]]^^use resonance stems to find red boarder guns - 3 remaining, use youtube to find locations between^^
+					- 1 - LUNA
+			- [[$green]]^^#### EDZ^^
+				- [[$green]]^^EDZ activites^^
+			- [[$green]]^^#### Activity^^
+				- [[$green]]^^#### Heist: Battlegrounds^^
+					- [[$green]]^^13 Heists^^
+					- [[$green]]^^Get 134 kills with IKELOS SMG^^
+					- [[$green]]^^complete heist under 12 minutes^^
+					- [[$green]]^^complete heist battleground without dying^^
+					- [[$green]]^^Deathtongue Cloisters^^
+					  collapsed:: true
+						- **Look out for the triggers**
+							- **A Deathtongue moves to channel Battlesong**
+							- **Mara Sov messages you**
+					- [[$green]]^^Destroy every security drone on Battlegrounds^^
+				- [[#green]]^^#### Seraph Legendary Heist^^
+					- [[#green]]^^9 Seraph Chests^^
+					- [[#green]]^^open hidden chests in seraph^^
+				- [[$green]]^^#### Weapon crafting^^
+				  collapsed:: true
+					- [[$green]]^^Resonance Luna^^
+					- [[$green]]^^farm 4 ikelos smgs^^
+				- [[$green]]^^#### Masterwork Armor^^
+				- [[$green]]^^#### Bot Hunting^^
+				  collapsed:: true
+					- [[$green]]^^Europa^^
+					- [[$green]]^^Moon^^
+				- [[$green]]^^[[#green]]#### Vanguard - Max Rank^^
+			- #### Persistent Tracking
+				- Securing Bounties before every round of Battlegrounds
+- # Here's the Plan
+	- [[#red]]^^## Persistent Trackers^^ **BETWEEN EVERY ROUND**
+		- Check Seraph tokens, **trigger** - 1000 tokens
+			- if at [[#red]]^^1000 tokens^^, move to collect
+				- Europa https://youtu.be/nouyPnx1dR0
+				- Moon https://youtu.be/5S-UNd88s5E
+			- if not, continue running HB till done
+			- [[#red]]^^Check with Exo^^ to afford SMG
+	- ## Linear Objectives: Destiny 2
+		- [[#green]]^^### 1 - Moon - Get  luna amp^^
+		- [[#green]]^^### 2 - Heist Battleground^^
+			- [[#green]]^^Prioritize nabbing the security drones per map^^
+			- if deathtongue shows, adjust priority
+			- [[#green]]^^1 - **Clear Drones off Each HB**^^
+			  collapsed:: true
+				- **HB MOON** [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb3158-8933-4478-b83c-3a582b714279)
+				- **HB MARS** [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb315e-4979-424c-bf2c-f6a391520967)
+				- **HB EUROPE** [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb3158-8933-4478-b83c-3a582b714279)
+			- [[#green]]^^**2 - Kill ClOISTERS** [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb28c2-776b-4434-a4bd-583365c807bc)  - 1 more^^
+			- [[#green]]^^**3 - Gone Deathless**^^
+			- [[#green]]^^**4 - 12 Minute Run**^^
+				-
+				- ====^^=REMEMBER to check seraph tokens between runs and hit up EXO for level up^^===
+		- ### 3 - Persistent Tracking Objectives - Moon, Europa Bot Hunting, and EDZ
+			- Europa https://youtu.be/nouyPnx1dR0
+			- Moon https://youtu.be/5S-UNd88s5E
+			- Moon WARMIND https://youtu.be/pkaFoveP3ls
+			- Europa WARMIND - https://youtu.be/TUJBNIUZL1I
+		- ### 4 - Seraph Station
+			- 1 - Security Drones - [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb3f3d-045e-43c4-836e-75dc4c0bf950)
+			- 2 - Warmind Nodes - [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb4451-c2e1-44a1-8b6d-b7a1324c042a)
+			- 3 - Secret Chest - [link](logseq://graph/LOGSEQ%20BUILD?block-id=63fb69a3-b435-491c-acb7-e7ba36c1580d)
+		- ### 5 - EDZ
+		- ### 6 - Vanguard Max Rank
+		- ### 7 - Masterwork Armor
+		-
+	- # LINEAR TRACKING
+		- ## 13 HBs Left
+		- 12
+		- 11
+		- 10
+		- 9
+		- 8
+		- 7
+		- 6
+		- 5
+		- 4
+		- use controller to speed up navigation
+		-
+		- cRAFTING
+			- aMMIT AR2
+			- Palmyra rocket launcher
+			- ragnhild
+			- Ember of SInging
+			- Ember of Ashes
+			- Ember of Blistering
+			- Ember of Eruption
+			- 42k glimmer
+		- 1 - 2 - 3 - 4 - 5 -> 1 - 2 -> L - 1 - 2- R - 1 - 2 - R - 1 - 2 - L - 1 - 2- R - 1  - 2 - R - 1 - 2
+		- ![image.png](../assets/image_1677469134660_0.png)
+		- 3 - 5 - 9
+	-
+	-
+	-
+- [[Comments]]
+  collapsed:: true
+	- [[02-26-2023]]
+	  collapsed:: true

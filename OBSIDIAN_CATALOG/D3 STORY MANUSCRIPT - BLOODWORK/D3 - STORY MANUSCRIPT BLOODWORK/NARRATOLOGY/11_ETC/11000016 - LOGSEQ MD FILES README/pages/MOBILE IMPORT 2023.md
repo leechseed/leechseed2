@@ -1,0 +1,1428 @@
+  public:: true
+  
+- # taken from nigga2.txt
+- 2.5.22
+- Every great movie
+- Has it's best scenes on YouTube
+- Sam to one note to evernote to obsidian for redundancy
+- Stress reduction
+- Creating a 'crash cart'
+- Cyclomanic
+- Timeblind
+- stress and muscle mind connection
+- self check how am I feeling
+- Urgent and important
+- 4inhale4hold4exhale4hold
+- kegel exercises
+- what is the temperature?
+- are my glasses clean?
+- is my face oily?
+- have I brushed my teeth?
+- 'ohm' as in ommmmmmm~~
+- Obfuscation incarnate. I want to steak
+- BookRaid: Banned Knowledge and Critical Literature
+- Committie Central: Banned Knowledge, Information Hazards and  Corrective Intelligence
+- Thought bashing
+- Mind jamming
+- Witty pops and Gabby bops
+- Arbitrage sales on shit against the market flip
+- Fun arbitrage
+- Porn DVDs
+- Adult novelties Buulk?
+- Anything inside Xtreme gift shop
+- Poppers
+- Manga
+- Books
+- Porn magazines
+- Signed autographs
+- Board games
+- Gifts at booksamillion
+- Mugs
+- Socks
+- Calendars??
+- What is Barre
+- Design everything with the values you hold
+- Dualities
+- Tragedy of human behavior. We are either hyper extended in one direction but then snap back into the other in exact opposite
+- What if humans are dark matter?
+- Seismometer like thing to track mood swings
+- Narrative design based on boolean logic true false 
+  Fuzzy logic can be described as fuckin  plot  
+- Tito fuzzy
+- Tito anak ni
+- Tito suus
+- Rogue pirate cruise ships wanted for owing $5m in taxes
+- Design as a balance between efficiency, quality, and feel
+- Design
+- Shape vs form
+- Honesty is a lost virtue in the viper pit
+- Form and substance
+- Wac-a46 is the battledroid I use in the logo for Cllankers
+- SpongeBob but cllankers battledroids
+- 3d print ahegao masks like ur the ones in GTA and the twerking girl in that
+- SNACKING vs CHOWING
+- to tackle a complex topic we must break it down into smaller components.
+- We must atomize it.
+- However, very complex topics are not only materially a lot of stuff, it is also very dense.
+- Processing these topics takes more than most consuming the information we must digest it fully.
+- Think of a complex topic like a salt lick or a fucking massive mountain of marble.
+- When we are tackling a complex topic, break down and illustrate the topic as a branching iceberg meme.
+- Branch further and further till it's atomized. Fully atomized, we can start designing and building.
+- It takes a lot of time to process a mountain. however long it takes to understand it do it. 
+  
+  
+  -Design entertainment ethnography  
+  -Entertainment ethnographer   
+  
+  Entertainmentism "Enterism"  
+  -The theory that entertainment is one's designed method communication in attempt to illicit a mutual understanding person or persons.  
+- Streamer horror
+- All at once every streamer's channel is hijacked. It's just a dude in an ahegao mask. He points at the camera "rouge"
+- And one streamer is dead.
+- The rest of the streamers react.
+- It's a footage film. Cut to YouTubes and reactions
+- a steamer in the same house doesn't hear the bang of the gun.  And is caught off guard when the show returns. The guy comes in and kills her. He facss the camera "there are more of me. I just started"
+- An ethnographic study on Hypersexuality in the age of excess
+- A coomer's reckoning: rationalizing depravity and Obsession in erotic design
+- A coomers obsession with deprave design
+- Hypersex
+- PMTV
+- Neuro divergent 
+  Donnie olive  
+- Ficfoc.com
+  Porn but TikTok  
+- New American Gangster
+- About a Filippino kid who returns to his old family home after years in the Marines. He comes to find out that a contractor has been taking advantage of his parents and beats the shit out of them. He teams up with a pizza shop of degenerates who have been fucked with their entire life, and stake out a city for themselves. They kill every old boys club fucker in the town and hand the keys over to a new mayor.
+- It's basically better fast and furious
+- Copy Marlboro for all the branding
+- Art of the 20th century
+- Dada and surrealism
+- Encyclopedia of literature
+- Dictionary of allusions
+- Beesters dictionary of phrase and fable
+- A manual for writers of research papers thesis and dissertations
+- Publication manual of the American psychological association
+- Art deco furniture
+- The writers digest sourcebook for building believable characters
+- Wonder book the illustrated guide to...Jeff vandermeer
+- Martin Roth
+- The fiction writers silent partner 
+  
+  How fiction works James wood   
+  
+  Floaubert  
+- Margret Atwood negotiating with the dead
+- Mythopoesis 
+  The literature book  
+- The seven basic plots Christopher booker
+- Phillip Pullman daemon voices
+- 20th century literary movements
+- he science fiction encyclopedia
+- Encyclopedia of feminist literature
+- The Norton anthology of African American literature
+- Pushcart prize
+- Oscae Wilde
+- Anti intellectualism in American life
+- Foxfire magazine
+- Florida lore
+- Florida backroqds
+- Personalogy
+- John Seymour the self sufficient life and how to live it
+- Tarot for
+- Pastel goth chicks
+- Oxo
+- Erotic boudoir
+- Bdsm restraint forced orgasms
+- Shibari
+- Pinups
+- Underworld monsters
+- Creepy pastas
+- Yoga poses
+- Types of dildos
+- Anime slice of life like haruhi
+- Plastic wrapped bullshit
+- Each civilization lives by a manifesto of philosophy.
+- decofuturism - highly appropriative of culture and decoration. Luxury and oppulism powered by the hermits of futurism. Streamline modern
+- cyberpunk
+- the wasted and deprave
+- Bauhaus
+- libertaeianism
+- neo crusades
+- dadaism or datada
+- brutalism is born out of world war 2 as an efficient form of rebuilding. The exact opposite of Nazi architectire. Concrete is cheap. And there was much to rebuild.
+- design philosophy of tactile and externalized complexity. Control room of a nuclear control room
+- the computer screen is the death of creativity in process .
+- rtv silicone
+- Valerie
+- Kira
+- Alice
+- Erica
+- Notes must be a reflection of the way you think. Obsidian really doesn't reflect that.
+- Ikigai
+- Mayari Sur
+- Cky
+- Analog horror
+- Shoebill team
+- Likitung
+- Psyduck
+- Scyther
+- Muk
+- Snorlax
+- Cheer shoes
+- Grimace from McDonalds
+- Sur la Vie
+- Bellwether is an indicator of trends
+- Usually in politics
+- Aromantic
+- Asexual
+- AutAsexual
+- Autoromantic
+- Gyneaexual
+- Libidoist asexual
+- Exoatmospheric kill vehicle
+- Kayfabe
+  Booked  
+- Wwe except for original characters having beef with pop culture anime
+- The closer to equilibrium a market reaches, the greater the social inequality
+- Flaccidic Armor
+- The dean narrates a story of how an scp like foundation lures creatures from Hell. The first monster was a dark demon who would kill in complete darkness real fast like. But, if yo if shine light, you can stop him. He freezes. To kill him, you need to cut thru his flaccidic Armor. Penetrable with a slow deliberate technique
+- Conflict modeling
+- Cottage core
+- Egirl
+- Cyber fairy
+- Granola girl
+- Baddie
+- Rocker
+- Chic
+- Decora
+- Rockabilly
+- Ultrapoor
+- "Jobs go down heeels go up"
+- Twee
+- Urban pop punk
+- Festival fashion boho chic
+- 'soft grunge' effortless weird chick
+- Pastel goth .... Fashion by decades
+- Malibu bitch
+- Art hoe
+- Bapstick - a club with a touch triggered explosive on the end
+- Innovation curve
+- Neural networks
+- https://www.wingfox.com/f/f-8603/ - 3D character dev
+- Short innovation long decay
+- Short innovation short decay
+- Innovation is an event while decay is a phenomenon. Like big bangs
+- Erin
+- "Narrative can only be plotted within the temporal limitations of the form's ideal rate of consumption. "
+- Pseudo-derivitive
+- Logisim evolution
+- Violet
+- Canopy Road Story
+- Crushes brother wants to create a blow up music video
+- Gets the attention of a gang in highschool
+- Life as an intermartian combat ranger
+- Orange capybara
+- Pallas cat
+- Norwegian forest cat weegie
+- Transatlantic accent
+- Prepping for the inevitable apocalypse
+- Coomstar the Pornographer 
+  Top 151 biographies of pornstars  
+- After the degen world, Setsuna moves to the civil war era
+- The story bookends when the goop is discovered again by mayari
+- Except the second time mayari is killed and the goop is destroyed and sinks into the ocean
+- Something old
+- Something new
+- Something borrowed
+- Something you
+- Axolotls
+- Cook off
+- A tank horror where the enemy is everywhere
+- Truth is fear
+- Legend is strength
+- Why drown in shit when you can wallow
+- The film is called silly man
+- Popworks
+- May and crew are shipbreakers by child labor but are often chosen to go "deep under" because they are small and also are Ferro kind which means they are resistant to dark energy or whatever
+- Ship breakers
+- Mass effect element zero  dark energy
+- Heavy presence of it emits in a style similar to radiation
+- Yoyo wire weapon
+- Like the monowire from cyberpunk + ghost wire Tokyo
+- Originally a utility tool used in space to grab things. Subject it to a Ferro current and it can store and expel  substantial heat like an electric stovetop
+- Check out my top tier woke millennial erotic fiction:
+- 18+ uwu.
+- The bully in highschool is a hot gold star lesbian top energy athlete proto-dominatrix girl in the making.
+- Her struggle is being in love with the feminine looking bitch boy she tortures.
+- Imagine the scene where he is pushed to his limit and goes to fight her in the bathroom.  instead she pins him to the wall and chokes him. He's tearing up and goes full tempter tantrum and starts sobbing.
+- For a second he was in his own world. He forgot the girl was there, that the grip on his neck was the pressure he felt every day of his life.
+- But then he locked eyes with her. She's so close. Her breath fogging his glasses. Her lip quivering. Her eyes dialating to a deep void.
+-
+  > Wtf???????.pdf  
+- "...Why you gotta be so fucking cute-" slipped from her lips like a ghost. She  threw him to the ground, turned heel and kicked the door. It  slapped back and fourth, agitated. his heartbeat slowed as the door settled shut.
+-
+  > Run://Update and Restart Brain  
+- His eyes glossed over and watched, mindlessly, as his big pee peen twitch under his tattered gym shorts.
+- "I wish she just killed me." 
+  
+  -Hey is this your drink?  
+- Yeah
+- Throw it away
+- Laspadas hoagies
+- Punk is "people know shit because it's popular not because it's good"
+- Everyone has a type of laugh
+- Mi5 commissions the NSA to access their spy satellites for extremely covert operations.  A scandal reveals itself when a reporter asks a British government official if they know what zircon is. That instead zircon is actually a fakenintellegince spy network collected by NSA ground agents. That infact it was a scam. The British deny. In reality it was a psyops by the two working together to create an elaborate dungeons and dragons like fiction for losers to do. In fact, it was fun at first, but it actually lead to a cold war between NSA weebs and 4chan. Alex Jones himself is actually an unwilling psychotic shill to feed an outlandish yet narratively exciting pseudofiction.
+- Delta P power u
+- Shotgun spear
+- "Nobody lives in their head"
+- Marines on the bus to training like its on the boat to d day.
+- Coomwave
+  
+  You can't  
+- May Lasseur
+- San La Sur
+- What if...on that shoreline...massive yard satellite dishes were seen as flowers. Maybe they knew that they are decensants of people from earth and that they would be back
+- LEECHSEED.io
+- The Robinhood stories of pile
+- Mythopoeic Narrative in The Legend of Zelda
+- The Complete Guide to Photorealism for Visual Effects, Visualization and Games
+- Quests
+- Design, Theory, and History in Games and Narratives
+- Level Design
+- Processes and Experiences
+- Longing, Ruin, and Connection in Hideo Kojima’s Death Stranding
+- Integrated Storytelling by Design
+- Concepts, Principles and Methods for New Narrative Dimensions
+- Play, Philosophy and Performance
+- 20th Century Media and the American Psyche
+- A Strange Love
+- Forms and Functions of Endings in Narrative Digital Games
+- The Gamification of Digital Journalism
+- Digital Icons
+- Memes, Martyrs and Avatars
+- The Routledge Handbook to the Culture and Media of the Americas
+- The Paradox of Transgression in Games
+- Costume Design for Video Games
+- An Exploration of Historical and Fantastical Skins
+- Hybrid Play
+- Crossing Boundaries in Game Design, Players Identities and Play Spaces
+- Love and Electronic Affection
+- A Design Primer
+- Professional Techniques for Video Game Writing
+- Co-Crafting the Just City
+- Tales from the Field by a Planning Scholar Turned Mayor
+- Imperialism and Colonialism
+- Christopher Bayly, Richard Rathbone and Richard Drayton
+- New Industrial Urbanism
+- Designing Places for Production
+- Maxima Moralia
+- Meditations on the Otherness of the Other
+- Introduction to Political Theory
+- The Morphogenesis of the Norwegian Educational System
+- Aesthetic Collectives
+- On the Nature of Collectivity in Cultural Performance
+- Routledge Handbook of the Sociology of Higher Education
+- Moral Development
+- Theory and Applications
+- The Dynamics of Right-Wing Extremism within German Society
+- Escape into Authoritarianism
+- Popular Music Culture
+- The Key Concepts
+- Playing with Reality
+- Denying, Manipulating, Converting, and Enhancing What Is There
+- Breaking Down Joker
+- Violence, Loneliness, Tragedy
+- Routledge Handbook of Art, Science, and Technology Studies
+- The Rhetoric of Resistance to Prison Education
+- Handbook of Autoethnography
+- Critical Autoethnography
+- Intersecting Cultural Identities in Everyday Life
+- What may finds isn't a weapon, but a mystery. An old computer from Generation zero. The history the truth of their destruction. (The truth isn't that theyre dead it's that they left. They left and they didn't want us following them
+- Poor people use mud Atlantic accent once used to
+- The south is basically the shore. Believing that the zeros will come back
+- Mayari is dissalusioned especially since she found the book
+- Helicopter F1 racing. May drives an ah1cobra. Her brother drives one just like it. Flight engineers are their parents. Mayari her mom, etc.
+- Helicopter accident where brother is ejected from the cockpit and her father burns alive.
+- Her mother forced her control of the helicopter and forces Mayari to take the stick back after she leaves.
+- Mayari can't control her grief and instead of landing, disconnects her radio from ground control and is pursued by law coptrrs.
+- Eventually she runs out of fuel and crashes into the ground. Arrested. Released. Sentence: grounded for 6 years.
+- Some time later, mayari finds herself by the coast as "choppies" a gig driven helicopter mobalized services marketplace. Basically the old open outcry trading pit except it's an impromptu area where u get work or shit.
+- The drugs there are all synthetic. Little drug ballies that you crack between ur teeth or put them in. A cigarette to smoke.
+- They're made in pseudo pharmacy/doctor drug dealer where they're diagnosed prescribed and pickup their  to mixed in a certain designer drug. compounding pharmacy.
+- PICTUES haunt her.
+- National space society Roadmap
+  
+  Truebill  
+- Sockett is a an analog bio access connector that provides information on the human it is installed in.
+- Basically an xlr cable socket.
+- The socket can be used as a fashion and personality statement. The placement, the cover, etc. The meaning of it is kind of lost in the noise. This shit can get crazy.
+- What if the apparatus was used to pump "gas" into people from space
+- People can get multiple proprietary sockets installed. They can "eat" etc....
+- The point is, this "socket" can be the x factor in my show.  A great title too.
+- Like magic, it is a system of power. But instead of being dicking retarded and mysterious, it's rooted in reality. Curiosity is not
+- Neon Leon custom neon
+- Dust on window of bus sending children away. Parents draw hearts. the bus speeds away hands smear as if gone too quickly
+- School where kids are sent away to while parents stay and fight
+- Two overall truths:
+- Great at story, but no skill at technical animation level.
+- Focus on the process of creating the first story within the context of an "expanded script" or a narrative focused draft.
+  
+  Look to plot.   
+  Pick a story. Develop It.   
+  
+  Create the platform to share using WordPress.   
+  What is duality?  
+  Two simple opposing concepts held together in cognition.  
+- What is depth?
+- A duality where each opposing concept is broken down into a simple shape model of components. (Line, Triangle, square)
+- Circle - a model used to represent  a container in which duality and depth models are held. The purpose of which is to visually represent simple models held in cognition. By doing so, causal, fuzzy, and other relationships between pimp concepts can be realized. Thus creating complex relationships/concepts with deep believable justification.
+- What is subsensuous?
+- Expressing depth and duality in the most efficient, entertaining, and meaningful manner specific to the intention of the author.
+- What are the fundamental strengths of each story medium from the perspective of LEECHSEED?
+- Kitbash modeling
+- Website color design based on diving into the void. An enigma. A fucking sinkhole nebula in space
+- Kitbashing
+- The trails we leave behind are the narrative we live inside
+- Jamie Chadwick racer
+- Tallahassee is the modern wild west
+- seven segment displays
+- 8 bite in a byte for a computer
+- 3 things a human can hold in their head to efficiently function
+- Buffalo was a former drug dealer who released a wild heard of hippos in the Florida swamps and the story of how it unfolded simply for his curiousity.
+- Actually what if he just released an entire zoo of edible meat animals into the wild.
+- Sci-fi twist? They're genetically modified to reproduce quickly and en masse. To solve a food crisis they actually just created a bigger one. How quaint
+- Guy loses his watch in the post apocalypse
+- Watch movements as types of engine designs for vehicles in LEECHSEED
+- 'Classic' is when something pervasive in one's life is forgotten after time, and is spontaneously re..  pretty sure nostalgia.
+- An assistant has to program her bosses super expensive data watch to keep him on time. Shit falls apart though
+- Massive Watch movements as space ships. Quartz crystal or synthetic rubies used as heat sinks.
+- These movements are actually powered by human energy? The biggest and most powerful movements have enough energy for hundreda of years. Thus the people on the ship become lazy
+- Living forever except inside a time dialation. Where thousands of years go by but within it time exists on it's own. These are the people who are the "final" existence of the human race. Millions of attempts are made to influence the time on the outside to prevent them from going into the time dialation.
+- Ruger mark IV action is the design influence for the pistols in leec seed
+- The gun I want is a Ruger mark IV
+- I SHIDDED da dough
+- People in large convoys travel thru the Florida backwater using 4 wheelers and bikes to herd  hippalos to market. They make bbq hauled along a trailer
+- Eugene - a 3D firearms maker who makes bespoke weapons for people who want them. He lives out of a
+- Refrigerator thermom
+- Stop
+- Look
+- Listen
+- Smell
+- Browning hi power
+- Manjaro
+- Transmedia and bashing
+- Bashmedia
+- Validation of your skill thru the impact you create
+- Build something and change the world
+- Infuse ai with physics
+- Deep mind transformers between neurons
+- Sudo is the honorific used in the working class
+- Logo design
+- Linkin Park
+- 3 doors down
+- Three days grace
+- Puddle of Mudd
+- Green day
+- Sum 41
+- Velvet revolver
+- Audioslave
+- Weezer
+- Shinedown
+- Thirty seconds to Mars
+- Lifehouse
+- Panic at the disco
+- System of a down
+- Hoobastank
+- Good Charlotte
+- Famous stars and strapa
+- Atticus
+- Arctic monkeys
+- Papa roach
+- Nickleback
+- Fall out boy
+- Chevelle
+- Muse
+- Paramore
+- Red hot chili peppers
+- Evanesebce
+- Principles of anti design
+- Multiple identifies
+- Esoteric branding
+- Substance over form
+- Wire frame
+- Qvc
+- Old phone infomercials set it and forget it
+- Obama change
+- KitBashing all of these concepts with present ones
+- Old,new,strange,you
+- Summer vanished
+- The way atgms move from the pov if the shooter
+- Ya gotta be cool and stay cool
+- Internet drama in a sci-fi universe
+- Cherenkov radiation but with lightspeed travel
+- Refraction. Nothing travels faster than the speed of light thru a true vacuum. But is space a true vaccum? What if science fiction includes building lanes of ftl by building low vaccumic space?
+- Between these lanes, ships would have to travel in nftl or sftl (near ftl, sub ftl) thus increasing travel times by 10 x
+- Remington lever action 30-30
+- Winchester 1894
+- Marlin xlr
+- Ruger 700
+- Mini 14
+- Daniel defense delta 5
+- A guy who ladies hire to have a grntelmens date with no sex. He's the best at it. He makes great money. He meets a girl that has him misread her. He fucks it up and he's obsessed over it. He has a client the next day. He kills it. But then the girl is outside. She calls him. It's a setup. She wants to be him. She wants to make money just like him. She knows that he cant stop thinking about her. So he puts his mind at ease by telling him he will give the woman the best time of her life. And then teach her about it tomorrow
+- It's not what you say that counts It's what people hear
+- skewmorphism
+- As long as it's dangerous, it'll always be tempting
+- Haiku?
+- Born in a stable
+- Raised as a lamb
+- Grown but the shear
+- Mutton.
+- Susquehanna weed
+- Adriana Chechik is ivy
+- Gina Valentina is Ariel
+- Lena the plug is dixie
+- No jumper guy is Tyson
+- A world where everything is gas powered
+- Tesla coil wireless power mayari discoveres this ?
+- What if humans relationships were modeled like atoms in physics? Nucleus, protons, neutrons, orbiters, etc
+- Outsiders are those free flowing electrons
+- Societies in revolution are like highly radioactive elements
+- Ripple worlds
+- "Valence Shell"
+- "Valinnt Shell"
+- Sgt dekahs
+- Black powder pistols
+- Mayari finds the computer and it builds stuff for her if she brings the material
+- Beretta brx 1
+- Strike eagle sfp
+- Savage impulse
+- Replicator is what mayari finds
+- Deus Ex Replicator: General (DER:G)
+- Sky lobbies
+- KE3.GEN girl band
+- People hide guns and sextoys the same way
+- .GEN
+- Stackshare.io
+- Recoil
+- Frontline
+- Unit classified
+- Rolling thunder
+- Phantom forces
+- Arsenal
+- Marc sim
+- Ragdoll universe
+- Eldritch horror
+- Define race by what fucked them.
+- Black = Society
+- White = Family
+- Asian = Honor
+- Latin = Hustle
+- Origin
+- Main
+- Push
+- Commit
+- Faith district
+- The capitist solution for the meaninglessness of it all
+- GOOMERS - are like confessional booths for people to come up to for advice from gamers who don't make any money and just live on the fringe.
+- The 14 eyes
+- Bella Porch - kawaii
+- Hannah OwO - chill bro next door
+- Angie varona - athletic mega babe
+- Haruhi - psychotic dork
+- cunny.peng
+- Tsundre
+- Formulaic main girl
+- Danger 5
+- Black and pink texture tearing
+- Look back at the script for crawlspace
+- Lisa Manoban and the way she moves
+- Aesop and grimms fables but animation
+- Build a crucible
+- "Smells like motor oil"
+- ...
+- "GET OUT"
+- Atomic tourism
+- Weirdcore
+- Liminal spaces
+- Cursed images
+- Respect existence
+- Expect resistance
+- Emiru
+- Harry Potter themed dildos
+- Figures to do:
+- FLCL
+- cowboy beebop
+- Evangelion
+- Haruhi
+- League of Legends
+- Rainbow six
+- Blue archive
+- 2B
+- Kill la kill
+- Attack on Titan
+- RWBY
+- Fighting games
+- Nikke
+- If I could live a longer I'd be a billionaire
+- If she had come any quicker she'd be over there 
+  
+  11 markers   
+  Glue stick  
+- Space ship named after the astronauts in the Apollo program
+- Baseline Love
+- Sharp
+- Flat
+- Grissom
+- Ed White
+- Chaffey
+- Bunny girls
+- Cory chase
+- Assumption deck
+- Jane wilde
+- Eliza ibarra
+- Humans but four arms
+- Human clones with a god ai
+- Humans who brought animals that could talk And they also are cyborgs
+- ancient Greeks
+- then there are the new guys.
+- Weird factions: the men in space suits
+- The diaspora
+- Daily Dose of
+- TheSticky
+- XtraSauce
+- History is our present reflection of the past projected onto our future
+- Business that makes Yankees with no brim but keeps the shape. Use same process of how theyake fezzes
+- Makoko
+- Kokomo
+- Fearless tarot
+- Tarot spreads
+- I'm so fucking nasty so get naked or GTFO
+- I coom therefore I am
+- IFTIA
+- ISFNSDFWM
+- Outcum
+- YWNU
+- ICBIC
+- Don't cum in my room unless you want to
+- DCIMR(UYWT)
+- RAWtype
+- Rakework
+- Nutpunch
+- Milkbust
+- 100 pepes for 100
+- Milkforce
+- Jellyforce
+- Jellyfist
+- Post-decent hypersexual turbo fap  operator type energy
+- What is that microorganism that can live in space
+- They should be giant sized
+- And also pretty much invincible
+- That is their greatest trait.
+- Gapefuel.com
+- The pop guide to extreme pleasure
+- Hypersexual haven
+- Best  All-Time Juice for the Advanced  Sexual Athlete
+- The AI sprawls with mini nuklear reactors.  Like the Zerg in starfrafy
+- BASE X
+- Psychology Disorders and conditions
+- Neurological And Genetic predispositions triggered by environmental circumstance
+- Tenfour Copy
+- Incorporate ten and four into the pricing model
+- JACK WILDE AMERICAN COPYWRITER
+- NATIVE ENGLISH
+- MADE IN USA BUSINESS CONTENT
+- Gershwin theatre
+- Minskoff theatre
+- Koyaanisqatsi
+- LEECHSEED podcast
+- Timeless stories from echoes  . Epic Storytelling in a campfire format. Each 60 minute episode is one story from beginning to end.
+- Bdsm niche and build out. Strictly a space of nsfw web.
+- Basically gotta build websites that link to each other and grow and grow eternally. Kind of like what obsidian does for content and knowledge. Do this for porn. Just gotta Niche down to a good entry point
+- Internet historian style videos but for pop sex
+- Waifulabs
+- Entourage except consistent failure and teens who are in content houses and influencers
+- Persistence hunters
+- Don't stare at the screen
+- Anti cheat : every game is on the Blockchain 
+  
+  PROJECT: SKIN SERIES / FULL GUIDE + REVIEW of every champion in LOL PROJECT alternate universe.  
+- Limenal space exploration Iike
+- Urbex
+- Mix it with cave diving lore
+- Movie
+- Ultra chug jug
+- Mega pint
+- Radikal wiskers
+- Swat Kats
+- Cheems
+  Social engineering  
+- Advanced persistent security
+- My greatest weakness: composure
+- TikTokTropes
+- Short narrative toks that exploit common and universal movie and tv tropes. Ya dig
+- VR is the next thing. The technology that it's missing is the technology in a phone that allows us to switch between schemas edfortlessly. We can chose to engage fully either world either way.  ARVR
+- Design a headset that people will put on and forget they're wearing it
+- Cheap recyclable materials to self tailor the headset. For like $10 you can take your perfect measurements even with glasses
+- And your vr helmet will fit
+- Ibiza for celebration
+- Passion is inherently disruptive.
+- Passion must be pushed to the brink of creativity. The value is entirely based on the creator's mastery of craft. Without mastery passion has no value.
+- Two draft DESIGN PATTERNS for LEECHSEED.
+- DISRUPTIVE PASSION Pattern
+- STAKE ANALYTICS Pattern
+- BASE Pattern
+- Both patterns feed into the same core programming. What differs are the input values for the base parameters.
+- In the disruptive passion pattern, there is only one stakeholder.
+- In the stake analytics patten, there are multiple stakeholders, their priority decided on stake ownership percentage. Sop is the output of relevant data and risk analysis.
+- Earn engagement. Earn their full attention.
+- Hubris is the end of democracy. It is the end of America.
+- To believe that you're fucking smart. Your So fucking smart that your value is stupid huge. so incomprehensibly huge that to translate it to anyone, you have to resort to parlor tricks and clown authority.
+- Garcia 45 yacht
+- Kracken 50 Yacht
+- Vanishing point
+- Seige - Marines blitzkreig
+- Assault - army MSR
+- Contain - mech clans
+- Physical
+- Spiritual
+- Mental
+- Relational
+- Strength - confident
+- Purpose - conviction
+- Discipline -  capable
+- Position - mobility
+- Control - intelligence
+- Princess Olga of kiev
+- Golden mayer
+- Margaret thatcher
+- Sanna Marin prime minister of Finland
+- Live every arc that u Wana be part of using characters like yourself
+- Attachment style
+- Have your kid hop onto a school bus and steal it while you steal all the money from the bank
+- John Spencer.com
+- A1 skyraider
+- P51 mustang
+- P40 warhawk
+- B17 flying fortress
+- Rouch
+- Mouser in chief
+- Guilty Parties
+- Red birb parrot type people aliens except huge
+- Domesticated cats are aliens too but the size of cougars
+- Big beautifuler than u fish and sea life. In space they have their own ocean bubbles and they migrate like that
+- Elephant aliens
+- Anacroprimitive cult
+- Fuckin seals
+- Hozier take me to church
+- Thousand miles
+- Someone like you Adele
+- John legend someone like you
+- Stay with me sam smith
+- See you again wiz khalifa
+- Heathens twenty one pilots
+- Kanye west all of the lights
+- Interstellar cover piano
+- Queen don't stop me now
+- Queen bohemian rhapsody
+- odst deference for darkness
+- Story from one perspective
+- The scene starts the story
+- The scene is the constraint
+- Not even a constraint but a catalyst a start a beginning somthinf
+- Chariot racing but motorcycles
+- Evilstick
+- Impersonating cops and stealing drugs
+- Archangel
+- Minority report meets judge dredd
+- Make the trailer first
+- Race
+- Class
+- Power
+- High cult
+- Masscult
+- Counter cult
+- Your audience is a jury
+- And you must ask and answer a line of questioning without objection
+- Ariel
+- Ariel is a super hero. Wolverine
+- Training arc
+- doing something with someone in mind
+- Do it badly
+- Camille had someone to protect and someone to expose. she was his sword ans shield 
+  Forgive yourself  
+- Sci Fi races plus super heroes
+- Police as faceless drones representing a unified opposing force
+- When the judge wears the robe, they cloak their persona. They are no longer human. They become justice.
+- King hamarabi
+- Maggie the space pilot who landed her craft on her own 17 when her instructor died mid x-op (in space, extra vehicular operatin)
+- That shit BESH
+- 9mm kills the body
+- But 45 kills the soul
+- "He sleeps with jacket on baby"
+- Remember Waukesha
+- Reject the future embrace tradition
+- What if Ariel was put into military rotc like in major Payne
+- Break down each component into molecular deliverables
+- Marx is to Capatilism as
+- Mongols are to Rome as
+- Deez nutts on yo fohead
+- Great apes as a race
+- Bats are cute but also the caretakers of the universe
+- Vershlimbessern
+- Ew god
+- A menace to society
+- So sad
+- A model of virginity
+- Ugh gag
+- A walking talking manatee
+- Get mad
+- A modern major masterpiece 
+  
+   -Mind heist  
+- The right is masochistic
+- the left is sadistic
+- And Both want to desperately fuck 
+   -But they fear the repercussions  
+- Of the thoughts they think they
+- Wish could be
+- To quench
+- Mundane
+- Curiosity
+- To exercise anguish
+- They fight like they fuck
+- Passionately
+- Aggressively
+- Violently
+- Hatefully
+- Shamefully
+- Perverse
+- And depraved
+- Monkey butt fucking
+- Dick throat choking
+- Unprotected fluid exchange
+- humiliating
+- Fist pumping
+- Tear jerking
+- Addiction to
+- Overstimulated
+- Underwhelming
+- Excess in meaninglessness
+   -Too much whining  
+- You need spanking
+- Service, Honor, sacrifice, bound
+- Gaping dripping open holes
+- Humiliated used
+- primal abuse
+- Comply till all is served . satisfied
+- Broken and Fulfilled
+- Purpose in humiliation
+- America the beautiful
+- Well rounded
+- Every way
+- Fatberg
+- Fnx45
+- Beretta m9
+- Hk USP 45
+- CZ shadow 2
+- Knights armament sr15
+- A giant looks in the mirror and sees nothing
+- "I will give you the world but I can take it away."
+- WWE DND
+- Woke white west
+- App Field Agent
+- Comms in war sci Fi are like comms in video games
+- Pinnacle of debauchery
+- Toobin
+- Get the cow across the river and into the badlands
+- 1) reinforce the bridge
+- 2) build a ferry
+- 3) launch it via rocket
+- Hide the cow
+- 1) in the ancient sewers
+- 2) suspend it by an air blimp
+- 3) in a warehouse
+- The client, a ninja culinary faction, finds them.
+- Kill the cow?  harvest its semen? Or save the cow?
+- The 5 estates of setting
+- 1) environmentally
+- 2) socially
+- 3) authority
+- 4) economically
+- 5) religiously
+- Estates of time
+- 1) event
+- 2) period of service
+- 3) quest
+- 4) foggy
+- Red aggressive
+- Green skirmish
+- Grey jack
+- Bear holes!
+- Bro u mean a CAVE?
+- Lottery time travel trap
+- June 4 1989
+- Phasmaphobia except tornados
+- Tall ships
+- Batavia
+- Amerigo Vespucci
+- Hms victory
+- Uss constitution
+- Blagodat
+- Hms bounty
+- Major motion movement
+- Ship breaking yard
+- In Setsuna people go out and find derelict ships to salvage ar the yard
+- Create a 3d avatar paypig pen
+- Blood waterfall in Antarctica
+- Emegerges as the polar ice caps melt down
+- Grilled Wings
+- Filipino BBQ stick
+- Garlic fried rice
+- Palabok
+- Mongo
+- Steak
+- Atchara
+- $50k+ debt paid over the for the next 20 years of your life. working 8-5 so you can take out another loan. go to graduate school. Mortgage a  house.  Spend next 30 years paying that off. Retire. Live modestly. Get a part time job. Programmed to work for someone else . Can't figure out what to do with all that free time.
+- Or
+- Turn 18. Start $0 down turnkey business. Downside? People hate you. Plus side? Profit. You take home all of it. While butthurt college kids bitch on Reddit that 35% of their paycheck goes to rent, 35%  expenses, and maybe, if they're smart, they'll 'save' the rest. Meanwhile you're 18, hot af, focus on yourself, invesf in what you want to do, and if you want, disappear off the face of the earth. Most normies, like us, the creditors would hunt us down to pay our debts. Even go after our families. Is she really that dumb? Or are we the real fucking idiots?
+- Capitalism doesn't give a shit about your virtue or self respect. All it cares about is value. your value is exercised  thru debt. Her value is exercised thru income. She sold her soul for the dollar. But you sold your life for it.
+- Dignity has no value. Your ego is worthless.
+- Cash is king.
+- Time is everything.
+- She has time and cash.
+- You have your ego.
+- UwU - 2 l You - 1 
+  
+  Discmod  
+- Grimace the Oscar
+- Artillery girls gacha game
+- Fire
+- Disengage
+- Manuver
+- See 3 moves ahead 3 behind and the whole picture
+- I'm already done with this conversation bro
+- I'm on to next week.
+- Cya.
+- IED in vagina
+- Blowjob trainer machine
+- Office like comedy about high school teachers
+- A sniper in the Tallahassee park
+- Under water cave
+- Post apocalyptic
+- Robin samurai fighting
+- College MDMA dependency  girls/girls/sex/god/family
+- Doomer music
+- Telnyshka
+- Generals are like surgeons
+- They bury their mistakes
+- Teens rolling around with American supplied javelins on the Ukrainian front hunting down Russian tanks. Film themselves with drones and get paid with social media cred, and by the militia with evidence of their kills and exploits.
+- Rock stars on the front. Eventually they'll pay. End of Watch
+- Ukrainian 93rd Brigade
+- https://funker530.com/video/ukrainian-93rd-brigade-hunts-down-and-destroys-multiple-tanks/
+- This is how fighter jets should filmed
+- https://funker530.com/video/su-25-frogfoot-low-level-sortie-in-donbass/
+- Shibnoleth a language trick to identify an outsider
+- Hatchers notebook
+- Hesco wall berm
+- Sexual surrealism
+- Shoot steel
+- Crappie
+- Bass
+- Bluegill
+- Mirepoix France
+- Trinity Creole
+- Italian soffrito
+- Spanish soffrito
+- Chinese mirepoix
+- Thai mirepoix
+- Suppengruin
+- Mcdp 1 Warfighjting
+- the conduct of war is fundamentally a dynamic process of
+- human competition requiring both the knowledge of science
+- and the creativity of art but driven ultimately by the power of
+- human will.
+- NOmedia
+- Viola Bailey
+- "I want to be a Space ranger"
+- Catbox
+- Anonfiles
+- Content creators are all evil sociopathic super villains. Content house is a league of super villains and their greatest weakness is their vanity and fakeness
+- The anti-heroes are the fools that try and take them down.
+- Carrd
+- Neocities
+- An assassin gets killed. Mysteriously wakes up in his bed the next day. He finds out that the world believes he is dead and he just looks alike. He has a chance to live a good life. The world supports that.  However he can't get over the idea of vengeance
+- Saber rangers
+- Vamacara tantra
+- Aghori
+- Kaula
+- Kashmir shaivism
+- Ghost tape 10
+- Jalert
+- Blood rush
+- Pinkertons "We never sleep"
+- The name of a fictional private highschool based in the south
+- Bitchute
+- Odyssey
+- IMG Sports
+- 4a Chaminade-Madonna
+- 5a Miami Central
+- 6a Merrit Island
+- 7a Tampa Jesuit
+- St John Bosco
+- She's pro gun
+- But shes never even held one
+- She's pro choice
+- But she never had the option
+- Truth in Isolation
+- The tooth fairy builds a colony out of baby teeth
+- Geode popping
+- Triggertech trigger
+- ADM lower
+- POF P415 Upper
+- Or
+- MRPL specwar upper 11.5
+  
+  Light blue and cream  
+- Supa caproni
+- Junket
+- Lwrci ica5
+- Vortex razor gen2 e
+- Banelli m4
+- KAC sr15
+- DSA OSW
+- "The bitterness of lower quality remains long after the sweetness of low price has been forgotten"
+- Evergreen -> black Nazis
+- 'power narrative'  explains why it has power and why it deserves it
+- Those who are unaffected by power and who question this narrative, are the enemy of the state
+- Ohio ordinance works HCAR
+- CMMG banshee
+- KAC m110
+- Baretta 1301
+- Springfield scout m1a
+- Mini silencers
+- Trijicon vcog
+- CZ scorpion
+- Enola gaye grenades
+- Fuck, marry, kill...you mean rape, kidnap, murder
+- GumbyDrops
+- TP380
+- Csv 9
+- Barrett MRAD
+- Kubota Mx5400
+  
+  Niche : goon encouragement/sissy/joi/  
+  
+  Binary = sectarian  
+- Donbass battalion
+- The little men in black
+- Carpathian sich
+- Azov battalion
+- Stugna batallion
+- The light legion
+- Ur pro camo
+- Concamp
+- Cirkadyne
+- Zebras are quaggas
+- FN HI-power
+- Fn 5.7
+- "Abortion should be legal but rare."
+- Temple Drill
+- School pizza
+- RAKET
+- BLKOUT - FourLoko
+- Confit mushrooms
+- Onions
+- Olives
+- Capers
+- Pimientos
+- Garlic
+- Remix twerk song
+- XPD Xtreme party Dave
+- Young brother has to do something snitchy for the cops to get him out of jail. What he does, gets the cop information and they release his brother. But someone innocent dies because of him. His brother brings him into the gangster fold
+- Highop merrils for shoes
+- Thin socks
+- Or
+- Upon turning 18, women and men are given a choice to sterilize themselves. Incentives disproportionately affect the poor, minorites, and the disallusioned. 
+  
+  Ai art all races of moist critical  
+- Clapping turtle
+- Thriller about a situation where suitcases filled with dismembered human bodies washes upon shore
+- They're survivors or suicides from Atlantis built by Tesla suffers from a catestrophic structural failure. Basically Dubai underwater goes bioshock
+- Geislee super duty
+- Baretta brx1
+- Baretta sl2
+- An epitaph inscribed on an old school shotgun passed thru generations
+- "If you can read then I am dead"
+- "May you be Sheep dogs"
+- Tundra trackers
+- Ariel lived on an old army base on an island where she would race and her small community lived in peace. One day the army forcefully evacuated them....the story of the bikini atoll people
+- Her family was a 'holdout' from pre-skyfall . They own the biggest fucking Island. Insert the story about the 'girl who lives in the dusk' trash girl.
+- Slavery and Emancipation
+- Ariel story based on The King
+- Sin and redemption
+- Isolation
+- Sexuality
+- Taboo
+- Iodine salt cups at the doors of houses like holy water at the doors of churches
+- A civilization built in a marble quarry
+- Bear in the blue house
+- Snuffleuffagus
+- Grimace from McDonald's
+- America has transitioned from the underdog colonized to the European colonizer.
+- The greatest struggle for the average American is the chronic pain of boredom. A cancer against the established American myth of brinkmanship, virtue, and discipline.
+- A cancer defined by mediocrity, selfishness, and hedonism
+  
+  Route 66   
+  Florida credit union  
+  Security code  
+- Italian night club
+- Salami
+- Capicola
+- Ham
+- Lettuce
+- Tomato
+- Onion
+- Mayo
+- Oil
+- Oregano
+- Basil
+- Salt
+- Pepper
+- Vinegar
+- Tell me something only a criminal would know.
+- Spark plugs break windows
+- Bell 407
+- Bell 429
+- BCM recce 11.5
+- LWRC M6IC DI
+- Daniel defense mk18 10.3
+- Sig spear LT
+- Lwrci repr mk
+- KAC sr25
+- Nightforce atacr
+- Eotech exps3
+- Aimpoint t2
+- I had a dream
+- About the ex I never had
+- And how the good times never last 
+  And how I miss her fucking bad  
+- I had a dream
+- About the ex I never had
+- And how the sex was fucking rad
+- Oh how I miss her fucking bad
+- The ex I never had
+- It was
+- Nineteen nineteethree
+- Sixteen on a bike on THC
+- I don't think I could have foreseen
+- I ride the same at twenty three
+- I was
+- The dream at my highschool
+- To be the one in Hollywood
+- But fuck me I'm still here and at home
+- To be real is to be alone
+- All your songs
+- They sound the same
+- I guess that's the point
+- But it's still kinda lame
+- I know that I
+- Don't have room to talk
+- But at least I know
+- I'm just a one trick fuck
+- Airsoft
+- VFC SR25 ECC GBB
+- Camo
+- Phantomleaf wasp z3a
+- Pentocot wildwood
+- Planobox
+- Light assult ghillie
+- Bates shows
+- First principles design
+- Swat vs black panthers
+- Pacquiao movie
+- Hyabusa T3
+- Ka-bar Space Bar
+- Bonsai shredder
+- Fudge buying point
+- Bainbridge Georgia
+- Cotton Fields
+- Old highways thru forests
+- Big farms next to tiny houses
+- Bridges over rivers
+- Meat and Country
+- Red clay dirt roads
+- Hey bales
+- Acre wide sprinkler systems
+- Baptist Churches in the middle of nowhere
+- Green light brown light grey light green red
+- Soggy bottom reach l ranch
+- Old delapidaded farm building
+- Lots of bird nests on sticks
+- Mobile homes side of highway
+- Old derelict lumber homes by highway on big ranch
+- Wooden electric poles
+- Bridge over Creek
+- Red clay hills exposed siding
+- Different types of fences
+- Huge totem pole
+- Expensive cars outside of homes
+- Sketchy motels
+- Old big highschool stadium by highway
+- Quarry
+- Button
+- Cuthbert
+- Container ship trailers in parking lot for storage
+- Old car shop with big ass tires and regular tires up front
+- Cotton everywhere
+- Pickup truck hauling a trailer holding to many hay bales
+- Flea hop road
+- Massive grain silos
+- White oak pastures
+- Tractor pulling hay baler dust trail
+- Rv park
+- Pile of sagging hay bales
+- Bales of wrapped wrapped in blue plastic
+- Hawk circling above
+- Rows of planted pine trees
+- Rail road crossing over highway
+- Derelict old concrete silo in over grown field
+- Ricks deer processing
+- Old message light sign with arrow pointing down dirt road in deep forest
+- Trailer holding trailers
+- Hay bale with guys legs sticking out
+- Bridge I've ices before road
+- Field of old school busses and cars
+- Big ass trump sign
+- Bridge over swamp
+- Little towns one stop light by highway
+- Cuthbert
+- Tall red and white cell tower
+- Lumpkin
+- Cussetta
+- Cows resting under tree
+- Concrete drainage undulating over clay hills
+- Open flat land to hills of fend dense forests
+- Foggy forest hills rise on the horizon
+- Pumpkin Creek
+- Bridge over Creek
+- Red clay dirt staining highway
+- Highway not like interstate
+- It curves and bends
+- Yep lanes and it goes through towns
+- Water towers on the horizon
+- Cussetta
+- Grat dirt hills
+- Tree logging truck
+- Concrete gutter stained with red clay dirt
+- Blue school bus pulling a jeep with dirt bikes tied to roof
+- Asphalt snakes filling in cracks on the highway
+- Chattahoochee county
+- Hazy Hills on horizon green speckled with brown and red and yellow
+- Fort Jefferson tanks on side of highway
+- Banned.video
+- Large granite hills
+  
+  205  
+  402  
+- Eskrimadors
+- Nelson ted turner 
+  
+  large joggers - red bank of America   
+  Large shirt Atlanta, xayah unlocked   
+  75 +38 = $113  
+  75  
+  $188  
+  
+  Kickass anime .ru   
+  
+  Kas.ai  
+- Prom dance at the Georgia aquarium
+- Bug crawling across windshield
+- Play the ending of fight club to the j6 riots
+- Tragic anti-hero character = a great person with amazing traits, except for that one thing that overshadows all else
+- Ivan ilyn
+- Christian fascism
+- Leo gumilev
+- The State of Emergency
+- The State of Exception
+- Carl Schmidt
+- 'law is whatever serves the race"
+- Colt python 6"
+- Time travel defenders
+- Priscilla ricart
+- Marlin 1895
+  
+  Project based learning development  
+- Embedded reporting
+- Dr. Zeynea tufekci
+- Only 23% of adults use Twitter
+- Most of them are younger liberals
+- 25% of Twitter produce 97% of all tweets
+- Law and Virtue
+- Pride and Guilt
+- Sacrifice and Privilege
+- Domination and Submission
+- Purpose and Potential
+- Safety and Freedom
+- Purity and Power
+- Luck and Prayer
+- Cessna 182
+- Piper Cherokee
+- Diamond da40
+- Talker helmet
+- Beehive shells
+- BFG Division
+- Burial Detail
+- The name of a squad.
+- Logo is a coffin
+- Project blue peacock
+- Lateral thinking
+- Withered technology
+- THE WICKIED AND KIND
+- A wild west duel between two tanks
+- Chocolate rain
+- Voice body mismatch
+- Look like
+- Sound like
+- Move like
+- EDM died the day Avicii passed
+- The day edm died
+- The Gay Sex Mafia
+- Executive protection
+- Music by source
+- Dirtfish rally school
+- Machine gun industry
+- Holiday movies are underestimated
+- Black powder chili
+- Midshipman x
+- Sophisticated women tame the savagery of violent men
+- Blood Americana
+- I don't want your monetization
+- My opinion is not swayed by a the promise of return. My material wealth is bountiful and thus is my mind and my word. Shut the fuck up pheasant.
+- Isn't it peasant?
+- Not anymore, you fucking slut bitch sexual cunt faggot.
+- KILROY (KSPEC) is known as the special forces division of the space force.
+- No matter where the military went, KILROY was already there.
+- Msm composer Island
+- Hennessey Camaro
+- Hennessey Venom
+- Cadillac ct4-v
+- Corvette
+- Shelby gt500
+- BMW M5
+- Alpina
+- G power
+- Manhart
+- Dinan
+- Ac schnitzel
+- Hamann
+- Schmidmann
+- Studie AG
+- When you're the only black kid in the hood
+- Styalized left hand with a gaping asshole at it's center
+- Alienation/authority 
+  
+  Best puzzles   
+  
+  Use fitness books as refrence for posing  
+- Daniel Lacerta
+- Korean army stew
+- El Golfo Mexican cuisine stew
+- Mi cocina Rick Martinez
+- Colleen Hoover
+- Elle Kennedy
+- mia Sheridan
+- Diana gabaldon
+- Robert Jordan
+- Margaret Atwood
+- F Scott Fitzgerald
+- Diana gabaldon
+- Joseph heller
+- Fight club
+- James sa Corey
+- Issac Asimov
+- Naomi alderman
+- Joe Abercrombie
+- Flight of the intruder
+- Chowbone
+- Palitow
+- Callsigns
+- Mommy
+- Daddy
+- Eyelash
+- Badbreath
+- Toolbox
+- Goombah
+- Patrick
+- Husky
+- Teacher
+- Baby
+- Wagyu
+- Booba
+- Sauce man
+- Doctor
+- Hostage
+- Weapons
+- Falcata
+- Held hostage on a space station
+- Every generation must know it's own suffering
+- Whale fall
+- Existince doubted
+- Ariel is the devil.
+- Humanity  needs to know it's limits
+- I KILL CULTS
+- Ariel's arc ends when she becomes an arc angel to destroy other cults rhrifh muhduh
+- From being an un stupid individual to ultimately degrading into power
+- Frozen refrigerator
+- Pygmalion effect
+- Blooms taxonomy 
+  
+  Node-based programming/workflow  
+  Data structures   
+  Graphic organizers  
+- Sexual Assault
+- Retard
+- Suicide
+- Nord VPN
+- Qanon
+- Abortion
+- Person of color
+- Kanye
+- Zoo fire horror
+- Free context
+- Critical understanding
+- Free understanding
+- Critical context
+- Pearl onion stew - 26 servings
+- [v] Pearl onions, frozen/fresh - 4lb
+- [v] White vinegar 1/2 cup
+- [v] Tomatoes, diced can - 60oz
+- [v] Tomato paste - 3oz
+- [v] Paprika - 16g
+- [v] Cayanne - 1 tsp
+- [v] Pork stock - 32oz
+- [v] Olive oil
+- [v] Salt
+- [v] Pepper
+- [v]
+- [v] Garlic - 1oz
+- [v] Onion - 32oz
+- [v] Green pepper - 4lb
+- [v] Ground beef - 4lb
+- [v] Parchment paper
+- [v] Butter
+- [v] Thyme
+- [v] Basil
+- [v] Rosemary
+- [v] Bay leaf
+- [  ] Canola oil
+- [  ] Shallot
+- 64 oz of pearl - onion recipe
+- 60 oz grams - pearl onion purchased
+- 3 oz grams - waste raw tips/butts
+- 24 oz grams - waste blanch removing skins
+- Life proof boats
+- Safe boats
+- Metal shark boats
+- Infantry torpedo shells
+- Submafia - a couple gets pissed of getting hoodwinked and scammed at every turn. So they build a network of trusted friends to do business with. Their plan takes off. the network grows, and with a bit of commission off the top the two grow an empire. a community of specialties, skills, and moral citizens turn their destiny away from the breach. From the shadows they emerge into lifestyle that calls attention. A place unfamiliar. A home far away. Neighbors grow sus while whispers and rumor spread. Old gods are  into wild and unwieldy   The gaze of a greater power descends to exert it's will. Blinded by hubris the mafia is ambushed. Powered by generations of wealth the gaze is cruel, jealous, and vain. Vowed to crush all under a wicked fist, those that challenge it's position, the gaze does not abide. Faced with destruction, the couple return to form with a dilemma. Once prey, now wiser,  the couple  offer the hoods and scammers a deal. An offer of peace in cooperarion. A promise of aid in dispair. an attack on one is an attack on all.  Once enemies in desperation now allies in prosperity

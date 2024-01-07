@@ -1,0 +1,115 @@
+  public:: true
+  banner:: "https://i.imgur.com/kUEJm8I.jpg"
+  page-icon:: 📓
+  
+- *This is a Dashboard for all study, models, research, and development on Theme*
+-
+- # THEME STUDIES
+	- *Research and Development of Theme*
+	- [[5 THEME STUDIES]]
+	- [[4 THEME STUDIES]]
+	- [[3 THEME STUDIES]]
+	- [[2 THEME STUDIES]]
+	- [[1 THEME STUDIES]]
+-
+- # THEME MODEL DEVELOPMENT
+	- *Development of Theme Models*
+	- [[THEME MODEL DEVELOPMENT]]
+-
+-
+- # CLASSIFYING THEMES
+	- *Each one of Bloom's Universal Themes expresses an explicit but not exclusive narrative classification.*
+	- *Each one of these themes will be classified under this 'soft-label' taken from the Penguin Dictionary of Literary Terms and Literary Theory.*
+	- [[5 THEME STUDIES]]
+	- ![image.png](../assets/image_1668148863345_0.png)
+	- ## PENGUIN CLASSIFICATION
+		- TECNICAL TERMS - (eg: iambic, pentameter, metonymy).
+		- FORMS - (eg: sonnet, *villanelle*, limerick, *tanka*, clerihew).
+		- GENRES or KINDS - (eg: pastoral, elegy, *fablian, conte*).
+		- TECHNICALITIES - (eg: pivot word, tenor and vehicle, communication heresy).
+		- GROUPS, SCHOOLS AND MOVEMENTS - (eg: Parnassians, School or Spenser).
+		- WELL-KNOWN PHRASES - (eg: willing suspension of disbelief, *in medias res*).
+		- -ISMS - (eg: realism, primitivism, Platonism, plagiarism).
+		- MOTIFS OR THEMES - (eg: *ubi sunt, carpe diem,* Faust-theme).
+		- PERSONALITIES - (eg: *scop, jongleur,* villian, *gracioso, guslar*).
+		- MODES, ATTITUDES, AND STYLES - (eg: *dolce stil nuovo,* irony, Marinism, grotesque).
+		- OBJECTS/ARTEFACTS - (eg: *coranto*, holograph, manuscript, gazette, buskin).
+		- CONCEPTS - (eg: sincerity, concrete universal, noble savage).
+- # CONSTRUCTING DUALISTIC THEMES
+	- *To create a theme, you must create a dilemma.*
+	- *Duality is essential to creating a good dilemma.*
+	- Duality is two concepts that are equal, opposite, and valid.
+	- eg:
+		- Law and Virtue
+		- Pride and Guilt
+		- Sacrifice and Privilege
+		- Domination and Submission
+		- Purpose and Potential
+		- Safety and Freedom
+		- Purity and Power
+		- Luck and Prayer
+		- Desire and Need
+	- Dualistic Dilemmas must easily be expressed within the culture and society of the designer.
+	- An easy test would be to propose the idea of 'law and virtue' to an individual or group.
+		- If conversation is provoked then its probably pretty good.
+		- If there is a group of people and tribes form along the lines of of the dilemma, its really good.
+	- It is imperative to present the dilemma as a *pair* and not a *choice.*
+	- Two parts of a whole as opposed to one or the other.
+	- Dualistic Dilemmas specifically use the contraction: *and*.
+		- ~~but, or, though, shit, dookie~~
+- # THEMATIC CHARACTER DESIGN
+	- *Physical and Surface Attributes for Tragic Personality are Thematic Traits in Opposition.*
+	- **Isolated and Popular**
+	- **Brave and Cowardly**
+	- **Strong and Weak**
+	- **Sexy and Ugly**
+	- **Powerful and Impotent**
+	- **Protective and Neglectful**
+	- **Intelligent and Stupid**
+	-
+	- *Characters express their personality by navigating through time.*
+	- *One attribute is consistently expressed through their actions, thoughts, and interactions.*
+	- The *secondary attribute* is expressed sparingly.
+	- It is *required* that this secondary attribute is expressed in *key events* or *decisions*.
+	- These key events or decisions occur during the *beginning and end* of plot design models.
+		- eg: chapter transitions, sequence transitions, arc transitions, etc.
+	- The effect of *tragic personality* is to convey an *imperfect yet relatable person.*
+	-
+	- Tragic personalities, at some point in the story, must be *believable* to be accepted by the audience.
+	- Believability is created through *evidence*.
+	- Evidence is created through *thematic dilemmas* experienced by the character.
+	-
+	- ![image.png](../assets/image_1669613694008_0.png)
+	- ![image.png](../assets/image_1669613339152_0.png)
+- # EVALUATION of  [97816812540 - Hennessey](97816812540 - ANALYSIS - THE READING COMPREHENSION BLUEPRINT HELPING STUDENTS MAKE MEANING FROM TEXT *by Nancy Hennessy*) and Current Theme Background Knowledge
+	- ![image.png](../assets/image_1672932898086_0.png)
+	- Harold Bloom's **Western Canon Corps** can be analyzed against Hennessey's concept of LEVELS OF UNDERSTANDING
+	- **Level 1: The Surface Code** has a fuzzy relationship with Bloom's **Style** and **Form**
+		- *__Bloom's Style__*
+			- *The Grotesque* is marred with syntactic expository language.
+				- The goal is to visualize and replicate the sensation of overwhelming extravagance
+				- By nature, a lot of that stuff is corporeal and bound by sensuality (sex, violence, vice)
+			- *Dark Humor* - leans Level 3, relying on the reader's background knowledge, inferential ability, and working memory capacity
+				- however, the nature of Dark Humor demands the author to prioritize **Expository Text** - requires students to move beyond the familiar story structure and work with less familiar and more complex structures to confirm the reader's full coherence
+			- *The Sublime*- much like The Grotesque is expressed in the surface code
+				- the author must design his strategy and use of *__Teach Story Structure and Elements__* to properly enable the nature of The Sublime
+		- *__Bloom's Form__*
+			- *The Hero's Journey* - Pure Plot
+			- *The Labyrinth* - Plot Model
+			- *The American Dream* - Plot Model
+			- Plot is pure surface code designed to hold the interest of the reader
+	- **Level 2: Making Meaning from the Textbase** has a fuzzy relationship with Bloom's **Concept** and **Theme**
+		- *__Bloom's Concept__*
+			- *Civil Disobedience*- abstract and inferential, relies on the author's meaning and interpretation of civil disobedience
+			- *Human Sexuality, The Taboo, Alienation, The Trickster* - see above
+		- *__Bloom's Theme__*
+			- *Death and Dying* - the connective conjunctive nature of Bloom's Theme implies a relationship with McKee's theory of oscillating charges +/-
+			- While syntax plays a distinct part of Mckee's whole philosophy on story, the motivation relies entirely on the writer's intent
+			- The writer's intent and message plays out within the subtext of level 2, evidence of which is fed to the reader via the syntax of level 1
+			- Therefore in the context of the Western Canon Corps, Bloom's Theme should be contextualized as a Level 2 theory
+			-
+	-
+	-
+	-
+	-
+	-

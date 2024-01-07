@@ -1,0 +1,266 @@
+  public:: true
+  
+- # TRUE:CASH
+	- # *1*
+	- Ezreal and Varus are web savvy drug dealers/addicts that run on the downlow. They're high off meth and dabs 24/7.
+	- But they're 'smart.'
+	- They're downlow, to a certain degree, but they live out of a decked out school bus which they rent out for cheap to college kids who want to get fucked up, pre-gamed, and shit-faced in between classes.
+	- They buy their drugs off the darkweb, ordering from the public library.
+	- They then get alerts to their phone to go pick up the drugs from an apartment complex drop box.
+	- They go to several apartment complexes and exchange the cash they got from the party kids and gives the apartment a cut for the drugs.
+	- *Eventually it all becomes numb*
+		- When your phone says your rich and not the cash buried in the ground by the pound.
+		- When your source is 'top rated,' and the pure comes dosed, and you don't even know how you got it.
+		- When the one thing you want is real, but close is all you can hope for.
+	- There's a girl named Judy. She's a cam model. When Ezreal can't sleep he's watching her. Edging his dick for hours and only cumming when she gets enough cash thru the wire.
+	- Ezreal becomes obsessed with Judy, he whales on her every night on cam.
+	- He tosses thousands on her. He communicates with her. He feels like he's in love with her.
+	- Ezreal tells Varus about a new crypto Judy is shilling, says they should go all in.
+	- *This is where it all goes south*
+		- The guys load up a bus full of fuckin college undergrads on their way to Panama City.
+		- They get pulled over.
+		- Before the cop even gets out, the kids fucking DIP leaving only Ezreal and Varus in the bus.
+		- A cop comes into the bus. Its the *CROOKED COP.*
+		- He's decked out in riot gear.
+		- Ezreal: *you don't...look*
+		- Another cop rips the back door open.  Same gear.
+		- Big fight.
+		- One of the cops gets mortally wounded. The other cop manages to knock them both out.
+	- *When they wake up*
+		- Everything is trashed. But everything is still there. They wake up in a parking lot by the beach. Some college kids line up by the door, waiting for drugs, but Varus slams the door closed and locks it.
+		- Ezreal and Varus dose a massive hit of meth.
+		- Varus asks Ezreal to load up a card so they can get cash.
+		- Ezreal ignores him and only notices that Judy has dissapeard from the internet.
+		- And her crypto has been pumped and dumped.
+		- They're broke.
+	- *Their account has been margin called. They're actually in the hole.*
+		- They have to dump everything. Or else someone is coming after them. The internet.
+		- They sell the rest of their drugs, spend the rest on gas, and light their bus on fire.
+	- # *2*
+	- Ez and Varus take an uber back to town.
+		- Back at the public library. They're paranoid af. They don't know if its the drugs or if its real.
+		- **They owe upwards of *$1,000,000*
+		- That part is easy. They just gotta do it the old fashioned way. Stay off the internet. They just need to get drugs to stay high and figure something out.
+	- *Ezreal is mainly concerned about Judy, while Varus is concerned about getting back on their feet*
+		- There is a homeless man at the public library. He has like 30x screens around him. Each one has a gatcha game, the same one, playing different instances.
+		- Ezreal and Varus agree to approach him.
+		- He is the archetype of the 'all knowing' wizard.
+		- The Homeless Man named 'Funker' agrees to talk to them. But for each question, they have to 'pull' an SSR champ on one of the phones. If they don't roll an SSR, they must roll again.
+		- After a few times, they fail to roll a good champ.
+		- The Homeless man says he will not answer the questions unless they get the roll. There's a cool down, so it takes a while for each phone. The odds are against them.
+		- 3 hours later, Ezreal gets an SSR. Varus tries to convince Ezreal to ask about the cop. Instead, Ezreal asks *Do you know Judy Salamanca or FitJudyCutie?*
+		- Funker says, yes.
+		- Ezreal: *Do you know what happened to her?*
+		- Funker points to another phone.
+		- Ezreal grabs another phone and keeps going. Varus, pissed, asks what the odds are.
+		- Funker says: *1 in 0.0002%*
+		- Another hour passes. Varus rolls an SSR. Varus asks: *Is there corruption on the police force, if so, is there a buff Captain America type with a mustache....etc*
+			- Funker says: *Compound questions do not count. But I will answer the first. Yes*
+			- Frustration builds. Both Ezreal and Varus are at the end of their rope.
+			- Funker says: *There are two of you. By the way.*
+		- Ezreal and Varus decide to work together. Instead of asking the quetsions right away, they decide to stack as many as they can.
+		- The two follow Funker to his shitty old econovan where he sets up his gatcha games again.
+		- Hours pass. A library person comes to shoo them away. Collectively, together, they have 3 questions.
+		- Outside, Ezreal begins with the first question.
+			- Ezreal asks *Is Judy ok?*
+			- Funker scoffs. *You surprise me. Yes she is, and just for your persistance, I'll give you this, she works at the Milk Den off 6th Avenue.*
+			- Varus: *What is the cop's name?*
+			- Funker: *I don't know. If I did, would not tell you. That man is dangerous. If you are alive, then you are guranteed to see him again. He will find you, and he will kill you.*
+			- Ezreal and Varus: *Where can we get, drugs, hard drugs?*
+			- Funker: *The Milk Den.*
+		- Funker shuts the door on them.
+			- Ezreal: *Will you be back in the library tomorrow?*
+		- Funker: *NO! You've roped me into this now. The cop will come for you. He'll make you talk. And he'll come for me. NO!*
+	- # *3*
+	- Ezreal and Varus mozey down the gentrified streets of a college town. Groups of barely there girls, high as fuck bois, and homeless people pass them by.
+		- Ezreal and Varus discuss how the bad cop wanting them dead doesn't make any sense. Why didn't he just kill them? They walk into the gas station....
+			- Ezreal mentions that his pipe is busted and that they need some foil. Wish there was a head shop open at this time...probably is but the gas station is right here and he needs a lift pronto.
+		- The grab a shit ton of sugary, salty, foods. Energy drinks, sodas, anything with max flavor. That and a roll of foil. Weird interaction with the cashier.
+	- The gas station is right next to a bumpin club. Shit is busy, cars, people crossing the street, etc.
+	- Ezreal and Varus step outside, their arms full of food.
+	- A guy gets rowdy round a girl at the crosswalk to the busy intersection. He pushes her into the crosswalk. She trips and falls to the ground. She stops traffic. The guy spits at her and says something like 'fuck off slut.'
+	- Ezreal goes to intervene. Varus tells him its a bad idea. Ezreal comes back with a *we may be junkies, we may sell drugs, but we ain't all bad yet, karma and everything.*
+	- The situation escalates. The car she fell in front of, slams on the horn and inches forward. The guy laughs that pushes her down. The car in the left lane speeds ahead barely missing the girl on the ground.
+	- Ezreal: *comeon Varus.*
+	- The girl slams her hand on the hood of the car. she limps back to the side of the street. One heel on. In a fell swoop, she rips out a derringer from her purse and points it at the dude.
+	- Ezreal and Varus stop in their tracks. They watch the girl order the dude to get on his knees as the crowd scatters.
+	- A squad car spawns out of nowhere, and stops in the middle of the intersection. Two cops open their doors and order the girl to drop the gun.
+	- Ezreal and Varus begin to step out, they have entered a situation they shouldn't have.
+	- A squad car pulls up, blocking their path. It shines a spotlight on them.
+	- A cop, a shadowy figure steps out.
+	- A cop: *Jesus fucking Christ. They live*
+	- The boys stutter
+	- A cop: *STOP RESISTING!*
+	- The boy stutter.
+	- A cop: *GUN GUN!*
+	- A gun shot rings out. Just as a drunk driver t-bones the cop car, which sent the cop flying.
+	- Meanwhile, at the intersection, a set of cops sees what happens. The drunk driver starts to pull away, but not before another set of cops starts firing in his direction.
+	- The abusive boyfriend grabs the derringer off the ground, rolls up and points it at the girl. *Later bitch*
+		- He pulls the trigger. Its pepper spray. It gets in the girl and his eyes.
+		- The dude gets up off the ground in pain, gun still in hand. The cops fucking tear him apart.
+	- Ezreal and Varus take off in the other direction
+		- Varus *We don't get paid to be good people, Ez!*
+	- A cop car comes down the street towards them.
+	- Ezreal and Varus slow down and try not to look suspicious.
+	- The cop car does a fast U-turn and stops in the middle of the street. *Its him.*
+	- The cop car goes lights and sirens.
+	- Ezreal *Varus this way!*
+	- They duck into an alley way. The cop car follows them.
+	- Chase scene.
+	- It ends as ezreal and varus walk across a pedestrian crosswalk with like a hundred other drunk kids, and they pour into a night bus.
+	- They got away.
+	- On the bus, everyone recognizes them. *Ez! V! Yall brought fuckin SNACKS?! Always on POINT!*
+	- The bus erupts in guffaw. They can't disappoint.  They keep the foil.
+	- The bus closes its door and rolls away. Ezreal looks out the window. He sees a glint of plat/blonde blue hair. She sees him too. Just a glance. *Its her. Its Judy.*
+	- As the bus pulls off, Ezreal weaves his way though the bus isle to grab another look at her. What sees is the bad cop standing above her, shining his massive mag light in her face. She raises an arm to block the light.
+	- Ezreal: *NO!*
+	- # *4*
+		- Timeskip
+		- Ezreal wakes up from a daze. He's in a room he doesn't know. He's naked on a matress. A naked girl passed out beside him. Varus sits on the edge, freebasing a hit of meth from the foil they got earlier.
+		- Ezreal puts some clothes on and rips a sheet of foil from the roll.
+		- Varus: *its all we got*, Varus hands him the sheet he was basing off of.
+		- A dark viscus drippy line of liquid meth pools halfway down the sheet.
+		- Ezreal takes the sheet. Varus takes a butane torch and heats up the other side of the foil.
+		- A whisp of vapor lifts from the bubbling nectar off the foil.
+		- Varus: *You fucking lost your shit on the bus.*
+		- Ezreal lights a cigarette and gets dressed. Ezreal: *Judy was in that crowd behind the bus and the cop-*
+		- Varus: *After that, what happened after that, Ez?*
+		- Ezreal: *I don't know.*
+		- The naked girl gets up and walks down a hallway behind the two.
+		- Ezreal: *What time is it, we gotta head to the Milk Den.*
+		- Varus: *Ez-*
+		- Ezreal: *I'm FINE.*
+		- Varus: *You should clean up.*
+		- Ezreal, bewildered, limps to the bathroom. Inside he looks at his face. Its shredded. Scaring and blood ripple down his forehead. Ezreal, meth'd up, spends a long time rubbing the shit out of it with both hands. Fresh blood trickles down his forehead.
+		- Behind him, an arm reaches from the shower. Its *Ahri* she's been there the whole time. He trips his way into the shower with her.
+		- Ahri gently uses a pair of tweezers to pick out small glass shards from his forehead. Blood trickles down her naked chest and over Ezreal's eyes. Ahri smiles.
+			- Ahri: *Could have done this last night but you just wanted to fuck.*
+			- Ezreal: *No....no that didn't happen.*
+			- Ahri: *5 years since high school and you're still obsessed with her. You're such an asshole.*
+			- Ezreal: *What happened?*
+			- Ahri turns around and lifts her hair. Her back is scratched up with glass.
+			- Ezreal: *Oh my god.*
+			- Ahri: *You should see the bed.*
+			- Ezreal picks out the glass. He watches the blood trickle down the small of her back.
+			- Ahri: *You know that hazing thing the marching band did that killed Ricky from Ms. Adams AP bio class senior year?*
+			- Ezreal: *no...*
+			- Ahri: *Ez, he was your roomate freshman year. You stacked bunk beds with him. I said he was a creep, cause every time I was on top he stared straight into my eyes and jerked it.*
+			- Ezreal: That's kind of funny.
+			- Ahri leaves the shower. Ezreal steps to follow her, but ends up with a foot full of glass. He trips and falls on his ass in the shower.
+			- Ahri wraps a tower around her head and shits on the toilet. She opens up the window, and lights a cigarette.
+			- Ahri: *You ran the gauntlet. From the back of the bus, to the front, everyone tried to stop you, but you just trucked right through em. The bus driver slammed the breaks and you face first into the winshield. Me, drunk as fuck, madly in love, threw hands at the bus driver. She threw me through the glass door, which broke, and then threw you. Varus tumbled out. Then, we, walked, two hours, back here, did some T, fucked the shit out of each other, and passed out.*
+			- Ezreal: *Thank you.*
+			- Ahri: *Fuck you.*
+			- Ezreal: *You're welcome.*
+			- Ahri: *Thank you.*
+			- Ahri: *I can't shit like this.* Ahri gets up, pulls a bottle of pills form the cabinet, and throws it at Ez in the shower.
+			- Ahri: *Its better than T. It'll save your teeth, and guess what, its legal. Keep it in the bottle.*
+			- Ezreal looks at the bottle, *It has my name on it...*
+			- Ahri: *I'm a pharmacy tech. You're so fucking tweaked you never noticed a nice ass and a gold mine when its sitting on your face.*
+			- Ezreal watches Ahri swing that ass out the bathroom.
+	- # *5*
+		- Ezreal fumbles putting a shirt on before stepping up a long staircase.
+			- He takes a couple steps, but he slows. Something caught his eye.
+			- A picture of Ahri with her family.  Odd. Its posed like a formal photo.
+			- Ezreal takes a few more steps up the stairs. The wall beside him is covered with framed photos. All squeezed in like a game of tetris.
+				- Its clear that the family was ultra mormon. Huge. The outfits. Everything
+			- At the top of the stairs, he stops dead. The last photo is one of Ezreal, Varus, Judy, and Ahri. It was the four of them in their high-school graduation gowns, soaking wet, arms around each other in a huge fountain. Except Ahri, she's dressed in some scene shit. *Didn't graduate*
+		- Ezreal steps outside on Ahri's back porch. A cigarettte hangs from his mouth as he straightens up his outfit. He steps towards the edge of the portch slamming only the screen door shut.
+		- The porch is raised like 20ft off the ground. He leans on the banister, like a cowboy, smokes his cigarette and stares off into the back yard.
+		- Flashback. Or is it a hallucination? Ez is in the same position, but its as if someone switched the sun off like a light switch.
+			- Its a full moon. A party. A few years earlier. A fire smolders below, a crowd of high-school kids are doing stupid shit like hopping over it.
+		- *Crystal...* - a young girl's voice echoes.
+		- Ezreal heats up a load in a glass pipe with a pocket butane torch.
+		- A younger Ahri sits on the same banister Ez leans on. Her legs hanging off the edge.
+		- *smoke wisps in the bowl as the crystals boil into a black sludge*
+		- Ezreal - *You shouldn't-*
+		- Ahri - *That feeling, where your body's asleep but your eyes are open and you just wana move. If you just shut your eyes and go back to sleep its just a bad dream.  But you can't. Cause you think too much. The shadows in the corners, they've been there all night. They don't hurt you. They just watch. But the longer you wait, the bigger they become. They don't hurt you. They just wait and watch me try to move a pinky or turn my head. But I can't. And I won't go to sleep. It doesn't hurt. But I can feel that....I'm dying. My heart, thud thud thud, like I'm running for my life, my head, my chest....it wants to scream, my eyes feel like crying but...*
+		- Ezreal - *Sleep paralysis*
+		- Ahri - *I know what it is, asshole.*
+		- Ezreal - *I've never had it.*
+		- Beat. Ezreal tokes the mist from the bowl, and puffs out little circles as he exhales.
+		- Ahri - *It doesn't hurt but I hate the way I feel.*
+		- Ezreal - *You should try pot, I heard that works for the pope-*
+		- Ahri - *Last time I tried, I literally, couldn't,  get off the couch.*
+		- Ezreal laughs and loads up another bowl and sits on the banister with Ahri.
+		- Ahri pulls a cigarette from her ear and tries to light it with her lighter.
+		- Ezreal shakes his head and lights it for her.
+		- Ahri takes a drag, leans on her hand, her arm propped on her leg.
+		- She looks at Ez, a look in her eyes that made Ez feel, for a moment, what sleep paralysis might actually feel like.
+		- Ezreal - *shit.* Ezreal heats the bowl.
+		- Ahri - *really?*
+		- Ezreal - *You know the first time I did this I throatfucked my dealer for like 2 hours straight*
+		- Ahri - *What the fuck? U gai?!*
+		- Ezreal - *Its an oral fixation....jesus, Ahri, it was a joke.*
+		- Ezreal hits the pipe and inhales.
+		- Ezreal - *Last chance.*
+		- Ahri nods.
+		- Ezreal scoots in closer. She scoots into him. Thigh to thigh. He gently pulls her chin as he leans his lips close to hers.
+		- He exhales slowly, the vapor slips from his lips like a ghost.
+		- The smoke nearly escapes but Ahri pulls her breath in gently, the poison slips from the gap into her lungs.
+			- *wide shot mood*
+		- **the unmistakable noise of an office photocopier whirring off like a billion copies**
+			- *__Snap back to reality.__*
+		- Ezreal's cigarette is burnt to the filter, a long ass ash log hangin there like a fuckin dingleberry.
+			- The ember burns the tips of his finger. SHIT. He drops it and waves his hand to cool it off.
+		- The photocopier sound still fuckin goes. Ezreal goes to investigate....
+	- # *6*
+		- Ezreal walks through the biggest living room he's ever been in.
+		- He stops to listen for the sound of the photocopier. He follows the sound down the hall to dining room.
+			- Ezreal: *What the fuck?*
+		- In the dining room is a massive photocopier that looks like it should be in a professional office rather than a home.
+		- The printer spits out blank pages. Its been doing it for a while. The papers litter the floor.
+		- Ezreal moves closer to investigate. He checks the LCD screen.
+			- The screen says: *352 of 999999*
+			- Ezreal: *Judy? Varus? Yo this printer is fucking busted! Hello?*
+			- From the other room....Varus: *In here!*
+		- Ezreal is again forced to follow sounds in this massive house. He's starting to feel like a bat.
+			- Ezreal: *WHERE?!*
+			- Varus: *Ca-caw! ca-caw!*
+		- Ezreal grunts, frustrated, and meanders down a winding hallway.
+		- The hallways are long. They're spinning.
+		- Everywhere Ezreal looks is a picture of Judy with her family. Its like the hallway is a labrynth of guilt that eats at him each step he takes.
+		- Varus sits at an ancient Mac. It pinwheels. He sighs. Ezreal rounds the corner into the room.
+			- Ezreal: *I'm not a fucking crow.*
+			- Varus: *The print server's all jacked up. I think its bugged with one of those old scripts that would open up your CD drive to spook the normies. Except its printing forever.*
+		- Ezreal stands in the doorway, halfway out, very serious. A look on his face like he's about to cry. Like he's gotta take a massive shit or there's a monster chasing after him. Ez motions with his hand, his thumb sticking out.
+			- Ezreal: *Varus, we gotta go. Now.*
+		- Varus raises his hands like he a cop told him to.
+			- Varus: *That's a bad idea.*
+			- Ezreal: *Vee...*
+		- Shit. Ezreal never calls him that. Its pretty gay. Varus slowly stands up. His hands outstreched like he's trying not to spook a pootch.
+			- Varus: *Breathe, Ez. In and out. You're psyched out but its ok-*
+			- Ezreal: *Everything...I fucked her up so bad. I ruined her. I should have said no.*
+		- Ezreal's head starts spinning. He grabs the wall for support. His hand slips on a photo. He looks up to straighten it. Its of Judy standing in some traditional mormon long dress garb, with her brothers in their own pilgrimage outfit.
+		- Ezreal inhales deeply, and straightens the photo with both hands. He lets the photo go slowly. It lines up straight for a second. But then it jinks right, crooked.
+		- Ezreal rage-screams and punches the photo. It breaks and falls to the floor.
+		- Ahri stands in the hallway like she's been there the whole time. In her hands is a stack of printer paper. But they aren't blank. Also she's dolled up wearing her pharmacy scrubs.
+			- Ezreal, through bated breaths, blood dripping from his hand: *What's that?*
+		- Ahri aprehensively hands him the top paper.
+			- Its a *wanted poster* with Ezreal and Varus' face on it.
+				- In big-ass font: $100,000 Reward
+			- Ezreal: *I didn't know they still made these.*
+		- Ahri, working up the courage, slaps Ezreal in the face.
+			- Ahri: *I've always been fucked up. I'm lucid. I knew what I did then and I know what I'm doing now.  You're high as fuck and need to calm the fuck down.*
+			- Ezreal: *Sorry, the pictures, flashback...*
+		- Varus takes the papers form Ahri.
+		- Ahri points a finger in Ezreal's face: *Do you think I just let anyone in my house? Pick the fucking glass from my ass?  Before you, I didn't have a choice. My life was sorted.*
+		- Ahri kicks the picture on the floor.
+			- Ahri: *Unlike God and family, when I sat with the devil he gave me a choice.*
+		- Ahri lays her hand on Ezreal's cheek.
+			- Ahri: *And I'd do it again.*
+		- Varus clears his throat: *Yeah so where's the best place I can make a conspiracy board? I'd like to show y'all...what I've been up to.*
+		- Ahri smiles and pats Ezreal's cheek. She walks past Varus to the stairs.
+			- Ahri: *Down down down! Into the batcave! I'm basically the millennial Batman. Instead of some shithead murdering my parents, I choose to kill them slowly with a lifetime of shame, guilt, and self-doubt.*
+- **>cc**
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-

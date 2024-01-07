@@ -1,0 +1,79 @@
+  public:: true
+  
+- # Red Dead Redemption 2 - The Complete Official Guide
+	- Primer
+		- On-screen Display
+		- Essential Commands
+		- Game Structure
+		- Traveling Efficiently
+		- Map & Markers
+		- Locations & Landmarks
+		- Attributes & Meters
+		- Horses
+		- Crime
+		- Challenges
+		- Hunting
+		- Fishing
+		- Items & Crafting
+	- Missions
+		- The Story So Far
+		- Chapter Structure
+		- Medal Goals
+		- Note on Trophies & Achievements
+		- Chapter 01 - 06
+		- Epilogue Part 1 - Part 2
+	- Exploration
+		- Introduction
+		- Horses
+		- Transportation
+		- Camp
+		- Hunting
+		- Fishing
+		- Attributes
+		- Honor
+		- Challenges
+		- Law Enforcement
+		- Robberies
+		- Bounty Hunting
+		- Stranger Missions
+		- Gunslingers
+		- Loansharking
+		- Treasure Hunting
+		- Special Collectibles
+		- Gangs
+		- Table Games
+		- Chance Encounters
+		- Special Encounters
+	- Atlas
+		- Introduction
+		- Map Legend
+		- Notes & Naviation
+		- Overview Map
+		- Atlas
+	- Weapons
+		- Weapon Stats
+		- Weapon Degredation
+		- Ammunition & Projectiles
+		- Gunsmiths
+		- Other Shops
+		- Weapon Customization
+		- Weapon Sheets
+	- Items
+		- Consumables
+		- Kit & Tools
+		- Equipment
+		- Valuables
+		- Documents
+		- Crafting
+		- Cooking
+		- Shop Lists & Crafting
+	- Extras
+		- Trophies & Achievements
+		- Total Completion
+		- Compendium
+		- Checklists
+		- Points of Interest & Shacks
+		- Unique Collectibles
+		- Event Areas
+		- Poisonous Trail
+		- Secrets

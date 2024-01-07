@@ -1,0 +1,210 @@
+-
+- # email:
+	- jetcardenas@proton.me
+- # Money Making Gigs
+	- Social Media Moderator
+		- The Social Element
+		- **Crisp Thinking - applied as freelance**
+		- 99 Dollar Social
+	- Mock Jury
+		- Advanced Jury Research
+		- **Sign up Direct - applied**
+		- National Legal Research
+		- Online Verdict - applied - [dashboard](https://www.onlineverdict.com/wp-admin/admin.php?page=onlineverdict-juror-dashboard)
+		- Jury Test
+	- Focus Groups
+		- FocusGroup.com - applied
+		- 20/20 Research -
+		- Respondent.io
+		- Mindswarms
+		- Brand Institute
+		- Nichols Research
+		- Adler Weiner Research
+		- Atkins Research Global
+		- American Consumer Opinion - [dashboard](https://www.acop.com/my_account/)
+	- Microtasking
+		- mturk
+		- figure eight
+		- clickworker
+		- microworkers
+		- field agent
+		- easy shift
+	- Test websites and apps
+		- uTest
+		- UserTesting
+		- Validately
+		- IntelliZoom
+	- Virtual Chat Agent
+		- SiteStaff
+		- The Chat SHop
+		- Uber
+		- FlexJob
+		- Upwork
+	- Simple Online Research
+		- Hobby Jam
+		- IT-Boss Research
+		- JBS Court Research Services
+	- Paid Surveys
+		- Vindale Research
+		- SurveyJunkie
+		- Swagbucks
+		- Opinon Outpost
+		- YouGov-Political
+		- American Consumer Opinion
+		- E-Poll
+	- Brand/Product Names/SlogansLogos platforms
+		- PickyDomains
+		- NamingForce
+	- Data Entry:
+		- The Smart Crowd
+		- SigTrack
+		- Class Information Systems
+		- Clickworker
+		- Intuit
+		- DionData
+		- Xerox
+		- TTEC
+		- Flexjobs
+	- Movie Captioneer
+		- TransPerfect
+		- CaptionMax
+		- Rev
+	- Transcription
+		- TranscribeMe
+		- Rev
+		- Tigerfish
+		- BabbleType
+		- AccutrainGlobal
+		- CastingWOrds WOrkshop
+		- Scribie
+		- Speechpad
+		- Hollywood Transcriptions
+	- Proofreading
+		- EditFast
+		- Gramlee
+		- Wordvice
+		- ProofreadingServices
+		- Scribendi
+	- Virtual Assisstant
+		- Fancy Hads
+		- Boldly
+		- Contemporary VA
+		- Virtual Gal Friday
+		- VA Sumo
+		- Belay
+		- StartUps Co
+		- 99 Dollar Social
+	- Virtual Expert
+		- Ask Wonder
+		- Just Answer
+		- Maven
+		- Clarity
+		- 6ya
+		- Operator
+	- Virtual Consultant
+		- On Frontiers
+		- 10EQS
+		- Internal Consulting
+		- Expert360
+	- Virtual Teacher
+		- PrestoExpress
+		- TakeLessons
+		- BrainMass
+		- Clarity
+		- Maven
+	- Translation
+		- WeLocalize
+		- Argos Multilingual
+		- Rev
+		- TeleLanguage
+		- TransPerfect
+		- VerbalizeIt
+		- LanguageLine
+	- Virtual Academic Tutor
+		- Tutor
+		- Brainfuse
+		- PrepNow
+		- Aim4A
+		- Study Pool
+		- Yup Tutoring
+	- Academic Test Scorer
+		- WriteScore
+		- ACT
+		- Measurment Inc.
+		- ETS
+		- Literarbly
+		- FlexJobs
+	- Virtual English Teacher
+		- Boxfish
+		- GogoKid
+		- Cambly
+		- italki
+		- VIPKid
+		- QKid
+	- Pro Virtual Research
+		- First Quarter Finance
+		- 10EQS
+		- RWS
+		- Ask Wonder
+	- Fake Patient
+		- Check FSU Med School/UF
+	- Rent-a-Friend
+	- General Tasks and Handyman
+		- Care
+		- TaskRabbit
+	- Local Microtasks
+		- Field Agent
+		- Easy Shift
+		- Gigwalk
+	- Flexible Shift Work
+		- Wonolo
+		- ShiftGig
+	- Handyman & Cleaners
+		- Handy
+		- TaskRabbit
+		- MaidSimple
+		- HouseKeeper
+	- Phone Consultant
+		- 6ya
+	- Mobile Car Mechanic
+	- Merch-by-Amazon
+	- Virtual Bookkeeper
+	- Belay
+	- Bookminders
+	- ClickAccounts
+	- AccountingDepartment
+	- ClickNWork
+	- Stuff Rental
+		- General STores
+		- SnapGoods
+		- Fainin
+		- Zilok
+		- Loanables
+		- Cars, RVs & Boats
+		- GetAround
+		- TravelCar
+		- Baby Gear
+		- BabyQuip
+		- Babies Getaway
+		- GoBaby
+	- Designer Clothes & Accessories
+		- StyleLend
+		- Rent My Wardrove
+		- DesignerShare
+	- Live Training
+		- PrestoExperts
+		- TakeLessons
+		- BrainMass
+		- Clarity
+	- Local Tour Guide
+		- Vayable
+		- Rent-A-Guide
+		- Tours by Locals
+		- Rent a Local Friend
+	- Travel Writer
+		- Go Nomad
+		- International Living
+		- Ireland Before YOu Die
+		- Outpost Magazine
+		- Travelicious
+	- 2016

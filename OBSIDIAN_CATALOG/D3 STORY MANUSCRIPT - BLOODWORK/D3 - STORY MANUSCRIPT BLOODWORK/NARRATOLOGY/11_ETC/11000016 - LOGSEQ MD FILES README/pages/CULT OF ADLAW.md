@@ -1,0 +1,952 @@
+  public:: true
+  banner:: "https://i.imgur.com/vQHOrdL.png"
+  
+- *The Cult of Adlaw is the compartmentalization of sexuality research.*
+-
+- # Sexually Broken INSEX and BDSM
+  collapsed:: true
+	- PD
+	- Matt Williams
+	- Dee Williams
+	- *Graphic Sexual Horror*
+- # SCREW THE ROSES SEND ME THORNS
+  collapsed:: true
+	- ## What is Sadomasochism?
+	  collapsed:: true
+		- ![image.png](../assets/image_1662832916597_0.png)
+		- ![image.png](../assets/image_1662832974749_0.png)
+	- ## The 'Lingo'
+	  collapsed:: true
+		- ### SCENE
+			- ![image.png](../assets/image_1662833072564_0.png)
+			- ![image.png](../assets/image_1662833079317_0.png)
+		- ### PLAYING
+			- ![image.png](../assets/image_1662833171197_0.png)
+		- ### PLAYER
+			- ![image.png](../assets/image_1662833202197_0.png)
+		- ### SADOMASOCHISM (SM, S/M, OR S&M)
+			- ![image.png](../assets/image_1662833233750_0.png)
+			- ### DOMINANCE AND SUBMISSION (D&S or D/S)
+				- ![image.png](../assets/image_1662833349302_0.png)
+			- ### BONDAGE AND DISCIPLINE (B&D or B/D)
+				- ![image.png](../assets/image_1662833409528_0.png)
+			- ### SADIST
+				- ![image.png](../assets/image_1662833445463_0.png)
+			- ### MASOCHIST
+				- ![image.png](../assets/image_1662833455351_0.png)
+			- ### DOMINANT (DOM, DOMME)
+				- ![image.png](../assets/image_1662833605565_0.png)
+			- ### SUBMISSIVE (SUB)
+				- ![image.png](../assets/image_1662833634572_0.png)
+			- ### FETISHIST
+				- ![image.png](../assets/image_1662834052740_0.png)
+	- ## METHODS
+	  collapsed:: true
+		- ### CONDITIONING
+			- ![image.png](../assets/image_1662837683873_0.png)
+			- ![image.png](../assets/image_1662837694435_0.png)
+		- ### VISUALIZATION
+			- ![image.png](../assets/image_1662837798858_0.png)
+		- ### SENSORY RELOCATION
+			- ![image.png](../assets/image_1662837855756_0.png)
+		- ### DOMINANCE AND SUBMISSION
+			- ![image.png](../assets/image_1662837879298_0.png)
+				- #### DOMINANCE
+					- ![image.png](../assets/image_1662837940042_0.png)
+				- #### SUBMISSION
+					- ![image.png](../assets/image_1662837978092_0.png)
+	- ## FINDING PLAYERS
+	  collapsed:: true
+		- ## Requirements of a Dom
+			- ![image.png](../assets/image_1662838123881_0.png)
+			- ![image.png](../assets/image_1662838132581_0.png)
+		- ## Requirements of a Submissive
+			- ![image.png](../assets/image_1662838163688_0.png)
+			- ![image.png](../assets/image_1662838174607_0.png)
+	- ## LEVELS OF DOMINANT AND SUBMISSIVE POWER EXCHANGE
+	  collapsed:: true
+		- ![image.png](../assets/image_1662838504281_0.png)
+		- ![image.png](../assets/image_1662838665294_0.png)
+		- ![image.png](../assets/image_1662838675351_0.png)
+		- ![image.png](../assets/image_1662838684394_0.png)
+		- ![image.png](../assets/image_1662838693418_0.png)
+		- ![image.png](../assets/image_1662838702296_0.png)
+		- ![image.png](../assets/image_1662838708888_0.png)
+		- ![image.png](../assets/image_1662838773378_0.png)
+		- ![image.png](../assets/image_1662838811241_0.png)
+		- ![image.png](../assets/image_1662838852866_0.png)
+		- ![image.png](../assets/image_1662838891171_0.png)
+		- ![image.png](../assets/image_1662838899204_0.png)
+	- ## SADOMASOCHISTIC TECHNIQUES
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839177469_0.png)
+		- ![image.png](../assets/image_1662839192649_0.png)
+		- ![image.png](../assets/image_1662839266571_0.png)
+		- ![image.png](../assets/image_1662839292336_0.png)
+		- ![image.png](../assets/image_1662839310443_0.png)
+		- ![image.png](../assets/image_1662839331472_0.png)
+	- ## PRINCIPLES OF BONDAGE
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839406341_0.png)
+		- ![image.png](../assets/image_1662839442458_0.png)
+	- ## FLOGGING
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839553003_0.png)
+		- ![image.png](../assets/image_1662839610857_0.png)
+		- ![image.png](../assets/image_1662839620228_0.png)
+		- ![image.png](../assets/image_1662839628994_0.png)
+	- ## SPANKING
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839668272_0.png)
+		  id:: 631ceb6a-0ecd-4d21-95b4-d87729e5be4e
+	- ## PADDLING
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839694409_0.png)
+	- ## FACE SLAPPING
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839704601_0.png)
+	- ## CANING AND CROPPING
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839730809_0.png)
+	- ## WHIPPING
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839820420_0.png)
+		- ![image.png](../assets/image_1662839828577_0.png)
+	- ## SUB SPACE
+	  collapsed:: true
+		- ![image.png](../assets/image_1662839963394_0.png)
+		- ## THE STAGE
+		  collapsed:: true
+			- ![image.png](../assets/image_1662840002117_0.png)
+			- ![image.png](../assets/image_1662840013739_0.png)
+			- ## TOOLS BY CATEGORY
+				- ![image.png](../assets/image_1662840040522_0.png)
+				- ![image.png](../assets/image_1662840045602_0.png)
+				- ![image.png](../assets/image_1662840052754_0.png)
+				- ![image.png](../assets/image_1662840059128_0.png)
+				- ![image.png](../assets/image_1662840065046_0.png)
+	- ## SELECTED GLOSSERY
+	  collapsed:: true
+		- ![image.png](../assets/image_1662840152481_0.png)
+		- ![image.png](../assets/image_1662840161170_0.png)
+		- ![image.png](../assets/image_1662840165152_0.png)
+		- ![image.png](../assets/image_1662840198561_0.png)
+		- ![image.png](../assets/image_1662840205648_0.png)
+		- ![image.png](../assets/image_1662840213953_0.png)
+		- ![image.png](../assets/image_1662840230617_0.png)
+		- ![image.png](../assets/image_1662840242442_0.png)
+		- ![image.png](../assets/image_1662840292703_0.png)
+		- ![image.png](../assets/image_1662840309529_0.png)
+		- ![image.png](../assets/image_1662840327688_0.png)
+		- ![image.png](../assets/image_1662840337481_0.png)
+		- ![image.png](../assets/image_1662840351970_0.png)
+		- ![image.png](../assets/image_1662840376849_0.png)
+		- ![image.png](../assets/image_1662840423746_0.png)
+		- ![image.png](../assets/image_1662840458630_0.png)
+		- ![image.png](../assets/image_1662840484854_0.png)
+		- ![image.png](../assets/image_1662840498129_0.png)
+		- ![image.png](../assets/image_1662840544153_0.png)
+		- ![image.png](../assets/image_1662840553402_0.png)
+		-
+- # On Anal Training
+  collapsed:: true
+	- ## Gaping your Asshole so You Can Take Fat Cock Full Shaft Hard and Vigorously Like the Slut You Are.
+	- # DEPTH TRAINING
+	  collapsed:: true
+		- ## The [practice](https://www.squarepegtoys.com/depth-training/)  So one can take [that long dick](https://xhamster.com/videos/i-fucked-a-cumdump-white-bottom-bareback-on-hotel-balcony-xhgpN04)
+		- #### The process consists of mentally training the colon to relax and allow fat cock to slide in and out of there.
+		- #### There are [specialized toys](https://www.squarepegtoys.com/shop/slink/) designed to assist in depth training.
+		- ![image.png](../assets/image_1661425276563_0.png)
+		- REF: www.squarepegtoys.com
+	- ## GIRTH TRAINING
+	  id:: cdef998c-5206-4707-9eba-d0b9ff029395
+	  heading:: true
+	  collapsed:: true
+		- #### The process consists of stretching the [[inner and outer sphincter]] gradually using [[specialized toys](https://www.squarepegtoys.com/shop/egg-plug/)]. 
+		  ![image.png](../assets/image_1661425102179_0.png)  
+		- REF: www.squarepegtoys.com
+	- # Books to Consider Purchasing
+	- ## Research Journals
+		- [Contemporary Male Sexuality](https://www.routledge.com/Contemporary-Male-Sexuality-Confronting-Myths-and-Promoting-Change/McCarthy-McCarthy/p/book/9780367427207)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661429627522_0.png)
+			-
+		- [Body-to-Body Intimacy](https://www.routledge.com/Body-to-Body-Intimacy-Transformation-Through-Love-Sex-and-Neurobiology/Resnick/p/book/9781138123908)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661429611431_0.png)
+		- [A Therapist’s Guide to Consensual Nonmonogamy](https://www.routledge.com/A-Therapists-Guide-to-Consensual-Nonmonogamy-Polyamory-Swinging-and/Orion/p/book/9781138207462)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661429702442_0.png)
+		- [Finding Your Sexual Voice](https://www.routledge.com/Finding-Your-Sexual-Voice-Celebrating-Female-Sexuality/McCarthy-McCarthy/p/book/9781138333277?source=igodigital)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661429914044_0.png)
+		- [Performing the Penis](https://www.routledge.com/Performing-the-Penis-Phalluses-in-21st-Century-Cultures/Jones-Callahan/p/book/9780367622350)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661431030796_0.png)
+		- [Bareback Porn, Porous Masculinities, Queer Futures](https://www.routledge.com/Bareback-Porn-Porous-Masculinities-Queer-Futures-The-Ethics-of-Becoming-Pig/Florencio/p/book/9780367530358)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661431168620_0.png)
+		- [Sexual Deviance and Society](https://www.routledge.com/Sexual-Deviance-and-Society-A-Sociological-Examination/Worthen/p/book/9780367544126)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661431273236_0.png)
+		- [Paying for Sex in a Digital Age](https://www.routledge.com/Paying-for-Sex-in-a-Digital-Age-US-and-UK-Perspectives/Sanders-Brents-Wakefield/p/book/9781138318731)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661431554765_0.png)
+		- [Routledge International Handbook of Heterosexualities Studies](https://www.routledge.com/Routledge-International-Handbook-of-Heterosexualities-Studies/Dean-Fischer/p/book/9781138340305)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661431638922_0.png)
+		- [Sexually Explicit Art, Feminist Theory, and Gender in the 1970s](https://www.routledge.com/Sexually-Explicit-Art-Feminist-Theory-and-Gender-in-the-1970s/Liclair/p/book/9781032122571)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661431876396_0.png)
+		- [(Sub)Urban Sexscapes](https://www.routledge.com/SubUrban-Sexscapes-Geographies-and-Regulation-of-the-Sex-Industry/Maginn-Steinmetz/p/book/9781138060258)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661432327696_0.png)
+			-
+		- [Routledge International Handbook of Sex Industry Research](https://www.routledge.com/Routledge-International-Handbook-of-Sex-Industry-Research/Dewey-Crowhurst-Izugbara/p/book/9780815354123)
+		  collapsed:: true
+			- ![image.png](../assets/image_1661432230558_0.png)
+			-
+			-
+			-
+			-
+			-
+	- ## Literature(Amazon)
+	  collapsed:: true
+		- [What Submissives Want to Know: Real Questions, Real Answers](https://www.amazon.com/What-Submissives-Want-Know-Questions-ebook/dp/B078Z8MWWW?crid=2FIWTH78GSCRS&keywords=kate+kinsey&qid=1640283087&s=digital-text&sprefix=kate+kinsey%2Cdigital-text%2C44&sr=1-4&linkCode=ll1&tag=btbdsmresources-20&linkId=c73de257539a7fb721d35b65f83f9750&language=en_US&ref_=as_li_ss_tl)
+			- ![image.png](../assets/image_1661432751030_0.png)
+		- [The (New and Improved) Loving Dominant](https://www.amazon.com/New-Improved-Loving-Dominant-ebook/dp/B00AY88OJ2?crid=2Z5R1CAGH7XZC&keywords=loving+dominant&qid=1640283145&s=digital-text&sprefix=loving+dominant%2Cdigital-text%2C43&sr=1-1&linkCode=ll1&tag=btbdsmresources-20&linkId=5bbf49bf7c90134037fd27a7f0a8b398&language=en_US&ref_=as_li_ss_tl)
+			- ![image.png](../assets/image_1661432846529_0.png)
+		- [Screw the Roses, Send Me the Thorns: The Romance and Sexual Sorcery of Sadomasochism](https://www.amazon.com/Screw-Roses-Send-Thorns-Sadomasochism/dp/0964596008?crid=1B15NBMP1BCFU&keywords=screw+the+rose&qid=1640283247&sprefix=screw+the+rose%2Caps%2C47&sr=8-2&linkCode=ll1&tag=btbdsmresources-20&linkId=1b2285c9bb3b2a5ea55342a3baa29c6f&language=en_US&ref_=as_li_ss_tl)
+			- ![image.png](../assets/image_1661432977809_0.png)
+		- [The New Bottoming Book ](https://www.amazon.com/New-Bottoming-Book-Janet-Hardy/dp/1890159352/ref=pd_bxgy_sccl_1/134-9654341-1916762?pd_rd_w=iVXtR&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=WTV1EW9KZMPH05Z739X6&pd_rd_wg=raRmH&pd_rd_r=0db377e3-69de-430e-a7d4-87849ed9a07d&pd_rd_i=1890159352&psc=1)
+			- ![image.png](../assets/image_1661433014841_0.png)
+		- [The New Topping Book](https://www.amazon.com/New-Topping-Book-Dossie-Easton/dp/1890159360/ref=pd_bxgy_sccl_1/134-9654341-1916762?pd_rd_w=wgNCR&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=FW4DB321M1WMBXKGMVWN&pd_rd_wg=JB0da&pd_rd_r=de23b317-2be5-4e29-a7f4-e741dd0e3cdb&pd_rd_i=1890159360&psc=1)
+			- ![image.png](../assets/image_1661433038226_0.png)
+		- [The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love](https://www.amazon.com/Ethical-Slut-Third-Practical-Relationships/dp/0399579664/ref=pd_bxgy_sccl_2/134-9654341-1916762?pd_rd_w=wgNCR&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=FW4DB321M1WMBXKGMVWN&pd_rd_wg=JB0da&pd_rd_r=de23b317-2be5-4e29-a7f4-e741dd0e3cdb&pd_rd_i=0399579664&psc=1)
+			- ![image.png](../assets/image_1661433067544_0.png)
+		- [SM 101: A Realistic Introduction](https://www.amazon.com/101-Realistic-Introduction-Jay-Wiseman/dp/0963976389/ref=pd_bxgy_sccl_2/134-9654341-1916762?pd_rd_w=iVXtR&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=WTV1EW9KZMPH05Z739X6&pd_rd_wg=raRmH&pd_rd_r=0db377e3-69de-430e-a7d4-87849ed9a07d&pd_rd_i=0963976389&psc=1)
+			- ![image.png](../assets/image_1661433099425_0.png)
+		- [She Comes First: The Thinking Man's Guide to Pleasuring a Woman ](https://www.amazon.com/She-Comes-First-Thinking-Pleasuring/dp/0060538260/ref=zg_bs_4751_sccl_10/134-9654341-1916762?pd_rd_i=0060538260&psc=1)
+			- ![image.png](../assets/image_1661433184097_0.png)
+		- [Tongue Tied: Untangling Communication in Sex, Kink, and Relationships](https://www.amazon.com/Tongue-Tied-Untangling-Communication-Relationships-ebook/dp/B07H454H38?crid=K8AQ3LWH02NG&keywords=tongue+tied&qid=1640283336&sprefix=tongue+tied%2Caps%2C55&sr=8-3&linkCode=ll1&tag=btbdsmresources-20&linkId=73a7ba097434212e0003f766b3ea5754&language=en_US&ref_=as_li_ss_tl)
+			- ![image.png](../assets/image_1661436160892_0.png)
+			-
+- # Kit
+  collapsed:: true
+	- ## All types of kit that would be fun to fuck around with.
+	- ### [Motorbunny Buck](https://motorbunny.com/products/motorbunny-buck)
+		- ![image.png](../assets/image_1661457362421_0.png)
+	- ### [Touch America Massage Table](https://myfwc.com/license/recreational/do-i-need-one/)
+		- ![image.png](../assets/image_1661458580219_0.png)
+	- ### Freestanding St. Andrews Cross Plans
+		- ![image.png](../assets/image_1661458850204_0.png)
+	- ### Saw Horse Plans
+		- ![image.png](../assets/image_1661459213572_0.png)
+	- ## Tumbling Mats
+		- ![image.png](../assets/image_1661460397410_0.png)
+	- ## Calesthenics-Like Outdoor Gym Equipment for Suspension
+		- ![image.png](../assets/image_1661461491000_0.png)
+		- ![image.png](../assets/image_1661461544204_0.png)
+	- ## Stall Bars
+		- ![image.png](../assets/image_1661461699674_0.png)
+		-
+	- ## [BRUH. ALL the YOKES](https://www.etsy.com/shop/DEFRONTIER?ref=simple-shop-header-name&listing_id=638068756)
+		-
+		- ![image.png](../assets/image_1661461813106_0.png)
+		-
+	- ## 'Gangstand'
+		- ## Looks crudely constructed. I could probably make one myself. Use this as ref.
+		- ![image.png](../assets/image_1661461914150_0.png)
+	- ## 'Pommel'
+		- ### Same issue with this pommel. The rings are small and seem relatively weak. Also limits the types of rope. The base is flared and lends itself to injury for the sub's toes. Perhaps a crashpad that wraps around the base would work. Or some other method for stabilization.
+			- ![image.png](../assets/image_1661462122262_0.png)
+	- ## 'Service Cart'
+		- LMAO this guy is pretty creative ngl. Dude I love the wheels on this equipment. It would be fun af to just roll subs around to different stations or even some sort of scene. The possibilities are endless. I defintely would want more robust casters and a method to prevent roll-over capability, perhaps a lower shelf for storage.
+			- ![image.png](../assets/image_1661462311568_0.png)
+	- ## 'Restraint Table'
+		- ### The use of parallel pipes that span the length of the table is a great idea.
+			- ![image.png](../assets/image_1661462605568_0.png)
+	- ## Spreader Bars
+		- ### Sizing can be an issue between multiple servers. Ankle size? Hip Size? Research a more economical yet not boogie method of restraining. Rachet straps?
+		- ![image.png](../assets/image_1661462685380_0.png)
+		- ![image.png](../assets/image_1661463372141_0.png)
+		-
+	- ## A Variety of Thuddy Floggers.
+		- ## I feel like floggers are like a tacklebox. You can have a bunch that work for every situation. A few that will specialize perhaps. Simply focus on going from lite - heavy thudding. Also keep in mind the length and pull of the ideal flogger.
+			- ![image.png](../assets/image_1661462950599_0.png)
+	- ## Le Deepthroat Trainer a la remote
+		- ### Genius. But honestly I think all you need  is a fucking mirror, a timer app, and some intellect to save $200. Idiots.
+			- ![image.png](../assets/image_1661463120464_0.png)
+			-
+	- ## PADDLES!
+		- Bruh look at that woodwork.
+			- ![image.png](../assets/image_1661463210539_0.png)
+	- ## Canes!
+		- *Harry Potter, coom to coom*
+			- ![image.png](../assets/image_1661463267347_0.png)
+	- ## Posture Collars
+		- ![image.png](../assets/image_1661463589953_0.png)
+	- ## Its called the 'Objectifier' and its fucking hilarious
+		- ![image.png](../assets/image_1661463929733_0.png)
+		- ![image.png](../assets/image_1661463939287_0.png)
+- # STAGE INTERIOR INSPIRED BY 'NEON TOMB'
+  collapsed:: true
+	- ## Neon Tomb is a nightclub in the game [Ready or Not](https://www.artstation.com/artwork/g8d38P)
+	  collapsed:: true
+		- ### Ideally the best features of the environment are:
+			- Full sensory immersion. Pay attention to the lighting, the interior architecture.
+			- Perceived restrictions such as room volume or transitional corridors are seemlessly blended into the customer's journey.
+				- The immersion is bolstered by a bold and detailed thematic design choices and principles.
+			- Creating a strong and cohesive theme will free designers to utilize their creativity in otherwise unsubstantiated decision choices.
+		- ### Original Reference Photos
+		  collapsed:: true
+			- ![mark-ranson-highresscreenshot00003-copy.jpg](../assets/mark-ranson-highresscreenshot00003-copy_1661612508958_0.jpg)
+			- ![mark-ranson-highresscreenshot00004-copy.jpg](../assets/mark-ranson-highresscreenshot00004-copy_1661612517605_0.jpg)
+			- ![mark-ranson-highresscreenshot00008-copy.jpg](../assets/mark-ranson-highresscreenshot00008-copy_1661612523033_0.jpg){:height 334, :width 580}
+			- ![mark-ranson-highresscreenshot00013-copy.jpg](../assets/mark-ranson-highresscreenshot00013-copy_1661612530248_0.jpg)
+			- ![mark-ranson-highresscreenshot00014-copy.jpg](../assets/mark-ranson-highresscreenshot00014-copy_1661612535264_0.jpg)
+			- ![mark-ranson-highresscreenshot00015-copy.jpg](../assets/mark-ranson-highresscreenshot00015-copy_1661612597028_0.jpg)
+			- ![mark-ranson-highresscreenshot00016-copy.jpg](../assets/mark-ranson-highresscreenshot00016-copy_1661612601193_0.jpg)
+			- ![mark-ranson-highresscreenshot00017-copy.jpg](../assets/mark-ranson-highresscreenshot00017-copy_1661612606952_0.jpg)
+			- ![mark-ranson-highresscreenshot00021-copy.jpg](../assets/mark-ranson-highresscreenshot00021-copy_1661612610537_0.jpg)
+			- ![mark-ranson-highresscreenshot00023-copy.jpg](../assets/mark-ranson-highresscreenshot00023-copy_1661612615233_0.jpg)
+			- ![mark-ranson-highresscreenshot00025-copy.jpg](../assets/mark-ranson-highresscreenshot00025-copy_1661612618016_0.jpg)
+			- ![mark-ranson-highresscreenshot00026-copy.jpg](../assets/mark-ranson-highresscreenshot00026-copy_1661612622833_0.jpg)
+			- ![mark-ranson-highresscreenshot00027-copy.jpg](../assets/mark-ranson-highresscreenshot00027-copy_1661612626736_0.jpg)
+			- ![mark-ranson-highresscreenshot00028-copy.jpg](../assets/mark-ranson-highresscreenshot00028-copy_1661612631584_0.jpg)
+			- ![mark-ranson-highresscreenshot00029-copy.jpg](../assets/mark-ranson-highresscreenshot00029-copy_1661612635617_0.jpg)
+			- ![mark-ranson-highresscreenshot00047-copy.jpg](../assets/mark-ranson-highresscreenshot00047-copy_1661612639472_0.jpg)
+			- ![mark-ranson-highresscreenshot00050-copy.jpg](../assets/mark-ranson-highresscreenshot00050-copy_1661612644265_0.jpg)
+			- ![mark-ranson-highresscreenshot00051-copy.jpg](../assets/mark-ranson-highresscreenshot00051-copy_1661612667489_0.jpg)
+			  id:: 630a3264-4ae6-4389-ae35-89c3545f2b2b
+			- ![mark-ranson-highresscreenshot00052-copy.jpg](../assets/mark-ranson-highresscreenshot00052-copy_1661612670617_0.jpg)
+			- ![mark-ranson-highresscreenshot00054-copy.jpg](../assets/mark-ranson-highresscreenshot00054-copy_1661612674097_0.jpg)
+			- ![mark-ranson-highresscreenshot00055-copy.jpg](../assets/mark-ranson-highresscreenshot00055-copy_1661612677066_0.jpg)
+			- ![mark-ranson-highresscreenshot00056-copy.jpg](../assets/mark-ranson-highresscreenshot00056-copy_1661612680473_0.jpg)
+			- ![mark-ranson-highresscreenshot00057-copy.jpg](../assets/mark-ranson-highresscreenshot00057-copy_1661612683256_0.jpg)
+			- ![mark-ranson-highresscreenshot00059-copy.jpg](../assets/mark-ranson-highresscreenshot00059-copy_1661612685952_0.jpg)
+			-
+			-
+		-
+- # Roosh Method
+  collapsed:: true
+	- *Game is a collection of beliefs, behaviors, strategies, and tactics that make women more attracted to you while increasing your likelihood of experiencing intimacy.*
+	- ## Internal Game
+		- *Beliefs determine behavior.*
+		- *Self limiting beliefs are the most limiting obstacles for success.*
+		- Two ways of implanting beliefs
+			- study (apply methods I have been using for Theme)
+			- *Weekly Affirmations* - Repeat each belief to yourself between five and ten times.
+		- ### 7 Core Beliefs
+			- **"I don't care if I get laid with them, but I do care about getting laid."**
+				- *Do not show interest in a girl more than she shows interest in you.*
+			- **"An individual evaluates my value based on how I treat them."**
+				- *People use heuristics to quickly understand environments and individuals.*
+				- *Your behavior reflects your beliefs and confidence. If you believe you are high value, your behavior will follow.*
+					- Individuals with high value do not interact with those deemed of lesser value.
+						- This sentiment really jives with the idea of power-dynamics found in BDSM
+			- **"Every time I fail, I take a step towards success."**
+				- *When failure presents itself, conquer it as a high value individual would.*
+					- Satire
+					- Absurdity
+					- +/- charge flow
+			- **"Its fun to try new things just to se what happens."**
+				- *Playful and Curious Mindset*
+			- **"I will invest my time only in people who add value to my life."**
+				- Value Check
+					- Do they treat me with respect?
+					- Do they create constant problems?
+					- Do they stimulate me in a positive way?
+					- Do their moral values align with mine?
+			- **"I ultimately choose how people treat me."**
+			- **"If they push me away, I must pull away."**
+				- *If someone displays behavior or mal-consent, then the behavior must returned in equal.*
+			- **"If I find someone who seems interesting, I expect them to impress me."**
+		- ### Hygiene
+			- **Mouth**
+				- Brush Teeth twice a day
+				- Floss Teeth twice a day
+				- Scrape Tongue twice a day
+				- Rinse Mouth twice a day
+			- **Body Odor**
+				- 50/50 split between Baking Soda/Baby Powder
+					- Armpits
+					- Gootch
+					- 24 hours of non-spell
+			- **Dress**
+				- Dress Confident.
+					- Boots
+					- Slacks
+					- T-shirt
+					- (Wear shit that is fitted)
+			- **Speech**
+				- Speak clearly, slowly, loudly, with your resonating voice.
+		- ### Attraction
+			- **Pre-minute attraction (Act I)** - measure of attraction one has for another without previously knowing them.
+				- appearance
+				- height
+				- clothing
+				- body language
+				- vibe
+				- tone of voice
+			- *Pre-minute attraction* is a heuristic to gauge weather or not interaction is optimal. If there is no pre-minute attraction, then do not engage.
+			- **Post-minute attraction (Act II)** - a battery of heuristics which determines an individuals attraction to you.
+				- speech
+				- stories
+				- humor
+				- backgorund
+				- job
+				- hobbies
+				- experiences
+				- body language
+			- **Reputational (Act III)** - heuristic method which determines attractiveness based on immediate or figurative social surroundings.
+			- **Attraction Triggers**
+				- Appearance
+				- Humor
+				- Confidence/Attitude
+				- Money
+				- Intelligence
+				- Aloofness or emotional unavailability
+					- Through the practice of BDSM and power exchange, one could instead replace emotional unavailability with
+					- *I value my time more than anything else. I do not waste it. Do not waste mine.*
+				- Social Status
+					- *One must witness others giving you attention for social status to be effective.*
+				- *Counter insecure(-) thoughts with cocky and comedic(+) retorts to keep your confidence up.*
+			- **Repulsion Triggers**
+				- Neediness
+				- Desperation
+				- Meekness
+			- **Game Types**
+				- Clown Game
+				- Provider Game
+					- Resources
+					- Stability
+					- Chivalry
+					- Sprituality
+					- Character
+		- ## Approaching
+			- **Indirect**
+				- *ask for help* and use *excuse me*
+				- When talking, keep it fucking interesting. Mix up statements and questions.
+				- *Where I come from....*
+				- Use *silence* as a method of pacing and tempo
+				- *Statement of Intent* - a genuine complement within the context of conversation that does not reference her looks.
+				- *By the way...*
+			- **Direct**
+				- "You don't look like you're from around here, partner."
+				- "Do I know you from somewhere?"
+				- *"Excuse me, I was walking in the opposite direction on my way to Bob's Burgers when I saw you and I noticed that you have a very sad walk."*
+					- Provide context (behavior that does not involve her in any shape or form)
+					- Provide observation (a clue that interrupted your behavior)
+				- Follow up with a genuine tip or value.
+					- "It looks like you had a hard day. Here maybe I can help, PEEK-A-BOO!"
+						- No? Dang. Well, carry on then.
+				- Always be observant of *non-verbal behavioral queues* or body language.
+					- If they turn away, or are displaying behavior that reflects fear, gtfo.
+			- **Escalation**
+				- Signals of escalation
+					- If girl asks personal questions
+						- Wait for 2 or 3.
+				- Getting a number
+					- *Closing move*
+						- Hey I gotta run, but you seem cool, can we get a drink sometime? Lemmie see ur snap bby grl.
+				- **GALNUC approach**
+					- G - German - Are you half-Periguine Falcon? or German (or ethnicity)
+					- A - Age - Skip if there's a pretty fat age gap. Be conscious.
+					- L - Location -
+					- N - Name -
+					- U - Usually - Venues of interest
+					- C - Cool - I have to run, meet me some other time
+				-
+- # Favorite Adult Film Stars / PORN STARS
+  collapsed:: true
+	- ## SENSI PEARL
+	  collapsed:: true
+		- ![image.png](../assets/image_1663682824349_0.png)
+		- ![image.png](../assets/image_1663683114778_0.png)
+		- ![UnknownGlamorousYellowbelliedmarmot-mobile.gif](../assets/UnknownGlamorousYellowbelliedmarmot-mobile_1663683701009_0.gif)
+	- ## YHIVI
+	  collapsed:: true
+		- ![image.png](../assets/image_1663683288699_0.png)
+		- ![image.png](../assets/image_1663683318495_0.png)
+		- ![efdpnztm9ic71.gif](../assets/efdpnztm9ic71_1663683429192_0.gif)
+	- ## NINA HARTLEY
+	  collapsed:: true
+		- ![image.png](../assets/image_1663684335201_0.png)
+		- ![image.png](../assets/image_1663684350492_0.png)
+		- ![SphericalSoulfulDegu-mobile.gif](../assets/SphericalSoulfulDegu-mobile_1663684563265_0.gif)
+	- ## ARIA ALEXANDER
+	  collapsed:: true
+		- ![image.png](../assets/image_1663684686685_0.png)
+		- ![image.png](../assets/image_1663684722660_0.png)
+		- ![Untitled Project.gif](../assets/Untitled_Project_1663685016006_0.gif)
+	- ## AVA TAYLOR
+	  collapsed:: true
+		- ![image.png](../assets/image_1663685131004_0.png)
+		- ![image.png](../assets/image_1663685150203_0.png)
+		- ![ava.gif](../assets/ava_1663687341406_0.gif)
+	- ## KATRINA JADE
+	  collapsed:: true
+		- ![image.png](../assets/image_1663685547579_0.png)
+		- ![image.png](../assets/image_1663685711462_0.png)
+		- ![jade.gif](../assets/jade_1663687363516_0.gif)
+	- ## KATIE MORGAN
+	  collapsed:: true
+		- ![image.png](../assets/image_1663687440356_0.png)
+		- ![image.png](../assets/image_1663687503516_0.png)
+		- ![GratefulBrilliantBuckeyebutterfly-mobile.gif](../assets/GratefulBrilliantBuckeyebutterfly-mobile_1663687642835_0.gif){:height 488, :width 640}
+	- ## JANICE GRIFFITH
+	  collapsed:: true
+		- ![image.png](../assets/image_1663687848276_0.png)
+		- ![image.png](../assets/image_1663687909752_0.png)
+		- ![OurTrimSiskin-mobile.gif](../assets/OurTrimSiskin-mobile_1663688073089_0.gif)
+	- ## ADRIANA CHECHIK
+	  collapsed:: true
+		- ![image.png](../assets/image_1663688191317_0.png)
+		- ![image.png](../assets/image_1663688232068_0.png)
+		- ![LoudImpureBlueshark-mobile.gif](../assets/LoudImpureBlueshark-mobile_1663688283006_0.gif)
+	- ## ELSA JEAN
+	  collapsed:: true
+		- ![image.png](../assets/image_1663688327432_0.png)
+		- ![image.png](../assets/image_1663688358678_0.png)
+		- ![FullSinfulSifaka-mobile.gif](../assets/FullSinfulSifaka-mobile_1663688420109_0.gif){:height 345, :width 640}
+	- ## SKIN DIAMOND
+	  collapsed:: true
+		- ![image.png](../assets/image_1663688490234_0.png)
+		- ![image.png](../assets/image_1663688505334_0.png)
+		- ![tsemcnfkat671.gif](../assets/tsemcnfkat671_1663688690061_0.gif){:height 648, :width 457}
+	- ## KASEY WARNER
+	  collapsed:: true
+		- ![image.png](../assets/image_1663688789520_0.png)
+		- ![image.png](../assets/image_1663688803864_0.png)
+		- ![FlickeringWoodenGartersnake-mobile.gif](../assets/FlickeringWoodenGartersnake-mobile_1663688969633_0.gif)
+	- ## ARABELLE RAPHAEL
+	  collapsed:: true
+		- ![image.png](../assets/image_1663689041807_0.png)
+		- ![image.png](../assets/image_1663689069939_0.png)
+		- ![WeeRemoteDodo-mobile.gif](../assets/WeeRemoteDodo-mobile_1663689299072_0.gif)
+	- ## VIOLET MONROE
+	  collapsed:: true
+		- ![image.png](../assets/image_1663689407285_0.png)
+		- ![image.png](../assets/image_1663689522004_0.png)
+		- ![violet.gif](../assets/violet_1663689650118_0.gif)
+	- ## AMBER RAYNE
+	  collapsed:: true
+		- ![image.png](../assets/image_1663689843136_0.png)
+		- ![image.png](../assets/image_1663689868888_0.png)
+		- ![DiscreteAromaticQueensnake-mobile.gif](../assets/DiscreteAromaticQueensnake-mobile_1663690104089_0.gif){:height 499, :width 640}
+	- ## KENZIE REEVES
+	  collapsed:: true
+		- ![image.png](../assets/image_1663690173210_0.png)
+		- ![image.png](../assets/image_1663690181657_0.png)
+		- ![RuralMonthlyWolverine-mobile.gif](../assets/RuralMonthlyWolverine-mobile_1663690413576_0.gif)
+	- ## ASA AKIRA
+	  collapsed:: true
+		- ![image.png](../assets/image_1663690560980_0.png){:height 478, :width 636}
+		- ![image.png](../assets/image_1663690806340_0.png)
+		- ![OptimalWebbedMutt-mobile.gif](../assets/OptimalWebbedMutt-mobile_1663691106008_0.gif)
+	- ## SASHA GREY
+	  collapsed:: true
+		- ![image.png](../assets/image_1663691149749_0.png)
+		- ![image.png](../assets/image_1663691168432_0.png)
+		- ![HarmlessFrivolousSiskin-mobile.gif](../assets/HarmlessFrivolousSiskin-mobile_1663691325312_0.gif)
+	- ## SKYLAR VALENTINE
+	  collapsed:: true
+		- ![image.png](../assets/image_1663691382418_0.png)
+		- ![image.png](../assets/image_1663691390225_0.png)
+		- ![AlienatedLuxuriousLeonberger-mobile.gif](../assets/AlienatedLuxuriousLeonberger-mobile_1663691966877_0.gif)
+	- ## AMY FAYE
+	  collapsed:: true
+		- ![image.png](../assets/image_1663692414638_0.png)
+		- ![image.png](../assets/image_1663692511634_0.png)
+		- ![25b4afe835cb5e64c380965e45d30ac7.gif](../assets/25b4afe835cb5e64c380965e45d30ac7_1663692712770_0.gif)
+	- ## BELLA ROSSI
+	  collapsed:: true
+		- ![image.png](../assets/image_1663692791881_0.png)
+		- ![image.png](../assets/image_1663692915107_0.png)
+		- ![24663307.webp](../assets/24663307_1663693031714_0.webp){:height 488, :width 640}
+	- ## DEE WILLIAMS
+	  collapsed:: true
+		- ![image.png](../assets/image_1663693077585_0.png)
+		- ![image.png](../assets/image_1663693087749_0.png)
+		- ![35426412a.gif](../assets/35426412a_1663693558925_0.gif)
+	- ## ENDZA ADAIR
+	  collapsed:: true
+		- ![image.png](../assets/image_1663693639827_0.png)
+		- ![image.png](../assets/image_1663693963609_0.png)
+		- ![4EF5FE1.gif](../assets/4EF5FE1_1663694234099_0.gif)
+	- ## NIKKI KNIGHTLY
+	  collapsed:: true
+		- ![image.png](../assets/image_1663694342797_0.png)
+		- ![image.png](../assets/image_1663694385137_0.png)
+		- ![18722135.webp](../assets/18722135_1663694476515_0.webp)
+		-
+	- ## ABELLA DANGER
+	  collapsed:: true
+		- ![image.png](../assets/image_1663694549062_0.png)
+		- ![image.png](../assets/image_1663694626500_0.png)
+		- ![22816323.webp](../assets/22816323_1663694691803_0.webp)
+	- Riley Reid
+	- Emily Willis
+	- Violet Myers
+	- Cory Chase
+	- Skyler Vox
+	- Rae Lil Black
+	- Kenzie Reeves
+	- Eliza Ibarra
+	- Katie Morgan VR
+	- CHerry Crush
+	- Anna Bell Peaks VR
+	- siswet
+	- yinyleon
+	- Lana Rhoades
+	- Gina Valentina
+	- Josaline KELLY
+	- **Eve Sweet**
+	-
+- ## Fort Troff Buys
+  collapsed:: true
+	- ![image.png](../assets/image_1663917622141_0.png)
+		- https://www.forttroff.com/store/product/bum-blaster-xl/
+	- ![image.png](../assets/image_1663917653814_0.png)
+		- https://www.forttroff.com/store/product/mean-clean/
+	- ![image.png](../assets/image_1663917671098_0.png)
+		- https://www.forttroff.com/store/product/bumper-brite/
+	- ![image.png](../assets/image_1663917686824_0.png)
+		- https://www.forttroff.com/store/product/grunt-h2o-cbd/
+	- ![image.png](../assets/image_1663917793278_0.png)
+		- https://www.forttroff.com/store/product/grunt-h2o/
+	- ![image.png](../assets/image_1664393978720_0.png)
+	- https://latenightcruisin.com/weekly-gay-sex-parties/united-states-canada/atlanta-atl/
+	- https://lulexy.com/
+	- https://smokenuud.com/
+- # More gaping notes
+  collapsed:: true
+	- my current max girth right now is ~50mm(5cm)
+	- I like the idea of a sit plug
+	- https://www.toytorture.com/anal-fist-training-101/
+	-
+- # GAPESODA PROJECT
+	- ![image.png](../assets/image_1668142562153_0.png)
+	- choose PC
+	- reformat PC
+	- test drives
+	- clear drives
+	- hook up to network
+	- transfer files
+	- install https://github.com/stashapp/stash
+- # A list of thematic kinks
+  collapsed:: true
+	- asphyxiophilia
+	- auralism
+	- autagonistophilia
+	- basoexia
+	- capnolagnia
+	- chronophilia
+	- coprolalia
+	- dacryphilia
+	- emetophilia
+	- erotophonophilia
+	- eualgia
+	- forniphilia
+	- gynephilic
+	- hierophilia
+	- hybristophilia
+	- irrumatio
+	- keraunophilia
+	- kleptophilia
+	- klismaphilia
+	- liquidophilia
+	- mammaphilia
+	- merinthophilia
+	- microphilia
+	- mysophilia
+	- nyotaimori
+	- oculophilia
+	- odaxelagnia
+	- olfactophilia
+	- pedovestism
+	- peodeiktophilia
+	- pictophilia
+	- piquerisma
+	- pygophilia
+	- pyrophilia
+	- quirofilia
+	- ramenophilia
+	- retifism
+	- snowballing
+	- splanchnophilia
+	- sthenolagnia
+	- stigmatophilia
+	- stygiophilia
+	- symorophilia
+	- teratophilia
+	- textophilia
+	- ursusagalmatophilia
+	-
+- ## More Cool Gear
+  collapsed:: true
+	- [Himeros](https://www.himerosjewelry.com/)
+		- ![image.png](../assets/image_1668472359677_0.png)
+	-
+	- https://www.reddit.com/r/gaycruising/comments/ayxkrr/comment/ei5fga9/?context=3
+	- # popular cruise clubs around the world
+		- https://www.clubchurch.nl/index.html
+		- http://www.impact-bar.com/GAY-UK/index.php
+	- # Fuck Cities
+		- https://www.nighttours.com/gay-sauna/
+		- Amsterdam
+			- https://www.saunanieuwezijds.nl/?utm_source=nighttours
+		- Antwerp
+			- https://www.gaysaunaherenhuis.be/?utm_source=nighttours
+			- https://www.the-boots.com/?utm_source=nighttours
+			-
+		- Athens
+		- Bangkok
+		- Barcelona
+			- https://www.nighttours.com/barcelona/barcelona-gay-saunas.html
+		- Benidorm
+			- https://www.nighttours.com/benidorm/benidorm-gay-saunas.html
+		- Berlin
+			- https://www.nighttours.com/berlin/berlin-gay-saunas.html
+		- Bilbao
+		- Brussels
+			- https://www.nighttours.com/brussels/brussels-gay-saunas.html
+		- Budapest
+		- Buenos Aires
+		- Cape Town
+		- Cologne
+			- https://www.nighttours.com/cologne/cologne-gay-saunas.html
+		- Copenahgen
+			- https://www.nighttours.com/copenhagen/copenhagen-gay-saunas.html
+		- Dublin
+		- Ft Lauderdale
+			- https://www.nighttours.com/fortlauderdale/fortlauderdale-gay-saunas.html
+		- Gran Canaria
+			- https://www.nighttours.com/grancanaria/grancanaria-gay-cruise-clubs.html
+		- Helsinki
+		- Hong Kong
+		- Ibiza
+		- Instanbul
+		- Las Vegas
+		- Lisbon
+			- https://www.nighttours.com/lisbon/lisbon-gay-saunas.html
+		- London
+			- https://www.nighttours.com/london/london-gay-saunas.html
+		- Los Angeles
+			- https://www.nighttours.com/losangeles/losangeles-gay-saunas.html
+		- Madrid
+			- https://www.nighttours.com/madrid/madrid-gay-saunas.html
+		- Manchester
+			- https://www.nighttours.com/manchester/manchester-gay-saunas.html
+		- Melbourne
+			- https://www.nighttours.com/melbourne/melbourne-gay-saunas.html
+		- Miami
+		- Milan
+		- Mykonos
+		- New York
+			- https://www.nighttours.com/newyork/newyork-gay-saunas.html
+		- Palm Springs
+			- https://www.nighttours.com/palmsprings/palmsprings-gay-cruise-clubs.html
+		- Panama
+		- Paris
+			- https://www.nighttours.com/paris/paris-gay-saunas.html
+		- Phucket
+		- Rio de Janerio
+		- Rome
+		- San Francisco
+			- https://www.nighttours.com/sanfrancisco/sanfrancisco-gay-cruise-clubs.html
+		- Sao Paulo
+		- Singapore
+		- Sitges
+			- https://www.nighttours.com/sitges/sitges-gay-saunas.html
+		- Sydney
+			- https://www.nighttours.com/sydney/sydney-gay-cruise-clubs.html
+		- Taipei
+		- Tel Aviv
+		- Torremolinos
+			- https://www.nighttours.com/torremolinos/torremolinos-gay-cruise-clubs.html
+		- Valencia
+		- Vienna
+			- https://www.nighttours.com/vienna/vienna-gay-saunas.html
+		- Washington DC
+	- ## Cruising Tips
+		- ![image.png](../assets/image_1669658867760_0.png)
+- # DOLLS (for research)
+  collapsed:: true
+	- ## Legit? Vendors
+		- The vendors listed below seem to be relatively decent.
+		- Their websites aren't sketchy.
+		- Updated
+		- Located in USA
+		- Addresses
+		- Very good selection
+		- ### Two Sites
+			- [yourdoll.com](https://www.yourdoll.com/)
+			- [sexdollgenie.com](https://sexdollgenie.com/)
+	- ## Brands
+		- **Gynoid - Karyelle - $5,000** [link](https://sexdollgenie.com/collections/see-all-dolls/products/karylle-172cm-5-6-d-cup-model-10)
+			- ![image.png](../assets/image_1670014896886_0.png)
+		- **WM Doll - Frankie -** **$2,000** [link](https://sexdollgenie.com/collections/see-all-dolls/products/sex-doll-genie-frankie166c)
+			- ![image.png](../assets/image_1670015148960_0.png)
+		- **WM Doll - Daria - $2,000** [link](https://sexdollgenie.com/collections/see-all-dolls/products/sex-doll-genie-daria163h)
+			- ![image.png](../assets/image_1670015224598_0.png)
+		- **EX Doll - Poppy - $5,000** [link](https://sexdollgenie.com/collections/see-all-dolls/products/poppy-168cm-5-5-d-cup-ds-summit-series)
+			- ![image.png](../assets/image_1670015351985_0.png)
+		- **SINO - LAIKA - $3000** [link](https://sexdollgenie.com/collections/see-all-dolls/products/laika-158cm-5-1-b-cup)
+			- ![image.png](../assets/image_1670015442566_0.png)
+		- **SANHUI - KARRIE - $3000** [link](https://sexdollgenie.com/collections/see-all-dolls/products/sex-doll-genie-karrie158h)
+			- ![image.png](../assets/image_1670015515640_0.png)
+		- **FUNWEST DOLL - VI - $2000** [link](https://www.yourdoll.com/product/sex-doll-fwd046/)
+			- ![image.png](../assets/image_1670016154010_0.png)
+		- **FUNWEST DOLL - JINX - $2000** [link](https://www.yourdoll.com/product/sex-doll-fwd043/)
+			- ![image.png](../assets/image_1670016303296_0.png)
+		- **GAMELADY DOLL - ELLIE - $3000** [link](https://www.yourdoll.com/product/sex-doll-gld004/)
+			- ![image.png](../assets/image_1670016407189_0.png)
+		- **SILKO DOLLS - TUKTU - $3000** [link](https://www.yourdoll.com/product/sex-doll-skd002/)
+			- ![image.png](../assets/image_1670016527680_0.png)
+		- **IRONTECH DOLLS - SUKI - $3000** [link](https://www.yourdoll.com/product/sex-doll-itd598/)
+			- ![image.png](../assets/image_1670016695212_0.png)
+			-
+- # Advertisers from fetlife.com
+  collapsed:: true
+	- [https://terribletoyshop.com/](https://terribletoyshop.com/) - looks like they have pretty interesting 'neon' themed custom bdsm toys
+	- [https://www.collarfactory.com/](https://www.collarfactory.com/) - custom home-made leather collars
+	- [https://www.upkoofficialshop.com/](https://www.upkoofficialshop.com/) - a 'luxury' bdsm branded storefront
+	- [https://www.dungeondelights.com/](https://www.dungeondelights.com/) - steel bondage equipment
+	- [https://confessionroom.co.uk/](https://confessionroom.co.uk/) - luxury lingerie storefront targeting feminist vegan values
+	- [https://dungeonoutfitters.com/](https://dungeonoutfitters.com/) - 'high-quality' craft dungeon equipment
+	- [https://oxy-shop.com/](https://oxy-shop.com/) - BDSM store targeting submissive males with big pockets
+	- [https://www.amorus.net/](https://www.amorus.net/) - a couples app/IRL card game made to 'spice things up'?
+	- [https://empowerederotic.com/limit-list](https://empowerederotic.com/limit-list) - a well-thought out partner limit list for scenes
+	- [https://beducated.com/](https://beducated.com/) - easy entry app designed for sex education
+	- [https://liebeseele.com/](https://liebeseele.com/) - BDSM luxury/lifestyle brand based in Japan
+	- [https://lolliwraps.com.au/](https://lolliwraps.com.au/) - Vegan corn-leather e-girl branded BDSM restraints
+	- [https://www.lvxsupply.com/](https://www.lvxsupply.com/) - Bespoke luxury leather BDSM made in Virginia
+	- [https://tobehis.com/](https://tobehis.com/) - Luxury BDSM Day Jewelry
+	- [https://www.mrhankeystoys.com/](https://www.mrhankeystoys.com/) - Big ass pure latex instertables
+	- [https://bdsmcontracts.org/](https://bdsmcontracts.org/) - BDSM contracts, templates and rituals
+	- [https://www.cutebutkinky.com/](https://www.cutebutkinky.com/) - Instagram Girl targeted clothing shop
+- # Vicetemple's guide to starting a tube site
+	- https://blog.vicetemple.com/how-to-start-a-porn-site/
+- # indie tube sites following
+	- https://heavyfetish.com/
+	- https://upornia.com/
+- # The Bad Dragon Guide to Progressive Dick Overload
+	- ## Lvl 1 - Rex
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/rex)
+		- $105.00
+		- Size: Small
+		- Firmness: Medium
+		- Color: Rex's Signature
+		- ![image.png](../assets/image_1674571991934_0.png)
+	- ## Lvl 2 - Nocturne
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/nocturne)
+		- ![image.png](../assets/image_1674572244836_0.png)
+			- ![image.png](../assets/image_1674572264224_0.png)
+			-
+			-
+	- ## Lvl 3 - Bumble Hooves
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/bumblehooves)
+		- ![image.png](../assets/image_1674572344369_0.png)
+		- ![image.png](../assets/image_1674572379743_0.png)
+		-
+	- ## Lvl 4 - Tucker
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/tucker)
+		- ![image.png](../assets/image_1674572415920_0.png)
+		- ![image.png](../assets/image_1674572431663_0.png)
+	- ## Lvl 5 - Austin
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/austin)
+		- ![image.png](../assets/image_1674572466274_0.png)
+		-
+		- ![image.png](../assets/image_1674572479623_0.png)
+	- ## Lvl 6 - Tyson
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/tyson)
+		- ![image.png](../assets/image_1674572516369_0.png)
+		- ![image.png](../assets/image_1674572525711_0.png)
+		-
+	- ## Lvl 7 - Echo
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/echo)
+		- ![image.png](../assets/image_1674572550944_0.png)
+		- ![image.png](../assets/image_1674572562343_0.png)
+	- ## Lvl 8 - Roland
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/roland)
+		- ![image.png](../assets/image_1674572607528_0.png)
+		- ![image.png](../assets/image_1674572615735_0.png)
+		-
+	- ## Lvl 9 - Cole
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/cole)
+		- ![image.png](../assets/image_1674572639673_0.png)
+		- ![image.png](../assets/image_1674572650247_0.png)
+		-
+	- ## Lvl 10 - Razor
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/razor)
+		- ![image.png](../assets/image_1674572677418_0.png)
+		- ![image.png](../assets/image_1674572688647_0.png)
+		-
+	- ## Lvl 11 - Nox
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/nox)
+		- ![image.png](../assets/image_1674572718585_0.png)
+		- ![image.png](../assets/image_1674572728473_0.png)
+	- ## Lvl 12 - Spritz
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/spritz)
+		- ![image.png](../assets/image_1674572761104_0.png)
+		- ![image.png](../assets/image_1674572769711_0.png)
+		-
+	- ## Lvl 13 - Vector
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/vector)
+		- ![image.png](../assets/image_1674572803490_0.png)
+		- ![image.png](../assets/image_1674572818759_0.png)
+		-
+	- ## Lvl 14 -  Ika
+	  collapsed:: true
+		- [Link](https://bad-dragon.com/products/ika)
+		- ![image.png](../assets/image_1674572842226_0.png)
+		- ![image.png](../assets/image_1674572850696_0.png)
+	- ## Lvl 15 - Chance Flared
+	  collapsed:: true
+		- ![image.png](../assets/image_1674572892570_0.png)
+		- ![image.png](../assets/image_1674572911425_0.png)
+		-
+	-
+	- # pornfuku network
+		- cumfuku
+		- gayfuku
+		- goonfuku
+		- ufuku
+		- giffuku
+		- dvafuku
+		- rawfuku
+		- gagfuku
+		- fetfuku
+		- ezfuku
+		- leakfuku
+		- ubefuku
+		- have one for every one one of those sites on thepornguy website
+		- iggafuku
+		- gapefuku
+		- neetfuku
+		- uwufuku
+		- drfuku
+		-
+	- ![image.png](../assets/image_1674981644061_0.png)
+	- ![image.png](../assets/image_1674981938602_0.png)
+	- ![image.png](../assets/image_1674982056851_0.png)
+	-
+	- # uwufuku.com
+		- all things anime
+	-
+	-

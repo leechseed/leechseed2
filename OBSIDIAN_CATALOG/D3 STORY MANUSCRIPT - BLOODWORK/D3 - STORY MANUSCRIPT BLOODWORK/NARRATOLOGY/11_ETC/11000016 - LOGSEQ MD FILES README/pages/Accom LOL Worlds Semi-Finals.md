@@ -1,0 +1,55 @@
+  public:: true
+  title:: Accommodations Research for LOL Worlds Semi-Finals
+  
+- # Requirements
+	- *__Dates__*
+		- Check-in - 10/28/2022
+		- Check-out - 10/31/2022
+	- *__Location__*
+		- Within 10 miles of [*State Farm Arena*]([https://www.google.com/maps/dir/30.520479,-84.21207/state+farm+arena+atlanta/@32.1295098,-85.4864599,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x88f5037f9142496d:0xb060d5dcce275ffb!2m2!1d-84.3963244!2d33.7572891](https://www.statefarmarena.com/events/detail/league-of-legends-worlds-championship-semifinals))
+			- State Farm Arena, 1 State Farm Dr, Atlanta, GA 30303
+	- *__Guests__*
+		- 4 Adults
+	- *__Rooms__*
+		- Each adult requires their own bed.
+	- *__IHG One Rewards Network__*
+		- Assumption - Its my lay understanding that our Holiday Inn Vacation Points are also IHG rewards.
+- *__Features__*
+	- More than 2 beds
+		- *Ideally 2 beds/1 couch pullout*
+	- Less than ~5 mi~ to activities
+		- bars?
+		- restaurants?
+		- Pool?
+- # HOTELS
+	- ### Sorted by closest distance to State Farm Stadium
+		- ## [Hotel Indigo: Atlanta Downtown](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=2&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLFX&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0)
+			- ![image.png](../assets/image_1663311337558_0.png)
+			- ![image.png](../assets/image_1663310827676_0.png)
+		- ## [Crowne Plaza: Atlanta - Midtown](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=4&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLPW&qPm=ATLFX&qAkamaiCC=US&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0&qLoSe=false)
+			- ![image.png](../assets/image_1663310914026_0.png)
+			- ![image.png](../assets/image_1663311013444_0.png)
+				- *requires 2 rooms*
+		- ## [Hotel Indigo: Atlanta Midtown](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=4&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLFX&qPm=ATLFX&qAkamaiCC=US&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0&qLoSe=false)
+			- ![image.png](../assets/image_1663311102609_0.png)
+			- ![image.png](../assets/image_1663311134167_0.png)
+				- *Requires 2 rooms*
+		- ## [Holiday Inn Express & Suites: Atlanta Buckhead](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=4&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLBE&qPm=ATLFX&qAkamaiCC=US&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0&qLoSe=false)
+			- ![image.png](../assets/image_1663311496842_0.png)
+			-
+			- ![image.png](../assets/image_1663311528879_0.png)
+				- *requires 2 rooms*
+- # HOTELS - Top 3 Choices
+	- Selected according to
+		- Room-size
+		- Parking Availability
+	- ## [Holiday Inn Express: Atlanta Galleria-Ballpark Area](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=4&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLCD&qPm=ATLFX&qAkamaiCC=US&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0&qLoSe=false)
+		- *__9.71 mi (15.62km) from destination__*
+		- ![image.png](../assets/image_1663311787984_0.png)
+		- ## [Hotel Indigo: Atlanta Airport - College Park](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=4&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLWW&qAkamaiCC=US&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0&qLoSe=false)
+			- *__7.78 mi (12.52km) from destination__*
+			- ![image.png](../assets/image_1663312356506_0.png)
+		- ## [Holiday Inn Express & Suites: Atlanta N-Perimeter Mall Area](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?qDest=State%20Farm%20Arena,%20Atlanta,%20GA&qPt=POINTS_CASH&qCiD=28&qCoD=31&qCiMy=92022&qCoMy=92022&qAdlt=4&qChld=0&qRms=1&qRtP=IVANI&qAAR=6CBARC&qSlH=ATLHD&qAkamaiCC=US&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.ma.sp.va.sp.re.vx.nd.ii.sx.we.lx&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qpMn=0&qLoSe=false)
+			- *__11.37 mi (18.29km) from destination__*
+			- ![image.png](../assets/image_1663312815196_0.png)
+-

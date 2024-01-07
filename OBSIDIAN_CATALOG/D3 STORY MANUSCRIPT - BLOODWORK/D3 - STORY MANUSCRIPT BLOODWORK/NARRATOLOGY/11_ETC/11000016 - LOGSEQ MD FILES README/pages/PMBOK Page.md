@@ -1,0 +1,321 @@
+  public:: true
+  
+- # PMBOK Research
+	- ## A Page used to house the PMBOK research project
+	- Here are data on the PMBOK.
+		- The data is recorded according to Ricardo Vargas' course.
+		-
+		  > IE The chapters are out of order. But you knew that already.  
+- # How Vargas Organizes his course.
+	- There are several steps taken in sequential order that correspond to online video courses.
+- # Vargas Course Hierarchy
+	- The breakdown of Large concept to small concept.
+	- Step
+		- Part
+			- Part 1 - Book I of the PMBOK
+			- Part 2 - Book II of the PMBOK
+			-
+			  > The Part MUST be either Part 1 or Part 2  
+			- Chapter
+				- Modules
+					- Pages
+- # STEP - 1 WARM UP
+	- Part - 1
+		- Chapter - 1 Introduction
+			- Modules - 1.2/2.1/2.2
+				- Pages - 1 to 35
+		- Chapter - 2 The Environment In Which Projects Operate
+			- Modules - 1.2/2.1/2.2
+				- Pages - 37 to 49
+		- Chapter - 3 The Role of the Project Manager
+			- Modules - 2.4/2.5/3.2
+				- Pages - 51 to 68
+	- Part - 2
+		- Chapter - 1 Introduction
+			- Modules - 2.4/2.5/3.2
+				- Pages - 541 to 559
+- # Module - 1.2 FOUNDATIONAL ELEMENTS
+	- The foundational elements that are required to operate using the discipline of Project Management
+- ### 1.2.1 - PROJECTS
+	- Project
+		- A project is a temporary endeavor undertaken to create a **unique product, service, or result.**
+		- Projects are undertaken to *fulfill* Objective by *producing* Deliverables are tangible or intangible.
+	- Objective
+	  id:: 6266bc25-87e0-42bd-952e-9592f387fd97
+		- An outcome towards which
+			- work is directed
+			- strategic position to be attained
+			- purpose to be achieved
+			- result to be obtained
+			- product to be produced
+			- service to be performed
+	- Deliverables
+	  id:: 6266bc76-126f-41ce-80a0-5942bfad47e4
+		- Any unique and verifiable product, result, or capability to perform a service that is required to be produced to complete a process, phase, or project
+			- Deliverables are tangible or intangible.
+			  id:: 6266bd18-5634-4d7d-b5c9-2ab5b2a40fab
+	- Fulfillment of Project Objectives may produce one or more of the following deliverables
+		- [*Unique Product*]{{embed A unique product }}
+		- [*Unique Service or Capability to Perform a Service*]{{embed A unique service}}
+		- [*Unique Result*]{{embed A unique result}}
+		- *Unique Combo Platter* - of one or more products, servies, or results.
+			- `EG Software, API, Documentation, Help Desk Services`
+		-
+	- A unique product 
+	  id:: 626c09ca-c2ce-49a6-b330-33a59f03d3ee
+		- component of another item
+		- enhancement or correction to an item
+		- a new end item in itself
+		- A unique service
+		  id:: 626c09e0-f02c-486c-9722-4a7bba3225fb
+			- a business function that supports production or distribution
+	- A unique result
+	  id:: 626c09f0-8f1e-46e8-be15-85474626b314
+		- an outcome
+		- a document (research project)
+	- *Temporary Endeavor*
+		- A project has a definite beginning and end. Not necessarily short.
+	- *The end of a project is reached when one or more of the following is true*
+		- Objective Achieved
+		- Objectives will not or cannot be met
+		- Funding is exhausted or no longer available
+		- The need for the project no longer exists
+		- The human or physical resources are no longer available
+		- The project is terminated for legal cause or convenience
+	- *Projects Drive Change*
+		- The purpose of a project is to move an organization from one state to another.
+	- ![image.png](../assets/image_1651248754873_0.png)
+	- ![image.png](../assets/image_1651248764771_0.png)
+	- ![image.png](../assets/image_1651248777646_0.png)
+	- Effective and efficient project management enables organizations to:
+		- Tie project results to business goals
+		- Compete more effectively in their markets
+		- Sustain the organization
+		- Respond to the impact of business environment changes on projects by appropriately adjusting project management plans.
+- # 1.2.3 RELATIONSHIP OF PROJECT, PROGRAM, PORTFOLIO, AND OPERATIONS MANAGEMENT
+	- ## 1.2.3.1 overview
+		- A project may be managed in three separate scenarios:
+			- Stand-Alone
+				- Outside of a portfolio or program
+			- Within a Program
+			- Within a Portfolio
+		- *Multiple projects may be needed to accomplish a set of goals and objectives for an organization*
+		- *Program* - A group of related projects
+		- *Portfolio* - Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.
+		- ![image.png](../assets/image_1651249106058_0.png)
+			- The prtfolio view allows organizations see how strategic goals are reflected in the portfolio.
+			- Components are prioritized based on
+				- risk
+				- funding
+				- other considerations
+		- *Program and project management focus on doing programs and projects the 'right' way*
+		- *Portfolio management focuses on doing the 'right' programs and projects.*
+		- ![image.png](../assets/image_1651249201439_0.png)
+	- ## 1.2.3.2 PROGRAM MANAGEMENT
+		- *Program Management* is defined as the application of knowledge, skills and principles to a program to achieve the program objectives and to obtain benefits and control not available by managing components individually.
+		- *Program component* - projects and other programs within a program.
+		- *Project management focuses on interdependencies within a project*
+		- *Program management focuses on the interdependencies between projects and how to optimally approach managing them.*
+	- ## 1.2.3.3 PORTFOLIO MANAGEMENT
+		- A *Portfolio* is defined as projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.
+		- *Portfolio Management* is defined as the centralized management of one or more portfolios to achieve strategic objectives.
+	- ## 1.2.3.4 OPERATIONS MANAGEMENT
+		- *Operations Management* is an area that is outside the scope of formal project management.
+			- OPS is concerned with the ongoing production of goods and/or services.
+	- ## 1.2.3.5 OPERATIONS AND PROJECT MANAGEMENT
+		- *Projects can intersect with operations at various points during the product life cycle*
+	- ## 1.2.3.6 ORGANIZATIONAL PROJECT MANAGEMENT (OMP) AND STRATEGIES
+		- *Portfolio management aligns* portfolios with organizational strategies by selecting the right programs or projects
+		- *Program management harmonizes* its program components and controls interdependencies in order to realize specified benefits
+		- *Project management enables* the achievement of organizational goals and objectives
+		- *Organizational Project Management (OPM)* - is a framework in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives.
+			- *The purpose of OPM* is to ensure the organization undertakes the right projects and allocates critical resources appropriately.
+		- ![image.png](../assets/image_1651250493716_0.png)
+	- ## 1.2.4 COMPONENTS OF THE GUIDE
+		- ![image.png](../assets/image_1651250606314_0.png)
+		- ![image.png](../assets/image_1651250613421_0.png)
+	- ## 1.2.4.1 PROJECT AND DEVELOPMENT LIFE CYCLES
+		- *A project life cycle* is the series of phases that a project passes through from its start to its completion.
+			- Project life cycles are *predictive* or *adaptive*
+		- *Developmental Life Cycle* - Within a project life cycle, there are generally one or more phases that are associated with the *development of the product, service, or result*
+		- *Predictive Life Cycle* - life cycle, project, scope, time, and cost are determined in the early phases of the life cycle.
+		- *Iterative Life Cycle* - the project scope is generally determined early in the project life cycle, but the time and cost estimates are routinely modified as the project team's understanding of the product increases.
+		- *Incremental life cycle* - the deliverable is produced thru a series of iterations that successively add functionality within a predetermined frame.
+		- *Adaptive life cycle* - agile, iterative, or incremental.
+		- *Hybrid Life Cycle* - combination of a predictive and adaptive life cycle.
+		- ### It is up to the project management team to determine the best life cycle for each project.
+			- The cycle needs to be flexible enough to deal with the variety of factors included in the project.
+		- *Life cycle flexibility may be accomplished by:*
+			- Identifying the process or processes needed to be performed in each phase,
+			- Performing the process or processes identified in the appropriate phase,
+			- Adjusting the various attributes of a phase (eg name, duration, exit criteria, and entrance criteria)
+		- *Project life cycles are independent of product life cycles*
+			- Product life cycles may be produced by a project.
+		- *Product Life Cycle* - the series of phases that represent the evolution of a product from
+			- concept
+			- delivery
+			- growth
+			- maturity
+			- retirement
+	- ## 1.2.4.2 PROJECT PHASE
+		- A *Project Phase* is a collection of logically related project activities that culminates in the completion of one or more deliverables.
+			- Project Phases are described by a a variety of *attributes*
+			- *Attributes* may be measurable and unique to a specific phase. Attributes include but are not limited to:
+				- *Name* - (E.G., Phase A, Phase B, Phase 1, Phase 2, Proposal Phase)
+				- *Number* - (E.G., Three Phases in a project, five phases in a project)
+				- *Duration* - (E.G., 1 Week, 1 Month, 1 Quarter)
+				- *Resource Requirements* - (E.G., People, Buildings, Equipment)
+				- *Entrance Criteria* for a project to move into that phase - (E.G., specified approvals documented, specified documents completed)
+				- *Exit Criteria* for a project to complete a phase (E.G., documented approvals, completed documents, completed deliverables).
+		- *Projects* may be separated into *distinct phases* or *subcomponents.* These phases or subcomponents are generally given names that indicate the type of work done in that phase. Examples of phase names include but are not limited to:
+			- Concept Development
+			- Feasibility Study
+			- Customer Requirements
+			- Solution Development
+			- Design
+			- Prototype
+			- BUild
+			- Test
+			- Transition
+			- Commisioning
+			- Milestone Review
+			- Lessons Learned
+		- Project phases may be *established based on various factors including, but not limited to*
+			- Management Needs
+			- Nature of the Project
+			- Unique Characteristics of the organization, industry, or technology
+			- Project elements including, but not limited to, technology, engineering, business, process, or legal
+			- Decision points (E.G., funding, project go/no-go, and milestone review)
+			-
+	- ## 1.2.4.3 PHASE GATE
+		- A *phase gate* is held at the end of a phase.  THe project's performance and progress are compared to project and business documents including but not limited to:
+			- Project Business Case
+			- Project Charter
+			- Project Management Plan
+			- Benefits Management Plan
+		- A *decision* (E.G., go/no-go decision) is made as a result of this comparison to:
+			- Continue to the next phase
+			- Continue to the next phase with modification
+			- End the Project
+			- Remain in the Phase
+			- Repeat the phase or elements of it
+		- *Phase gates may be referred to by other terms* such as
+			- Phase Review
+			- Stage Gate
+			- Kill Point
+			- Phase Entrance
+			- Phase Exit
+	- ## 1.2.4.4 PROJECT MANAGEMENT PROCESS
+		- *Project Life Cycle is managed by executing a series of project management activities known as project management processes*
+			- *Project management processes are logically linked by the outputs they produce*
+			- Processes may overlap throughout the project.
+		- *The output of one process generally results in either*
+			- An input to another process
+			- A deliverable of the project of project phase.
+		- ![image.png](../assets/image_1651252048627_0.png)
+	- ### Processes generally fall into one of three categories
+		- Processes *used once or at predefined points* in the project
+		- Processes that are *performed periodically*  as needed
+		- Processes that are *performed continuously* throughout the project
+	- ## 1.2.4.5 PROJECT MANAGEMENT PROCESS GROUPS
+		- A *Project Management Process Group* is a logical grouping of project management processes to achieve specific project objectives.
+			- *Initiating Process Group* - Processes performed to define a new project or new phase of an existing project
+			- *Planning Process Group* - Processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain objectives
+			- *Executing Process Group* - Processes performed to complete the work defined in the project management plan to satisfy project requirements
+			- *Monitoring and Controlling Process Group* Processes required to track, review, and regulate the progress and performance of the project; identify any areas in which changes to the plan are required; and initiate the corresponding changes.
+			- *Closing Process Group* - Processes performed to formally complete or close the project, phase, or contract.
+		- ## Process flow diagrams are used throughout the guide.
+			- Process groups are not the same as project phases
+	- ## 1.2.4.6 PROJECT MANAGEMENT KNOWLEDGE AREAS
+		- Processes are also categorized by *Knowledge Areas*
+		- *Knowledge Areas* are identified areas of project management defined by its knowledge requirements and described in terms of its component processes, practices, inputs, outputs, tools, and techniques.
+		- *The Ten Knowledge Areas* are described as
+			- *Project Integration Management* - Processes and activates to identify, define, combine, unify, and coordinate the various processes and project management activities within the Project Management Process Groups.
+			- *Project Scope Management* - Processes required to ensure the project includes all the work required, and only the work required, to complete the project successfully.
+			- *Project Schedule Management* - Processes involved in planning, estimating, budgeting, financing, funding, managing, and controlling costs so the project can be completed within the approved budget.
+			- *Project Quality Management* - Processes for incorporating the organization's quality policy regarding planning, managing, and controlling project and product quality requirements, in order to meet stakeholders' expectations.
+			- *Project Resource Management* - Processes to identify, acquire, and manage the resources needed for the successful completion of the project.
+			- *Project Communications Management* - Processes required to ensure timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and ultimate disposition of project information.
+			- *Project Risk Management* - Processes of conducting risk management planning, identification, analysis, response planning, response implementation, and monitoring risk on a project.
+			- *Project Procurement Management* - Processes necessary to purchase or acquire products, services, or results needed from outside the project team.
+			- *Project Stakeholder Management* - Processes required to identify the people, groups, or organizations that could impact or be impacted by the project, to analyze stakeholder expectations and their impact on the project, and to develop appropriate management strategies for effectively engaging stakeholders in project decisions and execution.
+			- ![image.png](../assets/image_1651253002678_0.png){:height 614, :width 492}
+	- ## 1.2.4.7 PROJECT MANAGEMENT DATA AND INFORMATION
+		- *Project Data* are collected as a result of various processes and are shared within the project team. The data are analyzed in context, aggregated, and transformed to become project information during various processes.
+		- *Project Data are regularly collected and analyzed throughout the project lifecycle.* Key terminology regarding project data and information:
+			- *Work Performance Data* - Raw observations and measurements identified during activities performed to carry out the project work.
+				- quality and technical performance measures
+				- start and finish dates of schedule activities
+				- number of change requests
+				- number of defects
+				- actual costs
+				- actual durations
+			- *Project Data are usually recorded in a Project Management Information System*
+		- *Work Performance Information* - Data collected from various controlling processes, analyzed in context and integrated based on relationships across areas.
+		- *Work Performance Reports* - Physical or electronic representation of work performance information compiled in project documents, which is intended to generate decisions or raise issues, actions, or awareness. Examples include *status reports, memos, justifications, information notes, electronic dashboards, recommendations, and updates.*
+		- ![image.png](../assets/image_1651254466489_0.png)
+	- ## 1.2.5 TAILORING
+		- *Tailoring* is selecting the appropriate project management processes, inputs, tools, techniques, outputs, and life cycle phases specific to the project.
+	- ## 1.2.6 PROJECT MANAGEMENT BUSINESS DOCUMENTS
+		- *Business Documents* are used by the project manager to capture the intent of the business outlined in the documents.
+		- ![image.png](../assets/image_1651254674886_0.png)
+		- ![image.png](../assets/image_1651254699366_0.png)
+		-
+	- ## 1.2.6.1 PROJECT BUSINESS CASE
+		- *The Project Business Case* is a Documented economic feasibility study used to establish the validity of the benefits of a selected component lacking sufficient definition.
+			- *The objectives and reasons for project initiation.*
+		- *A Needs Assessment* precedes the business case.
+		- A *Business Case* may include....
+			- *EG Check Starting New Ventures*
+		- *Criteria Categories* used for analysis
+			- *Required*
+			- *Desired*
+			- *Optional*
+		- *Options Set* alternative courses of action that may be taken by the organization.
+			- *Do Nothing*
+			- *Do the Minimum Work Possible to Address the Problem or Opportunity*
+			- *Do More than the Minimum Work Possible to Address the Problem or Opportunity*
+		- *Recommendation:*
+			- A statement of the recommended option to pursue the project
+			- Items to include in the statement may include but are not limited to:
+				- *Analysis Results for the Potential Option*
+				- *Constraints, Assumptions, Risks, and Dependencies for the potential options*
+				- *Success Measures*
+		- *Implementation:*
+			- *Milestones*
+			- *Dependencies*
+			- *Roles and Responsibilities*
+		- *Evaluation:*
+			- Statement describing the plan for measuring benefits the project will deliver.
+	- ## 1.2.6.2 PROJECT BENEFITS MANAGEMENT PLAN
+		- *Project Benefits Management Plan* document that describes how and when the benefits of the project will be delivered, and describes the mechanisms that should be in place to measure those benefits.
+		- *Key Elements* of the *Project Benefits Management Plan*
+			- *Target Benefits*
+			- *Strategic Alignment*
+			- *Timeframe for Realizing Benefits*
+			- *Benefits Owner*
+			- *Metrics*
+			- *Assumptions*
+			- *Risks*
+		- *Developing the benefits management plan makes use of the data and information documented in the business case and needs assesment.*
+			-
+		- *Development and Maintenance of the Project Benefits Management Plan is an Iterative Activity*
+	- ## 1.2.6.3 PROJECT CHARTER AND PROJECT MANAGEMENT PLAN
+		- The *Project Charter* is defined as a document issued by the project sponsor that formally authorizes the existence of a project.
+		- The *Project Management Plan* is defined as the document that describes how the project will be executed, monitored, and controlled.
+	- ## 1.2.6.4 PROJECT SUCCESS MEASURES
+		- *It is critical to clearly document the project objectives and to select objectives that are measurable.*
+			- *What does success look like for the project?*
+			- *How will success be measured?*
+			- *What factors may impact success?*
+		- Project Success may include additional criteria linked to the organizational strategy and to the delivery of business results
+			- Completing the project benefits management plan
+			- Meeting the agreed-upon financial measures documented in the business case. These financial measures may include but are not limited to:
+				- Net Present Value (NPV)
+				- Return on Investment (ROI)
+				- Internal Rate of Return (IRR)
+				- Payback Period (PBP)
+				- Benefit Cost Ratio (BCR)
+				- etc
+- ![image.png](../assets/image_1651256644134_0.png)
+-

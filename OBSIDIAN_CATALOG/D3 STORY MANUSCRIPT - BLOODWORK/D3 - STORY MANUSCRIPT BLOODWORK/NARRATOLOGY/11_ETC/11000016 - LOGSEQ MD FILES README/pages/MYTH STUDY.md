@@ -1,0 +1,125 @@
+  public:: true
+  banner:: "https://i.redd.it/warxhzkxfkm31.jpg"
+  
+- # MYTH
+- ## On the esoteric, undefined, and anomalous goo (space-time/nature) which Leechseed stories are manifest.
+- # Defining Myth
+	- A narrative that addresses human desires, problems, or concerns.
+	- Myth's are stories without meaning at worst criticism.
+		- At best, myth's are stories that define a society.
+		- A story is not a myth unless it is an *experiential* and *relatable* narrative.
+		- Story does not have to have *meaning*, but myth *must have meaning.*
+	- Meaning is defined by addressing specific thematic *controlling ideas.* that are relatable to a *specific society or group of people.*
+	- The more generalized the thematic controlling idea, the less power it has for an individual.
+	- The more specific the thematic controlling idea, the more power it has for an individual.
+	- ## The Usability of Myth
+		- Myth, especially in our capitalist society which requires large risk to fully realize story in select mediums such as Film and Television, provides an undeniable economic incentive for writers.
+		- For the inner-rebel, myth also provides a construct in which to *rebel against* or *reinvent.*
+		- Myth provides a structure of the writer to understand and realize one's on personal relationship with the external world thus finding what truly drives the motivation of writing. See *personal connection statement.*
+		-
+- # The Monomyth
+	- Joseph Campbell's original defining model of dramatic structure.
+	- I pretty much know this shit by heart, but there are several steps that are included in the 17 step model that are not usually considered.
+	- Below are the 17 steps
+	- ## Campbell 17
+		- 1) CALL TO ADVENTURE
+		- 2) REFUSAL OF THE CALL
+		- 3) SUPERNATURAL AID
+		- 4) THE CROSSING OF THE FIRST THRESHOLD
+		- 5) IN THE WHALE'S BELLY
+		- 6) THRE ROAD OF TRIALS
+		- 7) THE MEETING WITH A GODDESS
+		- 8) WOMAN AS A TEMPTRESS
+		- 9) ATONEMENT WITH THE ABYSS
+		- 10) APOPTHEOSIS
+		- 11) THE ULTIMATE BOON
+		- 12) REFUSAL TO RETURN
+		- 13) THE MAGIC FLIGHT
+		- 14) RESCUE FROM WITHOUT
+		- 15) THE CROSSING OF THE THRESHOLD
+		- 16) MASTER OF THE TWO WORLDS
+		- 17) FREEDOM TO LIVE
+	- One can go into much more detail of each, but I will only go into ones that I most recently learned about.
+		- ### SUPERNATURAL AID
+			- The *phenomenon* of aid.
+				- A guide, magic helper, or a mentor appears providing the hero with one or more *talismans* or *artifacts* that will aid them in quest.
+		- ### THE CROSSING OF THE FIRST THRESHOLD
+			- The act of *transitioning* from the known world into the unknown. The start of the adventure.
+				- Can be guarded by a *threshold guardian* signaling the entrance to a zone than is filled with danger and the unknown.
+		- ### BELLY OF THE WHALE
+			- The point of *no return* where the hero must confront himself and understand that *he has no idea what he's doing.*
+			- He must accept that he cannot return and must engage in the act adaptation and *metamorphosis.*
+		- ### THE MEETING WITH A GODDESS
+			- The *phenomenon* of the surrounding world recognizing that *no one else has made it this far.*
+			- A permutation of *supernatural aid*
+			- Could be constructed as either assistance given by society, acceptance of it, and ultimately seen as a *token reward* that will help push the hero to the final goal.
+		- ### WOMAN AS TEMPTRESS
+			- *Temptations* to abandon the quest.
+			- That *join me* moment.
+			- That *why can't we just stay here, away from everyone, and live our own happy life*
+			- Campbell is a bit of a sexist asshole, or his interpretation is criticized as much for it since women primarily play a role of either reward, temptation, or evil.
+		- ### ATONEMENT WITH THE ABYSS
+			- The *center point* of the story.
+			- The active *activity* or *encounter* with ultimate power.
+			- Campbell frames this as a father figure. A man who has ultimate power of *giving life* as well as *destroying it*
+			- Personally, I believe women have the same power. Considering its a two person task. But I digress.
+			- I primarily believe in the power of *mommy issues* being as troublesome as *daddy issues.*
+			- EG: The *motherwound* or the *fatherscar*
+			- I don't know if there is an existence of terminology of other sources of childhood trauma. Perhaps they fall into the previous. Or maybe...*otherpain*
+		- ### APOTHEOSIS
+			- The dramatic structural representation of *gestalt*
+		- ### THE MAGIC FLIGHT
+			- The cooky and wild final act of adventure that involves *escaping the unknown* by way of *the threshold* back to the old world.
+		- ### RESCUE FROM WITHOUT
+			- The structure that represents the recovery from sure failure.
+			- In the worst examples, it can be seen as deus ex machina, in the best it can represent the final evidence to support the *controlling idea* or *theme*
+			- The hero, against everything, sums up the courage and will to push forward.
+			- The hero, faces death without fear, but then is rescued by *the goddess* which once doubted him.
+			- I believe that this part of the monomyth is highly thematic in nature. It is the moment that the film cohesively becomes a unit of journey.
+			-
+		- ### THE CROSSING OF THE THRESHOLD
+			- The hero must figure out how to translate the rewards of his journey to share with the people of the old world.
+		- ### THE MASTER OF TWO WORLDS
+			- Achieving fully understanding the journey into the unknown.
+			- The reward of completion of *crossing the threshold*
+			- The hero has mastered both the unknown world, and the old world.
+			- Mastery.
+		- #### FREEDOM TO LIVE
+			- The reward of mastery. *Neither anticipating the future nor regretting the past.*
+- ## THE JOURNEY OF THE HEROINE - SCHMIDT
+  collapsed:: true
+	- A renewal of the original monomyth that addresses the unapologetic male centric nature of Campbell's Monomyth.
+	- Victoria Lynn Schmidt breaks the myth into two.
+		- The female hero's journey
+		- The male hero's journey.
+	- The male hero's journey focuses on proving his worth to the world.
+	- The female hero's journey focuses on proving her worth to *herself.*
+	- Either way, I believe both of these concepts can be applied to either gender, both are *human*.
+	- The value of splitting the myth into two seperate concepts reinforces that there are individuals who identify more with one or the other.
+	- EG: L-Brain, R-Brain.
+	- To achieve anything of substance, one must balance both types of myth.
+	- Perhaps, journey through both types?
+	- The final journey, the third, is the *willpower.*
+		- IE: *Marine Combat Doctoral Papers 1 - Warfighting*
+		- ### *__The conduct of war is fundamentally a dynamic process of human competition requiring both the knowledge of science and the creativity of art but driven ultimately by the power of human will.__*
+	- Schmidt believes that the feminine journey involves
+		- breaking away from *feminine ideals(a character's own values)* and turning *towards male centric patriarchal values.*
+		- *spiritual death* in the realization that she has betrayed herself.
+		- a *turn inward* towards *creating/building her own values and power*, reclaiming the *spirit of sacred feminine*, and achieving the destruction/reconstruction/avenging/etc. of the patriarchy.
+	- Ultimately, I believe the strength and weakness of Schmidt's model is that is *reactionary* and not *constructive.*
+	- The ultimate goal in Schmidt's model is to achieve a balanced thematic ending of both female and masculine working in cooperation with each other.
+		- A re-balancing of a perfect power dynamic.
+		- But nothing is perfect.
+		- Everything is management.
+	- ### SCHMIDT 9
+		- 1) Illusion of the Perfect World
+		- 2) Betrayal/Disillusionment
+		- 3) The Awakening
+		- 4) The Descent: Passing through the Gates of Judgement
+		- 5) Eye of the Storm
+		- 6) All is Lost/Death
+		- 7) Support
+		- 8) Rebirth/Moment of Truth
+	-
+	-
+-

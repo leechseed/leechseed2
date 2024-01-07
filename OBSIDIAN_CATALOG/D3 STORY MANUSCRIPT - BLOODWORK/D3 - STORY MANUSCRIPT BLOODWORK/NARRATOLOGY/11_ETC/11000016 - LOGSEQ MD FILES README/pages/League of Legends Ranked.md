@@ -1,0 +1,43 @@
+  public:: true
+  
+- # Goal: Get to Gold by death
+- ## In-Game Process
+	- Win Wave States
+	- Keep Good Spacing
+	-
+- # Theory of Skill - Mid Lane
+	- Up until Plat, good mechanical fundamentals will aid in climbing.
+	- ## Keep the wave in GREEN to win.
+		- To get into the green lane state, you must win the conditional lane state.
+	- ## Count the waves
+		- Win each wave as much as possible. Win as many wave states as possible.
+- # Core Concepts to Master
+	- Mouse Movements/Camera Placement
+	- CSing
+		- Wave Management
+			- The 3 Lane States
+				- GREEN - Winning Lane State
+					- close to own tower
+				- YELLOW - Conditional Lane State
+					- neutral between lanes
+				- RED - Losing Lane State
+					- close to enemy tower
+	- Trading
+	- Spacing
+		- The South Side of the Midlane has more room to maneuver.
+	- Map Awareness
+	- Objectives
+	- Builds
+-
+- # The Solo Que Equation
+	- My Skill + My Consistency + My Luck = My Rank
+	- If I can consistently improve, maintain, and play, my rank will improve.
+	-
+- # Practices to Adopt
+	- 1v1
+-
+- # Current Lineup
+	- Veigar
+	- Akali
+	- Ahri?
+	- Katarina?

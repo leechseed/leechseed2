@@ -1,0 +1,192 @@
+  pubic:: true
+  
+- # ARTISTIC RENDER: FULL BLENDER COURSE
+- [pipeline website](https://artisticrender.com/beginners-start-here/)
+-
+- # Create a 3D production studio curriculum
+	- ## 1 - Model the Basic flow of the production pipeline in Blender
+	- ## 2 - Create a Curriculum using below
+	- [thegnomonworkshop.com](https://www.thegnomonworkshop.com/)
+	- [Griffin Animation Academy](griffinanimationacademy.com)
+	- ## 3 - Gather Corresponding Relevant Books
+-
+- # NSFW -  HOW TO MAKE PORN IN BLENDER: BASICS BY ANIME NYAN
+  collapsed:: true
+	- [YT LINK](https://youtu.be/j1IU5UHdyxE)
+	- ## 1 HOTKEYS
+	  collapsed:: true
+		- ### VIEWPORT NAVITAGION
+			- MMB - rotate
+			- Shift + MMB - pan
+			- Ctrl + MMB  - zoom
+			- Shift +` Fly mode better than walk mode
+			- (while in fly mode)
+				- mouse wheel up - speed up
+				- mouse wheel down - slow down
+				- spacebar - teleport
+		- ### TRANSFORMATIONS
+			- #### ALL TRANSFORMS
+				- G - move
+				- R - rotate
+				- S - scale
+			- #### TRANSFORM ON A SINGLE AXIS
+				- G/R/S + X - transform on the x axis
+				- G/R/S + Y - transform on the y axis
+				- G/R/S + Z - transform on the z axis
+			- #### TRANSFORM ON PLANE
+				- G/R/S + SHIFT + X - transform on the x plane
+				- G/R/S + SHIFT + Y - transform on the y plane
+				- G/R/S + SHIFT + Z - transform on the z plane
+			- #### CLEAR TRANSFORMS
+				- ALT + G - clear move data
+				- ALT + R - clear rotate data
+				- ALT + S - clear scale data
+		- ### GENERAL HOT KEYS
+			- SHIFT + A - create mesh
+			- N - Close Open Menus
+			- M - create a new collection
+			- CTRL + ALT + Numpad 0 - Camera View
+	- ## 2 IMPORTING LOBA
+	  collapsed:: true
+		- [smutbase](https://smutba.se/) (repository for character models)
+		- download .blend file
+		- download textures .zip file
+		- extract
+	- ## 3 MESH v SKELETON
+	  collapsed:: true
+		- ### MESH - *the 3d shapes that you seen in renders.*
+		- ### SKELETON/RIG/ARMATURE - *A group of bones that controls a mesh's movements.*
+	- ## 4 THE OUTLINER
+	  collapsed:: true
+		- This window is called *the outliner*
+			- ![image.png](../assets/image_1670025637524_0.png){:height 278, :width 467}
+		- **Skeletons/rigs/armatures have the icon of a skeleton in the outliner**
+			- ![image.png](../assets/image_1670025767719_0.png){:height 372, :width 468}
+			- ![image.png](../assets/image_1670025786610_0.png){:height 85, :width 102}
+		- **Meshes have an icon of an upside down triangle.**
+			- ![image.png](../assets/image_1670025856202_0.png)
+			- ![image.png](../assets/image_1670025874930_0.png)
+			-
+		-
+	- ## 5 POSE MODE
+	  collapsed:: true
+		- First, select a skeleton.
+		- ![image.png](../assets/image_1670025918769_0.png)
+		- Then select Pose Mode from the top left drop down.
+		- ![image.png](../assets/image_1670026000740_0.png){:height 367, :width 382}
+		- Open the Lobal Default Mesh Menu By Pressing N
+			- ![image.png](../assets/image_1670026160491_0.png)
+			- In this menu you can toggle meshes on and off.
+	- ## 6 ADDING A CAMERA
+	  collapsed:: true
+		- Go to Object Mode in top left corner
+		- Shift + A to add camera
+		- M - Create a new collection for Camera and Lights
+		- First Select the camera
+		- Ctrl + Alt + Numpad 0 - shifts perspective to camera view
+		- Below the outliner is the properties window?
+		- If you select camera and scroll down, you can get the camera properties.
+		- ![image.png](../assets/image_1670029084568_0.png)
+	- ## 7 SETTING THE CORRECT RENDER SETTINGS
+		- In the settings menu, select the render properties.
+		- Scroll down to *Film* and select *Transparent*
+			- ![image.png](../assets/image_1670029233328_0.png)
+	- ## 8 LIGHTING
+		- drag from the top left corner to create two windows
+		- on right window turn off camera to view by pressing N and going to the view menu
+		- make the right window render view
+		- select shading
+		- ![image.png](../assets/image_1670032146437_0.png)
+		- set drop down menu from object to world
+		- delete these two nodes to set up for lighting
+		- ![image.png](../assets/image_1670032335955_0.png)
+		- go to render properties and disable simplify
+		- ![image.png](../assets/image_1670032440155_0.png)
+		- Use *eevee* to render for preview if needed
+		- Use *cycles* to render for final.
+		-
+	- # Top Base models to use in Blender from Smut
+	  collapsed:: true
+		- [SpiderGwen](https://smutba.se/project/34505/)
+		  collapsed:: true
+			- ![image.png](../assets/image_1670050519091_0.png){:height 355, :width 223}
+		- [Pharah v5](https://smutba.se/project/431/)
+		  collapsed:: true
+			- ![image.png](../assets/image_1670050890107_0.png)
+		- [SWURST Premium Models](https://docs.google.com/spreadsheets/d/1uHVdQFdWl_L3Ka1Zd3MSg_tEcNsLOUN4ODfyRUSf52I/edit#gid=0)
+			- [Patreon](https://www.patreon.com/Swurst)
+		- [SKUDDBUTT'S RAVEN for Blender](https://smutba.se/project/29699/)
+		  collapsed:: true
+			- ![image.png](../assets/image_1670052038937_0.png)
+		- [Rigid3d Injustice 2 Model Pack](https://smutba.se/project/32709/)
+		  collapsed:: true
+			- ![image.png](../assets/image_1670056647415_0.png)
+		- [Seven Graphics](https://twitter.com/7GraphicsNSFW)
+		  collapsed:: true
+			- High tier animation blender files in his pateron
+			- ![image.png](../assets/image_1670059376156_0.png)
+		- [Son Umbossa](https://twitter.com/SonUmbasa)
+		  collapsed:: true
+			- High tier photographic blender files on patreon
+			- ![image.png](../assets/image_1670059479017_0.png)
+		- [Yeero](https://twitter.com/Yeero3D)
+		  collapsed:: true
+			- Insane Blowjob animations w/project files in patreon
+			- ![image.png](../assets/image_1670059765354_0.png)
+			- [porn3dx](https://porn3dx.com/)
+				- repository of 3d porn
+			-
+		- model patreon after [fugtrup](https://www.patreon.com/fugtrup)
+			-
+			-
+		-
+- # Character Creation Pipeline Using Gnomon Tutorial
+  collapsed:: true
+	- [link](https://www.thegnomonworkshop.com/tutorials/creating-a-stylized-female-character)
+	- ## Modeling
+		- Body Sculpt
+		- Hair Proxy
+		- Sculpting the Hands
+		- Exporting Geo from Zbrush
+		- Hat Modeling
+		- Cigarette Modeling
+		- Shoes Modeling
+		- Marvelous Designer Workflow
+		- Clothing Retopology
+		- Detail Transfer
+		- Adding the Nails
+		- Final Sculpting Details
+		- UV Layout
+		- Creating the Eyes
+		- Updating Zbrush with the new UVs
+		- Posing in Zbrush
+		- Transferring the Posed Geo
+	- ## Texturing
+		- Setting Up in the Mari Project
+		- Basic Workflow in Mari
+		- Texturing the Clothing
+		- Texturing the Body
+		- Projecting the Fine Displacements
+		- Final Touches and Eye Painting
+		- Splitting Channels and Exporting Maps
+	- ## Groom
+		- Setting UP the Scene for Xgen
+		- Painting Masks in Mari
+		- Eyebrows
+		- Eyelashes
+		- Main Hair Style
+		- Adding Flyaway Hairs
+		- Clothing Fuzz
+	- ## Lookdev
+		- Setting up the Light RIg
+		- Setting up Materials
+		- Tweaking Materials
+		- Arnold Hair Shader
+		- Applying a Texture to Xgen
+		- Adding Eye Lights
+		- Duplicating Shaders
+		- Setting Up to Render
+	-
+- ## Search Term - Blender 3D Photorealistic Portrait Guide
+-
+-

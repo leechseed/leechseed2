@@ -1,0 +1,146 @@
+  public:: true
+  banner:: "https://i.imgur.com/Yd7WCO6.jpg"
+  
+- # SAVE THE CAT WRITES FOR TV by Jamie Nash
+	- ![image.png](../assets/image_1663291335071_0.png)
+	-
+	- ### First Five Questions
+		- ![image.png](../assets/image_1663291501627_0.png)
+		- 1) What's your world?
+		- 2) What's your franchise type?
+		- 3) What's your format?
+		- 4) Who's your audience?
+	- ### 1) What's your world?
+		- The world is the space/time that the series will take place in.
+		- **There are 3 places of inspiration to find the series world.**
+			- 1) Worlds you've lived in.
+			- 2) Worlds you want to live in.
+			- 3) Worlds you create.
+		- **1) World's you've lived in.**
+			- Offbeat Hobby?
+			- Strange and Unique Workplace?
+			- Bizarre or Unbelievable family/living situation?
+		- **2) Worlds you want to live in.**
+			- What are you always talking about?
+			- What media are you consuming?
+			- What content are you surrounded by?
+		- **3) Worlds you create.**
+			- Fiction
+			- Sci-fi
+	- ### Common TV Tropic Worlds
+		- Nine-to-Fives - *The Office*
+		- Family Matters - *Arrested Development*
+		- Location - *Star Trek: Deep Space 9*
+		- Growing Pains - *Freaks and Geeks*
+		- Blast from the Past - *Mad Men*
+		- Lifestyles - *Sex and the City*
+		- Make-Believe - *Westworld*
+	- ### The key to freshness is to take a trope and get very specific with it.
+		- A Nine-to-Five meets ruthless Disney Kitchen
+		- A Family Matters meets family business racing team
+		- A Location meets  a nuclear aircraft carrier
+		- etc.
+	- ### Franchise TV
+		- TV Franchises are powered by a *story engine.*
+			- The story engine inspires stories.
+		- ### The 8 Franchise Types
+			- **1) TRAPPED TOGETHER**
+				- *A Situation*
+				- *The Inmates are the Problem*
+				- *Situational Stories*
+			- **2) BLANK OF THE WEEK**
+				- *A job*
+				- *A new blank every week.*
+			- **3) WO/MAN WITH A PLAN**
+				- *A goal*
+				- *A goal-minded team or an individual*
+			- **4) DUDE WITH A SEASON-LONG PROBLEM**
+				- An innocent hero
+				- A problem
+			- **5) WHYDUNIT**
+				- *A detective*
+				- *A season-long mystery*
+				- *Every week we get closer*
+			- **6) I'M NO FOOL**
+				- *A fool*
+				- *A world*
+			- **7) BUDDY LOVE**
+				- *A match made in heaven/hell*
+				- *A complicated relationship*
+			- **8) MAD, MAD, WORLD**
+				- *World-first stories*
+				- *Many storylines*
+				- *Who are you again?*
+	- ## TV Formats
+		- **What is the TV Format?**
+		- TV Format is the combination of *genre* and *running time*
+			- *Hour-Long Drama*
+			- *Hour-Long Dramedy*
+			- *Multi-Cam Comedy*
+			- *Half-Hour Comedy*
+			- *Half-Hour Drama or Dramedy*
+		- **Serialized or Episodic?**
+			- Serialized - Shows must be watched in sequence
+			- Episodic - Shows can be picked up regardless of release date.
+		- **Limited Format?**
+			- A Limited Series is a show that is meant only to run for one season.
+		- **What is the platform?**
+			- Platform is the distribution channel. EG: Netflix, Hulu, Disney Channel
+			- Choosing the platform drills down to the *tone* and *audience* of the show.
+	- ### 1) Choose your world
+	- ### 2) Choose your franchise
+	- ### 3) Choose your format
+	- ## Who lives in your world?
+		- ### WORLD THEMES
+			- What is the show all about?
+			- What is it *really* about? - **THEME**
+			- **Theme is the primary concept that separates Television from Film**
+			- How does the world speak to humanity and life?
+			- How does it speak to you...spiritually?
+		- ### WHAT IS THE WRITER'S PERSONAL CONNECTION TO THE WORLD?
+			- The story?
+			- The characters?
+			- Create a *__Personal Connection Statement__*
+				- Be as honest and vulnerable as possible. Free write this statement.
+			- **The best themes are found at the intersection of you and the material**
+		- ### WHY NOW?
+			- What is relevant about the show *right now.*
+				- What is the timely relevance?
+				- Why is it relevant to you? Right now?
+		- ### CREATE A STICKY HERO
+			- Main Characters are *__Heroes__*
+			- ### 3 Basic elements of a Hero
+				- 1) A flaw
+				- 2) A want
+				- 3) A need
+				- *Character and theme go hand and hand*
+			- The **Shard of Glass**
+				- **Shard of Glass** - the origin story of your character's flaw.
+			- The **Transformational Map**
+				- **Transformational Map** - Character Arc
+			- The **Broken Compass**
+				- **Broken Compass** - The tragic(wrong) decision making process that the hero follows along their spiritual journey.
+			- **Mission Statements**
+				- **Mission Statements** - are absolutes that lead to a broken compass. Rules or Self-Imposed Morals.
+					- EG: *I will never be my father*
+					- EG: *I will never have anal sex*
+					- *Mission statements should be born directly from the shard of glass and reflect your hero's basic flaw*
+		- ### CREATING CHARACTERS
+			- 1) Choose central theme
+			- 2) Choose characters from your world
+			- 3) Understand how they reflect the central questions and dilemmas you've chosen to explore
+		- #### CHOOSING YOUR MAIN CHARACTER
+			- Chose your main character using the following
+				- 1) They're most relatable
+				- 2) A window into the unfamiliar world
+				- 3) A transformational map that embodies the theme
+				- 4) Personal flaws put them in most conflict with the show.
+		- ### INVEST THE AUDIENCE
+			- *A Save the Cat! scene shows the audience the hero is worth fighting for. *
+		- ### A Rooting Resume
+			- A **rooting resume** is a list of traits summarizing why the audience continues to root for the character.
+			-
+		-
+	-
+	-
+	-

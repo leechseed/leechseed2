@@ -1,0 +1,37 @@
+- # Operations Guide
+  title:: OPERATIONS GUIDE PAGE
+	- A page housing the Operations Department
+	- Basically, my repository for all the systems I try to implement in achieving Max Prime
+- # Max Prime
+  id:: 6266b38a-fe8d-41ab-a63e-8510abc2590f
+	- A state in which I'm in ultimate flow.
+- # Pre-Max Checklist Definition
+	- A checklist designed to make sure I have everything needed to begin work.
+	- ## Basic Pre-Max Concepts
+		- Time Tracking
+			- Watch
+			- Pomodoro Timer
+		- Task Tracking
+			- Task Pad
+			- Task Pen
+		- Lubrication
+			- Audio Lube
+				- BT Headphones
+				- BT Buds
+			- Drug Lube
+				- Weed
+				- Cigarettes
+				- Adderall
+			- Phone
+- # Pre-Max Checklist (PMC)
+	- Watch
+	- Pomodoro Timer
+	- Task Pad
+	- Task Pen
+	- BT Headphones
+	- BT Buds
+	- 420
+	- Stogies
+	- Beans
+	- Phone
+	-

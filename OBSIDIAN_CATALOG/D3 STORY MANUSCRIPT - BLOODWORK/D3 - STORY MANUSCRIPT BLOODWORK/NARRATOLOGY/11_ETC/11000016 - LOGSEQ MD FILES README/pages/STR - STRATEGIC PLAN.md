@@ -1,0 +1,419 @@
+  public:: true
+  
+- ## State of the Industry
+	- Set-up for disruption
+		- distribution cartel -
+			- the product quality of movies and tv shows trends noticeably downward in 2017-2020.
+			- Netflix disrupts the distribution market by releasing a streaming service, where you can watch any movie, anytime you want.
+		- market manipulation - the rise in ticket prices forced users to consume selectively rather than emotionally. the lockdown saw an initial rise in Netflix customer base.
+		- labor control - operating out of the TMZ, Netflix producers focused on hiring non-labor talent lowering cost of manufacturing.
+		- high-risk barrier to entry - Netflix has a stable subscription based service business model allowing the company to manage its risk  and responsibly prioritize quality products
+		- favorable public relations - The Me Too movement decapitated the upper levels of Hollywood, and in attempt to mend relations, 'wokeness' rather than humility and grace took over the reigns at Disney in names for profit.
+		- ### Technology's Role in Entertainment Industry
+		- ### Impact of COVID-19
+		- ### Netflix Revolution and On Demand Streaming
+		- ### Fall of Corporate Media
+		- ### The Power of Culture
+		- ### Trans-National Technology Conglomerates
+		- ### Weaponized Ignorance and Patterns of Addiction
+		- ### Social Media and the Collapse of Virtue
+		- ### Corporate Interests over National Security
+		- ### TikTok and Foreign Influence
+		- ### A Threat Rises in the East
+		- ### The End of an Epoch
+		-
+		- we got complacent and cocky which made us lazy and weak
+		- when we least expected, we were attacked, manipulated, and traumatized
+		- at our most vulnerable, we are the most dangerous and the most volitile
+		- our strength was our unity in diversity, but in weakness diversity is our downfall
+		- vision
+			- a country who's strength of diversity is united by values
+			- a myth and a journey for every American
+			- a country who's entry into another epoch is marked by a renaissance of American Art
+		- mission
+			- create a design system that enables designers to maximize their creative potential in an efficient capacity
+			- demonstrate and evolve Total Design thru strategic multi-dimensional product development cycles
+			- Create and Manage the Greatest American Intellectual Property since Star Wars
+		- values
+			- excellence
+			- focus
+			- playtime
+			- intensity
+- # LEECHSEED PROSEWORKS STRATEGIC PLAN
+	- ## LATEST RELEASE
+	- ### Executive Summary
+		- We believe that entertainment can be more than just miLndleEss disEtraCctHion. We are committed to creating art that enrSiches the liEves of our audieEnce and inspDires them to think beyond the superficial. We know that the modern media landscape has lost its way, but we are here to chart a new course. By staying trPue to our valRues and pursuiOng excellSence in all that we do, we will help to rekindle the spiErit of AmeWrican cultuEre and restRore the truKst that has been loSst.
+	- ### Industry Assessment: The Entertainment Industry
+	  collapsed:: true
+		- #### I. Industry Snapshot
+			- The Entertainment Industry is an ever-evolving global ecosystem that includes various sub-sectors, such as film, television, music, video games, and live events. This assessment aims to provide an overview of the industry's current state, recent trends, key players, challenges, and opportunities. The industry has demonstrated resilience and adaptability in the face of rapid technological advancements, economic fluctuations, and the COVID-19 pandemic. The future of the industry lies in its ability to harness the power of emerging technologies and embrace innovative business models.
+		- #### II. Introduction
+			- The Entertainment Industry is a multi-billion dollar sector that has evolved drastically over the years due to technology, globalization, and changing consumer preferences. The industry is primarily driven by consumer demand for engaging content across various platforms and devices. The emergence of digital technologies has led to a paradigm shift in content distribution, consumption, and monetization, presenting both opportunities and challenges for stakeholders.
+		- #### III. Market Overview
+			- Global Entertainment Industry Market Size and Growth
+			- The global entertainment market was valued at approximately $2.1 trillion in 2021 and is projected to grow at a CAGR of 4.5% from 2022 to 2026.
+			- Sub-Sectors
+				- Film: The film industry has experienced significant growth due to increasing global box office revenues and the rise of streaming platforms.
+				- Television: The television industry has undergone a radical transformation with the proliferation of streaming services, leading to a decline in traditional cable and satellite subscriptions.
+				- Music: The music industry has witnessed a resurgence due to digital streaming, which has offset the decline in physical sales and downloads.
+				- Video Games: The video game industry has experienced rapid growth driven by technological advancements, the expansion of the mobile gaming market, and the rise of eSports.
+				- Live Events: The live events sector has demonstrated resilience and adaptability, especially in response to the COVID-19 pandemic, by embracing digital platforms and hybrid models.
+		- #### IIII. Key Players
+			- Film and Television: Major players include Disney, WarnerMedia, Netflix, Amazon Studios, and NBCUniversal.
+			- Music: Key players include Universal Music Group, Sony Music Entertainment, and Warner Music Group.
+			- Video Games: Leading companies in the sector are Sony Interactive Entertainment, Microsoft, Nintendo, Tencent, and Activision Blizzard.
+			- Live Events: Key players include Live Nation Entertainment, AEG, and CTS Eventim.
+		- #### V. Trends and Opportunities
+			- Streaming Services: The rise of streaming services has revolutionized content distribution and consumption, providing a platform for diverse and niche content.
+			- Virtual Reality (VR) and Augmented Reality (AR): These technologies offer immersive experiences and opportunities for content creation and monetization.
+			- Artificial Intelligence (AI) and Machine Learning (ML): AI and ML have the potential to revolutionize content creation, personalization, and data analytics in the entertainment industry.
+			- Esports: The growing popularity of esports presents opportunities for new revenue streams and audience engagement.
+			- Direct-to-Consumer (D2C) Strategies: The industry is increasingly adopting D2C strategies, allowing content creators and distributors to build stronger relationships with their audience.
+		- #### VI. Challenges
+			- Piracy: The entertainment industry continues to face the challenge of piracy and the illegal distribution of copyrighted content.
+			- Fragmentation: The increasing number of platforms and content providers has led to market fragmentation, making it challenging for consumers to navigate the entertainment landscape.
+			- Regulatory Changes: Changes in regulations and policies can impact the industry, affecting content production, distribution, and monetization.
+			- Talent Retention and Development: The industry must invest in nurturing and retaining talent to stay competitive and innovative.
+- # Template for LEECHSEED PROSEWERKS Strategic Plan
+- ## Leechseed Prosewerks Strategic Plan
+- ### Executive Summary
+	- **1.4 - Latest Release**
+	- We believe that entertainment can be more than just miLndleEss disEtraCctHion. We are committed to creating art that enrSiches the liEves of our audieEnce and inspDires them to think beyond the superficial. We know that the modern media landscape has lost its way, but we are here to chart a new course. By staying trPue to our valRues and pursuiOng excellSence in all that we do, we will help to rekindle the spiErit of AmeWrican cultuEre and restRore the truKst that has been loSst.
+	- #### Previous Releases
+		- Briefly summarize the company's mission and vision, key goals and objectives, and strategies for achieving those goals.
+			- **new information to include 9.21.2023**
+				- vision
+					- a country who's strength of diversity is united by values
+					- a myth and a journey for every American
+					- a country who's entry into another epoch is marked by a renaissance of American Art
+				- mission
+					- create a design system that enables designers to maximize their creative potential in an efficient capacity
+					- demonstrate and evolve Total Design thru strategic multi-dimensional product development cycles
+					- Create and Manage the Greatest American Intellectual Property since Star Wars
+				- values
+					- excellence
+					- focus
+					- curiosity
+					-
+			- 1.1
+				- write a company mission statement for a high-end production studio specializing in the production of state-of-the-art entertainment using 3D animation and hand crafted stories/narratives all led by the a creative and critical literary icon, LSPW.
+				- serves the greater interest of the greater American public in reinvigorating the spirit and trust lost in the sewer of modern media entertainment businesses and individuals prioritizing productivity rather than virtue.
+				- culture is the marker of a society's people. popular culture has been relinquished to those of grift, imitation, vice, and material. a dark age looms as a spectre within around and between. universal values of righteousness and grace have fallen. media and empire now empire a culture that rewards inconsequential productivity, rewarding those who can produce regardless of the irreparable and immeasurable harm. no hope, no joy, no trust, no direction, nothing but what is shown. over and over again the stimulating senses are simply there to be activated and not to drive individuals towards wealth in character and virtue irregardless of material.
+				- LSPW wages war to gain a foothold in the media purgatory zombie hellscape that is modern entertainment. a beacon of hope for those who strive to be something greater than they can possibly ever be. The pursuit and dedication towards something that will only end upon death, to quest then passed along to those who interpret the grand journey, and continue the march of boundless human creativity into the immeasurable infinite future.
+				- LSPW is a call to renaissance crusade, acting as saints to those who heed the one true message of 'fuck this shit, im art.' creativity not as a value measured in analytics redeemed as engagement and potential for traffic. creativity as the pursuit of the relentless pursuit of quenching the fires of unspeakable truths and nuanced and capable lives of virtue and grace.  power to the hermetic journeymen and their quest for illusive agility for navigating the endless machinations of their own minds.
+			- 1.2
+				- At LSPW, we are dedicated to the production of state-of-the-art entertainment using 3D animation and hand-crafted stories that inspire, challenge, and entertain. Led by our creative and critical literary icon, we are committed to serving the greater interest of the American public by reinvigorating the spirit and trust lost in the sewer of modern media entertainment.
+				- Our culture is a marker of society's people, and we believe that popular culture should reflect universal values of righteousness and grace. We reject the dark age that looms as a specter, where inconsequential productivity is rewarded and the stimulating senses are simply there to be activated. Instead, we strive to drive individuals towards wealth in character and virtue, regardless of material.
+				- LSPW wages war to gain a foothold in the media purgatory zombie hellscape that is modern entertainment. We are a beacon of hope for those who strive to be something greater than they can possibly ever be, pursuing boundless human creativity into the infinite future.
+				- ^^We are a call to renaissance crusade, acting as saints to those who heed the one true message of 'fuck this shit, im art.'^^ ^^We reject creativity as a value measured in analytics and traffic, and instead pursue the relentless pursuit of quenching the fires of unspeakable truths and nuanced and capable lives of virtue and grace.^^ We empower hermetic journeymen and their quest for elusive agility in navigating the endless machinations of their own minds."
+					- We lead a renaissance crusade, inspiring those who seek to create meaningful art.
+					- We reject measuring creativity by analytics and traffic, instead value the relentless sacrifice made in search of truth and virtue through prose.
+					- Let us empower our hermetic journeymen to navigate the endless machinations of their own minds with elusive agility. Through their unwavering dedication, we will create art that inspires and challenges the world.
+					- Boys, we've got some of the most talented minds in the business right here. They've got the creativity, they've got the passion, and they've got the drive. But they need something more. They need the courage to navigate the endless machinations of their own minds with elusive agility. And that's where we come in. We've got to give them that courage. We've got to show them that they've got what it takes to create art that inspires and challenges the world. So let's get out there and do it. Let's show them what it means to be a team. Let's show them what it means to be champions.
+				- This mission statement emphasizes LSPW's commitment to producing high-quality, meaningful entertainment that inspires and challenges audiences. It also emphasizes the importance of pursuing creativity for its own sake, and rejecting the shallow, materialistic values of modern popular culture.
+			- 1.3
+				- Welcome, Neo. At LSPW, we don't just make entertainment. We make art. We make stories that inspire, challenge, and entertain. And we do it with the best in the business. Our team is led by a creative and critical literary icon, and we are dedicated to serving the greater interest of the American public. Because we know that the spirit and trust of modern media entertainment has been lost in the sewer. But we can change that. We can make a difference. And it all starts with a choice.
+				- Leechseed Proseworks. A team of artists, storytellers, and visionaries who strive to create something truly exceptional. We are driven by a passion for creating art that resonates with our audience. We don't just want to entertain them; we want to challenge them, to make them think, to inspire them.  We don't just settle for what's easy or popular, which means whatever shit you're droning to.
+- ### Situation Analysis
+	- **External environment analysis**: This involves an assessment of the organization's industry, market trends, competition, and other external factors that may impact the organization's performance.
+		- assessment of
+			- organization's industry - entertainment
+			- market trends
+			- competition
+		- ### Organization's Industry Assessment
+			- Market size and growth potential: An organization should assess the size and growth potential of the market it operates in, including factors such as market trends, market saturation, and emerging markets.
+			- Competition: An organization should analyze the competitive landscape within its industry, including the number and strength of competitors, their market share, and their competitive strategies.
+			- Customers: Understanding the needs and preferences of customers is essential for any organization, and assessing the customer base within an industry can help organizations tailor their products and services to better meet customer needs.
+			- Suppliers: An organization should also assess the suppliers within its industry, including the number and strength of suppliers, the availability of raw materials, and any potential risks associated with suppliers.
+			- Technology: Technology can play a significant role in many industries, and organizations should assess the impact of technological advancements on their industry, including the adoption of new technologies and potential risks associated with outdated technology.
+			- Regulations: Regulations can impact many industries, and organizations should assess the impact of regulations on their industry, including any potential legal or compliance risks.
+			- Economic factors: Economic factors such as inflation, interest rates, and GDP can impact many industries, and organizations should assess the impact of these factors on their industry and adjust their strategies accordingly.
+			- Social and cultural factors: Social and cultural factors such as demographic trends, consumer preferences, and social norms can impact many industries, and organizations should assess the impact of these factors on their industry and adjust their strategies accordingly.
+	-
+		- The primary export industry of America was entertainment until the late 2010s.
+		- Hollywood Production Studios and Distribution Companies in the entertainment industry mastered a value pipeline that proved profitable for half a century.
+		- These products are movies, tv shows, and a host of other associated cross-industry products integrated vertical revenue streams.
+		- 'Legacy Media' is the business model that Hollywood used to rise and overtake the entertainment industry.
+		- The model that once proved successful is now faltering after the disruptive technology of streaming services entered the market. 1
+		- Legacy Media relied on
+			- distribution cartel - movie theaters, tv channels, dvds...legacy media has a controlling stake in every vertical revenue stream.
+			- market manipulation - release dates align with quarterly reports
+			- labor control - unions have hefty labor costs, and to work in Hollywood, you must be part of a Union.
+			- high-risk barrier to entry - By controlling the market, labor, and distribution components of the industry, few attempts to enter the industry were made let alone successful.
+			- favorable public relations - Good movies makes it easy for a public to absorb themselves in entertainment rather than scrutinize the behavior and morality of Hollywood
+		- Set-up for disruption
+			- distribution cartel -
+				- the product quality of movies and tv shows trends noticeably downward in 2017-2020.
+				- Netflix disrupts the distribution market by releasing a streaming service, where you can watch any movie, anytime you want.
+			- market manipulation - the rise in ticket prices forced users to consume selectively rather than emotionally. the lockdown saw an initial rise in Netflix customer base.
+			- labor control - operating out of the TMZ, Netflix producers focused on hiring non-labor talent lowering cost of manufacturing.
+			- high-risk barrier to entry - Netflix has a stable subscription based service business model allowing the company to manage its risk  and responsibly prioritize quality products
+			- favorable public relations - The Me Too movement decapitated the upper levels of Hollywood, and in attempt to mend relations, 'wokeness' rather than humility and grace took over the reigns at Disney in names for profit.
+			- ### Technology's Role in Entertainment Industry
+			- ### Impact of COVID-19
+			- ### Netflix Revolution and On Demand Streaming
+			- ### Fall of Corporate Media
+			- ### The Power of Culture
+			- ### Trans-National Technology Conglomerates
+			- ### Weaponized Ignorance and Patterns of Addiction
+			- ### Social Media and the Collapse of Virtue
+			- ### Corporate Interests over National Security
+			- ### TikTok and Foreign Influence
+			- ### A Threat Rises in the East
+			- ### The End of an Epoch
+			-
+			- we got complacent and cocky which made us lazy and weak
+			- when we least expected, we were attacked, manipulated, and traumatized
+			- at our most vulnerable, we are the most dangerous and the most volitile
+			- our strength was our unity in diversity, but in weakness diversity is our downfall
+		-
+		- Present entertainment companies fail to meet several key developments
+	- **Internal environment analysis**: This involves an assessment of the organization's strengths, weaknesses, resources, and capabilities, as well as its culture, values, and performance.
+		- Components
+			- An internal environment analysis is an assessment of the internal strengths and weaknesses of an organization. It involves analyzing the organization's resources, capabilities, and processes to identify areas of competitive advantage and areas for improvement. Here are the key components of an internal environment analysis:
+			- Resources: This includes an assessment of the organization's tangible and intangible resources, such as financial capital, human capital, intellectual property, and physical assets.
+				- **Internal Resources Analysis**
+					- **Tangible Resources**
+						- *Value Chain Equipment Resources*
+						  collapsed:: true
+							- PC Workstation
+							- Full Stack Audio Studio Recording/Production Equipment
+							- Rudimentary Lighting Equipment
+							- Wacom Pad
+							- VR Quest 2 Headset
+						- *Intellectual Property Depth and Growth Resources*
+						  collapsed:: true
+							- Library of Reference Material
+							- Library of Research
+						- *Digital Asset Storage, Access, and Distribution*
+						  collapsed:: true
+							- PC Server System
+							- PC Streaming Server
+						- *General Office Operations Equipment*
+						  collapsed:: true
+							- Color Printer/Scanner
+							- Laser Printer
+							- Apple PC
+							- Several Large Monitors
+							- Fiber Ethernet/Wifi/Mesh Network
+							- Gigabit Network Router
+							- Desks and Chairs
+							- Cork Board
+							- Dry Erase Board
+						- *Lead Pursuit and Mobility*
+						  collapsed:: true
+							- Lenovo Office Laptop
+							- Apple iPad
+							- Car
+							- Truck
+							- Van
+						- *Personal Composure and Health*
+						  collapsed:: true
+							- Gym Equipment
+							- Physical Therapy Tools
+						- *Kwirky~~things~*
+						  collapsed:: true
+							- Professional Culinary Equipment
+							- A full carry-on suitcase of premium quality silicone sex toys
+							- A hella good set of League of Legends champion figures
+						- *Property*
+							- Home - Mnghn
+								- Office - THE PLANT
+								- Gym/Garage
+								- Game Room
+								- Guest Room
+								- Driveway
+								- Large Private Backyard
+								- Dining Room
+						- *Inventory*
+						  collapsed:: true
+							- Old Mini-DV tapes
+						- *Cash*
+							- $7.07
+				- **Intangible Resources**
+				  collapsed:: true
+					- Intellectual Property
+						- *Strange Container*
+							- Collective Research & Intelligence and Digital Assets that encompasses the entire Leechseed entity
+						- *Objects in the Container*
+							- **THE DICHRONOVISOR** - DCV The Dichronovisor (Dicron/div/DCV)
+							- **ULTRAPROSE - STR**
+								- Strategy Documentation and Database
+							- **Strange Maester Bathala - OPS**
+								- Keeper of Operations Documentation and Knowledja
+							- **Radiolaria - TAC**
+								- The Open Source Knowledja of the Leechseed Research Program
+								- Curated Literature Assets
+								- Methodology of
+									- Research
+									- Analysis
+									- Design
+							- **Leechseed Research Program** OPS
+								- Cornerstone Texts
+								- Conerstone Deluxe Literature Review
+								- Conerstone Theoretical Analysis and Criticisms
+								- Methodology of Agile Evolution and Fuzzy Strange Change
+								- Theoretical Architecture of Radiolaria
+								- Detailed State-of-the-Art Documentation
+									- Branching Resources
+								- The several year long Leechseed Research Program culminating in the infinite cornerstone - a resource, symbol, and guide all in one.
+								- A book of books.
+								- The Bible of of Leechseed and billion dollar source of my Shakespearean Monumental value.
+								- Radiolaria, is, truly, the Uranium-235 of who I am.
+								- That being, Uranium-235 to a Nuclear Powerplant
+								- It is a *fusion* nuclear power plant
+								- What I have put into Radiolaria has the potential to power a method of prose for generations.
+								- Rooted in literature and academia, open source, it, in fact, will be.
+								- But like a Nuclear Power Plant, it is not the shit in it that makes it power the world, its the people who run it, and the *one who built the reactor*
+							- **The Skipper - AKA**
+								- Me. And whoever is in charge in absence at The Plant
+								- The Plant is effectively the physical space in which LSPW Personnel interact with the Strange Container
+								- The Skipper, like the captain of a ship, is in charge when on deck.
+								- On deck, as in, physically present.
+								- IE: The Skipper basically lives there.
+								- Prime creator, contact, and communicator with the Strange Container.
+								- All Skippers must earn XXX Rating Qualification with the DCV to properly get gaping hole dug out
+						- Brand Reputation
+						- Knowledge
+						- Organizational Culture
+							- The Skipper somewhat believes that amongst his immediate peers he is regarded as
+								- a poetic, relentless, clever, coomer, a narrative wundermaester.
+								- culture that supports behavior that is: genuine,  gracious, empathetic, optimistic, interesting
+								- cultural behavior expressed uniquely by the skipper: enthusiastic, witty, supportive, confident,
+								- unfortunately, the skipper can manic, cruel, and shameful, judgmental, and dismissive.
+								- At worst, the Skipper displays traits of Narcissism, specifically,
+									- Grandiose Narcissism: This type of narcissism is characterized by an inflated sense of self-importance, an intense need for admiration, and a lack of empathy for others.
+									- Collective Narcissism: This type of narcissism involves an excessive preoccupation with the perceived greatness or superiority of one's group or community. Individuals with collective narcissism may exhibit an exaggerated sense of group identity, a tendency to devalue those outside the group, and a belief in the inherent superiority of the group.
+									- Cerebral Narcissism: This type of narcissism involves an excessive focus on one's own intelligence or intellectual achievements. Individuals with cerebral narcissism may exhibit a sense of superiority based on their intellectual abilities or knowledge, and may devalue or dismiss those who do not share their interests or views.
+									- Communal Narcissism: This type of narcissism involves an excessive focus on one's own generosity, kindness, and helpfulness toward others. Individuals with communal narcissism may exhibit a sense of superiority based on their perceived selflessness or altruism, and may expect recognition or admiration for their charitable acts.
+									- Professional Narcissism: This type of narcissism involves an excessive focus on one's own professional achievements, status, and reputation. Individuals with professional narcissism may prioritize their career over other aspects of their life, and may have difficulty accepting criticism or feedback.
+							- Skills
+								- Leadership Traits of the Skipper
+									- I Passionate
+										- A great leader is passionate, deeply committed to their work and to the mission of their organization, and able to inspire others with their enthusiasm.
+									- II Knowledgeable
+										- A great leader is knowledgeable, well-informed about their field or industry, and able to provide guidance and mentorship to their team members.
+									- III Analytical
+										- A great leader is analytical, able to gather and interpret data and information, and to use this information to make informed decisions.
+									- IIII Communicative
+										- A great leader is communicative, able to clearly and effectively communicate their vision, goals, and expectations to others, and to actively listen to and respond to feedback.
+									- V Innovative
+										- A great leader is innovative, able to challenge the status quo and to come up with new and creative solutions to problems.
+									- VI Decisive
+										- A great leader is able to make difficult decisions quickly and confidently, often with limited information.
+									- VII Persistent
+										- A great leader is persistent, able to stay focused and committed to their goals, even in the face of obstacles and challenges.
+									- VIII Courageous
+										- A great leader is courageous, willing to take risks and to stand up for what they believe in, even in the face of opposition or criticism.
+									- VIIII Servant
+										- A great leader is a servant, putting the needs of their team members and stakeholders first, and working tirelessly to create a culture of service and excellence.
+									- X Composed
+										- A great leader is composed, able to remain calm and level-headed under pressure, and to make decisions with clarity and focus.
+					-
+					- ** Resource Evaluation**
+						- **Tangible Resources**
+							- Value Chain Equipment Resources
+								- Evaluation
+									- When it comes to reaching campaign 2 tier goals of generating income through text publication, I am set.
+									- In terms of creating a secondary income stream through publication of screen video, audio, or other creative digital products, I am also set for this.
+									- Growth, however is an issue. The biggest hurdle is the barrier to entry when it comes to efficient 3D animation is the hardware technology necessary to research, analyze, and create a system that is robust yet lean.
+									- General suggestion to overcome this hurdle is to
+										- take advantage of the unique equipment resources to leverage creative knowledge content
+										- create value chains/funnels that lead to terminates with youtube content
+										- avoid complex funnels that incorporate multiple sources of income such as patreon, courses, ebooks, etc.
+										- keep the product simple, cast a wide net etc.
+										- [[#green]]^^OPS PRIORITY RATING - 2/5^^
+							- Intellectual Property Depth and Growth Resources
+								- Enough resources to manufacture the a robust radiolacra
+								- Enough research to stress test/refine Strange Maester Bathala
+								- The greatest asset for Leechseed is the wealth of already collected data, tests, ideas, etc.
+								- The great hurdle is the processing of all the information into a dataset that correlates with the radiolacra/Bathala
+								- As if, with anything, time is the greatest hurdle.
+								- General suggestion
+									- continue to casually document in the logseq journal
+									- ULTRAPROSE can funnel data steadily by learning how
+										- queries work in logseq
+										- using tags to slowly funnel relevant shit into ultraprose
+										- i can solve a lot of the digital legwork such as evernote, lost docs, etc thru background researching using chatgpt
+										- [[#green]]^^OPS PRIORITY RATING 3/5^^
+							- Digital Asset Storage, Access, and Distribution
+								- This hardware will be useful in collecting anecdotal digital resources for Strange Maester Bathala
+								- Hardware may also be useful for rudimentary 3D video production beyond the radiolaria such as setting up a homelab server or whatnot.
+								- however the barrier to entry when it comes to this is fucking knowledge heap.
+								- Current Suggestion, not very useful currently. Should disconnect the PC I have plugged in now.
+								- Seriously consider a safe method of deep storage for the one franken PC.
+								- **I should probably get a cheap case, refirb it, and store it properly.**
+								- [[#green]]^^OPS PRIORITY RATING: 4/5^^
+								- **A Media Plex Drive, and a method of organizing all the videos, photos, could be a good background experiential existential toe dip into the wild world of homelabs.**
+								- [[#green]]^^OPS PRIORITY RATING: 2/5^^
+							- General office Operations Equipment
+								- Growth for adding a physical stakeholder/partner or physical contract hire or just anything that has to do with meeting physically with up to ideally max 4 people for business is a primo setup.
+								- Unless they're not into the coomer aesthetic. In that case that's their problem.
+								- General Suggestions
+									- **I should create a stakeholder visit protocol whenever I get the chance, basically the necessary steps that must be executed before any sort of collaboration visit with a coomerphobic stakeholder.**
+									- [[#green]]^^OPS PRIORITY RATING 1/5^^
+							- Lead Pursuit and Mobility
+								- Traveling should be considered a priority strength when it comes to planning anything strategic.
+								- While cash is not on hand, I do have the availability of family liquidity injection with good reason and a large gap of notification
+								- General Suggestion
+									- The  great thing holding me back though is the digital integration of synching information. I at least need to create some sort of rudimentary contingency task list, otherwise travel may instead introduce an unnecessary hurdle in transferring data into a dataset for processing at the least opportune time
+									- **I'm sure by now there is something that supports multiple user access to one logseq or something. Or, I just need to create another gitrepo system in which i upload/dl git repos for later processing. something like that**
+									- [[#green]]^^OPS PRIORITY RATING 4/5^^
+							- Personal Composure and Health
+								- I think of this as necessary equipment when delving into 3D motion capture.
+								- I really want to explore that area to inform a method that empowers both the efficiency and accuracy of motion capture while also enabling stylistic and creative dexterity in traditional/digital roto animating
+								- I mean honestly I should just start hopping on that motherfucking rowing machine
+								- [[#green]]^^OPS PRIORITY RATING 2/5^^
+							- Kwirky~uwu~things~~
+								- Professional Culinary Equipment
+								- A full carry-on suitcase of premium quality silicone sex toys
+								- A hella good set of League of Legends champion figures
+							- Buildings
+							- Inventory
+							- Cash
+						-
+					- Assess the quality of the resources: Assess the quality of each resource. For example, if you are assessing the organization's human resources, evaluate the education, experience, and expertise of the employees.
+					- Determine the value of the resources: Once you have evaluated the quality of the resources, determine their value. This may involve assessing their current and potential value in terms of their contribution to the organization's success.
+					- Prioritize resources: Prioritize the resources based on their importance and relevance to the organization's goals and objectives.
+					- Identify gaps: Identify any gaps in the organization's resources that may be hindering its ability to achieve its goals. Determine what resources are needed to fill these gaps.
+					- Develop a plan: Based on the results of the assessment, develop a plan to optimize the organization's resources. This may involve reallocating resources, acquiring new resources, or developing existing resources.
+					    
+					  Overall, assessing the resources of an organization is a critical step in developing an effective strategy. It helps to identify areas of strength and weakness, as well as opportunities for improvement, and provides a basis for making strategic decisions about how best to allocate resources to achieve the organization's goals.  
+			- Capabilities: This includes an assessment of the organization's core competencies and areas of expertise, such as marketing, operations, and innovation.
+			- Processes: This includes an assessment of the organization's operational processes and systems, such as supply chain management, customer service, and product development.
+			- Culture: This includes an assessment of the organization's values, beliefs, and norms, and how they shape the organization's behavior and decision-making.
+			- Leadership: This includes an assessment of the organization's leadership, including the skills and capabilities of top executives, and their ability to drive organizational performance.
+			- Structure: This includes an assessment of the organization's organizational structure, such as its hierarchy, reporting relationships, and decision-making processes.
+			- Financial Performance: This includes an assessment of the organization's financial performance, such as revenue, profit margins, and cash flow.
+			    
+			  Overall, an internal environment analysis is a comprehensive assessment of an organization's internal resources, capabilities, and processes. It provides insights into the organization's competitive advantage and areas for improvement, and helps guide strategic decision-making.  
+	- SWOT analysis: A SWOT analysis is a tool used to evaluate the organization's strengths, weaknesses, opportunities, and threats. This analysis can help identify strategic priorities and areas for improvement.
+	- Stakeholder analysis: This involves identifying and assessing the needs, interests, and expectations of key stakeholders, including customers, employees, suppliers, shareholders, and the community.
+	- Risk analysis: This involves identifying and evaluating potential risks that may impact the organization's ability to achieve its goals, such as economic, legal, regulatory, and technological risks.
+	- Market analysis: This involves an assessment of the organization's target market, including customer needs and preferences, demographic trends, and competitive landscape.
+	- Financial analysis: This involves an assessment of the organization's financial performance, including revenue, expenses, profitability, and financial position.
+	- Operational analysis: This involves an assessment of the organization's operations, including processes, systems, and resources, to identify areas for improvement and optimization.
+	- Cultural analysis: This involves an assessment of the organization's culture, values, and beliefs, as well as its impact on employee performance, motivation, and engagement.
+- ### Goals and Objectives
+	- Define the long-term goals and objectives that Syncopy aims to achieve.
+	- Identify specific, measurable, achievable, relevant, and time-bound (SMART) targets for each objective.
+- ### Strategy
+	- Develop a plan for achieving the company's goals and objectives.
+	- Define key strategies, initiatives, and activities that the company will undertake to achieve those goals.
+	- Identify resources needed to implement the strategy, such as funding, personnel, and technology.
+- ### Marketing and Branding
+	- Develop a marketing and branding strategy that promotes Syncopy's unique strengths and capabilities.
+	- Identify target audiences and communication channels to effectively reach them.
+	- Develop a messaging strategy that resonates with the company's target audiences.
+	- Operations and Production
+	- Develop a plan to optimize Syncopy's operations and production processes to deliver high-quality films efficiently.
+	- Identify key systems and processes that need to be improved or optimized.
+	- Develop a plan to ensure that the company's production practices are sustainable and environmentally friendly.
+- ### Performance Metrics
+	- Develop a set of performance metrics to measure the company's progress towards its goals and objectives.
+	- Define how the company will collect, analyze, and report on performance data.
+	- Use performance data to identify areas for improvement and make strategic adjustments as needed.
+- ### Conclusion
+	- Summarize the key elements of the strategic plan.
+	- Define the next steps for implementing the plan.
+	- Identify who will be responsible for executing the plan and monitoring progress towards goals.

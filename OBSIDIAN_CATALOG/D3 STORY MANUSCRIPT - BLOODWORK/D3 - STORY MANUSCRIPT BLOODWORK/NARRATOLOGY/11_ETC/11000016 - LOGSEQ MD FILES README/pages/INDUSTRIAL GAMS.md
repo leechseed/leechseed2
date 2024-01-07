@@ -1,0 +1,23 @@
+  public:: true
+  
+- She leaned into the bar and tapped the empty glass with a pale finger. The low hanging bulbs common in the electric-plant-turned-speak-easy-lounge scene glowed a warm tungsten orange. Bars like this are often popular with the millennials. The dark corners and the curbside furniture radiates the mood of a trait we sorely lack. Purpose.
+- It's a throwback to a time gone by. An off sense of nostalgia triggered to reflect the type of people we could have been and never will be. The archetype character that saw this old electric plant and envisioned a bar had an energy that exudes the 'fuck you, I do what I want' vibe that we all try to emulate through hashtags and buzzfeed listicles.
+- People used to kill for a drink in a place like this. A moist dungeon of rust and broken analog dials. Those mustache wearing post-civil war Americans worked for a future where a shady lifestyle wasn't necessary to numb the cog turning lifestyle in the capitalist machine.
+- The warm light refracted off the wet crimson that tipped her manicured nails. I watched as light split in and out of technicolor as it danced in the glass, bounced off the ice, and warped into my welcoming gaze. I should stop staring.
+- She leaned on one leg as the other tapped the low bolted iron pipe that served as the bar's footrest. The click clack of an open toe stiletto sent my testosterone smashing through my walls of higher minded ethical self. The moist space between my teeth suddenly felt viscous. I was hungry. Famished. Her alabaster thighs were etched from limestone. Toned, defined, and crafted to slide deftly into a skin tight striped skirt. Nothing gets me more than a gal with gams.
+- click clack
+- The bartender flicked a beer tap leaving a half empty pint of foam fizzing on the counter. He's got the itch too. Pavlov would be proud of this dame, or maybe he'd be salivating with us dogs. Be strong good sir, you are not alone. Top shelf liquor dropped heavy into a silver tumbler. A wad of honey, a grip of ice, and the sway of a silver shaker sent a ruddy liquid running down the edge of her glass, pooling at the edge of a fist sized sphere of ice.
+- click clack
+- She winked and lit a cigarette. Cavendish graced my palette. A welcome change to the ground-in musk of corner store tobacco. I missed smoking. I missed smoking cloves. I wanted a drag. No. I needed a drag--of her clove cigarette. I threw back the last of my pint and motioned for another. The bartender nodded my way, but kept pulling down on a beer tap. Confident and unwavering he tilts down the pint glass and crafts the perfect pour for another. Apparently, I possess a patience worth testing. Maybe I should get a pair of stilettos. The slow snapping of burning cloves rolls a marching beat on my ear drums. The assault on my senses and three drinks deep turns my head in her direction.
+- 'I need a drag.'
+- The phrase tastes like vomit. But my heart slows and my vision clears. The poison had been purged.
+- I watch the glow of cracking embers, hear the pops of burning cloves, and smell the sweet of cured tobacco. As her lips go slack, a second-hand ghost whips from her mouth. But the the clouds that followed ripped inward at the mercy of a sharp inhale. The black wrapped cigarette twists as her fingers flip, the tar stained filter stares at me square between the eyes.
+- click clack
+- click clack
+- click clack
+- I taste her lips as I purse mine. Tequila. I drag slow and feel the smoke coat my chest. Tequila gives way to sweet Cavendish. A ghost flies from her mouth and slips in mine.
+- 'What do you do?' she throws off the cuff.
+- 'I'm a Crime Intelligence Technician.'
+- 'Sounds like a job with a lot of secrets.'
+- 'No shit.'
+- I close my tab and drink my beer. and got the hell out

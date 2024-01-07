@@ -1,0 +1,306 @@
+  public:: true
+  banner:: file:///D:/tors/PICS/SABU/Akali%20HIGH%20-%20MESSY.jpg
+  
+-
+- # Summoner's School by [Reddit]([Summoner's School Link](https://www.reddit.com/r/summonerschool/wiki/101/?utm_source=reddit&utm_medium=usertext&utm_name=summonerschool&utm_content=t5_2t9x3))
+- # Mobafire Champion Guides
+	- ## ADCs
+		- [ZERI](https://www.mobafire.com/league-of-legends/build/12-20-ikeepittacos-grandmaster-zeri-guide-updates-608001)
+		- [SAMIRA](https://www.mobafire.com/league-of-legends/build/12-20-ikeepittacos-grandmaster-samira-guide-season-12-581065)
+		- [JINX](https://www.mobafire.com/league-of-legends/build/12-20-ikeepittacos-grandmaster-jinx-guide-season-12-604110)
+		- [APHELIOS](https://www.mobafire.com/league-of-legends/build/12-19-challenger-aphelios-build-amp-guide-by-cookielol-595597)
+		- [JHIN](https://www.mobafire.com/league-of-legends/build/12-20-ikeepittacos-grandmaster-jhin-guide-season-12-569038)
+		- [KAI'SA](https://www.mobafire.com/league-of-legends/build/12-19-beagles-ultimate-diamond-kaisa-guide-in-depth-588358)
+	- ## JNGs
+		- [Bel'Veth](https://www.mobafire.com/league-of-legends/build/racticks-12-19-updated-detailed-belveth-guide-614086)
+		- [Udyr](https://www.mobafire.com/league-of-legends/build/season-12-phoenix-udyr-rework-jungle-guide-by-der-bestimmer-608646)
+- # Champ Guide Notes
+	- Below are guides for each champ translated from mobafire.
+- # Bel'Veth - *[by Ractick 12.20](https://www.mobafire.com/league-of-legends/build/racticks-12-19-updated-detailed-belveth-guide-614086)*
+  collapsed:: true
+	- ![image.png](../assets/image_1666739266340_0.png)
+	- ## RUNES
+		- ### Default Conqueror
+			- ![image.png](../assets/image_1666469476124_0.png)
+		- ### Snowball
+			- ![image.png](../assets/image_1666469794527_0.png)
+		- ### Tank'veth
+			- ![image.png](../assets/image_1666469821358_0.png)
+	- ## SPELLS
+		- ![image.png](../assets/image_1666469497781_0.png)
+	- ## ITEMS
+		- ### RECOMMENDED ITEMS
+			- ![image.png](../assets/image_1666469880399_0.png)
+			-
+		- ### STARTING ITEMS
+			- ![image.png](../assets/image_1666470033707_0.png) ![image.png](../assets/image_1666470038046_0.png)
+		- ### BOOTS
+			- ![image.png](../assets/image_1666469933286_0.png) - HEAVY AD
+			- ![image.png](../assets/image_1666469945736_0.png) - HEAVY CC
+		- ### MYTHICS
+			- ![image.png](../assets/image_1666470067960_0.png)
+	- ## BUILDS
+		- ## TANK DESTROYER - TRUE DMG KRAKEN (DEFAULT)
+			- ### MYTHIC
+				- ![image.png](../assets/image_1666470156553_0.png)
+			- ### SECOND ITEM
+				- ![image.png](../assets/image_1666470241134_0.png) **Default**
+				- ![image.png](../assets/image_1666470213920_0.png) **Against Tanks**
+				- ![image.png](../assets/image_1666470262791_0.png) **Against Strong AP**
+				- ![image.png](../assets/image_1666470297661_0.png) **Against Strong Burst**
+			- ### SITUATIONALS
+			- ![image.png](../assets/image_1666470423953_0.png)
+			- ### **HARD CARRY** - Full Build
+				- ![image.png](../assets/image_1666470472159_0.png)
+			- ### **BRUISER** - Full Build
+				- ![image.png](../assets/image_1666470500351_0.png)
+		- ## TANK'BETH
+			- ![image.png](../assets/image_1666470730488_0.png)
+		- ## IMMORTAL'BETH (Build to Protecc Bounty when fed)
+			- ![image.png](../assets/image_1666470803593_0.png)
+			- ![image.png](../assets/image_1666470827199_0.png)
+	- ## ABILITY ORDER
+		- ![image.png](../assets/image_1666470880040_0.png)
+	- ## THREATS
+		- ![image.png](../assets/image_1666470981288_0.png)
+		- ![image.png](../assets/image_1666470987598_0.png)
+		- ![image.png](../assets/image_1666470994223_0.png)
+		- ![image.png](../assets/image_1666471000895_0.png)
+	- ## ALLIES
+		- ![image.png](../assets/image_1666470962439_0.png)
+		- ![image.png](../assets/image_1666471011630_0.png)
+		- ![image.png](../assets/image_1666471017831_0.png)
+		- ![image.png](../assets/image_1666471024262_0.png)
+		- ![image.png](../assets/image_1666471030966_0.png)
+		- ![image.png](../assets/image_1666471038768_0.png)
+		- ![image.png](../assets/image_1666471045047_0.png)
+	- ## BEL'VETH CHAMPION BUILD GUIDE
+		- ![image.png](../assets/image_1666471131727_0.png)
+		- ![image.png](../assets/image_1666471138095_0.png)
+		- ## RUNES EXPLAINED
+			- ![image.png](../assets/image_1666471294779_0.png)
+			- ![image.png](../assets/image_1666471354079_0.png)
+			- ![image.png](../assets/image_1666471307119_0.png)
+			- ![image.png](../assets/image_1666471366104_0.png)
+			- ![image.png](../assets/image_1666471399785_0.png)
+			- ![image.png](../assets/image_1666471410336_0.png)
+		- ## ABILITIES
+			- ### PASSIVE
+				- ![image.png](../assets/image_1666471475318_0.png) - **DEATH IN LAVENDER**
+					- *After using an ability, Bel'Veth's next 2 attacks have increased attack speed.*
+					- *Whenever Bel'Veth takes down a large monster or champion, she gains permanent bonus attack speed in the form of* **Lavender Stacks**.
+					- *All sources of damage including on-hit effects dealt or triggered by her basic attacks are reduced to 75%*
+					- *Her attack speed does not increase through growth per level.*
+				- **RESOURCE BAR**
+					- *Each time Bel'Veth casts an ability, two stacks of Death in Lavender are generated in her resource bar, lasting five seconds.*
+					- *Subsequent ability casts will stack Death in Lavender up to six times.*
+					- *Basic attacks, and subsequent ability casts will refresh the five second cooldown.*
+					- *Bel'Veth's basic attack consumes one stack.*
+					- *While Bel'Veth has stacks, she becomes ghosted.*
+					- *While Bel'Veth has stacks, she gains Attack Speed 25%-60% (scales according to level) bonus attack speed.*
+			- ### Q
+				- ![image.png](../assets/image_1666472197146_0.png) - **VOID SURGE**
+				- *Bel'Veth dashes in one of four directions.*
+				- *Bel'Veth deals damage to all enemies she dashes through.*
+				- *Bel'Veth applies on-hit effects to all enemies she dashes through.'*
+				- *Each direction has its own unique cooldown that sales with attack speed.*
+				- *Void Surge deals 120% damage to Monsters and modified damage against minions.'*
+				- *If in TRUE FORM* **Endless Banquet** *Bel'Veth can dash through terrain.*
+				- *Void Surge can be cast only within a direction that is off cooldown.*
+				- *When a direction is cast, a cooldown incurs for that specific direction.*
+				- *Void Surge resets Bel'Veth's basic attack timer.*
+			- ### W
+				- ![image.png](../assets/image_1666472643550_0.png) - **ABOVE AND BELOW**
+				- *Bel'Veth slams her tail down*
+					- *- dealing damage*
+					- *- knocking up for 0.75 seconds*
+					- *- slowing by 50%*
+					- ...enemies that are hit by this ability
+				- *If Above and Below hits an enemy champion, Void Surge Dash cooldown is reduced in the direction the enemy was hit.*
+			- ### E
+				- ![image.png](../assets/image_1666472948180_0.png) - **ROYAL MAELSTROM**
+				- *Bel'Veth enters a defensive stance for 1.5 seconds*
+					- *She is unable to move*
+					- *Gains Life Steal and 70% Damage Reduction*
+					- *She slashes at the nearest enemy with the lowest health percentage for up to 6 times.*
+					- *Each slash deals physical damage, increased by 0% - 300% based on enemy's missing health, and applying on-hit, on-attack, and spell effects at 6% - 24% based on enemy's missing health*
+					- *Royal Maelstrom deals 150% damage to monsters, applies life steal, and cannot critically strike*
+					- *Royal Maelstrom can be recast after 0.75 seconds*
+					- *Royal Maelstrom can be cancelled using another ability after 0.75 seconds*
+			- ### R
+				- ![image.png](../assets/image_1666473298288_0.png) - **ENDLESS BANQUET**
+				- **ACTIVE** - *Bel'Veth consumes a piece of Void Coral and Explodes, temporarily morphing into her True Form for 60 seconds or 180 seconds if Herald or Baron*
+					- *The Explosion*
+						- Slows
+						- Deals True Damage
+						- Based on their Missing Health
+					- *Consuming Void Coral left by Rift Herald or Baron grants Bel'Veth her true form for an extended duration and causes minions that die in her presence to be reborn as faithful Voidlings.*
+						- *Faithful Voidlings are small minions that serve Bel'Veth by marching down lane in which they spawn.*
+				- **PASSIVE** - *Every second attack against the same target deals additional True Damage, stacking infinitely.*
+				- **TRUE FORM** - *When Bel'Veth enters her True Form she gains*
+					- *Increased Max Health*
+					- *Increased Out-Of-Combat Move Speed*
+					- *Increased Attack Range*
+					- *Increased Total Attack Speed*
+					- *Void Surge can dash through terrain*
+		- ## TIPS AND TRICKS
+			- ### JUNGLE
+				- *Objectives are Priority, because Bel'Veth can take them fast.*
+				- *In TRUE FORM, Bel'Veth is VERY STRONG, and must look to gank, invade, and kill.*
+				- *In TRUE FORM, Dives are Easy using the Following Combo:*
+					- Q -> W -> AA -> Q -> E -> Q
+					- Peel tower Aggro, and return for R stack
+				- *Always look to counter jungle when enemy jungler is on opposite side*
+			- ### IF FED
+				- Take Objectives
+				- Dive & Gank to snowball
+				- Towers
+				- Invade enemy jungle, kill them and/or take camps
+				- Solo baron at 3 items
+			- ### IF BEHIND
+				- Gank winning lanes
+				- Farm
+		- ## EARLY GAME
+			- ### Clear Combo
+				- W -> AA -> AA -> Q -> AA -> AA -> Q -> AA -> AA -> E
+			- ### Jungle Pathing
+				- Full Clear
+				- 4-5 Camp Clear -> Gank
+				- **Red Side - Take W - Above and Below**
+				- **Blue Side - Take E - Royal Maelstrom**
+			- ### GANKS
+				- Walk up - > Q -> W -> AA -> AA -> Q -> AA -> AA -> E
+				- *E should be used as a finisher since it does damage based on missing health*
+			- ### FIRST POWER SPIKE
+				- At Level 6, it is crucial to get your True Form. Look for Opportunities
+		- ## MID-GAME
+			- *The Mid-Game win condition is to maintain Bel'Veth's True Form as much as possible.*
+			- *Prioritize Dragon, Void Monsters, and Kills to build Bel'Veth's stacks and True Form*
+			- *Buy Control Wards to secure objectives*
+		- ## LATE GAME
+			- *In fights, Bel'Veth must focus killing one enemy at a time to prioritize R resets*
+			- *Capitalize on enemy out of position*
+			- *Focus on objectives*
+- # Udyr - [by DER BESTIMMER](https://www.mobafire.com/league-of-legends/build/season-12-phoenix-udyr-rework-jungle-guide-by-der-bestimmer-608646)
+  collapsed:: true
+	- ## Notes
+		- Builds are broken down into two different philosophies.
+		- Philosophies are denoted either by a [D] or a [TD]
+		- **[D] - Dueling Path**
+			- Prioritize DPS and Sustain
+			- Counter Melee Armor Champs with Armor-Shred
+			- Counter Melee Life-steal Champs with Anti-Heal
+		- **[TD] - Takedown Path**
+			- Prioritize Mobility and Tankiness
+			- Takedown Low-Health/Vulnerable Enemies
+			- Resist Crowd Control and Inflict Impact Damage on Contact
+			- Generate Damage Opportunities for Teammates
+			- Must Kill enemies before they can escape or can counter-attack
+	- # RUNES
+		- ## [D] Runes
+			- ### [D]efault Movement Speed Priority
+				- ![image.png](../assets/image_1666740578897_0.png)
+			- ### [D] Early Game Snowball
+				- ![image.png](../assets/image_1666740649145_0.png)
+			- ### [D] Sustain Tank
+				- ![image.png](../assets/image_1666740687475_0.png)
+			- ### [D]PS Hunter
+				- ![image.png](../assets/image_1666740757680_0.png)
+		- ## [TD] Runes
+			- ### [TD]efault
+				- ![image.png](../assets/image_1666740818776_0.png)
+			- ### [TD] Sustain Tank
+				- ![image.png](../assets/image_1666740887673_0.png)
+			- ### [TD] Crowd Control Lane Advantage
+				- ![image.png](../assets/image_1666740951353_0.png)
+			- ### [TD] Mobility Overdrive
+				- ![image.png](../assets/image_1666741093768_0.png)
+			- ### [TD] Mobility Sustain
+				- ![image.png](../assets/image_1666741121868_0.png)
+			- ### [TD] JG Diff - Team Enabler
+				- ![image.png](../assets/image_1666741194433_0.png)
+	- ## SPELLS
+		- ### [D] SPELLS
+			- ![image.png](../assets/image_1666741257954_0.png)
+		- ### [TD] SPELLS
+			- ![image.png](../assets/image_1666741274854_0.png)
+	- ## RECOMMENDED ITEMS
+		- ![image.png](../assets/image_1666741338864_0.png)
+	- ## BUILD ITEMS
+		- ### START/CONSUMEABLES
+			- ![image.png](../assets/image_1666741396879_0.png)
+		- ## BOOTS
+			- ![image.png](../assets/image_1666741419678_0.png)
+		- ## SUNFIRE PHOENIX BUILDS
+			- ![image.png](../assets/image_1666741548248_0.png)
+			- ### SUNFIRE PHONEIX SITUATIONALS
+				- ![image.png](../assets/image_1666741591056_0.png)
+		- ## CHEMTANK PHOENIX BUILDS
+			- ![image.png](../assets/image_1666741639503_0.png).
+			- ### CHEMTANK PHOENIX SITUATIONALS
+				- ![image.png](../assets/image_1666741694718_0.png)
+	- # ABILITY ORDER
+		- ## [Q]R ->W ->E
+			- ![image.png](../assets/image_1666741803423_0.png)
+		- ## [Q]R ->E ->W
+			- ![image.png](../assets/image_1666741860696_0.png)
+	- # THREATS
+		- ![image.png](../assets/image_1666741898211_0.png)
+		- ![image.png](../assets/image_1666741908241_0.png)
+		- ![image.png](../assets/image_1666741915405_0.png)
+		- ![image.png](../assets/image_1666741925189_0.png)
+		- ![image.png](../assets/image_1666741933453_0.png)
+		- ![image.png](../assets/image_1666741944849_0.png)
+		- ![image.png](../assets/image_1666741969693_0.png)
+		- ![image.png](../assets/image_1666741977197_0.png)
+		- ![image.png](../assets/image_1666741997537_0.png)
+		- ![image.png](../assets/image_1666742005728_0.png)
+	- # SYNERGIES
+		- ![image.png](../assets/image_1666742028981_0.png)
+		- ![image.png](../assets/image_1666742035554_0.png)
+		- ![image.png](../assets/image_1666742041419_0.png)
+		- ![image.png](../assets/image_1666742047300_0.png)
+		- ![image.png](../assets/image_1666742063191_0.png)
+	- # ABILITIES
+		- ## ![image.png](../assets/image_1666742144391_0.png) PASSIVE - BRIDGE BETWEEN
+			- ### AWAKENED SPIRIT
+				- Udyr has four basic abilities that swap between *stances*
+				- Udyr can cast an ability that is on cooldown a second time
+					- Casting an ability a second time applies bonuses unique to that ability
+			- ### MONK TRAINING
+				- After using an ability Udyr's next two attacks if used within four seconds:
+					- gain 30% attack speed
+					- refund 5% of **Awakened Sprit**'s cooldown
+			- ![image.png](../assets/image_1666742413108_0.png)
+	- ## ![image.png](../assets/image_1666742508870_0.png) Q - WILDING CLAW
+		- ### CLAW STANCE
+			- Udyr gains level scaling attack speed
+			- Udyr deals level scaling attack damage
+			- Udyr deals bonus attack damage on-hit for four seconds
+			- Udyr's next two attacks in this stance deal bonus scaling max health % physical damage
+		- ### AWAKEN
+			- Gain additional attack speed
+			- Udyr's next two attacks call lighting strike six times dealing level scaling max health % magic damage to isolated targets
+			- Strikes bounce to nearby targets when possible
+	- ## ![image.png](../assets/image_1666742984134_0.png) W -IRON MANTLE
+		- ### MANTLE STANCE
+			- Udyr gains level scaling shield
+				- + 40% of ability power shield for four seconds.
+			- Udyr's next two attacks give level scaling life steal
+				- + 1.2% maximum health restore
+				- + 8% of ability power health on-hit
+		- ### AWAKEN
+			- Udyr gains level scaling shield
+				- + 65% ability power shield
+				- + 8% maximum health restore
+				- + restore level scaling health over four seconds
+				- + 32% ability power health
+				- + 4% health maximum health over four seconds
+			- Udyr's next two attacks give increased level scaling life steal
+				- + increased level scaling % maximum health restore
+				- + increased level scaling % ability power health
+- # K'SANTE
+	- ![image](https://i.imgur.com/BDqcCGq.jpg){:height 493, :width 383}
+	- ![image.png](../assets/image_1668431502664_0.png){:height 128, :width 544}
+		- [Virkayu](https://youtu.be/bZLo2ynsyR4)
+		-

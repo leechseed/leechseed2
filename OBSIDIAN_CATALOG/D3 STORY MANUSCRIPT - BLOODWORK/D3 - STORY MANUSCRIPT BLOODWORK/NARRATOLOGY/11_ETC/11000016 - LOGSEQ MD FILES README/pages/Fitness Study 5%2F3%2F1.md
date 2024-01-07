@@ -1,0 +1,59 @@
+  Public:: True
+  Banner:: "https://i.4cdn.org/hr/1667633246222933.jpg"
+  
+- # General Idea
+- Training is Split Up in to Cycles.
+	- Running 3-4 Weeks
+	- Sometimes 8
+	- The First Program I Will Do is Just a Glute Builder To Get Started
+	- Then I will Go to 5/3/1 when I feel like it.
+-
+- # Cycle 1 Power Booty Program Lauren Simpson
+	- ## The Purpose of this Program is to Basically Create a Framework to Build Big Glutes
+		- ### 1) Increase Glute Activation and Mind Muscle Connection
+		- ### 2) Increase Glute Strength
+		- ### 3) Increase Tone and Shape in the Glutes and Surrounding Muscle
+		- ### 4) Challange Your Lower Body Training
+		- ### 5) Educate You on the Key Concepts Surrounding Targeted Glute Training
+	- ## GLUTE SCIENCE
+		- ![image.png](../assets/image_1667691270820_0.png)
+		- ## The Movements of Muscles
+			- ### Abduction
+			- ### Extend and Rotate
+		- ### To Train the Glutes Effectively We Must Strengthen the Maximus but also the Stabilizer Muscles.
+		- ### Build Mind Muscle Connection to These Stabilizer Muscles
+			- ![image.png](../assets/image_1667691477739_0.png)
+	- # WARM-UP ACTIVATION
+		- [Mad Fit Source](https://youtu.be/QG3TAwfo9iQ)
+		- ## Full Warm-Up List (60 sec per exercise)
+			- L/R BAND SQUATS x20
+			- L-LEG HOLD KICK BACKS x10
+			- R-LEG HOLD KICK BACKS x10
+			- GLUTE BRIDGE -> GLUTE BRIDGE L/R STEPOUT x5
+			- L-LEG DONKEY KICKS x10
+			- R-LEG DONKEY KICKS x10
+			- MISSIONARY SLUT x15
+			- REVERSE BRIDGE x10
+			- FROG-LEG SQUEEZ x5
+			- DOUBLE-PULSE SQUATS x15
+		- ## L/R BAND SQUATS x20
+			- ![image.png](../assets/image_1667693033553_0.png)
+		- ## LEFT LEG HOLD KICK BACKS x10
+			- ![image.png](../assets/image_1667692458020_0.png)
+		- ## RIGHT LEG HOLD KICK BACKS x10
+			- ![image.png](../assets/image_1667692503282_0.png)
+		- ## GLUTE BRIDGE -> GLUTE BRIDGE L/R STEPOUT x5
+			- ![image.png](../assets/image_1667692602618_0.png)
+		- ## DONKEY KICKS L x10
+			- ![image.png](../assets/image_1667692675201_0.png)
+		- ## DONKEY KICKS R x10
+			- ![image.png](../assets/image_1667692714378_0.png)
+		- ## MISSIONARY SLUT x15
+			- ![image.png](../assets/image_1667692817809_0.png)
+		- ## REVERSE BRIDGE x10
+			- ![image.png](../assets/image_1667692902760_0.png)
+		- ## FROGLEG SQUEEZ HOLD x5
+			- ![image.png](../assets/image_1667693103577_0.png)
+		- ## DOUBLE PULSE SQUATS x15
+			- ![image.png](../assets/image_1667693171057_0.png)
+			-
