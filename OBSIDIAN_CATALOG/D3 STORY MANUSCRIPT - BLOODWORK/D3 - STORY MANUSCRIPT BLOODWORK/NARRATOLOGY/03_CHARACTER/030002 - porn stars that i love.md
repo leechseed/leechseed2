@@ -1,78 +1,41 @@
 # porn stars and egirls who's aesthetic, attitude, performance, and demeanour are inspiring and would like to intertext
 
 # porn stars
+
+
+- Adriana Chechik
+- Aria Alexander
 - Ava Taylor
-- Yhivi
-- Nina Hartley
-- lisa ann
-- sensi pearl
-- stoya
-- emily grey
-- bonnie rotten
-- Riley Reid
-- Yhivi*
-- Sensi pearl*
-- Dolly little*
-- Nina Hartley
-- **Aria Alexander**
-- **Ava taylor***
-- **Katrina jade**
-- **Katie morgan **
-- Honey gold
-- Adriana chechik
-- Janice Griffith
-- Jynx maze
-- Elsa jean
-- Deedee lynn
-- Wenona
-- Lucy Doll
+- Bonnie Rotten
 - Charlotte Sartre
-- kimmy granger
-- evelin claire
-- Jessica Drake
-- Leah Gotti
-- Aria ALexander
-- Reagan Foxx
-- Maitland Ward
+- Deedee Lynn
 - Dolly Little
-- Yhivi
-- Ava Taylor
-- leah gotti
-- little caprise
-- lisa ann
-- stoya
-- emily grey
-- bonnie rotten
-- Riley Reid
-- Yhivi*
-- Sensi pearl*
-- Dolly little*
-- Nina Hartley
-- **Aria Alexander**
-- **Ava taylor***
-- **Katrina jade**
-- **Katie morgan **
-- Honey gold
-- Adriana chechik
-- Janice Griffith
-- Jynx maze
-- Elsa jean
-- Deedee lynn
-- Wenona
-- Lucy Doll
-- Charlotte Sartre
-- kimmy granger
-- evelin claire
-- Leah Gotti
-- Aria ALexander
-- Reagan Foxx
-- Dolly Little
-- Yhivi
-- Ava Taylor
-- leah gotti
+- Elsa Jean
+- Emily Grey
+- Evelin Claire
 - Harlow Harrison
+- Honey Gold
+- Janice Griffith
+- Jessica Drake
+- Jynx Maze
+- Katie Morgan
+- Katrina Jade
+- Kimmy Granger
+- Leah Gotti
+- Lisa Ann
+- Little Caprise
+- Lucy Doll
+- Maitland Ward
+- Nina Hartley
+- Reagan Foxx
+- Riley Reid
 - Sadie Pop
+- Sensi Pearl
 - Skyler Valentine
+- Stoya
+- Wenona
+- Yhivi
+
 
 # e-girls
 - # The Greatest Egirls of All Time
