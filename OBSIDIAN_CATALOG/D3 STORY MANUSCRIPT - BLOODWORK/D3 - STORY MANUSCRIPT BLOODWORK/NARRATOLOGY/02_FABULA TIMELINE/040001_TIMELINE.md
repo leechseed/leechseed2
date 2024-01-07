@@ -13,6 +13,34 @@
 
 # present
 
+## fam v fam
+You know that one family vs family ranch story 
+Both ranches are owned by generational big families. 
+4th or something along the line however both families fall under hard times and are basically poor. 
+Present day. 
+One family raises a tough and beautiful girl 
+One family raises a tough a handsome boy 
+Both work hard. Both find love and have many children. 
+But for both of them, the marriages don't work out. 
+They find love in each other, and marry. 
+I guess this is like the Brady bunch. 
+The woman sells her land and they move it to the old mansion of the guy. They refurbish their home to be a massive and new mansion. 
+But the marriages start to fall apart. 
+The two families take sides. 
+And things start to get tense. 
+A new family moves in next door. A Mensa super smart family. 
+They decide to poison the man and the woman. 
+Re: the pale horse Mr ballen
+
+
+## damn rehab
+Backdoor rehab sales incentives
+Sober or addicts will go to AA meetings and prey on first timers, "hey whos got insurance?" 
+If they have, they'd get them to go to rehab and the grift would get a 5% commission.
+
+
+## Crawlspace
+
 ## Bloodwork
 
 ## GREASE TRAP
@@ -56,6 +84,18 @@ Mayari is a social art piece. Create a fictional content creator that exploits h
   - 2) the present day where he must navigate a post-left wing world where he aims to be taken seriously for his art, and not as a token. 
 - Verismo - operas that focused on the contemporary human and their problems; generally of a sexual, romantic or violent nature
 
+## Streamer horror 
+All at once every streamer's channel is hijacked. It's just a dude in an ahegao mask. He points at the camera "rouge" 
+And one streamer is dead. 
+The rest of the streamers react. 
+It's a footage film. Cut to YouTubes and reactions 
+
+a steamer in the same house doesn't hear the bang of the gun.  And is caught off guard when the show returns. The guy comes in and kills her. He facss the camera "there are more of me. I just started"
+
+## New American Gangster
+About a Filippino kid who returns to his old family home after years in the Marines. He comes to find out that a contractor has been taking advantage of his parents and beats the shit out of them. He teams up with a pizza shop of degenerates who have been fucked with their entire life, and stake out a city for themselves. They kill every old boys club fucker in the town and hand the keys over to a new mayor. 
+
+It's basically better fast and furious 
 
 ## Dare Park 
 - Dare Park
@@ -356,7 +396,14 @@ Mayari is a social art piece. Create a fictional content creator that exploits h
 		- it is at this point, the doctor teaches the detective everything he knows. and here is when the detective is able to confront her demons at the police office.
 	- The ending results in the doctor coming forward and telling his story as a victim, the detective using eye-for-an-eye to bring the doctor to his old dissertation table to file a dissent in regards to the new program where MF is.
 	- In the end, after all this, the doctor has a chance to face his peers again, to justify his study, but this time, not alone, but with the compatriots he made along the way.
-	-
+
+## A ladies' man's lady.
+A guy who ladies hire to have a grntelmens date with no sex. He's the best at it. He makes great money. He meets a girl that has him misread her. He fucks it up and he's obsessed over it. He has a client the next day. He kills it. But then the girl is outside. She calls him. It's a setup. She wants to be him. She wants to make money just like him. She knows that he cant stop thinking about her. So he puts his mind at ease by telling him he will give the woman the best time of her life. And then teach her about it tomorrow 
+
+## Twister kids 
+
+## Abandoned 
+Story about children abandoned by their fathers at Disney world 
 
 
 # future
@@ -438,4 +485,54 @@ oregon trail + modern day + apocalypse + beef shortage = red dead redemption sci
 	- Father should research what advanced American technologies may be able to help son's vision issues
 	- Father should look into pilot training or flight programs son could participate in if vision issues are resolved
 	- Father should encourage and support son's interests and dreams of becoming a pilot
-	-
+
+- ### The Dean of Horror 
+- The dean narrates a story of how an scp like foundation lures creatures from Hell. The first monster was a dark demon who would kill in complete darkness real fast like. But, if yo if shine light, you can stop him. He freezes. To kill him, you need to cut thru his flaccidic Armor. Penetrable with a slow deliberate technique 
+
+- ### Shipbreakers
+May and crew are shipbreakers by child labor but are often chosen to go "deep under" because they are small and also are Ferro kind which means they are resistant to dark energy or whatever 
+
+- ### Mayari 
+- Helicopter F1 racing. May drives an ah1cobra. Her brother drives one just like it. Flight engineers are their parents. Mayari her mom, etc. 
+
+Helicopter accident where brother is ejected from the cockpit and her father burns alive. 
+
+Her mother forced her control of the helicopter and forces Mayari to take the stick back after she leaves.
+
+Mayari can't control her grief and instead of landing, disconnects her radio from ground control and is pursued by law coptrrs. 
+
+Eventually she runs out of fuel and crashes into the ground. Arrested. Released. Sentence: grounded for 6 years. 
+
+
+Some time later, mayari finds herself by the coast as "choppies" a gig driven helicopter mobalized services marketplace. Basically the old open outcry trading pit except it's an impromptu area where u get work or shit. 
+
+### Buffalo the Beef Mage
+- Buffalo was a former drug dealer who released a wild heard of hippos in the Florida swamps and the story of how it unfolded simply for his curiosity. 
+
+Actually what if he just released an entire zoo of edible meat animals into the wild. 
+
+Sci-fi twist? They're genetically modified to reproduce quickly and en masse. To solve a food crisis they actually just created a bigger one. How quaint 
+
+### the hippomen of florida 
+People in large convoys travel thru the Florida backwater using 4 wheelers and bikes to herd  hippalos to market. They make bbq hauled along a trailer 
+
+### The AI sprawls with mini nuklear reactors. 
+
+### Maggie
+Maggie the space pilot who landed her craft on her own 17 when her instructor died mid x-op (in space, extra vehicular operatin)
+
+### the last cow ever
+
+Get the cow across the river and into the badlands 
+1) reinforce the bridge 
+2) build a ferry 
+3) launch it via rocket 
+
+Hide the cow 
+1) in the ancient sewers 
+2) suspend it by an air blimp 
+3) in a warehouse 
+
+The client, a ninja culinary faction, finds them. 
+
+Kill the cow?  harvest its semen? Or save the cow?

@@ -45,4 +45,56 @@
 	- Anne Lamott
 	- **William James**
 	- **E. L. Doctorow**
--
+
+
+
+
+# water bears
+What is that microorganism that can live in space 
+
+They should be giant sized 
+And also pretty much invincible 
+That is their greatest trait. 
+
+# Red birb parrot type people aliens except huge 
+
+# Domesticated cats are aliens too but the size of cougars
+
+# Big beautifuler than u fish and sea life. In space they have their own ocean bubbles and they migrate like that 
+
+# Elephant aliens 
+
+# Great apes as a race 
+
+# Bats are cute but also the caretakers of the universe 
+
+# Space Force
+Space force uniforms concept 
+Based on mafia style 
+Privates earn "their straps" 
+Without their straps they aren't "go" they aren't going to space. 
+They aren't space force unless it's in space
+And u cant go to space unless you have ur space legs
+Unless u earn your suspenders. Wen you do, u passed The first and hardest training in the space force
+Now, pieces are added and modified according to their rank and cock's sucks 
+
+Piece de resistance is a rolex  sub mariner or actually a  supra 
+They're fucking space wizard 
+Sorcerer 
+Enchant
+The watch is called a **supramodus**
+The first watch designed to keep working.........in space
+
+Anyone from above is referred to as **supras**
+On earth
+
+### Veneconti
+Veneconti - unit of space force warriors 
+Wizards that protect from above
+
+### Oil pit squid 	
+
+# Feline type aliens that can communicate telepathically and have perfect communication but only if they are within vision. 
+
+# Michael Scott except he's a clueless Roman Catholic priest 
+

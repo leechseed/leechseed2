@@ -50,6 +50,10 @@
 	- Emiru
 	- Waifu Mia
 	- Emma Langevin
+	- Bella Porch - kawaii
+Hannah OwO - chill bro next door
+ Angie varona - athletic mega babe
+Haruhi - psychotic dork 
 - ## In somewhat of an order of influence
 	- Belle Delphine
 	- Amouranth
@@ -61,3 +65,5 @@
 	- Waifu Mia
 	- Emma Langevin
 	- Emiru.
+
+Lisa Manoban and the way she moves 

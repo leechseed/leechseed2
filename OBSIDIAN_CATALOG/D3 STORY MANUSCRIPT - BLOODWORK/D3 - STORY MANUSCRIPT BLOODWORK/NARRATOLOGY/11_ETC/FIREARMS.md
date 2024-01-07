@@ -37,3 +37,25 @@
 
 
 
+# firearms companies
+Staccato 
+STI 
+Tri-Arc
+Erebus 
+Emg 
+Mclearn 
+Chambers customs
+Bul armory 
+Masterpiece arms
+Hayes custom 
+Akai
+Cosiant arms
+ Nighthawks customs
+Fowler 
+Rafferty 
+Clarke 
+Alchemy 
+Springfield 
+Atlas athena 
+
+Umarex Glock 17 gen 3
