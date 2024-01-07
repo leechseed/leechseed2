@@ -16,7 +16,7 @@ cut to a montage about this vampire doing the tireless work of being a blood nur
 
 one time will be with another girl, this time he's having difficulty finding the vein, until it 'flashes' and spurts into the vial. 
 
-cut to him, more conext, he has a biker bag full of these bloodbags that get tossed around 
+cut to him, more context, he has a biker bag full of these bloodbags that get tossed around 
 
 cut to bathroom again, he's in the stall, someone comes in 'get ur shit together Roger you sick fuck'
 
