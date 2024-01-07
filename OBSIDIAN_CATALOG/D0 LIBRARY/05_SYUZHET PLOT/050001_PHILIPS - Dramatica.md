@@ -1814,7 +1814,10 @@ Dramatica features unique terminology with its own grammar, structures, designat
   - **[Storytelling]**: Illustrating a storyform with cultural signs and author's artistry.
   - **[Storyweaving]**: Combining storytelling with a storyform.
 
-## Dramatica Vocabulary Glossary
+
+# Vocabulary Glossary
+
+## A
 
 ### Ability
 - **[Variation & Element]** 
@@ -1918,6 +1921,8 @@ Dramatica features unique terminology with its own grammar, structures, designat
 - **Definition**: Represents characters who are highly perceptive of their surroundings but may neglect to consider themselves in situations.
 - **syn.**: Outward perceptiveness, external sensitivity, consciousness of the external.
 
+## B
+
 ### Backstory
 - **[Storytelling]**
 - **Definition**: Describes the development of the Main Character's justification or the story problem over time, leading to their intersection. It outlines events and forces making the Main Character central to both subjective and Overall Story problems.
@@ -1954,7 +1959,7 @@ Dramatica features unique terminology with its own grammar, structures, designat
 - **Definition**: Indicates that both women and men will empathize with the Main Character in the story.
 - **Additional Info**: Some stories resonate differently with male and female audiences. "Both" signifies that the story's dynamics lead both genders to empathize, not just sympathize, with the Main Character.
 
-## Dramatica Vocabulary Glossary (Continued)
+## C
 
 ### Catalyst
 - **[Variation]** 
@@ -2069,7 +2074,7 @@ Dramatica features unique terminology with its own grammar, structures, designat
 - **Definition**: Forgoing an immediate benefit due to future consequences.
 - **Additional Info**: Conscience can prevent negative consequences but may also restrict free expression if the consequences are imaginary.
 
-## Dramatica Vocabulary Glossary (Continued)
+## D
 
 ### Decision
 - **[Plot Dynamic]** 
@@ -2188,7 +2193,7 @@ Dramatica features unique terminology with its own grammar, structures, designat
 - **Definition**: Dramatic forces determining a story's course.
 - **Additional Info**: Dynamics affect the story's structure and unfold the character, plot, and theme relationships.
 
-## Dramatica Vocabulary Glossary (Continued)
+## E
 
 ### Effect
 - **[Element]** 
@@ -2263,7 +2268,7 @@ Dramatica features unique terminology with its own grammar, structures, designat
 - **Definition**: The gaining of familiarity.
 - **Additional Info**: Refers to familiarity gained through activities, but excellence requires both experience and skill.
 
-## Dramatica Vocabulary Glossary (Continued)
+## F
 
 ### Fact
 - **[Variation]**
@@ -2347,8 +2352,1623 @@ Dramatica features unique terminology with its own grammar, structures, designat
 - **Definition**: What will happen or what will be.
 - **Additional Info**: Focuses on future states of affairs, either externally or internally.
 
+## G
+
+### Goal (Overall Storyline)
+- **[Type]**
+- **Definition**: The central objective of a story.
+- **Additional Info**: The Protagonist's chief concern, not always attainable or beneficial.
+
+### Good
+- **[Plot Dynamic]**
+- **Definition**: The Main Character ultimately succeeds in resolving personal problems.
+- **Additional Info**: Good outcome regardless of Overall Story's success or failure.
+
+### Grand Argument Story
+- **[Dramatica Term]**
+- **Definition**: A story covering all four throughlines entirely.
+- **Additional Info**: Makes a complete argument without holes, encompassing all perspectives.
+
+### Growth
+- **[Character Dynamic]**
+- **Definition**: The way a character grows, towards "Start" or "Stop".
+- **Additional Info**: Change characters see problems inside themselves; Steadfast characters see them externally.
+
+### Guardian
+- **[Archetype]**
+- **Definition**: Represents the motivations of Conscience and Help.
+- **Additional Info**: Teacher/helper to the Protagonist, balances the Contagonist's actions.
+
+## H
+### Help
+- **[Element]**
+- **Dynamic Pair**: Hinder<—>Help
+- **Definition**: Direct assistance to another's goal achievement efforts.
+- **Additional Info**: Can be beneficial or misunderstood, leading to hindrance.
+
+### Hinder
+- **[Element]**
+- **Dynamic Pair**: Hinder<—>Help
+- **Definition**: Direct detraction from another's goal achievement efforts.
+- **Additional Info**: Can be seen as negative, but sometimes hinders negative actions.
+
+### Hope
+- **[Variation]**
+- **Dynamic Pair**: Dream<—>Hope
+- **Definition**: A desired future if things go as expected.
+- **Additional Info**: Based on current trends, differs from dreaming.
+
+### How Things Are Changing
+- **See Progress**
+
+### Hunch
+- **[Element]**
+- **Dynamic Pair**: Theory<—>Hunch
+- **Definition**: A conclusion based on intuition.
+- **Additional Info**: Based on circumstantial evidence, but is not always factually correct.
+
+## I
+
+### Impact Character
+- **[Subjective Character]**
+- **Definition**: Forces the Main Character to face his personal problem.
+- **Additional Info**: Creates personal tension for the Main Character, often combined with other character roles.
+
+### Impact Character's Concern
+- **[Type]**
+- **Definition**: The area of the Impact Character's cares, interests, or goals.
+- **Additional Info**: Relates to what the Impact Character is trying to achieve or control.
+
+### Impact Character's Critical Flaw
+- **[Variation]**
+- **Definition**: Undermines the Impact Character's efforts.
+- **Additional Info**: A trait unique to the Impact Character that hinders their effectiveness.
+
+### Impact Character's Direction
+- **[Element]**
+- **Definition**: The direction of the Impact Character's efforts.
+- **Additional Info**: Focuses on what the Impact Character believes is the solution to their problem.
+
+### Impact Character's Throughline
+- **[Throughline]**
+- **Definition**: The broadest description of the Impact Character's impact in a story.
+- **Additional Info**: Encompasses everything related to the Impact Character's influence.
+
+### Impact Character's Focus
+- **[Element]**
+- **Definition**: Where the Impact Character's attention is most directed.
+- **Additional Info**: Reflects the Impact Character's perspective on their problem.
+
+### Impact Character's Problem
+- **[Element]**
+- **Definition**: The source of the Impact Character's drive.
+- **Additional Info**: The underlying issue driving the Impact Character's actions.
+
+### Impact Character's Issue
+- **[Variation]**
+- **Definition**: The nature of the Impact Character's efforts.
+- **Additional Info**: Captures the essence of what the Impact Character represents in the story.
+
+### Impact Character's Solution
+- **[Element]**
+- **Definition**: What is needed to satisfy the Impact Character's motivation.
+- **Additional Info**: The element that would alleviate the Impact Character's drive.
+
+### Impact Character's Benchmark
+- **[Type]**
+- **Definition**: The standard against which the Impact Character's concern is measured.
+- **Additional Info**: Provides a way to gauge the depth of the Impact Character's concern.
+
+### Impact Character's Unique Ability
+- **[Variation]**
+- **Definition**: Makes the Impact Character able to thwart the Main Character.
+- **Additional Info**: A power unique to the Impact Character that affects the Main Character.
+
+### Impulsive Responses [Preconscious]
+- **[Type]**
+- **Dynamic Pair**: Innermost Desires [Subconscious]<>Impulsive Responses [Preconscious]
+- **Definition**: Immediate responses based on instinct.
+- **Additional Info**: Reflects instinctual reactions and attitudes inherent in a character.
+
+### Inaction
+- **[Element]**
+- **Dynamic Pair**: Protection<>Inaction
+- **Definition**: Taking no action as a means of response.
+- **Additional Info**: Can be active resistance or passive non-involvement.
+
+### Induction
+- **[Element]**
+- **Dynamic Pair**: Deduction<>Induction
+- **Definition**: A means of determining possibility.
+- **Additional Info**: Involves creating potential causal relationships from unrelated facts.
+
+### Inequity
+- **[Element]**
+- **Dynamic Pair**: Equity<—>Inequity
+- **Definition**: An imbalance or lack of fairness.
+- **Additional Info**: Focuses on what is wrong or unfair in a situation.
+
+### Inertia
+- **[Element]**
+- **Dynamic Pair**: Change<—>Inertia
+- **Definition**: A continuation of a state or process.
+- **Additional Info**: Represents resistance to change, maintaining the status quo.
+
+### Innermost Desires [Subconscious]
+- **[Type]**
+- **Dynamic Pair**: Impulsive Responses [Preconscious]<—>Innermost Desires [Subconscious]
+- **Definition**: Basic drives and desires.
+- **Additional Info**: Fundamental feelings that form the foundation of character.
+
+### Instinct
+- **[Variation]**
+- **Dynamic Pair**: Conditioning<>Instinct
+- **Definition**: Intrinsic unconditioned responses.
+- **Additional Info**: Built-in responses that are not learned but drive compliance with urges.
+
+### Interdiction
+- **[Variation]**
+- **Dynamic Pair**: Prediction<>Interdiction
+- **Definition**: An effort to change a predetermined course.
+- **Additional Info**: Attempts to alter destiny or avoid an undesirable fate.
+
+### Interpretation
+- **[Variation]**
+- **Dynamic Pair**: Senses<>Interpretation
+- **Definition**: Determination of possible meaning.
+- **Additional Info**: Involves interpreting the meaning of observations.
+
+### Intuitive
+- **See Female Mental Sex**
+
+### Inverse
+- **[Structural Term]**
+- **Definition**: Refers to items in a pair being opposite to each other.
+- **Additional Info**:
+
+## M
+
+### Main Character
+- **Definition**: Central character acting as the audience's emotional focus in the story.
+- **Additional Info**: May be Steadfast or Change character, providing the subjective view of the story.
+
+### Main Character's Concern
+- **[Type]**
+- **Definition**: The Main Character's personal objective or purpose.
+- **Additional Info**: Describes what the Main Character strives to attain, influenced by their Throughline.
+
+### Main Character's Critical Flaw
+- **[Variation]**
+- **Definition**: Quality that undermines the Main Character's efforts.
+- **Additional Info**: A unique vulnerability that prevents the Main Character from being too one-sided, affecting their ability to solve problems.
+
+### Main Character's Direction
+- **[Element]**
+- **Definition**: The Main Character's approach to solving apparent problems.
+- **Additional Info**: Represents the Main Character's perceived path to a solution.
+
+### Main Character's Throughline
+- **[Throughline]**
+- **Definition**: The general area in which the Main Character operates.
+- **Additional Info**: Encompasses all the Main Character's actions and representations related to their unique perspective.
+
+### Main Character's Focus
+- **[Element]**
+- **Definition**: Where the Main Character believes the problem to be focused.
+- **Additional Info**: Determines how the Main Character perceives and approaches the problem.
+
+### Main Character Problem
+- **[Element]**
+- **Definition**: Source of the Main Character's motivation and problems.
+- **Additional Info**: The underlying issue driving the Main Character, which they change or hold onto throughout the story.
+
+### Main Character's Issue
+- **[Variation]**
+- **Definition**: The nature of the Main Character's efforts and thematic focus.
+- **Additional Info**: Captures the essence of what the Main Character represents in the story.
+
+### Main Character's Solution
+- **[Element]**
+- **Definition**: What is needed to satisfy the Main Character's motivation.
+- **Additional Info**: The element that counterbalances the Main Character's Problem, potentially resolving their issues.
+
+### Main Character's Benchmark
+- **[Type]**
+- **Definition**: Standard by which the Main Character judges their personal problem.
+- **Additional Info**: Measures the depth of the Main Character's concern and progress in the story.
+
+### Main Character's Unique Ability
+- **[Variation]**
+- **Definition**: The quality that makes the Main Character uniquely qualified to solve the story's problem.
+- **Additional Info**: Essential to the Main Character, enabling them to meet challenges and achieve goals in the story.
+
+### Main vs. Impact Story
+- **See Subjective Story**
+
+### Male Mental Sex
+- **[Character Dynamic]**
+- **Definition**: The Main Character uses male problem-solving techniques.
+- **Additional Info**: Focused on causal relationships and solving problems by affecting causes and effects.
+
+### Male
+- **[Overview Appreciation]**
+- **Definition**: Men empathize with the Main Character; women sympathize.
+- **Additional Info**: Indicates the differential emotional connection of male and female audience members to the Main Character.
+
+### Manipulation (Psychology)
+- **[Class]**
+- **Dynamic Pair**: Activity (Physics)<—>Manipulation (Psychology)
+- **Definition**: A manner of thinking or evolving attitudes.
+- **Additional Info**: Explores the change in attitudes, focusing on the process rather than the fixed state of mind.
+
+### Memory
+- **[Type]** 
+- **Dynamic Pair**: Contemplation [Conscious]<>Memory
+- **Definition**: Subjective recollections of past events.
+- **Additional Info**: Varies among individuals, creating different and possibly conflicting memories.
+
+### Mental Sex
+- **[Character Dynamic]** 
+- **Definition**: Determines the Main Character's mental operating system.
+- **Additional Info**: Based on biologically inherent traits specific to males or females.
+
+### Methodology
+- **Definition**: Elements a character will implement to achieve their purposes.
+- **Additional Info**: The choice of methodology can be critical to success or failure in achieving a goal.
+
+### Mind
+- **See**: Fixed Attitude
+
+### Morality
+- **[Variation]** 
+- **Dynamic Pair**: Self Interest<>Morality
+- **Definition**: Acting based on what is best for others.
+- **Additional Info**: Not always appropriate; does not always require sacrifice.
+
+### Motivation
+- **Definition**: Drives behind a character's purposes.
+- **Additional Info**: Essential for fully exploring the story problem through different characters' motivations.
+
+### Nature
+- **[Overview Appreciation]** 
+- **Definition**: The primary dramatic mechanism of a story.
+- **Additional Info**: Determined by whether the Main Character remains steadfast or changes, and whether the problem is internal or external.
+
+### Need
+- **[Variation]** 
+- **Dynamic Pair**: Expediency<>Need
+- **Definition**: That which is subjectively required.
+- **Additional Info**: Depends on what one desires; fulfilling a subjective need.
+
+### Negative Feel
+- **[Overview Appreciation]** 
+- **Definition**: The problem is closing in on the objective characters.
+- **Additional Info**: Creates a sense of "downer" regardless of the story's outcome.
+
+### Neither
+- **[Overview Appreciation]** 
+- **Definition**: Both men and women will sympathize with the main character.
+- **Additional Info**: Indicates a neutral emotional connection of both genders to the Main Character.
+
+### Non-Acceptance
+- **[Element]** 
+- **Dynamic Pair**: Acceptance<>Non-Acceptance
+- **Definition**: A decision to oppose.
+- **Additional Info**: Characterized by refusal to compromise, often standing ground on any issue.
+
+### Non-Accurate
+- **[Element]** 
+- **Dynamic Pair**: Accurate<>Non-Accurate
+- **Definition**: Not within tolerances, functionally inadequate for the intended purpose.
+- **Additional Info**: Rejects concepts not right all the time for every use, immune to generalizations.
+
+## O
+
+### Objective Story
+- **See**: Overall Story
+
+### Obligation
+- **[Variation]** 
+- **Dynamic Pair**: Rationalization<—>Obligation
+- **Definition**: Accepting a task or situation in exchange for potential favors.
+- **Additional Info**: Involves accepting current suffering with the hope of future reward.
+
+### Obstacle Character
+- **See**: Impact Character
+
+### Obtaining
+- **[Type]** 
+- **Dynamic Pair**: Doing<—>Obtaining
+- **Definition**: Achieving or possessing something.
+- **Additional Info**: Encompasses both physical possessions and abstract achievements.
+
+### Openness
+- **[Variation]** 
+- **Dynamic Pair**: Preconception<—>Openness
+- **Definition**: Willingness to re-evaluate.
+- **Additional Info**: Entertaining alternatives, but can lead to indecisiveness.
+
+### Oppose
+- **[Element]** 
+- **Dynamic Pair**: Support<—>Oppose
+- **Definition**: An indirect detraction from another's effort.
+- **Additional Info**: Voicing opposition without actively engaging in prevention.
+
+### Optionlock
+- **[Plot Dynamic]** 
+- **Definition**: Story climax occurs when all other options are exhausted.
+- **Additional Info**: Represents a finite set of choices leading to a forced climax.
+
+### Order
+- **[Element]** 
+- **Dynamic Pair**: Chaos<—>Order
+- **Definition**: An arrangement where patterns are seen.
+- **Additional Info**: Focus on organization, but may miss opportunities for necessary change.
+
+### Outcome
+- **[Plot Dynamic]** 
+- **Definition**: Assessment of how things ended up.
+- **Additional Info**: Considers the situation at the end of the story and remaining potentials.
+
+### Overall Story Catalyst
+- **[Variation]** 
+- **Definition**: Item that pushes the Overall Story forward.
+- **Additional Info**: Creates breakthroughs, accelerates development.
+
+### Overall Story Concern
+- **[Type]** 
+- **Definition**: Area of concern in the Overall Story.
+- **See Also**: Concern
+
+### Overall Story Consequence
+- **[Type]** 
+- **Definition**: Result of failing to achieve the goal.
+- **See Also**: Consequence
+
+### Overall Story Costs
+- **[Type]** 
+- **Definition**: Costs incurred while trying to achieve the goal.
+- **See Also**: Costs
+
+### Overall Story Direction
+- **[Element]** 
+- **Definition**: Direction of efforts in the Overall Story.
+- **See Also**: Direction
+
+### Overall Story Dividends
+- **[Type]** 
+- **Definition**: Dividends accrued while trying to achieve the goal.
+- **See Also**: Dividends
+
+### Overall Story Throughline
+- **[Class]** 
+- **Definition**: Domain where the Overall Story takes place.
+- **See Also**: Throughline
+
+### Overall Story Focus
+- **[Element]** 
+- **Definition**: Focus of attention in the Overall Story.
+- **See Also**: Focus
+
+### Overall Story Forewarnings
+- **[Type]** 
+- **Definition**: Indications of the story consequences' approach.
+- **See Also**: Forewarnings
+
+### Overall Story Goal
+- **[Type]** 
+- **Definition**: Common goal of the objective characters.
+- **See Also**: Goal
+
+### Overall Story Inhibitor
+- **[Variation]** 
+- **Definition**: Item that impedes the Overall Story's progress.
+- **Additional Info**: Acts as a brake mechanism, slowing story progress.
+
+### Overall Story Line
+- **Definition**: Plot concerning the story goal.
+- **Additional Info**: Represents the dispassionate argument of the story.
+
+### Overall Story Preconditions
+- **[Type]** 
+- **Definition**: Conditions imposed on meeting the story's requirements.
+- **See Also**: Preconditions
+
+### Overall Story Prerequisites
+- **[Type]** 
+- **Definition**: What is needed to meet the story requirements.
+- **See Also**: Prerequisites
+
+### Overall Story Problem
+- **[Element]** 
+- **Definition**: Source of the Overall Story's problems.
+- **See Also**: Problem
+
+### Overall Story Issue
+- **[Variation]** 
+- **Definition**: Thematic focus of the Overall Story.
+- **See Also**: Issue
+
+### Overall Story Requirements
+- **[Type]** 
+- **Definition**: Requirements that must be met prior to achieving the goal.
+- **See Also**: Requirements
+
+### Overall Story Solution
+- **[Element]** 
+- **Definition**: The solution to the Overall Story's problems.
+- **See Also**: Issue
+
+### Overall Story Benchmark
+- **[Type]** 
+- **Definition**: The standard by which progress is measured in the Overall Story.
+- **Additional Info**: Used to gauge story progress and distance from the goal.
+
+### Overall Story Type Order
+- **[Plot Structure]** 
+- **Definition**: The kind of activity employed to arrive at a solution to the story's objective problem, act by act.
+- **Additional Info**: Covers the Overall Story Perspective Type in each act, outlining the progression to the Overall Story Problem.
+
+### Overall Story versus Subjective Perspectives
+- **Definition**: Different viewpoints in a story, one as an observer (Overall Story) and one from within (Subjective).
+- **Additional Info**: The audience accesses both perspectives; Subjective is limited to what the Main Character knows, Overall includes additional information.
+
+### Overview Story Points
+- **Definition**: Story points related to the widest appreciation of the entire story, including Character and Plot Dynamics.
+- **Additional Info**: Includes elements like Essence, Nature, Reach, and the distinction between Apparent or Actual Dilemma stories.
+
+
+## P
+### Past (The Past)
+- **[Type]** 
+- **Dynamic Pair**: Present<—>Past
+- **Definition**: What has already happened.
+- **Additional Info**: Subject to reinterpretation and re-evaluation, often leading to new understandings in the present or future.
+
+### Perception
+- **[Element]** 
+- **Dynamic Pair**: Actuality<—>Perception
+- **Definition**: The way things seem to be.
+- **Additional Info**: Concerned with appearances and interpretations, but vulnerable to misjudgment.
+
+### Permission
+- **[Variation]** 
+- **Dynamic Pair**: Deficiency<—>Permission
+- **Definition**: One's ability based on what is allowed.
+- **Additional Info**: Ability constrained by external or internal restrictions, often leading to frustration and explosive reactions.
+
+### Perspective
+- **[Throughline] [Class]** 
+- **Definition**: The combination of one of the four throughlines with one of the four Classes.
+- **Additional Info**: Defines the viewpoint of each Throughline in a story, essential for creating a Grand Argument Story.
+
+### Physics
+- **[Class]** 
+- **See**: Activity
+
+### Playing A Role [Being]
+- **[Type]** 
+- **Dynamic Pair**: Changing One's Nature [Becoming]<—>Playing A Role [Being]
+- **Definition**: Temporarily adopting a lifestyle.
+- **Additional Info**: Involves pretense or deception but does not require a fundamental change in nature.
+
+### Positive Feel
+- **[Overview Appreciation]** 
+- **Definition**: The story feels like it's moving towards a satisfying conclusion.
+- **Additional Info**: Influenced by the Main Character's growth and the author's value judgment on their path.
+
+### Positive versus Negative
+- **Definition**: Evaluations of a story's course towards its outcome, either drawing closer to a satisfying conclusion (positive) or an unsatisfying one (negative).
+- **Additional Info**: Determined by the combination of Main Character's growth (Start/Stop) and the author's value judgment (good/bad).
+
+### Possibility
+- **[Element]** 
+- **Dynamic Pair**: Probability<—>Possibility
+- **Definition**: A determination that something might be true.
+- **Additional Info**: Focuses on open-minded assessment and readiness for alternatives, but may overlook the most probable scenarios.
+
+### Potential
+- **[Dynamic Term]** 
+- **Definition**: A latent tendency toward some attitude or action.
+- **Additional Info**: Potential remains latent until met with Resistance, influencing story dynamics without necessarily becoming active.
+
+### Potentiality
+- **[Element]** 
+- **Dynamic Pair**: Certainty<—>Potentiality
+- **Definition**: A determination that something has the capacity to become true.
+- **Additional Info**: Drives a character to focus on the greatest possible potential, often leading to overlooking present realities.
+
+### Power (Outcome)
+- **[Dynamic Term]** 
+- **Definition**: The effect of a process.
+- **Additional Info**: Represents the impact of a process, which becomes effective when applied over time by Current.
+
+### Preconception
+- **[Variation]** 
+- **Dynamic Pair**: Preconception<—>Openness
+- **Definition**: Unwillingness to re-evaluate.
+- **Additional Info**: Leads to closed-mindedness and resistance to new data, but can also provide resilience against misleading exceptions.
+
+### Preconditions (Overall Storyline)
+- **[Type]** 
+- **Definition**: Unessential restrictions imposed on the effort to reach the goal.
+- **Additional Info**: Often creates additional narrative tension through misplaced emphasis or additional challenges.
+
+### Preconditions
+- **[Variation]** 
+- **Dynamic Pair**: Prerequisites<—>Preconditions
+- **Definition**: Limitations tacked on to an effort.
+- **Additional Info**: Imposed non-essential limitations that may obscure the true goal or solution.
+
+### Preconscious
+- **See**: Impulsive Responses
+
+### Prediction
+- **[Variation]** 
+- **Dynamic Pair**: Interdiction<—>Prediction
+- **Definition**: A determination of a future state of affairs.
+- **Additional Info**: Focuses on foreseeing and preparing for future events, balancing foresight and adaptability.
+
+### Prerequisites (Overall Storyline)
+- **[Type]** 
+- **Definition**: The essential parameters that must be met to complete the requirement.
+- **Additional Info**: Outlines the necessary steps or achievements for reaching a goal.
+
+### Prerequisites
+- **[Variation]** 
+- **Dynamic Pair**: Preconditions<—>Prerequisites
+- **Definition**: Preliminary steps that must be met.
+- **Additional Info**: Essential steps or requirements for achieving a specific goal.
+
+### Present (The Present)
+- **[Type]** 
+- **Dynamic Pair**: Past<—>Present
+- **Definition**: The current situation and circumstances.
+- **Additional Info**: Focuses on the immediate scenario, not concerned with past causes or future outcomes.
+
+### Proaction
+- **[Element]** 
+- **Dynamic Pair**: Reaction<—>Proaction
+- **Definition**: Taking initiative action to achieve one's goals.
+- **Additional Info**: Characterized by self-starting and problem-solving actions, but may act prematurely or disruptively.
+
+### Probability
+- **[Element]** 
+- **Dynamic Pair**: Possibility<—>Probability
+- **Definition**: A determination of likelihood.
+- **Additional Info**: Focuses on what is most likely, often changing direction based on odds but may be seen as fickle.
+
+### Problem (Overall Storyline)
+- **[Element]** 
+- **Definition**: The underlying cause of the story's difficulties.
+- **Additional Info**: Central to defining the Main or Impact Character, addressing the problem can resolve both Objective and Subjective story issues.
+
+### Problem Solving Style
+- **See**: Mental Sex
+
+### Process
+- **[Element]** 
+- **Dynamic Pair**: Result<—>Process
+- **Definition**: The mechanism through which a cause leads to an effect.
+- **Additional Info**: Concentrates on maintaining smooth operations, but may lose sight of ultimate goals or outcomes.
+
+### Production
+- **[Element]** 
+- **Dynamic Pair**: Reduction<—>Production
+- **Definition**: A process of thought that determines potential.
+- **Additional Info**: Focuses on discovering potential by ruling out impossibilities, but may overlook critical unknowns.
+
+### Progress
+- **[Type]** 
+- **Dynamic Pair**: Future<—>Progress
+- **Definition**: The way things are going.
+- **Additional Info**: Concerned with the direction and rate of change, emphasizing the journey rather than the origin or destination.
+
+### Projection
+- **[Element]** 
+- **Dynamic Pair**: Speculation<—>Projection
+- **Definition**: An extension of probability into the future.
+- **Additional Info**: Anticipates future events based on current trends, but may miss abrupt changes or new developments.
+
+### Protagonist
+- **[Archetype]** 
+- **Definition**: Represents the motivations of Pursuit and Consider.
+- **Additional Info**: Drives the story's objective problem-solving efforts, either pursuing a solution or avoiding an antagonist's plan.
+
+### Protection
+- **[Element]** 
+- **Dynamic Pair**: Inaction<—>Protection
+- **Definition**: An effort to prevent one's concerns from being vulnerable to interference.
+- **Additional Info**: Involves building defenses against threats but may inadvertently provoke aggression or stifle necessary risks.
+
+### Proven
+- **[Element]** 
+- **Dynamic Pair**: Unproven<—>Proven
+- **Definition**: A rating of knowledge based on corroboration.
+- **Additional Info**: Focuses on verified and established understandings, but may cease to seek out exceptions or new evidence.
+
+### Psychology
+- **See**: Manipulation
+
+### Purpose
+- **Definition**: The intentions which any character has in a story.
+- **Additional Info**: Distinct from Motivation, Purpose refers to the specific methods a character employs to fulfill their Motivation.
+
+### Pursuit
+- **[Element]** 
+- **Dynamic Pair**: Avoidance<—>Pursuit
+- **Definition**: A directed effort to resolve a problem.
+- **Additional Info**: Characterized by determination and focus, but may lead to pursuing detrimental or undesirable objectives.
+
+## Q
+### Quad
+- **[Structural Term]** 
+- **Definition**: A group of four dramatic units with interrelated functions.
+- **Additional Info**: Each quad consists of elements with specific relationships, controlling dramatic direction and flow.
+
+## R
+### Range
+- **[Variation]** 
+- **See**: Issue
+
+### Rationalization
+- **[Variation]** 
+- **Dynamic Pair**: Obligation<—>Rationalization
+- **Definition**: A logical alternative used to mask the real reason.
+- **Additional Info**: Involves fabricating plausible but false justifications for one's actions or attitudes.
+
+### Reach
+- **[Overview Appreciation]** 
+- **Definition**: The manner in which the audience identifies with the Main Character.
+- **Additional Info**: Describes whether the audience empathizes with or sympathizes with the Main Character, influenced by gender and story dynamics.
+
+### Reaction
+- **[Element]** 
+- **Dynamic Pair**: Proaction<—>Reaction
+- **Definition**: Actions made in response.
+- **Additional Info**: Focuses on counteracting problems after they occur, but may be reactive rather than proactive, leading to delayed or inefficient solutions.
+
+### Reappraisal
+- **[Variation]** 
+- **Dynamic Pair**: Appraisal<—>Reappraisal
+- **Definition**: A reconsideration of a conclusion.
+- **Additional Info**: Aids in correcting initial misconceptions, though may be swayed by recent or misleading information.
+
+### Reason
+- **[Archetype]** 
+- **Definition**: An Archetype representing the motivations of Logic and Control.
+- **Additional Info**: Evaluates and acts based on logic, often lacking emotional involvement, which can hinder empathy from the audience.
+
+### Reconsider
+- **[Element]** 
+- **Dynamic Pair**: Consider<—>Reconsider
+- **Definition**: Questioning a conclusion based on additional information.
+- **Additional Info**: Involves re-examining beliefs in light of new evidence, but may lead to vacillation or diminished resolve.
+
+### Reduction
+- **[Element]** 
+- **Dynamic Pair**: Production<—>Reduction
+- **Definition**: A process of thought that determines probability.
+- **Additional Info**: Compares incomplete deductions to arrive at the most likely conclusion, but may overlook critical unknown factors.
+
+### Reevaluation
+- **[Element]** 
+- **Dynamic Pair**: Evaluation<—>Reevaluation
+- **Definition**: A reappraisal of a situation or circumstances.
+- **Additional Info**: Useful for correcting errors in judgment, but susceptible to being misled by new, incorrect information.
+
+### Repulsion
+- **[Variation]** 
+- **Dynamic Pair**: Attraction<—>Repulsion
+- **Definition**: Pushing or being pushed away from.
+- **Additional Info**: Represents barriers or warnings against certain paths, but may be misleading or conceal beneficial opportunities.
+
+### Requirements (Overall Storyline)
+- **[Type]** 
+- **Definition**: The necessary precursor to achieving the goal.
+- **Additional Info**: Involves pre-requisites and conditions essential for reaching a goal, defining the journey towards the objective.
+
+### Resistance
+- **[Dynamic Term]** 
+- **Definition**: A tendency toward inertia.
+- **Additional Info**: Represents obstacles or barriers to potential, influencing story dynamics by creating conflict or tension.
+
+### Response
+- **See**: Direction
+
+### Resolve
+- **[Character Dynamic]** 
+- **Definition**: The degree to which the Main Character feels compelled to remain on the quest.
+- **Additional Info**: Determines whether the Main Character remains steadfast or changes, reflecting the proper or improper way to solve the story's problem.
+
+### Responsibility
+- **[Variation]** 
+- **Dynamic Pair**: Commitment<—>Responsibility
+- **Definition**: The belief that one is best suited to accomplish a task.
+- **Additional Info**: Involves prioritizing others' needs, but may lead to imposing one's belief of what is best for someone else.
+
+### Result
+- **[Element]** 
+- **Dynamic Pair**: Process<—>Result
+- **Definition**: The ramifications of a specific effect.
+- **Additional Info**: Focuses on the overall outcomes of actions, but may lead to overthinking and inhibiting useful actions.
+
+## S
+### Security
+- **[Variation]** 
+- **Dynamic Pair**: Threat<—>Security
+- **Definition**: An evaluation of one's protections.
+- **Additional Info**: Essential for safeguarding achievements, but excessive focus may lead to ignoring real dangers or over-preparation.
+
+### Self-Aware
+- **[Element]** 
+- **Dynamic Pair**: Aware<—>Self-Aware
+- **Definition**: Being conscious of one's own existence.
+- **Additional Info**: Leads to understanding oneself, but may result in being overly self-focused and missing external factors.
+
+### Self-Interest
+- **[Variation]** 
+- **Dynamic Pair**: Morality<—>Self-Interest
+- **Definition**: Doing or being based on what is best for oneself.
+- **Additional Info**: Focuses on personal gain, often without considering others, but can be positive in oppressive scenarios.
+
+### Sense-Of-Self
+- **[Variation]** 
+- **Dynamic Pair**: State of Being<—>Sense of Self
+- **Definition**: One's perception of oneself.
+- **Additional Info**: Involves self-image which may be accurate or not, influencing character's actions and beliefs about themselves.
+
+### Senses
+- **[Variation]** 
+- **Dynamic Pair**: Interpretation<—>Senses
+- **Definition**: Sensory observations.
+- **Additional Info**: Provides raw data for interpretation, but can be accurate or faulty, leading to misunderstandings or errors.
+
+### Sidekick
+- **[Archetype]** 
+- **Definition**: Represents the motivations of Faith and Support.
+- **Additional Info**: Faithfully supports other characters, often the Protagonist, but defined by its qualities rather than its allegiance.
+
+### Situation (Universe)
+- **[Class]** 
+- **Dynamic Pair**: Fixed Attitude (Mind)<—>Situation (Universe)
+- **Definition**: A situation or fixed state of affairs.
+- **Additional Info**: Focuses on unchanging systems or circumstances, examining their nature and impact.
+
+### Situation
+- **[Variation]** 
+- **Dynamic Pair**: Circumstances<—>Situation
+- **Definition**: The arrangement of one's environment.
+- **Additional Info**: Involves practical considerations of the environment, but limited to rational evaluation.
+
+### Skill
+- **[Variation]** 
+- **Dynamic Pair**: Experience<—>Skill
+- **Definition**: Practiced ability.
+- **Additional Info**: Represents innate abilities that may or may not be developed, distinguishing between potential and experience.
+
+### Solution
+- **[Element]** 
+- **Definition**: The specific element needed to resolve the story's problem.
+- **Additional Info**: The 'flip side' of the Problem Element, critical in resolving the imbalance in the story's dynamics.
+
+### Speculation
+- **[Element]** 
+- **Dynamic Pair**: Projection<—>Speculation
+- **Definition**: An extension of possibility into the future.
+- **Additional Info**: Focuses on unlikely future scenarios, but may lead to preparing for improbable events at the expense of practical concerns.
+
+### Start
+- **[Character Dynamic]** 
+- **Definition**: The audience wants something in the story, connected to the Main Character, to begin.
+- **Additional Info**: Differentiates between Change (where the Main Character must start doing something) and Steadfast (where the Main Character waits for something to start).
+
+### State-of-Being
+- **[Variation]** 
+- **Dynamic Pair**: Sense of Self<—>State-of-Being
+- **Definition**: One's true self.
+- **Additional Info**: Describes a character's actual nature, which may not be fully understood by the character or others.
+
+### Steadfast Character
+- **[Character Appreciation]** 
+- **Definition**: The Subjective Character who retains their original approach or attitude throughout the story.
+- **Additional Info**: Represents a character's unwavering approach, either confirming the rightness of their path or their mistaken perception.
+
+### Steadfast
+- **[Character Dynamic]** 
+- **Definition**: The Main Character sticks with their essential nature while attempting to solve the problem.
+- **Additional Info**: Demonstrates a character's resolution to maintain their approach, reflecting on the appropriateness of their methods in solving the story's problem.
+
+### Stipulation
+- **[Type]** 
+- **See**: Benchmark
+
+### Stop
+- **[Character Dynamic]** 
+- **Definition**: The audience wants something in the story, directly connected to the Main Character, to desist.
+- **Additional Info**: Indicates a need for change in the Main Character (to stop doing something harmful) or a desire for external change in Steadfast characters.
+
+### Story Mind
+- **Concept**: The notion of the entire story as an analogy to a single human mind dealing with a specific problem.
+- **Details**: Involves all characters, themes, and plot progressions representing psychological processes of problem-solving.
+
+### Story vs. Tale
+- **Definition**: Differentiates between a tale (describes a problem and its resolution) and a story (argues that a specific approach uniquely leads to success or failure).
+- **Use**: Tales show whether an approach is good or not, while stories promote a specific approach as the only good or bad one.
+
+### Storyform
+- **[Dramatica Term]** 
+- **Definition**: The structural and dynamic skeleton of a story.
+- **Details**: Stripped of details and storytelling, it includes story points and thematic explorations making up a complete argument.
+
+### Storyforming vs. Storytelling
+- **Definition**: Distinguishes between the dramatic structure (storyforming) and the specific way an author illustrates that structure (storytelling).
+- **Application**: Storyforming involves arranging structure and dynamics, while storytelling is about how these elements are presented to the audience.
+
+### Storyforming
+- **Process**: Creating the dramatics of a unique story by arranging structure and dynamics.
+- **Details**: Involves thinking about the story's unfolding and how characters solve problems.
+
+### Story Points
+- **Definition**: Commonly shared dramatic concepts.
+- **Details**: Include "goals," "requirements," "consequences," etc., representing common aspects of problem-solving.
+
+### Strategy
+- **[Variation]** 
+- **Dynamic Pair**: Analysis<—>Strategy
+- **Definition**: A plan to achieve one's purpose or a plan of response.
+- **Details**: Involves developing specific plans to reach desired results, which can be apt or inappropriate.
+
+### Subconscious
+- **See**: Innermost Desires
+
+### Subjective Story Line
+- **Definition**: The story as it relates to the conflict between the Main and Impact Characters.
+- **Details**: Focuses on the internal states and relationship between these characters, like an objective view of their subjective relationship.
+
+### Subjective Story Type Order
+- **[Plot Structure]** 
+- **Definition**: The kind of activity employed to arrive at a solution to the story's subjective problem, act by act.
+- **Details**: Describes the four acts of the Subjective Story and the kinds of things that will happen in them.
+
+### Subjective Story Concern
+- **[Type]** 
+- **Definition**: The area of concern between the Main Character and the Impact Character.
+- **Details**: Describes what the Main and Impact Characters want from their relationship.
+
+### Subjective Story Catalyst
+- **[Variation]** 
+- **Definition**: The item that acts as the catalyst to move the subjective story forward.
+- **Details**: Creates breakthroughs and accelerates the Subjective Story, solving puzzles or making them unimportant.
+
+### Subjective Story Direction
+- **[Element]** 
+- **Definition**: The direction of efforts in the subjective story; the apparent remedy for the symptom of the difficulties between the Main Character and The Impact Character.
+- **Details**: Focuses on what the Subjective Characters believe will remedy their problem.
+
+### Subjective Story Throughline
+- **[Throughline]** 
+- **Definition**: The general area in which the subjective story takes place.
+- **See**: Throughline
+
+### Subjective Story Focus
+- **[Element]** 
+- **Definition**: The principal symptom of the difficulties between the Main Character and the Impact Character, where attention is focused in the subjective story.
+- **Details**: Represents the Subjective Characters' perception of the source of their problems.
+
+### Subjective Story Problem
+- **[Element]** 
+- **Definition**: The underlying cause of the difficulties between the Main Character and the Impact Character.
+- **Details**: The actual source of conflict between the Subjective Characters.
+
+### Subjective Story Issue
+- **[Variation]** 
+- **Definition**: The thematic focus between the Main Character and the Impact Character.
+- **Details**: Describes the thematic nature of the relationship between these characters in the story.
+
+### Subjective Story Solution
+- **[Element]** 
+- **Definition**: The specific element needed to resolve the difficulties between the Main Character and The Impact Character.
+- **Details**: If implemented, would restore balance in the Subjective Story and end the conflict.
+
+### Subjective Story Benchmark
+- **[Type]** 
+- **Definition**: The standard by which growth is measured in the Subjective Story.
+- **Details**: Gauges the progress of the Subjective Story, indicating how far along it has progressed.
+
+### Subjective Story Inhibitor
+- **[Variation]** 
+- **Definition**: The item that impedes the subjective story's progress.
+- **Details**: Acts as a brake mechanism, slowing the progress of the Subjective Story.
+
+### Subplot
+- **[Storytelling]** 
+- **Definition**: An amplification of a branch or aspect of a storyform.
+- **Details**: Connected to the main story through one of the objective characters, amplifying a specific aspect of the main story.
+
+### Success
+- **[Plot Dynamic]** 
+- **Definition**: The original goal is achieved.
+- **Details**: Focuses on whether the outcome desired at the story's beginning is achieved, regardless of its quality or ramifications.
+
+### Support
+- **[Element]** 
+- **Dynamic Pair**: Oppose<—>Support
+- **Definition**: Indirect assistance given to another's efforts.
+- **Details**: Aids effort without direct participation; provides encouragement or tools but not direct help.
+
+### Suspicion
+- **[Variation]** 
+- **Dynamic Pair**: Evidence<—>Suspicion
+- **Definition**: Questioning a belief based on evidence.
+- **Details**: Involves preliminary conclusions with insufficient evidence, leading to informed doubt but may cause overlooking alternative explanations.
+
+### Sympathy
+- **[Overview Appreciation]** 
+- **Definition**: The audience cares about the Main Character, but does not identify with him.
+- **Details**: Differentiates empathy (identification) from sympathy (caring without identification). Influences how audience relates to Main Character.
+
+### Symptom
+- **See**: Focus
+
+
+## T
+### Temptation
+- **[Element]** 
+- **Dynamic Pair**: Conscience<—>Temptation
+- **Definition**: The urge to embrace immediate benefits despite possible consequences.
+- **Details**: Represents the conflict between faith in consequences and the lure of immediate gratification.
+
+### Tendency
+- **[Overview Appreciation]** 
+- **Definition**: The degree to which the Main Character feels compelled to accept the quest.
+- **Details**: Relates to whether the Main Character is a Do-er or a Be-er, affecting their willingness to participate in the story's quest.
+
+### Test
+- **[Element]** 
+- **Dynamic Pair**: Trust<—>Test
+- **Definition**: A trial to determine something's validity.
+- **Details**: Involves trying out suppositions to verify correctness, but may waste time or resources on unnecessary testing.
+
+### Theme
+- **[Dramatica term]** 
+- **Definition**: The author's statement about the relative worth of different value standards.
+- **Details**: Developed through varying perspectives on a central issue, leading to a thematic message.
+
+### Theory
+- **[Element]** 
+- **Dynamic Pair**: Hunch<—>Theory
+- **Definition**: An unbroken chain of relationships leading from a premise to a conclusion.
+- **Details**: Represents structured explanations and concrete hypotheses, requiring understanding of each step in the theory.
+
+### Thought
+- **[Element]** 
+- **Dynamic Pair**: Knowledge<—>Thought
+- **Definition**: The process of consideration.
+- **Details**: Involves both logical and emotional deliberation, examining issues from all perspectives but may lead to indecisiveness.
+
+### Threat
+- **[Variation]** 
+- **Dynamic Pair**: Security<—>Threat
+- **Definition**: An evaluation of one's vulnerabilities.
+- **Details**: Involves detecting potential dangers, but subjective biases may lead to misjudging threats as real or imaginary.
+
+### Throughline
+- **[Dramatica Term]** 
+- **Definition**: The sequence of story points describing one of the four perspectives in a story.
+- **Details**: Includes Overall Story, Subjective Story, Main Character, and Impact Character Throughlines, each with distinct story points.
+
+### Throughline [Domain]
+- **[Throughline]** 
+- **Definition**: Describes the area where one of the four throughlines occurs—Main Character, Impact Character, Overall Story, Subjective Story.
+- **Details**: Defines the general area of problems for each throughline, directing audience perspective.
+
+### Throughline Act Order
+- **[Plot Structure]** 
+- **Definition**: The area in which the solution to the story's problem is sought, act by act.
+- **Details**: Describes the progression of the story through different acts.
+
+### Timelock vs. Optionlock
+- **Definition**: The two kinds of limits that can force a story to its climax.
+- **Details**: Timelock limits the story by time, while Optionlock limits by the number of options available to characters.
+
+### Timelock
+- **[Plot Dynamic]** 
+- **Definition**: The story climax is forced by a time limit.
+- **Details**: Involves a specific deadline by which characters must solve the problem, driving the story to its climax.
+
+### Trust
+- **[Element]** 
+- **Dynamic Pair**: Test<—>Trust
+- **Definition**: Acceptance of knowledge as proven without testing its validity.
+- **Details**: Involves accepting assumptions without evidence, leading to efficiency but also vulnerability to surprises.
+
+### Truth
+- **[Variation]** 
+- **Dynamic Pair**: Falsehood<—>Truth
+- **Definition**: That which has been proven correct.
+- **Details**: Truth is more than facts; it encompasses meaning and context. Subject to interpretation, one person's truth may be another's falsehood.
+
+### Type
+- **[Structural Term]** 
+- **Definition**: The 16 terms grouped beneath the Classes, representing more refined explorations of a perspective.
+- **Details**: Types describe categories seen from a given point of view. They determine the nature of the plot and are integral to story structure.
+
+
+## U
+
+### Unending
+- **[Element]** 
+- **Dynamic Pair**: Ending<—>Unending
+- **Definition**: A continuance without cessation.
+- **Details**: Sees nothing as ever completing, views ends as changes in direction. Can foster perseverance but may cause overlooking actual endings.
+
+### Uncontrolled
+- **[Element]** 
+- **Dynamic Pair**: Control<—>Uncontrolled
+- **Definition**: A disorganized response.
+- **Details**: Involves spreading energy in all directions without a single focus, leading to full involvement but often inefficient progress.
+
+### Understanding
+- **[Type]** 
+- **Dynamic Pair**: Learning<—>Understanding
+- **Definition**: Appreciating the meaning of something.
+- **Details**: Involves both knowledge and context, requiring intellectual and empathetic engagement. It's about grasping the essence and fitting it into the larger picture.
+
+### Unique Ability
+- **[Variation]** 
+- **Definition**: The quality that makes the Main Character or Impact Character uniquely capable of affecting the story.
+- **Details**: Essential for the Main Character to solve the Overall Story Problem or for the Impact Character to challenge the Main Character. It is integrated into their nature and can be mundane but uniquely possessed in the story.
+
+### Unit
+- **[Structural Term]** 
+- **Definition**: The smallest building blocks in a story that have meaning for an author.
+- **Details**: These essential elements comprise the fundamental components of a story's structure.
+
+### Universe
+- **See**: Situation
+
+### Unproven
+- **[Element]** 
+- **Dynamic Pair**: Proven<—>Unproven
+- **Definition**: A rating of knowledge that has not been tested.
+- **Details**: Describes understanding suspected to be true but not yet substantiated. Avoids jumping to conclusions, demanding hard data for confirmation.
+
+### Unwilling
+- **[Overview Appreciation]** 
+- **Definition**: The Main Character unwillingly participates in solving the story problem.
+- **Details**: Describes a Main Character who prefers not to be involved and needs external pressure to engage in the quest.
+
+## V
+### Value
+- **[Variation]** 
+- **Dynamic Pair**: Worth<—>Value
+- **Definition**: The objective usefulness or desirability of something in general.
+- **Details**: Focuses on the general utility of an item or action, considering its indirect and conditional value.
+
+### Variation
+- **[Structural Term]** 
+- **Definition**: The 64 items representing thematic aspects under which problem elements can occur.
+- **Details**: Variations define thematic messages and development in a story. They represent different ways of evaluating the story's meaning.
+
+## W
+### Willing
+- **[Overview Appreciation]** 
+- **Definition**: The Main Character willingly participates in solving the story problem.
+- **Details**: Describes a self-motivated Main Character who actively engages in the quest without needing external encouragement.
+
+### Wisdom
+- **[Variation]** 
+- **Dynamic Pair**: Enlightenment<—>Wisdom
+- **Definition**: Understanding how to apply knowledge.
+- **Details**: Goes beyond awareness of facts; involves seeing patterns and understanding how different pieces of knowledge fit together.
+
+### Work
+- **[Plot Dynamic]** 
+- **See**: Driver
+
+### Work
+- **[Variation]** 
+- **Dynamic Pair**: Attempt<—>Work
+- **Definition**: Applying oneself to something known to be within one's ability.
+- **Details**: Focuses on effort within known capabilities. Issues arise if abilities or task demands are misjudged.
+
+### Worry
+- **[Variation]** 
+- **Dynamic Pair**: Confidence<—>Worry
+- **Definition**: Concern for the future.
+- **Details**: Based on negative experiences, leads to preparation for the worst but can also result in avoidance of potentially rewarding situations.
+
+### Worth
+- **[Variation]** 
+- **Dynamic Pair**: Value<—>Worth
+- **Definition**: A rating of usefulness or desirability to oneself.
+- **Details**: Subjective value varies among individuals; focuses on personal importance which may overlook potential objective value.
+
+## Z
+### Z Pattern
+- **[Dynamic Term]** 
+- **Definition**: A relationship between the function of dramatic items and their interaction order.
+- **Details**: Controlling the order of events affects audience interpretation. The "Z" pattern through a quad describes one sequence in which dramatic units might interact.
+
+# Synonym Glossary
+
+## A
+
+### Ability
+- **[Element]**: innate capacity, capability, talent for, inherent proficiency
+- **[Variation]**: talent, knack, capability, capacity, faculty
+
+### Acceptance
+- **[Element]**: acquiescence, tolerance, allowance for, consent, submission
+
+### Accurate
+- **[Element]**: within tolerance, sufficient, adequate, acceptable, passable
+
+### Activity (Physics)
+- **[Class]**: an activity, an enterprise, an initiative, an endeavor, an operation
+
+### Actuality
+- **[Element]**: the true state of things, objective reality, factuality, demonstrable existence, demonstrable reality
+
+### Analysis
+- **[Variation]**: evaluation, examination, breakdown of situation, close investigation, scrutinization
+
+### Appraisal
+- **[Variation]**: first impression, preliminary understanding, initial approach, initial assimilation
+
+### Approach
+- **[Variation]**: method, procedure, style, manner, manner of doing, one's own way
+
+### Attempt
+- **[Variation]**: try, uncertain undertaking, speculative endeavor, dubious effort, endeavor, unlikely venture
+
+### Attitude
+- **[Variation]**: demeanor, manner of approach, countenance, behavioral outlook, perspective on doing
+
+### Attraction
+- **[Variation]**: allure, enticement, charm, captivate, appeal, draw, lure
+
+### Avoid
+- **[Element]**: evade, dodge, elude, escape, steer clear of, prevent
+
+### Aware
+- **[Element]**: outward perceptiveness, external sensitivity, consciousness of the external, responsive
+
+## C
+### Cause
+- **[Element]**: engender, induce, elicit, determinant, reason for, factor, effector, source, agent, antecedent
+
+### Certainty
+- **[Element]**: sureness, definiteness, having no doubts, total reliability, indisputability, irrefutability, unmistakability, conviction
+
+### Change
+- **[Element]**: altering, altering force, modify, reshape, adjust, adapt
+
+### Changing One's Nature [Becoming]
+- **[Type]**: embodying, manifesting, personifying, incarnating, transforming
+
+### Chaos
+- **[Element]**: randomness, anarchy, disorder, formlessness, noncohesion
+
+### Choice
+- **[Variation]**: decision, selection, determination, pick
+
+### Circumstances
+- **[Variation]**: how things stand emotionally, emotional evaluation of the environment, value of existing conditions, relationship to others
+
+### Closure
+- **[Variation]**: finishing, completion, resolution, recursive
+
+### Commitment
+- **[Variation]**: dedication, devotion, steadfastness, zeal
+
+### Conceiving An Idea
+- **[Type]**: originating, inventing, devising, engendering, hatching ideas
+
+### Conditioning
+- **[Variation]**: habituation, trained response, accustomed response, adaptive adjustments
+
+### Confidence
+- **[Variation]**: hopeful prospects, positive expectations, faithful anticipation, optimism
+
+### Conscience
+- **[Element]**: forgoing for fear of consequences, forgo, forbearance, temperance, abstinence, restraining oneself
+
+### Contemplation [Conscious]
+- **[Type]**: considerations, sensibilities, cognizant, ability to consider, sensible, informed contemplation, contemplation
+
+### Consider
+- **[Element]**: deliberate, contemplate, ponder, weigh in the mind, mull
+
+### Control
+- **[Element]**: regulate, organized management, steer, conduct, guide, manipulate, focused organization
+
+
+## D
+
+### Deduction
+- **[Element]**: drawing a conclusion, process of elimination, demonstrative reasoning, narrowing to a single point
+
+### Deficiency
+- **[Variation]**: inadequacy, insufficiency, deficit, unfulfilled need
+
+### Delay
+- **[Variation]**: put off, retard, postpone, defer, suspend, prolong, procrastinate
+
+### Denial
+- **[Variation]**: not accepting, refusal to end, unwillingness to let go, refusal to back down, stubbornness, uncompliant
+
+### Desire
+- **[Element]**: drive, motivational goal, unfulfillment, source of discontent, essence of motivation
+- **[Variation]**: want, favor, like, covet, prefer, wish, aspire
+
+### Destiny
+- **[Variation]**: inescapable path, predetermined trajectory, set direction of the future, inevitable path, unavoidable trajectory
+
+### Determination
+- **[Element]**: ascertaining causes, discovering causes, finding the reasons why, figuring out factors, discerning antecedents
+
+### Developing A Plan [Conceptualizing]
+- **[Type]**: visualizing, imagining, envisioning, visualizing implementation
+
+### Disbelief
+- **[Element]**: refusal to accept, distrust, find unconvincing, find false, unpersuadability
+
+### Doing
+- **[Type]**: performing, executing, effecting action, acting
+
+### Doubt
+- **[Variation]**: pessimism, uninformed misgivings, uncertainty, trepidation, distrust
+
+### Dream
+- **[Variation]**: aspire, desiring the unlikely, pulling for the doubtful, airy hope, glimmer, far fetched desire
+
+
+## E
+
+### Effect
+- **[Element]**: result, consequence, outcome, culmination, the ensuing
+
+### Ending
+- **[Element]**: conclusion, finish, completion, termination, close
+
+### Enlightenment
+- **[Variation]**: insight, illumination, intuitive discernment, transcendent comprehension
+
+### Equity
+- **[Element]**: balance, fairness, parity, equilibrium, level, even
+
+### Evaluation
+- **[Element]**: appraisal, analysis, assessment, survey, examination
+
+### Evidence
+- **[Variation]**: proof, indicator, supporting information, corroborating facts, grounds for belief, substantiation
+
+### Expectation
+- **[Element]**: anticipated results, eventual outcome, presumed prospects, probable denouement, likely consequences
+
+### Expediency
+- **[Variation]**: advisability, convenience, prudent efficiency
+
+### Experience
+- **[Variation]**: familiarization, level of practice, seasoning, accumulated feelings, accumulated dealings with
+
+## F
+
+### Fact
+- **[Variation]**: belief in the genuine, ultimately real beliefs, truly real beliefs, authentic notion, authentic idea, correct knowledge, correct beliefs
+
+### Faith
+- **[Element]**: acceptance without proof, steadfast belief, confidence in unproven, credence, unquestioned trust
+
+### Falsehood
+- **[Variation]**: erroneousness, untruth, erroneous notion, mistaken, astray, dishonest
+
+### Fantasy
+- **[Variation]**: false belief, faith in the imaginary, delusion, erroneous conviction
+
+### Fate
+- **[Variation]**: inevitable events, unpreventable incidents, eventual events, destined occurrence, destined events, unavoidable situations
+
+### Feeling
+- **[Element]**: empathy, emotional sensibility, affective outlook, sentiment, emotional assessment
+
+### Fixed Attitude (Mind)
+- **[Class]**: attitude, fixation, position on an issue, fixed point of view, disposition
+
+### Future
+- **[Type]**: what is to come, what will be, prospect, prospective
+
+
+## H
+
+### Help
+- **[Element]**: aid, assist, support, bolster, abet
+
+### Hinder
+- **[Element]**: retard, obstruct, impede, fetter, undermine, block, burden, encumber, thwart
+
+### Hope
+- **[Variation]**: desired expectation, optimistic anticipation, confident aspiration, promise, encouraging outlook
+
+### Hunch
+- **[Element]**: intuition, premonition, impression, suspicion
+
+
+## I
+
+### Impulsive Responses [Preconscious]
+- **[Type]**: unthinking responses, immediate responses, impulse, impulsive response, instinctive response, innate response, reflex
+
+### Inaction
+- **[Element]**: passive reaction, inactive response, achieve through not doing
+
+### Induction
+- **[Element]**: postulate, predicate, conjecture, infer, hypothesize, determine possibility
+
+### Inequity
+- **[Element]**: imbalance, unfair, disparity, unequal, uneven, disproportionate
+
+### Inertia
+- **[Element]**: tendency to continue, a change resistant pattern, continuation, following an established direction
+
+### Innermost Desires [Subconscious]
+- **[Type]**: libido, id, basic motivations, basic drives, anima
+
+### Instinct
+- **[Variation]**: involuntary drive, innate impulse, unconditioned response, automatic response, unconditioned motivation
+
+### Interdiction
+- **[Variation]**: altering the future, interfering with the predetermined, hindering the inevitable, escaping the predestined
+
+### Interpretation
+- **[Variation]**: construe, rendition, rendering meaning, elucidate, translating meaning
+
+### Investigation
+- **[Variation]**: inquiry, research, probe, sleuthing, delving, query
+
+## K
+### Knowledge
+- **[Element]**: learnedness, held truths, authoritative certainty, generally agreed upon truths
+- **[Variation]**: held truth, maintained information, presumed facts, accepted ideas
+
+## L
+### Learning
+- **[Type]**: cultivating experience, acquiring information, collecting data, gathering knowledge
+
+### Logic
+- **[Element]**: linear reasoning, rationality, structural sensibility, syllogistics
+
+
+## M
+### Manipulation (Psychology)
+- **[Class]**: ways of thinking, thinking process, activity of the psyche, manipulation of others
+
+### Memory
+- [Type] -- remembering, recollections, reminiscence, recalling, retention
+
+### Morality
+- [Variation] -- selflessness, altruism, benevolence, generosity
+
+
+## N
+### Need
+- [Variation] -- subjective necessity, urge, demand, imperative
+
+### Non-Acceptance
+- [Element] -- run counter to, reject, decline, repudiate, resist, refusal to compromise
+
+### Non-Accurate
+- [Element] -- not within tolerance, insufficiency, inadequacy, deviancy, deficient to the purpose
+
+
+## O
+### Obligation
+- [Variation] -- agreement, pledge, contract, accepted compulsion, emotional contract
+
+### Obtaining
+- [Type] -- controlling for oneself, possessing, having, keeping
+
+### Openness
+- [Variation] -- broad mindedness, tolerance, willingness to reevaluate, receptiveness
+
+### Oppose
+- [Element] -- object to, speak out against, argue against, protest, dispute, show disapproval of, detract from
+
+### Order
+- [Element] -- structure, patterned arrangement, organization, patterned formation, formation, configuration, patterned sequence
+
+
+## P
+### Past
+- [Type] -- history, what has happened, former times, retrospective
+
+### Perception
+- [Element] -- appearance, how things seem to be, discernment, a particular reading of things, a point of view on reality, a way of seeing
+
+### Permission
+- [Variation] -- constrained ability, limited capability, restricted capacity, hindered performance, allowed limitations, restrained utility
+
+### Playing A Role [Being]
+- [Type] -- pretending, appearing, acting like, seeming as, fulfilling a role
+
+### Possibility
+- [Element] -- plausibility, viability, conceivable eventualities, open assessment
+
+### Potentiality
+- [Element] -- chance, precariousness, focusing on the uncertain, going with the improbable
+
+### Preconception
+- [Variation] -- prejudice, closed mindedness, narrow mindedness, intolerance, stubbornness, unwillingness to reevaluate
+
+### Preconditions
+- [Variation] -- provision, prescribed specification, imposed stipulation, limiting parameters, imposed limitations
+
+### Prediction
+- [Variation] -- foresight, foreseeing, anticipation, envisioning one's future, prophecy, forecast, foretell, prognosticate
+
+### Prerequisites
+- [Variation] -- essential steps, necessary requisites, compulsory stipulation
+
+### Present
+- [Type] -- how things stand, the here and now, current situation, as of this moment
+
+### Proaction
+- [Element] -- to initiate action, execute, undertake, commit, implement
+
+### Probability
+- [Element] -- likelihood, prospective, predictable, promising
+
+### Process
+- [Element] -- chain of interactions, manner of procedure, cause/effect relation, progression, ongoing pull or tendency
+
+### Production
+- [Element] -- determining potential, noticing possibilities, ruling out future impossibilities, discovering of potential
+
+### Progress
+- [Type] -- flowing, advancing, proceeding, moving forward, developing step by step, graduated, staging, successive, procession, the way things are going
+
+### Projection
+- [Element] -- anticipation, how things will be, most likely, probable
+
+### Protection
+- [Element] -- defense, safeguard, preservation, precaution
+
+### Proven
+- [Element] -- verified, confirmed, corroborated, established, demonstrated, shown
+
+### Pursuit
+- [Element] -- seek, go after, attempt to achieve, look for, directed effort
+
+
+## R
+### Rationalization
+- [Variation] -- fabricated excuse, ulterior explanation, false justification, artificial reason
+
+### Reaction
+- [Element] -- response, reply, acting from stimulus, goaded to action
+
+### Re-appraisal
+- [Variation] -- reassess, rechecking, checking up, re-examining a conclusion, reevaluating a conclusion
+
+### Reconsider
+- [Element] -- re-examining conclusions, rethinking, to mull over again, further deliberation, additional scrutiny
+
+### Reduction
+- [Element] -- determining probability, comparisons of potentiality, measurement of likelihood, judging probabilities
+
+### Re-evaluation
+- [Element] -- re-appraisal, further assessment, subsequent analysis, scrutiny of first impressions
+
+### Repulsion
+- [Variation] -- unattractive, repellent, foreboding, unsavory, pushing away, forcing back
+
+### Responsibility
+- [Variation] -- assumed propriety, believed appropriateness, self designated aptness, accepted suitability
+
+### Result
+- [Element] -- ramifications of an effect, consequence, repercussion, impact, end product
+
+
+## S
+### Security
+- [Variation] -- evaluation of safety, measure of safeguards, appraisal of one's protections, gauge of defenses
+
+### Self-Aware
+- [Element] -- self-conscious, conscious of one's existence, self-perceiving, self-appreciating, self-cognizant
+
+### Self-Interest
+- [Variation] -- self-serving, self-centered, narcissistic, selfishness, self-absorbed, egocentric
+
+### Sense of Self
+- [Variation] -- perception of self, self image, self identity, self attribution
+
+### Senses
+- [Variation] -- perceptual data, raw sensations, sensory impressions, immediate impressions, perceptions
+
+### Situation (Universe)
+- [Class] -- a situation, a set of circumstances, state of affairs, predicament, environment, milieu
+
+### Situation
+- [Variation] -- how things stand rationally, a reasoned evaluation of environment, arranged context, environmental state, surroundings, predicament
+
+### Skill
+- [Variation] -- proficiency, aptitude, competence, adeptness, degree of expertise, practiced ability, honed ability
+
+### Speculation
+- [Element] -- prognostication, surmising possibilities, conjecturing
+
+### State-of-Being
+- [Variation] -- essence, one's true self, true self, essential nature, core being
+
+### Strategy
+- [Variation] -- scheme, tactic, plan, ploy, decided approach
+
+### Support
+- [Element] -- commend, extol, endorse, back, compliment, laud
+
+### Suspicion
+- [Variation] -- wary approach, partially justified apprehension, informed doubt, doubt based on evidence, sensible caution
+
+## T
+### Temptation
+- [Element] -- indulge, embracing immediate benefits, intemperance, immoderation
+
+### Test
+- [Element] -- trial of validity, examination, audit, inspection, scrutinization
+
+### Theory
+- [Element] -- structured explanation, concrete hypothesis, systematized descriptive knowledge, description of linear connections
+
+### Thought
+- [Element] -- the process of consideration, thinking, contemplation, mental attention, running over in your mind
+
+### Thought
+- [Variation] -- consideration, contemplation, ponderence, musing, reflection
+### Threat
+- [Variation] -- perceived danger, indication of peril, perceived vulnerability, warning, detected hazard
+
+### Trust
+- [Element] -- untried acceptance, untested belief in, accept implicitly, assumed dependability, unquestioned reliance on
+
+### Truth
+- [Variation] -- honesty, correct information, correct notion, verity
+
+
+## U
+### Unending
+- [Element] -- continual, ongoing, perpetual, ceaseless, interminable, incessant, perennial
+
+### Uncontrolled
+- [Element] -- unregulated, disorganized, unfocused, rampant, unguided, open, frenzy
+
+### Understanding
+- [Type] -- comprehending, grasping, appreciating, obtaining meaning, acquiring meaning
+
+### Unproven
+- [Element] -- unverified, unconfirmed, unestablished, undemonstrated, untried
+
+## V
+### Value
+- [Variation] -- utility, objective appraisal, general usefulness
+
+## W
+### Wisdom
+- [Variation] -- mental mastery, integrated understanding, seasoned understanding, comprehension, astute cogency
+
+### Work
+- [Variation] -- appropriate undertaking, suitable task, manageable labor, a performable activity
+
+### Worry
+- [Variation] -- anxiety, concern, apprehension, misgivings
+
+### Worth
+- [Variation] -- subjective value, individual appraisal, personal importance
 
 
 
 ## 2 Semantic Items
+
+## Glossary 
 ## 3 Structural Models

@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md"
               }
             }
           },
@@ -186,12 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd69521a04d2c5d8",
+  "active": "494f7e5929ff2f07",
   "lastOpenFiles": [
+    "word count.md",
+    "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/000001F_BAL - Models",
     "07_DIESIS/07000_DIEGESIS README.md",
     "07_DIESIS",
-    "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
-    "word count.md",
     "Pasted image 20240106203833.png",
     "Pasted image 20240106203609.png",
     "Pasted image 20240106203248.png",
@@ -231,8 +233,6 @@
     "01_THEME/0100018_CAMPBELL - The Hero With a Thousand Faces.md",
     "01_THEME/0100019_CAMPBELL - The Inner Reaches of Outer Space.md",
     "01_THEME/0100021_MILLER - The Epic Hero.md",
-    "01_THEME/0100022_BLOOM - The Western Canon.md",
-    "01_THEME/0100023_BERNHARDT - Thinking Theme.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction"
+    "01_THEME/0100022_BLOOM - The Western Canon.md"
   ]
 }

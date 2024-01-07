@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction ✓
 
 ## **Foundational Concepts in Narratology**
 
@@ -56,7 +56,7 @@
 
 
 
-# 1 Text: Signs
+# 1 Text: Signs ✓
 
 ## 1 Preliminary Remarks
 
@@ -196,7 +196,7 @@
 |variable focalization|A technique in narratology where the perspective or point of view shifts within the narrative, allowing for different characters' perceptions and thoughts to be presented.|
 
 
-## 3 Non-Narrative Comments
+## 3 Non-Narrative Comments ✓
 ### **Narratology: Non-Narrative Comments and Description in Narrative Texts**
 
 -  **Non-Narrative Comments in Narratives:**
@@ -240,7 +240,7 @@
 |textual form|The structural and stylistic arrangement of a narrative, including its layout, syntax, and narrative techniques, which shapes how the story is told and received.|
 
 
-## 4 Description 
+## 4 Description ✔
 
 ### **Narratology: Rhetoric of Description in Narrative Texts**
 
@@ -377,7 +377,7 @@
 |**Thought Representation**|A technique in narratology for depicting characters' thoughts and internal processes, contributing to character development and narrative depth.|
 
 
-## 5 Levels of Narration 
+## 5 Levels of Narration ✔
 
 ### Analyzing Narrative Structures in Literature Across Periods**
 
