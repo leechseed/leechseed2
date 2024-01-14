@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "a354b0e195e253d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "15c0808764b593ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89656a707911b5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713d11421c2b4ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a809ae44d04c7e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8f442dda35bd9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abc752a6237ec0db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abbea33129727b7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a8cb5e87941381a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba833d30ce6d924a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6777aaac753a5eee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "111f37c85e1c2ab0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5bb90f556a4a9af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54c690f61ecfd77c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "89656a707911b5bc",
+  "lastOpenFiles": [
+    "OBSIDIAN_CATALOG/D0 LIBRARY/templates/template for steps.md",
+    "pages/contents.md",
+    "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/DIRECTORY README.md",
+    "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md"
+  ]
+}
