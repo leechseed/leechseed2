@@ -11,11 +11,9 @@
             "id": "89656a707911b5bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
-                "mode": "source",
-                "source": false
+                "file": "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/PDF/RSD Worksheets and Book/RSD Protagonist Enneagram Wrksht.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
+                "file": "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/PDF/RSD Worksheets and Book/RSD Protagonist Enneagram Wrksht.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
+                "file": "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/PDF/RSD Worksheets and Book/RSD Protagonist Enneagram Wrksht.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md"
+                "file": "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/PDF/RSD Worksheets and Book/RSD Protagonist Enneagram Wrksht.pdf"
               }
             }
           }
@@ -148,13 +146,15 @@
   },
   "active": "89656a707911b5bc",
   "lastOpenFiles": [
-    "OBSIDIAN_CATALOG/D0 LIBRARY/templates/GPT RSD TEMPLATES/gpt ai moral component.md",
+    "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/PDF/RSD Worksheets and Book/RSD Protagonist Change Wrksht.pdf",
+    "Unicursal logo.png",
     "OBSIDIAN_CATALOG/D0 LIBRARY/templates/CHAT GPT PROMPTS.md",
+    "OBSIDIAN_CATALOG/D0 LIBRARY/templates/template for steps.md",
+    "OBSIDIAN_CATALOG/D0 LIBRARY/templates/GPT RSD TEMPLATES/gpt ai moral component.md",
     "OBSIDIAN_CATALOG/D0 LIBRARY/templates/GPT RSD TEMPLATES",
     "assets/ahk macros/savepics.ahk",
     "assets/ahk macros/instasave.ahk",
     "assets/ahk macros",
-    "OBSIDIAN_CATALOG/D0 LIBRARY/templates/template for steps.md",
     "pages/contents.md",
     "OBSIDIAN_CATALOG/DRAGONS OF STORMWRECK ISLE/DIRECTORY README.md"
   ]
