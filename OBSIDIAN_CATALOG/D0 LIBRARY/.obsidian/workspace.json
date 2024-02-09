@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KOBOLD GUIDE WORKBOOK.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 440.5
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KOBOLD GUIDE WORKBOOK.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KOBOLD GUIDE WORKBOOK.md",
+                "file": "01_THEME/01000_THEME README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KOBOLD GUIDE WORKBOOK.md"
+                "file": "01_THEME/01000_THEME README.md"
               }
             }
           },
@@ -200,9 +200,12 @@
   },
   "active": "bd69521a04d2c5d8",
   "lastOpenFiles": [
-    "desktop.ini",
     "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+    "01_THEME/01000_THEME README.md",
+    "01_THEME/01001_BLOOM - Alienation.md",
+    "01_THEME/01002_BLOOM - Civil Disobedience.md",
     "KOBOLD GUIDE WORKBOOK.md",
+    "desktop.ini",
     "word count.md",
     "04_SETTING/04000_SETTING README.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
@@ -231,11 +234,8 @@
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/New folder",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/080002211 - THE WORLD OF CYBERPUNK 2077.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2/08000231 - THE WORLD OF THE DIVISON 22.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/0800023_DIVISION 2",
     "Pasted image 20240106203833.png",
     "Pasted image 20240106203609.png",
     "Pasted image 20240106203248.png",
