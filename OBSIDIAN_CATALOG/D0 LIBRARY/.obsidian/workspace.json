@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_THEME/01000_THEME README.md",
+                "file": "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c4c5000886e988ea",
@@ -119,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 302.5
   },
   "right": {
     "id": "c3cef864aba768f0",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_THEME/01000_THEME README.md",
+                "file": "word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_THEME/01000_THEME README.md",
+                "file": "word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_THEME/01000_THEME README.md"
+                "file": "word count.md"
               }
             }
           },
@@ -198,19 +199,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd69521a04d2c5d8",
+  "active": "bb2c0ef29d16cf36",
   "lastOpenFiles": [
     "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+    "05_SYUZHET PLOT/050000_SYUZHET PLOT README.md",
+    "01_THEME/01003_BLOOM - Dark Humor.md",
+    "03_CHARACTER/030005_CORBETT - The Art of Character.md",
+    "03_CHARACTER/030007_DARIAN - The Psychology Workbook for Writers.md",
+    "03_CHARACTER/030003_WRITER'S DIGEST - Creating Characters.md",
+    "03_CHARACTER/030002_HOWARD - Creating Characters.md",
+    "01_THEME/01004_BLOOM - Death and Dying.md",
+    "00_THEORY OF COMPOSITION/00000_TOC README.md",
+    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
+    "desktop.ini",
     "01_THEME/01000_THEME README.md",
     "01_THEME/01001_BLOOM - Alienation.md",
     "01_THEME/01002_BLOOM - Civil Disobedience.md",
     "KOBOLD GUIDE WORKBOOK.md",
-    "desktop.ini",
     "word count.md",
     "04_SETTING/04000_SETTING README.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
-    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
-    "00_THEORY OF COMPOSITION/00000_TOC README.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
     "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001D_BAL - Narratology KEY TERMS.md",
@@ -220,19 +228,12 @@
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2/08000231 - THE WORLD OF THE DIVISON 2.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800021_League of Legends Companion/8000211_League of Legends Companion.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222_CYBERPUNK COMPLETE GUIDE/0800002221_CYBERPUNK COMPLETE GUIDE.MD",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222_CYBERPUNK COMPLETE GUIDE/0800002221 - CYBERPUNK COMPLETE GUIDE.MD",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222_CYBERPUNK COMPLETE GUIDE",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221_THE WORLD OF CYBERPUNK 2077/080002211 - THE WORLD OF CYBERPUNK 2077.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221_THE WORLD OF CYBERPUNK 2077",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222 - CYBERPUNK COMPLETE GUIDE/0800002221 - CYBERPUNK COMPLETE GUIDE.MD",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222 - CYBERPUNK COMPLETE GUIDE",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/080002211 - THE WORLD OF CYBERPUNK 2077.md",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2/08000222 - CYBERPUNK COMPLETE OFFICIAL GUIDE/080002221 - CYBERPUNK OFFICIAL GUIDE.MD",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2/08000222 - CYBERPUNK COMPLETE OFFICIAL GUIDE",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000222 - CYBERPUNK COMPLETE OFFICIAL GUIDE/080002221 - CYBERPUNK OFFICIAL GUIDE.MD",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000222 - CYBERPUNK COMPLETE OFFICIAL GUIDE",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/New folder",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/080002211 - THE WORLD OF CYBERPUNK 2077.md",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221 - THE WORLD OF CYBERPUNK 2077",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2",

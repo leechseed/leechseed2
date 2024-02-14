@@ -1,19 +1,14 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-
 ; Hotkey for the script is F1
 F1::
-{
     ; Right click
-    Send {RButton}
-    Sleep, 100  ; 
+    Send, {RButton}
+    Sleep, 50  ; Reduced to speed up the right-click action
 
     ; The 'v' key typically corresponds to the 'Save Image As' option in the right click context menu
-    Send v
-    Sleep, 1000  ; 
+    Send, v
+    Sleep, 500  ; Reduced to speed up the action, adjust if necessary
+
     ; Save (usually Enter in the 'Save Image As' dialog box)
-    Send {Enter}
-    Sleep, 10  ; 
-}
+    Send, {Enter}
+    Sleep, 10  ; Kept short for quick repetition if needed
 return
