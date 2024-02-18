@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "word count.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word count.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word count.md",
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word count.md"
+                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md"
               }
             }
           },
@@ -199,35 +199,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2c0ef29d16cf36",
+  "active": "a902e86bb7c9f882",
   "lastOpenFiles": [
+    "01_THEME/01002_BLOOM - Civil Disobedience.md",
+    "01_THEME/0100027_BURNETT - Companion to Literature of the U.S. South.md",
+    "03_CHARACTER/030001_MCKEE - Character The Art of Role and Cast Design.md",
+    "01_THEME/010015_BLOOM - The Trickster.md",
+    "01_THEME/010014_BLOOM - The Taboo.md",
     "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
-    "05_SYUZHET PLOT/050000_SYUZHET PLOT README.md",
+    "01_THEME/010013_BLOOM - The Sublime.md",
+    "01_THEME/010012_BLOOM - The Labyrinth.md",
+    "01_THEME/010011_BLOOM - The Heroes Journey.md",
+    "01_THEME/010010_BLOOM - The Grotesque.md",
+    "01_THEME/01009_BLOOM - The American Dream.md",
+    "01_THEME/01008_BLOOM - Sin and Redemption.md",
+    "01_THEME/01007_BLOOM - Sex and Sexuality.md",
+    "01_THEME/01006_BLOOM - Human Sexuality.md",
+    "01_THEME/01005_BLOOM - Enslavement and Emancipation.md",
+    "01_THEME/01004_BLOOM - Death and Dying.md",
     "01_THEME/01003_BLOOM - Dark Humor.md",
+    "04_SETTING/04000_SETTING README.md",
+    "03_CHARACTER/03000_CHARACTER README.md",
+    "01_THEME/01001_BLOOM - Alienation.md",
+    "01_THEME/01000_THEME README.md",
+    "05_SYUZHET PLOT/050000_SYUZHET PLOT README.md",
     "03_CHARACTER/030005_CORBETT - The Art of Character.md",
     "03_CHARACTER/030007_DARIAN - The Psychology Workbook for Writers.md",
     "03_CHARACTER/030003_WRITER'S DIGEST - Creating Characters.md",
     "03_CHARACTER/030002_HOWARD - Creating Characters.md",
-    "01_THEME/01004_BLOOM - Death and Dying.md",
-    "00_THEORY OF COMPOSITION/00000_TOC README.md",
-    "00_THEORY OF COMPOSITION/00002_BAL - Narratology in Practice.md",
     "desktop.ini",
-    "01_THEME/01000_THEME README.md",
-    "01_THEME/01001_BLOOM - Alienation.md",
-    "01_THEME/01002_BLOOM - Civil Disobedience.md",
-    "KOBOLD GUIDE WORKBOOK.md",
-    "word count.md",
-    "04_SETTING/04000_SETTING README.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001B_BAL - Narratology Introduction.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001C_BAL - Narratology Introduction.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001D_BAL - Narratology KEY TERMS.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001E-BAL - Narratology Complete Glossary.md",
-    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/000001F_BAL - Models.MD",
-    "05_SYUZHET PLOT/050001_PHILIPS - Dramatica.md",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800023_DIVISION 2/08000231 - THE WORLD OF THE DIVISON 2.md",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800021_League of Legends Companion/8000211_League of Legends Companion.md",
-    "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222_CYBERPUNK COMPLETE GUIDE/0800002221_CYBERPUNK COMPLETE GUIDE.MD",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222_CYBERPUNK COMPLETE GUIDE",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221_THE WORLD OF CYBERPUNK 2077",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222 - CYBERPUNK COMPLETE GUIDE",
