@@ -1,0 +1,1280 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.480 --> 00:00:03.540
+This video is sponsored by CuriosityStream.
+
+00:00:03.540 --> 00:00:08.189
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+
+00:00:08.189 --> 00:00:11.199
+using the link in the description.
+
+00:00:11.199 --> 00:00:15.839
+Neil Armstrong described setting foot on the
+Moon as one small step for a man, one giant
+
+00:00:15.839 --> 00:00:17.580
+leap for mankind.
+
+00:00:17.580 --> 00:00:22.230
+The National Space Society tells us that returning
+to the Moon in a big way will accomplish 4
+
+00:00:22.230 --> 00:00:26.000
+of 31 critical steps toward interplanetary
+settlement.
+
+00:00:45.840 --> 00:00:50.580
+So today we are continuing our look at becoming
+an interplanetary species.
+
+00:00:50.590 --> 00:00:55.440
+In parts one and two we took a look the first
+steps, getting into orbit and colonizing Cislunar
+
+00:00:55.440 --> 00:00:59.530
+space and our Lagrange Points, and today we’ll
+be continuing our development as we look at
+
+00:00:59.530 --> 00:01:03.460
+getting a base on the Moon and growing that
+into a permanent facility to serve as our
+
+00:01:03.460 --> 00:01:06.290
+stepping stone to other planets.
+
+00:01:06.290 --> 00:01:10.440
+As before, we’ll be using the National Space
+Society’s Roadmap to Space Settlement as
+
+00:01:10.440 --> 00:01:14.730
+a loose guide, and I’ve linked the complete
+document in the episode description.
+
+00:01:14.730 --> 00:01:19.080
+The NSS considers part 3 to be a return to
+the Moon, and the milestones for that will
+
+00:01:19.080 --> 00:01:23.380
+be our focus today, though we’ll not hold
+to it rigidly.
+
+00:01:23.380 --> 00:01:26.540
+Also the Moon is a topic I try to hit about
+once a year.
+
+00:01:26.540 --> 00:01:31.560
+The principal episodes for that in order of
+production are Moon Base Concepts, Industrializing
+
+00:01:31.560 --> 00:01:36.740
+the Moon, Battle for the Moon, and Moon: Crater
+Cities, and while we could easily do a dozen
+
+00:01:36.740 --> 00:01:41.670
+episodes just on the Moon without denting
+the material to discuss, some parts of today’s
+
+00:01:41.670 --> 00:01:45.680
+topic we’ve looked at before in greater
+depth in those episodes, so I’ll mention
+
+00:01:45.680 --> 00:01:49.930
+and link those episodes as we go if you want
+to dive in a bit deeper.
+
+00:01:49.930 --> 00:01:53.800
+Now last time we talked about how we needed
+the Moon as a resource source for developing
+
+00:01:53.800 --> 00:01:57.801
+Cislunar Space and launching out beyond the
+Earth-Moon region to places like Mars and
+
+00:01:57.801 --> 00:02:01.900
+the Asteroid Belt, our main topics for episodes
+4 and 5.
+
+00:02:01.900 --> 00:02:06.650
+However, setting up the moon as some sort
+of massive mine and manufactory is not something
+
+00:02:06.650 --> 00:02:10.009
+we’ll do overnight and will have a lot of
+intermediary steps.
+
+00:02:10.009 --> 00:02:13.819
+Though I suppose one could argue we’ve already
+mined the Moon, as collecting rock samples
+
+00:02:13.819 --> 00:02:16.769
+was a primary mission for the Apollo Project.
+
+00:02:16.769 --> 00:02:23.370
+This however is our first Milestone in Part
+3, Milestone 18, Robotic Confirmation of Lunar
+
+00:02:23.370 --> 00:02:24.370
+Resources.
+
+00:02:24.370 --> 00:02:26.810
+Sending folks to the Moon is dangerous and
+expensive.
+
+00:02:26.810 --> 00:02:31.620
+It’s frankly amazing that so few lives have
+been lost during Space Exploration and a testament
+
+00:02:31.620 --> 00:02:36.379
+to the skill of engineers and mission planners
+and operators, not to mention the sheer willpower
+
+00:02:36.379 --> 00:02:38.560
+and courage of the astronauts.
+
+00:02:38.560 --> 00:02:42.819
+We should not forget though that we lost the
+Apollo 1 crew and nearly lost Apollo 13.
+
+00:02:42.819 --> 00:02:47.830
+Given that we have only had 12 men on the
+moon and lost 3 and nearly lost 3 more, that’s
+
+00:02:47.830 --> 00:02:53.109
+not a ratio that encourages us to try more
+manned missions, even with decades more technological
+
+00:02:53.109 --> 00:02:57.849
+development, when a robot can do a given mission
+easier, cheaper and safer and in some ways
+
+00:02:57.849 --> 00:02:59.150
+better.
+
+00:02:59.150 --> 00:03:02.459
+Before we can develop a permanent base on
+the moon we need to know where the resources
+
+00:03:02.459 --> 00:03:07.030
+are because unless launch costs drop massively
+– as they might, see the Upward Bound series
+
+00:03:07.030 --> 00:03:11.540
+for some of the options – then we can only
+do such a base with either a very meager level
+
+00:03:11.540 --> 00:03:16.580
+of resources or by sourcing a lot of them
+on site, what is called “in-situ”, and
+
+00:03:16.580 --> 00:03:20.879
+ISRU, In-Situ Resource Utilization.
+
+00:03:20.879 --> 00:03:25.680
+Creating a rover that masses maybe a hundred
+kilograms and has wheels, a remote, a battery,
+
+00:03:25.680 --> 00:03:30.459
+some solar panels, a spectrometer and some
+sample containers and some sort of excavating
+
+00:03:30.459 --> 00:03:35.140
+apparatus is obviously well within our current
+capabilities, and the Moon is close enough
+
+00:03:35.140 --> 00:03:38.379
+for effectively real-time remote control of
+the rover.
+
+00:03:38.379 --> 00:03:43.260
+It would be relatively easy, compared to a
+manned mission, to drop dozens or even hundreds
+
+00:03:43.260 --> 00:03:47.459
+of such drones down on the Moon to collect
+data and poke about for things like water
+
+00:03:47.459 --> 00:03:49.909
+ice or mineral deposits.
+
+00:03:49.909 --> 00:03:54.489
+Of course this is after we’ve refined and
+validated our designs currently in development[a].
+
+00:03:54.489 --> 00:03:58.379
+The low gravity of the Moon combined with
+the talcum powder-like surface makes getting
+
+00:03:58.379 --> 00:04:02.209
+enough traction for digging[b] difficult [c]and
+the larger deposits we're looking for may
+
+00:04:02.209 --> 00:04:07.480
+be below the surface and, beneath that top
+layer of fine, dusty regolith, lunar soil
+
+00:04:07.480 --> 00:04:09.700
+gets compacted and hard.
+
+00:04:09.700 --> 00:04:13.639
+Another thing to consider is that if we intend
+to set up large refining and processing centers
+
+00:04:13.639 --> 00:04:17.150
+we need to find areas with large and varied
+deposits.
+
+00:04:17.150 --> 00:04:21.110
+Much of the ore extraction[d] and refining
+processing is complemented by other materials
+
+00:04:21.110 --> 00:04:22.430
+and byproducts.
+
+00:04:22.430 --> 00:04:26.401
+Where one type of ore may yield materials
+not necessarily profitable for export, but
+
+00:04:26.401 --> 00:04:30.770
+useful for the processing of other ores or
+useful in alloying or compounding into other
+
+00:04:30.770 --> 00:04:33.350
+materials for local use or export.
+
+00:04:33.350 --> 00:04:37.630
+The more varied the inputs, the more varied
+and valuable your products.
+
+00:04:37.630 --> 00:04:41.790
+But detailed, on the ground surveying of the
+Moon isn’t just for finding a few good spots
+
+00:04:41.790 --> 00:04:43.120
+for initial bases.
+
+00:04:43.120 --> 00:04:47.780
+It is easy to forget that the moon is covered
+in craters and at the bottoms of those craters
+
+00:04:47.780 --> 00:04:48.910
+are meteorites.
+
+00:04:48.910 --> 00:04:54.170
+Since the moon lacks all the biological, hydrological,
+and geological processes of Earth that remove
+
+00:04:54.170 --> 00:04:58.720
+craters, the semi-intact objects that impacted
+there and caused them are basically still
+
+00:04:58.720 --> 00:04:59.720
+there.
+
+00:04:59.720 --> 00:05:03.300
+If you get good at surveying such craters
+you would be able to spot which ones were
+
+00:05:03.300 --> 00:05:07.820
+made by what kind of rocks and might find
+some very valuable metals and minerals in
+
+00:05:07.820 --> 00:05:08.820
+them.
+
+00:05:08.820 --> 00:05:13.640
+For instance Carbonaceous chondrites, while
+a relatively rare type of meteorite on Earth
+
+00:05:13.640 --> 00:05:17.860
+as few make it through our atmosphere, don’t
+contain many scarce or valuable elements on
+
+00:05:17.860 --> 00:05:22.230
+Earth - but they’d be more common on the
+Moon and their carbon and organic compounds,
+
+00:05:22.230 --> 00:05:26.570
+containing volatiles, amino acids and rarer
+light elements, would be prized.
+
+00:05:26.570 --> 00:05:31.790
+But we won’t limit our exploration to just
+the surface, lava tube skylights allow access
+
+00:05:31.790 --> 00:05:34.350
+to vast sub-surface[e] spaces.
+
+00:05:34.350 --> 00:05:39.490
+Lava tube spelunking probe designs are being
+evaluated to explore these hidden interiors.
+
+00:05:39.490 --> 00:05:43.420
+These designs consist of a rover which carries
+the probe to the skylight and lowers[f] it
+
+00:05:43.420 --> 00:05:44.470
+with a tether.
+
+00:05:44.470 --> 00:05:48.370
+The probe then rapells down into the tube
+where it then becomes a simpler rover.
+
+00:05:48.370 --> 00:05:52.820
+The tether either stays attached to the probe,
+acting as an umbilical for power and data,
+
+00:05:52.820 --> 00:05:57.290
+or detaches and becomes an antenna for communicating
+with the now self-powered probe.
+
+00:05:57.290 --> 00:06:02.140
+However, we may want to go a step further,
+as our technology has improved a lot in robotics
+
+00:06:02.140 --> 00:06:03.990
+and does more every day.
+
+00:06:03.990 --> 00:06:07.630
+Indeed, this recent health crisis has had
+the silver lining of accelerating both our
+
+00:06:07.630 --> 00:06:13.030
+capability and usage of remote work, and doubtless
+we will be seeing major improvements in those
+
+00:06:13.030 --> 00:06:18.220
+technologies in years to come as more and
+more folks opt to work remotely and the tools
+
+00:06:18.220 --> 00:06:20.480
+for doing so expand.
+
+00:06:20.480 --> 00:06:25.481
+In a sense, at the timescales of space exploration
+projects, robotic telepresence for exploring
+
+00:06:25.481 --> 00:06:28.250
+the moon is not that far off.
+
+00:06:28.250 --> 00:06:32.060
+Necessity is the mother of invention and that’s
+a thing to remember for space exploration
+
+00:06:32.060 --> 00:06:37.050
+too, there’s a good chance we will encounter
+both problems we did not expect out there
+
+00:06:37.050 --> 00:06:42.140
+and find solutions for those, and adaptations
+of them useful for back at home, that we just
+
+00:06:42.140 --> 00:06:44.640
+can not see right now.
+
+00:06:44.640 --> 00:06:47.820
+But we are still in early days so our options
+are limited.
+
+00:06:47.820 --> 00:06:49.910
+However, not too limited.
+
+00:06:49.910 --> 00:06:54.990
+For instance, it is just as easy, if not easier,
+to make a rover that just has a scoop or dozer
+
+00:06:54.990 --> 00:07:00.030
+blade on it as opposed to mineral surveying
+gear, and have one shove regolith into a heap
+
+00:07:00.030 --> 00:07:01.030
+or mound.
+
+00:07:01.030 --> 00:07:05.920
+It is also not hard to include a solar kiln
+that can bake oxygen out of regolith.
+
+00:07:05.920 --> 00:07:10.360
+The Moon’s regolith is mostly oxygen by
+mass, tied up in minerals with elements like
+
+00:07:10.360 --> 00:07:13.730
+Silicon, Iron, Calcium, and Aluminum in that
+order.
+
+00:07:13.730 --> 00:07:17.700
+If you have a solar kiln extracting those
+elements, then oxygen is actually a waste
+
+00:07:17.700 --> 00:07:18.740
+product.
+
+00:07:18.740 --> 00:07:23.230
+We do want those other elements too, as we
+looked at in our last episode, getting megatons
+
+00:07:23.230 --> 00:07:28.330
+of iron and aluminum off the Moon is critical
+to developing Cislunar space as the fuel bill
+
+00:07:28.330 --> 00:07:33.210
+for moving raw materials from the moon to
+Low Earth Orbit is orders of magnitude cheaper
+
+00:07:33.210 --> 00:07:37.720
+than from Earth’s surface, even though it
+means moving those resources a thousand times
+
+00:07:37.720 --> 00:07:38.720
+further.
+
+00:07:38.720 --> 00:07:43.540
+Regardless, it is not beyond our technical
+capability even now to make a remote-controlled
+
+00:07:43.540 --> 00:07:48.220
+production chain that would involve rovers
+scooping regolith into solar kilns to produce
+
+00:07:48.220 --> 00:07:52.020
+the refined metal as bricks, sheets, rods,
+or thin foils.
+
+00:07:52.020 --> 00:07:56.340
+There’s likely to be lots of minor practical
+issues in adapting anything made on Earth
+
+00:07:56.340 --> 00:08:00.690
+to work on the Moon, but a first wave of soil
+and resource surveyors would probably make
+
+00:08:00.690 --> 00:08:05.710
+that adaptation much easier as we learn what
+works in practice and what doesn’t.
+
+00:08:05.710 --> 00:08:10.750
+Now our losses in the space programs are generally
+not from day to day operations, on space or
+
+00:08:10.750 --> 00:08:13.850
+on the moon, but the launch and transit phases.
+
+00:08:13.850 --> 00:08:18.250
+Nonetheless a robotic presence that had either
+constructed an initial habitation module or
+
+00:08:18.250 --> 00:08:22.560
+provided most of the bulky raw materials for
+assembly not only helps cut down on the risk
+
+00:08:22.560 --> 00:08:27.030
+to astronauts once they land, but gives us
+a lot more mass to add extra safety features
+
+00:08:27.030 --> 00:08:30.950
+and redundancy or thickness of shielding to
+the vehicles going there.
+
+00:08:30.950 --> 00:08:36.909
+In an ideal scenario, when we get to Milestone
+19, our Lunar Research and Development Facility,
+
+00:08:36.909 --> 00:08:40.339
+that first outpost will already be pretty
+well supplied.
+
+00:08:40.339 --> 00:08:43.969
+Gravity is low on the Moon which means you
+can pile a lot of regolith on top of something
+
+00:08:43.969 --> 00:08:48.100
+like a thin sheet of metal supported by some
+metal tubes to make essentially a large and
+
+00:08:48.100 --> 00:08:49.819
+very sturdy tent.
+
+00:08:49.819 --> 00:08:54.240
+Similarly, we can fly in some supplies and
+equipment before the astronauts even arrive,
+
+00:08:54.240 --> 00:08:59.199
+dropping packages of food, batteries, spare
+fuel or air or water and so forth for the
+
+00:08:59.199 --> 00:09:02.260
+drones to stack into cover in such a tent.
+
+00:09:02.260 --> 00:09:06.750
+We can also have them clear and mat down a
+landing pad free of lunar dust, so that when
+
+00:09:06.750 --> 00:09:10.529
+astronauts arrive, they essentially just have
+to get out and do some assembly of whatever
+
+00:09:10.529 --> 00:09:15.290
+was beyond the robots’ abilities, and from
+cargo that arrived in quantity before they
+
+00:09:15.290 --> 00:09:16.820
+did.
+
+00:09:16.820 --> 00:09:20.810
+Robots will need to play a big role in developing
+the moon, fundamentally because our key long
+
+00:09:20.810 --> 00:09:25.399
+term interest in the place is to turn it into
+a mass manufacturing facility of fuel and
+
+00:09:25.399 --> 00:09:29.899
+construction material that relies heavily
+on automation, especially handy if we opt
+
+00:09:29.899 --> 00:09:35.240
+for using nuclear power to run things, but
+for now let’s turn our eyes to that first
+
+00:09:35.240 --> 00:09:36.240
+manned outpost.
+
+00:09:36.240 --> 00:09:37.889
+First off, location matters.
+
+00:09:37.889 --> 00:09:43.199
+We already know the preferred spot in a general
+sense, and that is near the poles.
+
+00:09:43.199 --> 00:09:48.040
+The Moon has a day that is a month long, making
+solar power difficult and part of why atomic
+
+00:09:48.040 --> 00:09:53.889
+power sources – both reactors and radioisotope
+thermal generators or RTGS are attractive.
+
+00:09:53.889 --> 00:09:57.630
+Fortunately near the poles this is less of
+an issue as we can take advantage of various
+
+00:09:57.630 --> 00:10:02.630
+high-walled craters and the latitude to get
+spots where the Sun shines most of the time.
+
+00:10:02.630 --> 00:10:06.990
+Those same craters, down near their bottoms,
+will tend to have very cold spots which might
+
+00:10:06.990 --> 00:10:09.639
+be heavy in some valuable materials.
+
+00:10:09.639 --> 00:10:13.269
+This is why those robot surveyors would be
+handy since they can poke around and find
+
+00:10:13.269 --> 00:10:16.470
+which if any crater is high in something like
+water ice.
+
+00:10:16.470 --> 00:10:20.620
+We discussed this more back in the spring
+in our episode Crater Cities.
+
+00:10:20.620 --> 00:10:25.410
+Of course, lava tubes are also prime candidates
+for lunar cities or bases, and may contain
+
+00:10:25.410 --> 00:10:30.110
+ice deposits inside their permanently shadowed
+interiors too - and they have inherent shielding
+
+00:10:30.110 --> 00:10:31.870
+and meteorite protection.
+
+00:10:31.870 --> 00:10:36.619
+But what sort of research are we going to
+do here in this first outpost?
+
+00:10:36.619 --> 00:10:39.009
+One of the most tempting is radio astronomy.
+
+00:10:39.009 --> 00:10:43.389
+There is no Dark Side of the Moon in the sense
+of sunless eternal night, except down in some
+
+00:10:43.389 --> 00:10:48.499
+of those crater bottoms, but there is a side
+that is Dark to the Earth, and all of Earth’s
+
+00:10:48.499 --> 00:10:49.499
+noise.
+
+00:10:49.499 --> 00:10:53.290
+There are also other science projects or Lunar
+Development projects better done in spots
+
+00:10:53.290 --> 00:10:58.279
+not on the poles and we also have a lot of
+interest in the Moon’s enormous lava tubes.
+
+00:10:58.279 --> 00:11:02.699
+So while that first base is likely to be mostly
+about R&amp;D for using and colonizing the moon,
+
+00:11:02.699 --> 00:11:07.009
+it strikes me as very likely that it would
+not develop further as a science outpost so
+
+00:11:07.009 --> 00:11:10.460
+much as a support hub for many smaller outposts.
+
+00:11:10.460 --> 00:11:15.150
+As an example, if we have air and metal production
+being done at one site, it’s very easy to
+
+00:11:15.150 --> 00:11:18.970
+bring that air into some smaller facility
+of a few researchers who just have a cache
+
+00:11:18.970 --> 00:11:23.819
+of supplies and a modest amount of solar panels
+and RTGs to power the place.
+
+00:11:23.819 --> 00:11:27.050
+Atomic power sources are very attractive on
+the Moon incidentally.
+
+00:11:27.050 --> 00:11:31.990
+There is uranium there, plus uranium is also
+very light in terms of its energy density,
+
+00:11:31.990 --> 00:11:35.070
+compared to chemical fuels, if you needed
+to bring it in from Earth.
+
+00:11:35.070 --> 00:11:39.529
+And you don’t really need to worry about
+meltdowns wrecking an area, the Moon is already
+
+00:11:39.529 --> 00:11:42.019
+a radiation-scoured desert.
+
+00:11:42.019 --> 00:11:45.269
+Such being the case it is a great place to
+be setting up breeder reactors like those
+
+00:11:45.269 --> 00:11:48.269
+we discussed in the Future of Fission a couple
+weeks back.
+
+00:11:48.269 --> 00:11:54.019
+It’s a very attractive place to do Nuclear
+Research and what’s more, producing Plutonium-238,
+
+00:11:54.019 --> 00:11:58.819
+which emits about 500 watts per kilogram and
+has a half life of 88 years is a potential
+
+00:11:58.819 --> 00:12:04.160
+boom market for a lot of space enterprises
+since it offers a reliable and small power
+
+00:12:04.160 --> 00:12:05.160
+supply.
+
+00:12:05.160 --> 00:12:09.959
+Ditto Strontium-90, which is easier to produce
+and has about the same power density but is
+
+00:12:09.959 --> 00:12:11.721
+shorter lived and needs more shielding.
+
+00:12:11.721 --> 00:12:17.300
+Shielding is obviously not an issue for stationary
+objects on the Moon but adds extra mass to
+
+00:12:17.300 --> 00:12:19.689
+moving vehicles and spacecraft.
+
+00:12:19.689 --> 00:12:23.790
+Regardless, that first research outpost is
+likely to be mostly about researching the
+
+00:12:23.790 --> 00:12:28.689
+Moon and how to exist there, satellite and
+smaller outpost focused on various research
+
+00:12:28.689 --> 00:12:32.410
+projects may pop up but that place is the
+one likely to be where we are shipping stuff
+
+00:12:32.410 --> 00:12:37.709
+to and trying out ideas like Lunar Hydroponics
+and Domes or extracting water and metals or
+
+00:12:37.709 --> 00:12:43.430
+synthesizing fuels, and from this we would
+expect our first continuously occupied Multi-purpose
+
+00:12:43.430 --> 00:12:47.110
+Lunar Base to coalesce, Milestone 20.
+
+00:12:47.110 --> 00:12:51.850
+Its non-commercial applications of R&amp;D aside,
+we can expect to see some commercial uses
+
+00:12:51.850 --> 00:12:53.259
+popping up.
+
+00:12:53.259 --> 00:12:58.040
+As an example, if we place it near a source
+of volatiles – things like nitrogen, water,
+
+00:12:58.040 --> 00:13:01.190
+carbon dioxide and so forth that we think
+we might find in some of those craters for
+
+00:13:01.190 --> 00:13:05.250
+instance – then we have a source of organic
+elements for use not only on the Moon but
+
+00:13:05.250 --> 00:13:09.660
+on those Cislunar space stations and habitats
+we discussed last time, rather than having
+
+00:13:09.660 --> 00:13:13.540
+to get them off the Earth or bring them in
+from beyond the Frost Line from the Asteroid
+
+00:13:13.540 --> 00:13:16.389
+Belt or Moons of gas giants.
+
+00:13:16.389 --> 00:13:18.560
+There are some hurdles to this of course.
+
+00:13:18.560 --> 00:13:22.380
+We do not know if those volatiles exist on
+the Moon yet and that’s why we need those
+
+00:13:22.380 --> 00:13:23.850
+robot surveyors.
+
+00:13:23.850 --> 00:13:28.350
+I also mentioned earlier that it would be
+nice if our robot could pre-build a base and
+
+00:13:28.350 --> 00:13:33.259
+mentioned having them make a nice clean launch
+pad for ships to land on, and Moon dust is
+
+00:13:33.259 --> 00:13:34.639
+a real worry.
+
+00:13:34.639 --> 00:13:38.730
+The dust is sticky and abrasive and drove
+our astronauts to distraction.
+
+00:13:38.730 --> 00:13:43.619
+It can damage equipment, and given how sharp
+the particles are, may be very bad to be breathing
+
+00:13:43.619 --> 00:13:48.019
+or touching for extended periods, and is often
+considered one of the biggest hurdles and
+
+00:13:48.019 --> 00:13:50.990
+headaches of lunar exploration and development.
+
+00:13:50.990 --> 00:13:54.980
+On the upside, the moon is basically a big
+sandbox so it’s easy to maneuver the stuff
+
+00:13:54.980 --> 00:13:57.879
+to form shielding against radiation and meteors.
+
+00:13:57.879 --> 00:14:02.149
+And due to the low gravity it doesn’t require
+a lot of structure to hold up even meters-thick
+
+00:14:02.149 --> 00:14:03.149
+shielding.
+
+00:14:03.149 --> 00:14:06.529
+That dust is part of the reason why solar
+power isn’t considered the greatest solution
+
+00:14:06.529 --> 00:14:07.670
+on the Moon.
+
+00:14:07.670 --> 00:14:11.660
+Besides it getting dark for a couple weeks
+at a time, your solar panels or mirrors might
+
+00:14:11.660 --> 00:14:16.300
+get coated in dust in short order, stirred
+up by your own activity, and while you could
+
+00:14:16.300 --> 00:14:20.610
+have a robot or person go out and sweep them
+and then polish them when they get scratched,
+
+00:14:20.610 --> 00:14:24.149
+it is another reason why nuclear is fairly
+attractive on the Moon.
+
+00:14:24.149 --> 00:14:28.220
+We also talked about some other approaches
+to solar power like Thermal Wadis in the Crater
+
+00:14:28.220 --> 00:14:30.230
+City Episode.
+
+00:14:30.230 --> 00:14:34.589
+Another problem with this multi-purpose base
+is also its big advantage.
+
+00:14:34.589 --> 00:14:38.999
+Having many different functions gives it some
+diversity for funding and operation but also
+
+00:14:38.999 --> 00:14:43.670
+could cause funding and turf conflicts between
+various divergent space goals and the government
+
+00:14:43.670 --> 00:14:46.639
+branches or companies funding or operating
+them.
+
+00:14:46.639 --> 00:14:51.350
+This is probably even more the case if it’s
+a multi-government international project,
+
+00:14:51.350 --> 00:14:55.560
+and interestingly I would not be surprised
+if the first moon base was actually a commercial
+
+00:14:55.560 --> 00:15:00.410
+enterprise that various governments, companies,
+or institutions rented facilities and time
+
+00:15:00.410 --> 00:15:01.629
+at.
+
+00:15:01.629 --> 00:15:05.589
+One silver lining of bureaucratic battles
+over space and funding is that it might also
+
+00:15:05.589 --> 00:15:08.620
+encourage separate satellite facilities to
+form too.
+
+00:15:08.620 --> 00:15:11.589
+We discussed such issues more in Battle for
+the Moon.
+
+00:15:11.589 --> 00:15:16.240
+It should also be noted that just because
+the poles and craters interest us, we don’t
+
+00:15:16.240 --> 00:15:18.709
+necessarily put our first base inside one.
+
+00:15:18.709 --> 00:15:22.939
+If your main interest in them is the rim walls
+for solar power and the crater bottoms for
+
+00:15:22.939 --> 00:15:27.519
+volatiles, you might just opt to go mostly
+nuclear instead of dragging solar panels from
+
+00:15:27.519 --> 00:15:32.360
+home and operating them around the space dust
+issue, and just sending out rovers and collection
+
+00:15:32.360 --> 00:15:36.179
+teams, human or robotic, to collect volatiles
+and bring them home.
+
+00:15:36.179 --> 00:15:41.199
+After all, Aristarchus Crater[g] and Plateau,
+in the northwest of the Moon’s nearside,
+
+00:15:41.199 --> 00:15:46.029
+is also considered a very attractive site
+for its geological (or selenological) features
+
+00:15:46.029 --> 00:15:49.810
+and may reveal more about the Moon itself
+and the treasures it may offer than other
+
+00:15:49.810 --> 00:15:50.810
+locations.
+
+00:15:50.810 --> 00:15:55.639
+In any event, after this base has been in
+continuous use for a decade or so and hopefully
+
+00:15:55.639 --> 00:16:00.649
+grown and prospered, this is where we come
+to finally having reached Milestone 21, a
+
+00:16:00.649 --> 00:16:02.779
+Permanent Lunar Settlement.
+
+00:16:02.779 --> 00:16:06.439
+Here we might see people actually living on
+the Moon – maybe even born there – and
+
+00:16:06.439 --> 00:16:10.939
+we have to start tackling issues like building
+schools and community spaces.
+
+00:16:10.939 --> 00:16:16.959
+You get your first hospital on the Moon, your
+first daycare center, first park or garden,
+
+00:16:16.959 --> 00:16:21.600
+first lunar hotel, first bar, first restaurant,
+the first Church of the Moon, the first low-gravity
+
+00:16:21.600 --> 00:16:24.029
+basketball court and so on.
+
+00:16:24.029 --> 00:16:27.999
+For that to be practical we need to be able
+to get most resources, at least by weight,
+
+00:16:27.999 --> 00:16:32.889
+right there on the Moon, but that’s a double
+necessity anyway since all those things implied
+
+00:16:32.889 --> 00:16:37.819
+jobs and livelihoods beyond simple research
+installations and resource production for
+
+00:16:37.819 --> 00:16:42.540
+Cislunar Space, as we looked at last time,
+is essentially what is likely to drive Lunar
+
+00:16:42.540 --> 00:16:44.110
+Development.
+
+00:16:44.110 --> 00:16:47.610
+After you have gotten all the science done
+there – which admittedly could be an ongoing
+
+00:16:47.610 --> 00:16:52.470
+project of thousands of researchers for centuries
+– you have to have a reason for development
+
+00:16:52.470 --> 00:16:54.630
+and that’s as a supply hub.
+
+00:16:54.630 --> 00:16:59.739
+The mass extraction and fabrication of solar
+panels, shades, and mirrors may be one industrial
+
+00:16:59.739 --> 00:17:00.739
+focus.
+
+00:17:00.739 --> 00:17:04.890
+Another might be fuel production for moving
+around cislunar space and station keeping.
+
+00:17:04.890 --> 00:17:09.470
+Another might be huge amounts of metal plates
+for building space stations and habitats.
+
+00:17:09.470 --> 00:17:14.039
+Exporting volatiles is another, but will depend
+a lot on the supply and availability of them
+
+00:17:14.039 --> 00:17:15.600
+and we really don’t know yet.
+
+00:17:15.600 --> 00:17:19.840
+That’s one hurdle we still need to overcome,
+same we don’t really know if there are good
+
+00:17:19.840 --> 00:17:22.059
+concentrations of ores.
+
+00:17:22.059 --> 00:17:26.620
+We know we’ll have no shortage of aluminum
+and iron and silicon of course, but not necessarily
+
+00:17:26.620 --> 00:17:30.570
+other useful metals in a way that will be
+easier than getting them off Earth, for all
+
+00:17:30.570 --> 00:17:35.500
+the launch cost issues, or from the Asteroid
+Belt a bit down the road.
+
+00:17:35.500 --> 00:17:39.549
+And by the time we have staged up to this
+level of production and occupation, we probably
+
+00:17:39.549 --> 00:17:43.100
+have gone on to both the Asteroid Belt and
+Mars.
+
+00:17:43.100 --> 00:17:46.289
+We also do not know how humans will handle
+living on the Moon.
+
+00:17:46.289 --> 00:17:50.340
+There is gravity there and it might be enough
+to stay healthy without significant treatment,
+
+00:17:50.340 --> 00:17:54.220
+but there are many medical and psychological
+unknowns still.
+
+00:17:54.220 --> 00:17:57.960
+It is possible people won’t handle living
+on the Moon for extended periods very well
+
+00:17:57.960 --> 00:18:03.200
+and we might have to have more frequent personnel
+rotations or go a lot more robotic, which
+
+00:18:03.200 --> 00:18:05.250
+might hamper many projects.
+
+00:18:05.250 --> 00:18:09.690
+Once you have this first big permanent base
+though, or while you’re building it, hopefully
+
+00:18:09.690 --> 00:18:14.350
+you will have picked the ideal power source
+for the Moon, got it going big, and be running
+
+00:18:14.350 --> 00:18:16.010
+all that production.
+
+00:18:16.010 --> 00:18:20.309
+That might include fuel of course, even if
+it is short on volatiles Aluminum and Oxygen
+
+00:18:20.309 --> 00:18:24.720
+can be used as a rocket fuel, and you might
+also build a mass driver or electromagnetic
+
+00:18:24.720 --> 00:18:27.790
+coil gun for launching things into space.
+
+00:18:27.790 --> 00:18:32.470
+The escape velocity from the Moon is just
+over 2 kilometers a second, there’s no air
+
+00:18:32.470 --> 00:18:36.649
+for friction there, so such a catapult doesn’t
+need its payload to ascend above the atmosphere
+
+00:18:36.649 --> 00:18:40.720
+like it would on Earth, since there ain’t
+one, so it might be the preferred way of shooting
+
+00:18:40.720 --> 00:18:42.830
+stuff into Cislunar space.
+
+00:18:42.830 --> 00:18:47.740
+Or on to Mars and the Asteroid Belt, our next
+two episodes, and as we’ll see there, the
+
+00:18:47.740 --> 00:18:52.500
+ability to robotically explore those places
+and pre-deliver large amounts of goods before
+
+00:18:52.500 --> 00:18:57.040
+humans arrive, potentially launched from the
+Moon and for some of it, manufactured on the
+
+00:18:57.040 --> 00:19:00.140
+Moon too, could be a massive boon.
+
+00:19:00.140 --> 00:19:04.710
+Getting to Mars will be no easy thing, but
+in truth if you have a solid base and production
+
+00:19:04.710 --> 00:19:09.970
+setup on the Moon, with or without the accompanying
+Cislunar development, that task becomes an
+
+00:19:09.970 --> 00:19:13.759
+order of magnitude easier while at the same
+time you’ve already solved a lot of the
+
+00:19:13.759 --> 00:19:15.720
+problems a trip to Mars will include.
+
+00:19:15.720 --> 00:19:20.380
+There’s always some debate if we should
+go to Mars first or back to the Moon again,
+
+00:19:20.380 --> 00:19:24.940
+like most of you I would be happy either way
+and I do believe it is possible to go to Mars
+
+00:19:24.940 --> 00:19:29.700
+without this stop at the Moon, but it strikes
+me as far harder and more risky.
+
+00:19:29.700 --> 00:19:34.330
+The Moon is close, close enough for real-time
+conversation with earth and only a few days
+
+00:19:34.330 --> 00:19:38.750
+away by conventional rockets if we need to
+get them help or evacuate.
+
+00:19:38.750 --> 00:19:42.399
+We would hopefully be able to rescue people
+from other bases on the Moon but if it came
+
+00:19:42.399 --> 00:19:46.559
+down to it, one lone astronaut with a spare
+air tank could potentially survive for the
+
+00:19:46.559 --> 00:19:51.010
+few days needed to scramble a rescue mission
+right from Earth orbital facilities if need
+
+00:19:51.010 --> 00:19:55.230
+be, while experts at home can advise real
+time on what they should do to survive.
+
+00:19:55.230 --> 00:20:00.179
+That won’t be an option for Mars, so it
+is best to work out a lot of the kinks on
+
+00:20:00.179 --> 00:20:02.970
+the Moon before trying our hand there.
+
+00:20:02.970 --> 00:20:07.150
+Those same long travel times and hardships
+also encourage us to want to start from day
+
+00:20:07.150 --> 00:20:12.960
+one on Mars with a permanent base, not a small
+expedition to land, plant a flag, and get
+
+00:20:12.960 --> 00:20:14.100
+some rock samples.
+
+00:20:14.100 --> 00:20:22.970
+And as we’ll see next time, setting up a
+base on Mars will be no easy task.
+
+00:20:22.970 --> 00:20:26.809
+So this was the third episode of the series
+and we bumped it up earlier in our schedule
+
+00:20:26.809 --> 00:20:29.480
+because of demand from the audience not to
+wait.
+
+00:20:29.480 --> 00:20:33.280
+If you didn’t know though, it actually came
+out a few days earlier over on Nebula, our
+
+00:20:33.280 --> 00:20:38.919
+new streaming service, and all of our episodes
+come out there now a bit early and ad-free.
+
+00:20:38.919 --> 00:20:43.340
+If you’d like to catch all of SFIAs episodes
+early and without ads, or see any of the great
+
+00:20:43.340 --> 00:20:48.040
+content from our sister channels on Nebula,
+you can sign up for Nebula today.
+
+00:20:48.040 --> 00:20:53.030
+However, you can also get it for free by instead
+signing up for Curiosity Stream, whose partnering
+
+00:20:53.030 --> 00:20:56.580
+with us to bring you the best education videos
+out there.
+
+00:20:56.580 --> 00:21:00.370
+Curiosity Stream has excellent educational
+content of their own and they are running
+
+00:21:00.370 --> 00:21:02.990
+26% discount if you use the link in the description.
+
+00:21:02.990 --> 00:21:07.539
+That’s a great deal since it means you get
+a year of both Curiositystream and Nebula
+
+00:21:07.539 --> 00:21:12.490
+for less than $15, and it helps support this
+show and a lot of other educational content
+
+00:21:12.490 --> 00:21:17.000
+which is what Curiositystream and Nebula are
+all about, and again you can get a year of
+
+00:21:17.000 --> 00:21:21.679
+both for less than $15 by using the link in
+the episode’s description.
+
+00:21:21.679 --> 00:21:25.950
+So as mentioned we are continuing our look
+at Becoming an Interplanetary Species, and
+
+00:21:25.950 --> 00:21:30.220
+in three weeks that will take us to Mars and
+our first colony there.
+
+00:21:30.220 --> 00:21:34.510
+Next week though we’ll be a bit closer to
+home as we contemplate the notion of Mega-Cities,
+
+00:21:34.510 --> 00:21:39.269
+the popular and often dystopian concept in
+science fiction, and we’ll look at the challenges
+
+00:21:39.269 --> 00:21:42.370
+and interesting scenarios for cities on the
+grow.
+
+00:21:42.370 --> 00:21:47.450
+Then on Sunday October 11th we’ll be taking
+a look at the recent Navy UFO videos and analyzing
+
+00:21:47.450 --> 00:21:53.019
+those, and in two weeks we’ll be contemplating
+the notion of a Low-Tech Spacefaring culture.
+
+00:21:53.019 --> 00:21:57.400
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+
+00:21:57.400 --> 00:22:00.720
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+
+00:22:00.720 --> 00:22:04.740
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+
+00:22:04.740 --> 00:22:08.740
+with all of our various social media forums
+where you can get updates and chat with others
+
+00:22:08.740 --> 00:22:12.820
+about the concepts in the episodes and many
+other futuristic ideas.
+
+00:22:12.820 --> 00:22:15.840
+Until next time, thanks for watching, and
+have a great week!
+
