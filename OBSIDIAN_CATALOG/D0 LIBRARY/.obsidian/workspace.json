@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
+                "file": "06_NARRATOR/06000_NARRATOR README.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "737ea04d6e270c31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
+                "file": "06_NARRATOR/06000_NARRATOR README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
+                "file": "06_NARRATOR/06000_NARRATOR README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md"
+                "file": "06_NARRATOR/06000_NARRATOR README.md"
               }
             }
           },
@@ -201,12 +212,15 @@
   },
   "active": "a902e86bb7c9f882",
   "lastOpenFiles": [
+    "desktop.ini",
+    "07_DIESIS/07000_DIEGESIS README.md",
+    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
+    "00_THEORY OF COMPOSITION/00001_BAL - Narratology Introduction/00001A_BAL - Narratology Introduction copy.md",
     "01_THEME/01002_BLOOM - Civil Disobedience.md",
     "01_THEME/0100027_BURNETT - Companion to Literature of the U.S. South.md",
     "03_CHARACTER/030001_MCKEE - Character The Art of Role and Cast Design.md",
     "01_THEME/010015_BLOOM - The Trickster.md",
     "01_THEME/010014_BLOOM - The Taboo.md",
-    "04_SETTING/040001_Kobold Guide to Worldbuilding BOUR, WOLFGANG.md",
     "01_THEME/010013_BLOOM - The Sublime.md",
     "01_THEME/010012_BLOOM - The Labyrinth.md",
     "01_THEME/010011_BLOOM - The Heroes Journey.md",
@@ -224,10 +238,6 @@
     "01_THEME/01000_THEME README.md",
     "05_SYUZHET PLOT/050000_SYUZHET PLOT README.md",
     "03_CHARACTER/030005_CORBETT - The Art of Character.md",
-    "03_CHARACTER/030007_DARIAN - The Psychology Workbook for Writers.md",
-    "03_CHARACTER/030003_WRITER'S DIGEST - Creating Characters.md",
-    "03_CHARACTER/030002_HOWARD - Creating Characters.md",
-    "desktop.ini",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222_CYBERPUNK COMPLETE GUIDE",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/08000221_THE WORLD OF CYBERPUNK 2077",
     "08_FUZZ INTERTEXT AND GENRES/080002_VIDEO GAMES/0800022_CYBERPUNK 2077/080000222 - CYBERPUNK COMPLETE GUIDE",
